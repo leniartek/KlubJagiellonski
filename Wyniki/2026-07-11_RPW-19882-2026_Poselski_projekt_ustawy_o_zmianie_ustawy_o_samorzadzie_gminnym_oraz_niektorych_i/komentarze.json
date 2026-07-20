@@ -1,0 +1,81 @@
+{
+  "number": "RPW/19882/2026",
+  "title": "Poselski projekt ustawy o zmianie ustawy o samorządzie gminnym oraz niektórych innych ustaw",
+  "publicConsultationEndDate": "2026-07-11",
+  "calosc": [
+    {
+      "lp": 1,
+      "nr": null,
+      "komentarz": "Powinniśmy podwyższać standardy w polityce, zarówno ogólnokrajowej, jak i lokalnej.",
+      "autor": "Kulig Szymon",
+      "ankieta_nr": 179572
+    },
+    {
+      "lp": 2,
+      "nr": null,
+      "komentarz": "Sprawowanie władzy lokalnej jak i na szczeblu krajowym nie powinno być prowadzone przez osoby z przeszłością kryminalną. Krajowa część jest uregulowana, więc przydałoby się teraz zająć częścią lokalną. Jednak widząc jakie mamy patologie w wymiarze sprawiedliwości, obawiam się trochę o polityczne likwidowanie niewygodnych dla władzy włodarzy poprzez oskarżanie i skazywanie ich za jakieś paragrafy, a jak wiadomo, praktycznie na każdego coś się znajdzie.",
+      "autor": "Knot Krzysztof",
+      "ankieta_nr": 179892
+    },
+    {
+      "lp": 3,
+      "nr": null,
+      "komentarz": "Projekt niniejszej ustawy może naruszyć prawo konstytucyjne do startowania w wyborach. Uważam, że zamiast tak radykalnego posunięcia powinno być podane w informacji publicznej czy dany kandydat był skazany wyrokiem czy nie. Społeczeństwo po takich informacjach samo powinno ocenić czy dany kandydat może być dalej procedowany w wyborach.",
+      "autor": "Lubasińska-Tabaczniuk Anna",
+      "ankieta_nr": 179895
+    },
+    {
+      "lp": 4,
+      "nr": null,
+      "komentarz": "pole komentarza test",
+      "autor": "Szancer Marcin",
+      "ankieta_nr": 180340
+    },
+    {
+      "lp": 5,
+      "nr": null,
+      "komentarz": "Wprowadzenie regulacji zapisów ustawy należy uznać za uzasadnione, jednakże zapisy dotyczące braku możliwości kandydowania w przypadku skazania prawomocnym wyrokiem sądu w mojej opinii powinny być rozszerzone. Nie tylko wyrok sądu ale również bycie zadłużonym, na kwotę powyżej 240 tys. lub 24-krotności średniej krajowej powinny wykluczać z możliwość kandydowania. Takie działanie zmniejszałoby ryzyko wystąpienia łapówkarstwa w samorządzie terytorialnym. Zapis ten można by uregulować koniecznością złożenia oświadczenia pod rygorem karnym przez kandydata dotyczącą stanu majątkowego. Dostępność takich informacji powinna oczywiście zostać ograniczona publicznie a wgląd do nich powinna mieć jedynie Państwowa Komisja Wyborcza.",
+      "autor": "Chołomek Krzysztof",
+      "ankieta_nr": 180810
+    }
+  ],
+  "pytania_6_12": [
+    {
+      "lp": 1,
+      "nr": "Pyt. 6",
+      "komentarz": "Rozwiązaniem powinno być podanie do publicznej wiadomości o tym czy kandydat był skazany wyrokiem czy nie na podstawie zaświadczenia otrzymanego z Krajowego Rejestru Karnego",
+      "autor": "Lubasińska-Tabaczniuk Anna",
+      "ankieta_nr": 179895
+    },
+    {
+      "lp": 2,
+      "nr": "Pyt. 11",
+      "komentarz": "Skutkiem może być naruszenie Konstytucji",
+      "autor": "Lubasińska-Tabaczniuk Anna",
+      "ankieta_nr": 179895
+    }
+  ],
+  "artykuly": [
+    {
+      "lp": 1,
+      "nr": "Art. 1",
+      "komentarz": "Osoba kandydująca na stanowisko wójt/burmistrza lub prezydenta miasta powinna wykazać się nie tylko cechami pro społecznymi i brakiem naruszenia obowiązującego prawa ale również dobrą gospodarnością. W związku z tym do proponowanego zapisu należałby ująć zapisy dotyczące braku zadłużenia na kwotę 240 tys. lub 24-krotności średniej krajowej.",
+      "autor": "Chołomek Krzysztof",
+      "ankieta_nr": 180810
+    },
+    {
+      "lp": 2,
+      "nr": "Art. 2",
+      "komentarz": "j.w.",
+      "autor": "Chołomek Krzysztof",
+      "ankieta_nr": 180810
+    },
+    {
+      "lp": 3,
+      "nr": "Art. 3",
+      "komentarz": "j.w.",
+      "autor": "Chołomek Krzysztof",
+      "ankieta_nr": 180810
+    }
+  ]
+}

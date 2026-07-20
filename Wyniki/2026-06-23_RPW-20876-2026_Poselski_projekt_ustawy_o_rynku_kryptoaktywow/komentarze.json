@@ -1,0 +1,172 @@
+{
+  "number": "RPW/20876/2026",
+  "title": "Poselski projekt ustawy o rynku kryptoaktywów",
+  "publicConsultationEndDate": "2026-06-23",
+  "calosc": [
+    {
+      "lp": 1,
+      "nr": null,
+      "komentarz": "Nie jest idealna. Nie jest tak dobra jak projekt Rady Ministrów. Ale jest potrzebna jakakolwiek ustawa oczywiście z wyłączeniem tej od batyra, która jest skrajnie szkodliwa. Trzeba jakąś przyjść, jakąkolwiek która ma szansę być podpisana przez osobę sprawującą urząd prezydenta RP",
+      "autor": "Prymas Łukasz",
+      "ankieta_nr": 177205
+    },
+    {
+      "lp": 2,
+      "nr": null,
+      "komentarz": "Projekt ustawy o rynku kryptoaktywów stanowi długo oczekiwane wdrożenie krajowych przepisów niezbędnych do stosowania MiCA oraz TFR w Polsce. Merytorycznie dokument jest zasadniczo zgodny z architekturą MiCA i obejmuje kluczowe obszary: zasady prowadzenia działalności przez CASP, nadzór KNF, odpowiedzialność, wymogi organizacyjne oraz licencyjne. Niestety, całość prac legislacyjnych trwała blisko cztery lata, a projekt pojawia się praktycznie w ostatniej chwili przed terminem 1 lipca 2026 r., co obiektywnie podważa przewidywalność i wiarygodność polskiego otoczenia regulacyjnego. W większości państw UE - m.in. we Francji, Niemczech, Holandii czy Hiszpanii - implementacja MiCA została zakończona znacznie wcześniej, a lokalne organy nadzoru zapewniły rynkowi stabilne ramy przejściowe. Na tym tle Polska wypada niekorzystnie.\nProjekt jest rozbudowany i wprowadza zmiany do ponad 30 ustaw sektorowych, co zwiększa złożoność i ryzyko interpretacyjne. KNF otrzymuje szerokie uprawnienia nadzorcze, przy ograniczonych gwarancjach proceduralnych dla CASP. Jednocześnie przepisy przejściowe są nieprecyzyjne - nie wskazują jednoznacznie trybu przejścia z rejestru VASP do licencji CASP ani sposobu obsługi dużej liczby wniosków w krótkim czasie. Dodatkowo wiele kluczowych wymogów technicznych i organizacyjnych ma zostać dopiero określonych w rozporządzeniach ministra, co oznacza, że ramy regulacyjne nadal nie są kompletne.\nPodsumowując, projekt ustawy jest zgodny z MiCA, ale pojawia się zdecydowanie zbyt późno, jest nadmiernie rozproszony i nie zapewnia pełnej pewności regulacyjnej na kilka dni przed rozpoczęciem obowiązywania reżimu licencyjnego. W porównaniu z innymi państwami UE opóźnienie i sposób procedowania są niekorzystne i obciążają zarówno rynek, jak i regulatora.",
+      "autor": "Boruta Katarzyna",
+      "ankieta_nr": 177273
+    }
+  ],
+  "pytania_6_12": [
+    {
+      "lp": 1,
+      "nr": "Pyt. 12",
+      "komentarz": "Projektowana ustawa będzie oddziaływać także na inne podmioty niż te wskazane przez wnioskodawcę. Regulacja w praktyce obejmie szeroki krąg uczestników rynku finansowego i technologicznego, w tym podmioty świadczące usługi technologiczne, dostawców infrastruktury ICT, podmioty powiązane kapitałowo, operatorów płatności, banki prowadzące rachunki powiernicze, firmy audytorskie, kancelarie prawne oraz podmioty świadczące usługi outsourcingowe dla CASP. Ustawa będzie również wpływać na klientów detalicznych i instytucjonalnych, którzy korzystają z usług krypto, a także na podmioty nadzorowane w innych sektorach, które będą musiały dostosować swoje procesy do nowych obowiązków wynikających z MiCA i TFR",
+      "autor": "Boruta Katarzyna",
+      "ankieta_nr": 177273
+    }
+  ],
+  "artykuly": [
+    {
+      "lp": 1,
+      "nr": "Art. 1",
+      "komentarz": "Nie jest idealna. Nie jest tak dobra jak projekt Rady Ministrów. Ale jest potrzebna jakakolwiek ustawa oczywiście z wyłączeniem tej od batyra, która jest skrajnie szkodliwa. Trzeba jakąś przyjść, jakąkolwiek która ma szansę być podpisana przez osobę sprawującą urząd prezydenta RP",
+      "autor": "Prymas Łukasz",
+      "ankieta_nr": 177205
+    },
+    {
+      "lp": 2,
+      "nr": "Art. 2",
+      "komentarz": "Nie jest idealna. Nie jest tak dobra jak projekt Rady Ministrów. Ale jest potrzebna jakakolwiek ustawa oczywiście z wyłączeniem tej od batyra, która jest skrajnie szkodliwa. Trzeba jakąś przyjść, jakąkolwiek która ma szansę być podpisana przez osobę sprawującą urząd prezydenta RP",
+      "autor": "Prymas Łukasz",
+      "ankieta_nr": 177205
+    },
+    {
+      "lp": 3,
+      "nr": "Art. 3",
+      "komentarz": "Nie jest idealna. Nie jest tak dobra jak projekt Rady Ministrów. Ale jest potrzebna jakakolwiek ustawa oczywiście z wyłączeniem tej od batyra, która jest skrajnie szkodliwa. Trzeba jakąś przyjść, jakąkolwiek która ma szansę być podpisana przez osobę sprawującą urząd prezydenta RP",
+      "autor": "Prymas Łukasz",
+      "ankieta_nr": 177205
+    },
+    {
+      "lp": 4,
+      "nr": "Art. 4",
+      "komentarz": "Nie jest idealna. Nie jest tak dobra jak projekt Rady Ministrów. Ale jest potrzebna jakakolwiek ustawa oczywiście z wyłączeniem tej od batyra, która jest skrajnie szkodliwa. Trzeba jakąś przyjść, jakąkolwiek która ma szansę być podpisana przez osobę sprawującą urząd prezydenta RP",
+      "autor": "Prymas Łukasz",
+      "ankieta_nr": 177205
+    },
+    {
+      "lp": 5,
+      "nr": "Art. 5",
+      "komentarz": "Nie jest idealna. Nie jest tak dobra jak projekt Rady Ministrów. Ale jest potrzebna jakakolwiek ustawa oczywiście z wyłączeniem tej od batyra, która jest skrajnie szkodliwa. Trzeba jakąś przyjść, jakąkolwiek która ma szansę być podpisana przez osobę sprawującą urząd prezydenta RP",
+      "autor": "Prymas Łukasz",
+      "ankieta_nr": 177205
+    },
+    {
+      "lp": 6,
+      "nr": "Art. 6",
+      "komentarz": "Nie jest idealna. Nie jest tak dobra jak projekt Rady Ministrów. Ale jest potrzebna jakakolwiek ustawa oczywiście z wyłączeniem tej od batyra, która jest skrajnie szkodliwa. Trzeba jakąś przyjść, jakąkolwiek która ma szansę być podpisana przez osobę sprawującą urząd prezydenta RP",
+      "autor": "Prymas Łukasz",
+      "ankieta_nr": 177205
+    },
+    {
+      "lp": 7,
+      "nr": "Art. 7",
+      "komentarz": "Nie jest idealna. Nie jest tak dobra jak projekt Rady Ministrów. Ale jest potrzebna jakakolwiek ustawa oczywiście z wyłączeniem tej od batyra, która jest skrajnie szkodliwa. Trzeba jakąś przyjść, jakąkolwiek która ma szansę być podpisana przez osobę sprawującą urząd prezydenta RP",
+      "autor": "Prymas Łukasz",
+      "ankieta_nr": 177205
+    },
+    {
+      "lp": 8,
+      "nr": "Art. 8",
+      "komentarz": "Nie jest idealna. Nie jest tak dobra jak projekt Rady Ministrów. Ale jest potrzebna jakakolwiek ustawa oczywiście z wyłączeniem tej od batyra, która jest skrajnie szkodliwa. Trzeba jakąś przyjść, jakąkolwiek która ma szansę być podpisana przez osobę sprawującą urząd prezydenta RP",
+      "autor": "Prymas Łukasz",
+      "ankieta_nr": 177205
+    },
+    {
+      "lp": 9,
+      "nr": "Art. 9",
+      "komentarz": "Nie jest idealna. Nie jest tak dobra jak projekt Rady Ministrów. Ale jest potrzebna jakakolwiek ustawa oczywiście z wyłączeniem tej od batyra, która jest skrajnie szkodliwa. Trzeba jakąś przyjść, jakąkolwiek która ma szansę być podpisana przez osobę sprawującą urząd prezydenta RP",
+      "autor": "Prymas Łukasz",
+      "ankieta_nr": 177205
+    },
+    {
+      "lp": 10,
+      "nr": "Art. 10",
+      "komentarz": "Nie jest idealna. Nie jest tak dobra jak projekt Rady Ministrów. Ale jest potrzebna jakakolwiek ustawa oczywiście z wyłączeniem tej od batyra, która jest skrajnie szkodliwa. Trzeba jakąś przyjść, jakąkolwiek która ma szansę być podpisana przez osobę sprawującą urząd prezydenta RP",
+      "autor": "Prymas Łukasz",
+      "ankieta_nr": 177205
+    },
+    {
+      "lp": 11,
+      "nr": "Art. 11",
+      "komentarz": "Nie jest idealna. Nie jest tak dobra jak projekt Rady Ministrów. Ale jest potrzebna jakakolwiek ustawa oczywiście z wyłączeniem tej od batyra, która jest skrajnie szkodliwa. Trzeba jakąś przyjść, jakąkolwiek która ma szansę być podpisana przez osobę sprawującą urząd prezydenta RP",
+      "autor": "Prymas Łukasz",
+      "ankieta_nr": 177205
+    },
+    {
+      "lp": 12,
+      "nr": "Art. 12",
+      "komentarz": "Nie jest idealna. Nie jest tak dobra jak projekt Rady Ministrów. Ale jest potrzebna jakakolwiek ustawa oczywiście z wyłączeniem tej od batyra, która jest skrajnie szkodliwa. Trzeba jakąś przyjść, jakąkolwiek która ma szansę być podpisana przez osobę sprawującą urząd prezydenta RP",
+      "autor": "Prymas Łukasz",
+      "ankieta_nr": 177205
+    },
+    {
+      "lp": 13,
+      "nr": "Art. 13",
+      "komentarz": "Nie jest idealna. Nie jest tak dobra jak projekt Rady Ministrów. Ale jest potrzebna jakakolwiek ustawa oczywiście z wyłączeniem tej od batyra, która jest skrajnie szkodliwa. Trzeba jakąś przyjść, jakąkolwiek która ma szansę być podpisana przez osobę sprawującą urząd prezydenta RP",
+      "autor": "Prymas Łukasz",
+      "ankieta_nr": 177205
+    },
+    {
+      "lp": 14,
+      "nr": "Art. 14",
+      "komentarz": "Nie jest idealna. Nie jest tak dobra jak projekt Rady Ministrów. Ale jest potrzebna jakakolwiek ustawa oczywiście z wyłączeniem tej od batyra, która jest skrajnie szkodliwa. Trzeba jakąś przyjść, jakąkolwiek która ma szansę być podpisana przez osobę sprawującą urząd prezydenta RP",
+      "autor": "Prymas Łukasz",
+      "ankieta_nr": 177205
+    },
+    {
+      "lp": 15,
+      "nr": "Art. 15",
+      "komentarz": "Nie jest idealna. Nie jest tak dobra jak projekt Rady Ministrów. Ale jest potrzebna jakakolwiek ustawa oczywiście z wyłączeniem tej od batyra, która jest skrajnie szkodliwa. Trzeba jakąś przyjść, jakąkolwiek która ma szansę być podpisana przez osobę sprawującą urząd prezydenta RP",
+      "autor": "Prymas Łukasz",
+      "ankieta_nr": 177205
+    },
+    {
+      "lp": 16,
+      "nr": "Art. 16",
+      "komentarz": "Nie jest idealna. Nie jest tak dobra jak projekt Rady Ministrów. Ale jest potrzebna jakakolwiek ustawa oczywiście z wyłączeniem tej od batyra, która jest skrajnie szkodliwa. Trzeba jakąś przyjść, jakąkolwiek która ma szansę być podpisana przez osobę sprawującą urząd prezydenta RP",
+      "autor": "Prymas Łukasz",
+      "ankieta_nr": 177205
+    },
+    {
+      "lp": 17,
+      "nr": "Art. 17",
+      "komentarz": "Nie jest idealna. Nie jest tak dobra jak projekt Rady Ministrów. Ale jest potrzebna jakakolwiek ustawa oczywiście z wyłączeniem tej od batyra, która jest skrajnie szkodliwa. Trzeba jakąś przyjść, jakąkolwiek która ma szansę być podpisana przez osobę sprawującą urząd prezydenta RP",
+      "autor": "Prymas Łukasz",
+      "ankieta_nr": 177205
+    },
+    {
+      "lp": 18,
+      "nr": "Art. 18",
+      "komentarz": "Nie jest idealna. Nie jest tak dobra jak projekt Rady Ministrów. Ale jest potrzebna jakakolwiek ustawa oczywiście z wyłączeniem tej od batyra, która jest skrajnie szkodliwa. Trzeba jakąś przyjść, jakąkolwiek która ma szansę być podpisana przez osobę sprawującą urząd prezydenta RP",
+      "autor": "Prymas Łukasz",
+      "ankieta_nr": 177205
+    },
+    {
+      "lp": 19,
+      "nr": "Art. 19",
+      "komentarz": "Nie jest idealna. Nie jest tak dobra jak projekt Rady Ministrów. Ale jest potrzebna jakakolwiek ustawa oczywiście z wyłączeniem tej od batyra, która jest skrajnie szkodliwa. Trzeba jakąś przyjść, jakąkolwiek która ma szansę być podpisana przez osobę sprawującą urząd prezydenta RP",
+      "autor": "Prymas Łukasz",
+      "ankieta_nr": 177205
+    },
+    {
+      "lp": 20,
+      "nr": "Art. 166",
+      "komentarz": "Natychmiast po podpisniu.",
+      "autor": "Prymas Łukasz",
+      "ankieta_nr": 177205
+    }
+  ]
+}

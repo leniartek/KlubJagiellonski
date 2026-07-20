@@ -1,0 +1,74 @@
+{
+  "number": "RPW/25943/2025",
+  "title": "Senacki projekt ustawy o zmianie ustawy o rzecznikach patentowych",
+  "publicConsultationEndDate": "2025-09-03",
+  "calosc": [
+    {
+      "lp": 1,
+      "nr": null,
+      "komentarz": "Ustawa w sposób wystarczający odpowiada na konieczność należytego prowadzenia rejestru osób wykonujących zawód zaufania publicznego",
+      "autor": "Sawicki Bartosz",
+      "ankieta_nr": 43709
+    },
+    {
+      "lp": 2,
+      "nr": null,
+      "komentarz": "Uczmy dzieci przedsiębiorczości już w szkołach, przez praktyczne działania!",
+      "autor": "Ostafiński Krzysztof",
+      "ankieta_nr": 48839
+    },
+    {
+      "lp": 3,
+      "nr": null,
+      "komentarz": "Moim zdaniem zdobywanie więcej wrażliwych danych może spowodować do łamań RODO i rozporządzeń urzędu danych osobowych",
+      "autor": "Koza Tomasz",
+      "ankieta_nr": 49176
+    }
+  ],
+  "pytania_6_12": [
+    {
+      "lp": 1,
+      "nr": "Pyt. 12",
+      "komentarz": "Wpłynie na funkcjonowanie aplikacji mObywatel oraz COI, które w przyszłości będą miały obowiązek wprowadzenia cyfrowej wersji legitymacji rzecznika patentowego",
+      "autor": "Sawicki Bartosz",
+      "ankieta_nr": 43709
+    }
+  ],
+  "artykuly": [
+    {
+      "lp": 1,
+      "nr": "Art. 1",
+      "komentarz": "Uważam że zbieranie takich rzeczy może być łamane wraz z polityką RODO",
+      "autor": "Koza Tomasz",
+      "ankieta_nr": 49176
+    },
+    {
+      "lp": 2,
+      "nr": "Art. 2",
+      "komentarz": "Przepis interpolarny przedmiotowej ustawy nie wporawdza żadnej sankcji negatywnej związanej z brakiem wykonania obowiązku w postaci wskazania numeru PESEL. W związku z tym proponuje wprowadzenie poprawki nakładającej obowiązek wskazania numeru PESEL, którego niezrealizowanie powoduje brak możliwości wykonywania zawodu przez Rzecznika Patentowego stwierdzany przez Prezesa Urzędu Patentowego.",
+      "autor": "Sawicki Bartosz",
+      "ankieta_nr": 43709
+    },
+    {
+      "lp": 3,
+      "nr": "Art. 2",
+      "komentarz": "Uważam że zbieranie takich rzeczy może być łamane wraz z polityką RODO",
+      "autor": "Koza Tomasz",
+      "ankieta_nr": 49176
+    },
+    {
+      "lp": 4,
+      "nr": "Art. 3",
+      "komentarz": "W związku z wagą wprowadzanego przepisu oraz konieczność odpowiedniego przygotowania pod względem technicznym, jak i też prawnym dla dotychczasowych Rzeczników Patentowych proponuję wydłużenie okresu vacatio legis z 14 dni do 6 miesięcy.",
+      "autor": "Sawicki Bartosz",
+      "ankieta_nr": 43709
+    },
+    {
+      "lp": 5,
+      "nr": "Art. 3",
+      "komentarz": "Myślę że powinno wejść w życie dopiero od początku następnego roku w dniu wpisania do dziennika ustaw",
+      "autor": "Koza Tomasz",
+      "ankieta_nr": 49176
+    }
+  ]
+}

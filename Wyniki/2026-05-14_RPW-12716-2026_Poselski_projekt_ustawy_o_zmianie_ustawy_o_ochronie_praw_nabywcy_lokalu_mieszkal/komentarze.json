@@ -1,0 +1,172 @@
+{
+  "number": "RPW/12716/2026",
+  "title": "Poselski projekt ustawy o zmianie ustawy o ochronie praw nabywcy lokalu mieszkalnego lub domu jednorodzinnego oraz Deweloperskim Funduszu Gwarancyjnym",
+  "publicConsultationEndDate": "2026-05-14",
+  "calosc": [
+    {
+      "lp": 1,
+      "nr": null,
+      "komentarz": "\"Projekt rozszerza mechanizm transparentności cen, który już obowiązuje deweloperów mieszkaniowych, na rynek hal przemysłowych i magazynowych. Rynek ten generuje kilkadziesiąt miliardów złotych obrotu rocznie i jest w znacznym stopniu zdominowany przez inwestorów instytucjonalnych oraz deweloperów BTS i spekulacyjnych. Ujednolicenie formatu danych w portalu dane.gov.pl pozwoli na powstanie wiarygodnych narzędzi analitycznych, porównywarek i indeksów cenowych, co zwiększy przejrzystość i ograniczy spekulację na rynku nieruchomości komercyjnych.\"",
+      "autor": "Maj Marek",
+      "ankieta_nr": 155685
+    },
+    {
+      "lp": 2,
+      "nr": null,
+      "komentarz": "Bardzo potrzebne rozwiązanie do istniejących przepisów.",
+      "autor": "Droździak Bartłomiej",
+      "ankieta_nr": 156938
+    },
+    {
+      "lp": 3,
+      "nr": null,
+      "komentarz": "Ten projekt jest typowym przykładem \"dobrej techniki, słabej wizji\". Na poziomie szczegółu robi coś sensownego - wprowadza obowiązek ustrukturyzowanego formatu danych dla deweloperów, aby ujednolicić informacje publikowane w portalu publicznym . To może poprawić przejrzystość i umożliwić tworzenie narzędzi analitycznych. Ale na tym kończy się jego ambicja.\nProblem polega na tym, że projekt zajmuje się formą danych, a nie rzeczywistym problemem rynku mieszkaniowego. Obywatela nie boli brak formatu pliku, tylko ceny mieszkań, dostępność lokali, niepewność transakcji i asymetria informacji. Ujednolicenie danych może pomóc analitykom, ale nie rozwiązuje problemu kupującego, który nie ma zdolności kredytowej albo mierzy się z rosnącymi kosztami życia.",
+      "autor": "Kowalczyk Zbigniew",
+      "ankieta_nr": 158718
+    },
+    {
+      "lp": 4,
+      "nr": null,
+      "komentarz": "Idea ujednolicenia danych jest słuszna, jednak uznanie błędnego formatu technicznego pliku za 'praktykę naruszającą zbiorowe interesy konsumentów' wydaje się sankcją zbyt surową i nieproporcjonalną do przewinienia. Może to prowadzić do karania przedsiębiorców za błędy informatyczne, a nie za realne wprowadzanie klientów w błąd. Ustawa jest technokratyczna i nie odpowiada na realne potrzeby społeczne. Jest to kolejna regulacja, która nakłada obowiązki biurokratyczne, nie oferując w zamian żadnego rozwiązania problemu braku dostępności mieszkań dla obywateli o przeciętnych dochodach.",
+      "autor": "Cybulska Dorota",
+      "ankieta_nr": 162735
+    },
+    {
+      "lp": 5,
+      "nr": null,
+      "komentarz": "Ustandaryzowanie danych pozwoli na szybsze i spójniejsze wykorzystanie ich przez stronę rządową, a także zdecydowanie ułatwi import takich danych do rozwiązań prywatnych co może się odbić z korzyścią dla rynku nieruchomości.",
+      "autor": "Kulig Szymon",
+      "ankieta_nr": 163586
+    },
+    {
+      "lp": 6,
+      "nr": null,
+      "komentarz": "Projekt potrzebny ponieważ ostatecznie trzeba zabronić cwaniactwa deweloperom którzy manipulują cenami.",
+      "autor": "Kaluga Ilona",
+      "ankieta_nr": 167181
+    },
+    {
+      "lp": 7,
+      "nr": null,
+      "komentarz": "Polski Związek Firm Deweloperskich przekazał dzisiaj do Marszałka Sejmu stanowisko dotyczące przedmiotowej ustawy - wskazaliśmy w nim, że popieramy rozwiązanie polegające na ujednoliceniu formatu danych, uważamy natomiast, że powinno to nastąpić w drodze rozporządzenia, nie komunikatu ministra. Stanowisko zawiera obszerną argumentację w tym zakresie.",
+      "autor": "Leszczyński Michał",
+      "ankieta_nr": 167338
+    }
+  ],
+  "pytania_6_12": [
+    {
+      "lp": 1,
+      "nr": "Pyt. 6",
+      "komentarz": "Problem braku spójności formatu danych można rozwiązać bez tworzenia nowej ustawy i wprowadzania surowych sankcji karnych. Ministerstwo Cyfryzacji posiada narzędzia do wydawania wytycznych technicznych oraz prowadzenia szkoleń dla podmiotów zobowiązanych do publikacji danych.\nZamiast przymusu ustawowego pod rygorem kar za 'naruszenie interesów konsumentów', resort powinien postawić na:\nDopracowanie interfejsu portalu dane.gov.pl, który automatycznie sprawdzałby poprawność wgrywanego pliku i odrzucał go w momencie przesyłania, jeśli format jest błędny (tzw. walidacja w czasie rzeczywistym).\nDialog z branżą deweloperską, aby wspólnie wypracować standard, który jest łatwy do wdrożenia nawet dla najmniejszych biur.\nAngażowanie całego aparatu ustawodawczego i organów kontrolnych do egzekwowania formatu plików IT jest nieefektywne i generuje zbędną biurokrację.",
+      "autor": "Cybulska Dorota",
+      "ankieta_nr": 162735
+    },
+    {
+      "lp": 2,
+      "nr": "Pyt. 7",
+      "komentarz": "Zdecydowanie nie zgadzam się z przedstawioną oceną skutków społecznych. Autorzy projektu zakładają, że ujednolicenie tabelek w internecie zwiększy przejrzystość rynku dla obywateli, co jest tezą całkowicie oderwaną od rzeczywistości.\nBłędne priorytety: Realnym skutkiem społecznym obecnej sytuacji na rynku nieruchomości jest brak dostępności mieszkań dla osób o przeciętnych dochodach. Projektowana ustawa w żaden sposób nie adresuje tego problemu, skupiając się na technokratycznych detalach, które dla większości społeczeństwa są nieistotne.\nPozorna korzyść dla konsumenta: Konsument szukający mieszkania nie potrzebuje ustrukturyzowanych danych do odczytu maszynowego - to narzędzie dla firm analitycznych i twórców algorytmów. Nazywanie tego 'korzyścią społeczną' jest nadużyciem.\nRyzyko wzrostu cen: Każde nowe obciążenie administracyjne i ryzyko wysokich kar nakładane na przedsiębiorców jest ostatecznie przerzucane na klienta końcowego. Skutkiem społecznym tej ustawy może być więc kolejny mikro-wzrost cen nieruchomości wynikający z kosztów obsługi biurokratycznej.",
+      "autor": "Cybulska Dorota",
+      "ankieta_nr": 162735
+    },
+    {
+      "lp": 3,
+      "nr": "Pyt. 8",
+      "komentarz": "Projektodawcy słusznie wskazują, że:\nzmiana dotyczy wyłącznie formatu technicznego, a nie nowego obowiązku raportowania danych (dane i tak muszą być już publikowane na podstawie art. 19a-19b ustawy deweloperskiej);\nwiększość deweloperów już stosuje rekomendowany ustrukturyzowany format (wzorcowe pliki są bezpłatne w Bazie wiedzy dane.gov.pl);\nstandaryzacja realnie obniży koszty po stronie odbiorców danych (porządkowanie, integracja, tworzenie porównywarek i narzędzi analitycznych);\nułatwi rozwój usług cyfrowych (porównywarki cen, indeksy rynkowe, aplikacje dla konsumentów i analityków).\nTo rzetelna i realistyczna ocena - regulacja jest \"lekkim\" usprawnieniem technicznym, a nie nową daniną.",
+      "autor": "Maj Marek",
+      "ankieta_nr": 155685
+    },
+    {
+      "lp": 4,
+      "nr": "Pyt. 8",
+      "komentarz": "Nie zgadzam się z przedstawioną oceną skutków gospodarczych. Jest ona powierzchowna i nie uwzględnia realiów prowadzenia działalności gospodarczej w Polsce:\nNiedoszacowane koszty dostosowawcze: Twierdzenie, że koszty adaptacji będą minimalne, jest błędne. Każda zmiana formatu przesyłania danych wymaga zaangażowania specjalistów IT, aktualizacji oprogramowania sprzedażowego lub wykupienia zewnętrznych usług. Dla małych i średnich deweloperów, operujących na niższych marżach, jest to kolejny koszt stały, który ostatecznie zostanie przerzucony na cenę mieszkania.\nRyzyko paraliżu inwestycyjnego przez sankcje: Zrównanie błędu technicznego w pliku z naruszeniem zbiorowych interesów konsumentów tworzy ogromne ryzyko finansowe. Potencjalne kary od UOKiK (sięgające 10% obrotu) są nieproporcjonalne do technicznego charakteru przewinienia. Przedsiębiorcy, zamiast skupiać się na budowaniu mieszkań, będą musieli inwestować w nadmiarową obsługę prawno-informatyczną, by uniknąć absurdalnie wysokich kar za źle postawiony przecinek w pliku.\nBrak korzyści dla gospodarki: Ujednolicenie danych o cenach, które i tak są drastycznie wysokie, nie ożywi rynku nieruchomości. Prawdziwym skutkiem gospodarczym będzie jedynie ułatwienie pracy firmom zajmującym się handlem danymi (Big Data), a nie realne wsparcie dla sektora budowlanego czy nabywców mieszkań.\nPodsumowując: Ocena skutków gospodarczych całkowicie pomija fakt, że każda nowa biurokracja i każde nowe ryzyko kary zwiększa finalną cenę produktu dla klienta końcowego.",
+      "autor": "Cybulska Dorota",
+      "ankieta_nr": 162735
+    },
+    {
+      "lp": 5,
+      "nr": "Pyt. 9",
+      "komentarz": "Mam istotne zastrzeżenia (elementy pominięte lub niedocenione)\nKoszty dostosowania dla mniejszych deweloperów DSR twierdzi, że \"nie powinna powodować istotnych, dodatkowych obciążeń\".\nTo prawda dla dużych i średnich firm (większość już stosuje format).\nNatomiast dla części małych i mikro-deweloperów (którzy obecnie wrzucają dane \"ręcznie\" lub w PDF/Excel) będzie to jednak jednorazowy koszt integracji systemu z wymaganym formatem (nawet jeśli minimalny - 2-5 tys. zł + czas programisty/IT). DSR tego nie kwantyfikuje.\nPozytywne skutki makroekonomiczne - brak analizy\nProjekt całkowicie pomija szerszy efekt gospodarczy:\nzwiększona przejrzystość cen mieszkań > lepsza alokacja kapitału na rynku mieszkaniowym; zmniejszenie asymetrii informacyjnej między deweloperami a kupującymi/inwestorami; potencjalny wzrost konkurencji (łatwiejsze porównywanie ofert).\nTe efekty są realne i znaczące, a DSR ich nie zauważa.",
+      "autor": "Maj Marek",
+      "ankieta_nr": 155685
+    },
+    {
+      "lp": 6,
+      "nr": "Pyt. 9",
+      "komentarz": "Nie zgadzam się z przedstawioną oceną skutków finansowych. Stwierdzenie, że nowelizacja nie wpływa na sektor finansów publicznych, jest mało wiarygodne:\nKoszty po stronie organów kontrolnych: Skoro ustawa zakłada, że błąd w formacie danych ma być ścigany jako naruszenie zbiorowych interesów konsumentów, oznacza to nowe zadania dla UOKiK. Urząd ten będzie musiał delegować pracowników do weryfikacji poprawności technicznej plików, prowadzenia postępowań i nakładania kar. To realny koszt pracy urzędników opłacany z budżetu państwa.\nKoszty obsługi portalu: Ministerstwo Cyfryzacji będzie musiało zarządzać komunikacją, aktualizować standardy i zapewniać wsparcie techniczne dla tysięcy podmiotów. Utrzymanie i modyfikacja infrastruktury portalu dane.gov.pl pod kątem nowych, sztywnych wymogów ustawowych również generuje koszty operacyjne, których w projekcie nie oszacowano.\nUkryte koszty po stronie obywatela: Choć bezpośrednio budżet państwa może nie \"wyłożyć\" gotówki, to skutki finansowe odczują obywatele. Każda złotówka wydana przez dewelopera na dostosowanie się do nowych, biurokratycznych wymogów technicznych, to złotówka dodana do ceny mieszkania. W ostatecznym rozrachunku to konsument finansuje tę operację.\nW mojej ocenie projekt pomija koszty administracyjne związane z egzekwowaniem nowych przepisów, co czyni analizę finansową niepełną.",
+      "autor": "Cybulska Dorota",
+      "ankieta_nr": 162735
+    },
+    {
+      "lp": 7,
+      "nr": "Pyt. 10",
+      "komentarz": "Brak kolizji z innymi przepisami - nowelizacja jest spójna z ustawą o otwartych danych i nie narusza zasady lex certa ani proporcjonalności.\nOcena jest bardzo lakoniczna - co jest zrozumiałe przy tak wąskim, technicznym projekcie - ale w idealnym DSR warto byłoby dodać jedno zdanie:\n\"Projektowana regulacja nie wprowadza nowych obowiązków materialnoprawnych, a jedynie standaryzuje sposób wykonania obowiązku już istniejącego, co nie budzi wątpliwości co do zgodności z zasadami techniki legislacyjnej ani z Konstytucją RP.\"",
+      "autor": "Maj Marek",
+      "ankieta_nr": 155685
+    },
+    {
+      "lp": 8,
+      "nr": "Pyt. 10",
+      "komentarz": "Zdecydowanie nie zgadzam się z przedstawioną oceną skutków prawnych. Projekt wprowadza do systemu prawnego rozwiązania niespójne i ryzykowne:\nNieproporcjonalność sankcji: Najpoważniejszym błędem prawnym jest objęcie naruszenia formatu technicznego (Art. 19b ust. 2a) zakresem Art. 19b ust. 4, co zrównuje błąd informatyczny z praktyką naruszającą zbiorowe interesy konsumentów. W prawie cywilnym i administracyjnym sankcja powinna być proporcjonalna do winy i szkodliwości czynu. Karanie firmy ogromnymi karami finansowymi za wysłanie danych w innym formacie niż ustrukturyzowany (nawet jeśli dane są prawdziwe!) jest zaprzeczeniem tej zasady.\nDelegacja ustawowa przez komunikat: Uzależnienie obowiązków prawnych przedsiębiorcy od 'komunikatu' Ministra Cyfryzacji w Monitorze Polskim w sprawach technicznych, przy jednoczesnej tak surowej karze, budzi wątpliwości z punktu widzenia pewności prawa. Przedsiębiorca może stać się 'przestępcą w świetle ustawy o ochronie konkurencji' tylko dlatego, że nie dostosował skryptu do nowej specyfikacji technicznej ogłoszonej komunikatem.\nInflacja prawa: Tworzenie kolejnej nowelizacji w celu uregulowania formatu pliku (co powinno być rozwiązane na poziomie technicznym portalu, a nie ustawowym) zaśmieca system prawny i czyni go mniej czytelnym dla obywatela.\nSkutkiem prawnym tej ustawy nie będzie 'usprawnienie', lecz stworzenie ryzyka prawnego dla podmiotów gospodarczych oraz konieczność angażowania UOKiK w spory o charakterze informatycznym, a nie konsumenckim.",
+      "autor": "Cybulska Dorota",
+      "ankieta_nr": 162735
+    },
+    {
+      "lp": 9,
+      "nr": "Pyt. 11",
+      "komentarz": "Dodatkowe skutki nieujęte w DSR:\n1. Wzrost konkurencji cenowej na rynku pierwotnym.\nPełna standaryzacja danych umożliwi automatyczne porównywanie cen 1 m2 w czasie rzeczywistym przez porównywarki, agregatory i aplikacje konsumenckie. Deweloperzy będą musieli bardziej \"pilnować\" cen, bo różnice staną się widoczne dla każdego kupującego w kilka sekund.\nWpływ - Pozytywny, średnioterminowy. DSR tego nie zauważa, choć to jeden z najcenniejszych efektów transparentności.\n2. Lepsza ochrona konsumentów przed praktykami anty konkurencyjnymi.\nUOKiK i konsumenci zyskają narzędzie do szybkiego wykrywania np. równoległego podnoszenia cen przez kilku dużych deweloperów w danej lokalizacji lub ukrytych opłat.\nWpływ -Pozytywny, ale DSR pomija aspekt antytrustowy.\n3. Wsparcie polityki publicznej i makroekonomiczne.\nMinisterstwo Rozwoju, NBP, GUS i MRiT otrzymają czyste, maszynowo przetwarzalne dane o cenach transakcyjnych i ofertowych. Ułatwi to prognozowanie cen mieszkań, politykę mieszkaniową i monitorowanie baniek spekulacyjnych.\nBardzo istotny skutek poza projektem - DSR milczy na ten temat.\n4. Rozwój ekosystemu proptech / fintech.\nStandaryzacja otworzy drzwi do nowych produktów: automatycznych indeksów cenowych, narzędzi AI do wyceny, platform finansowania deweloperki, porównywarek kredytów hipotecznych itp.\nDługoterminowy efekt mnożnikowy - DSR wspomina o \"narzędziach cyfrowych\", ale nie rozwija tego.\n5. Marginalne ryzyko \"over-compliance\".\nNiektórzy mniejsi deweloperzy, obawiając się sankcji (czyn nieuczciwej konkurencji), mogą publikować mniej szczegółowych lub bardziej \"ostrożnych\" danych, co paradoksalnie obniży jakość informacji.\nWpływ -Niski, ale realny - DSR całkowicie pomija ryzyko negatywne.\n6. Niewielka koncentracja rynku.\nDuże grupy deweloperskie (z własnymi działami IT) dostosują się praktycznie \"za darmo\". Najmniejsi deweloperzy (jedna-dwie inwestycje rocznie) poniosą jednorazowy koszt integracji systemu, co może ich lekko osłabić względem dużych graczy.\nWpływ -Niski, ale DSR twierdzi, że \"nie powoduje istotnych obciążeń\" - jest to uproszczenie.",
+      "autor": "Maj Marek",
+      "ankieta_nr": 155685
+    },
+    {
+      "lp": 10,
+      "nr": "Pyt. 11",
+      "komentarz": "Dostrzegam szereg negatywnych skutków, które wnioskodawca całkowicie pominął w projekcie:\nEfekt 'kropli drążącej skałę' w cenach mieszkań: Każda kolejna regulacja techniczna i biurokratyczna nakładana na deweloperów generuje koszty obsługi prawnej i IT. Choć pojedynczo mogą wydawać się małe, skumulowane prowadzą do dalszego wzrostu cen nieruchomości, co uderza w osoby, których już dziś nie stać na własny kąt.\nOdciąganie uwagi od realnych problemów: Skutkiem zmiany będzie poczucie 'wykonania pracy' przez ustawodawcę, podczas gdy realna ochrona nabywcy (dostępność cenowa, bezpieczeństwo finansowe) pozostaje w martwym punkcie. To klasyczny przykład legislacji zastępczej.\nZagrożenie dla mniejszych firm: Duże firmy deweloperskie poradzą sobie z nowym formatem danych bez trudu, ale dla małych, lokalnych przedsiębiorców budujących np. kilka domów jednorodzinnych, konieczność opłacania specjalistów od 'ustrukturyzowanych formatów' pod groźbą kar z UOKiK może być barierą nie do przejścia. Prowadzi to do dalszej monopolizacji rynku przez największych graczy.\nZalanie UOKiK sprawami technicznymi: Zamiast ścigać realne oszustwa i zmowy cenowe, urzędnicy będą musieli analizować, czy dany plik XML lub CSV jest zgodny z komunikatem Ministra. To marnotrawienie publicznych zasobów na walkę z błędami informatycznymi.",
+      "autor": "Cybulska Dorota",
+      "ankieta_nr": 162735
+    },
+    {
+      "lp": 11,
+      "nr": "Pyt. 12",
+      "komentarz": "Dodatkowe podmioty, na które ustawa realnie wpłynie:\n1. Ministerstwo Cyfryzacji (administrator portalu dane.gov.pl). Obowiązek przygotowania i corocznej aktualizacji komunikatu w Monitorze Polskim.\nŚredni (stały obowiązek administracyjny).\nNie wskazany w DSR.\n2. UOKiK Egzekwowanie nowego obowiązku jako nieuczciwej konkurencji (art. 19b ust. 4). Wpływ: Niski-średni (dodatkowe sprawy).\nNie wskazany w DSR.\n3. GUS, NBP, Ministerstwo Rozwoju i Technologii. Dostęp do wysokiej jakości, maszynowo przetwarzalnych danych cenowych. Wpływ- Pozytywny (lepsza polityka publiczna i analizy makro).\nNie wskazany w DSR.\n4. Firmy proptech, fintech i porównywarki cen (Otodom, Morizon, Expandera, Bankier.pl, GetHome itp.) Możliwość budowania automatycznych narzędzi, indeksów i aplikacji. Wpływ - Silnie pozytywny. Wskazano w DSR, tylko ogólnie jako \"użytkownicy profesjonalni\".\n5. Dostawcy systemów IT/ERP dla deweloperów. Konieczność dostosowania oprogramowania do nowego formatu. Wpływ- Niski-średni (jednorazowy).\nNie wskazany w DSR.\n6. Polski Związek Firm Deweloperskich i inne organizacje branżowe. Udział w konsultacjach formatu i wsparcie członków przy wdrożeniu. Wpływ - Niski.\nNie wskazany w DSR.\n7. Małe i mikro-deweloperzy (jedna-dwie inwestycje rocznie). Jednorazowy koszt technicznego dostosowania (nawet jeśli minimalny). Wpływ - Niski, ale realny. W DSR wskazano tylko ogólnie jako \"deweloperzy\".\n8. Fundusze inwestycyjne i inwestorzy instytucjonalni. Lepsza analityka i benchmarking rynku mieszkaniowego. Wpływ - Pozytywny. Nie wskazany w DSR.\nRekomendacja:\nW DSR warto dodać jedno zdanie w punktach [4] i [5]:\n\"Ponadto ustawa wpłynie pozytywnie na instytucje publiczne (GUS, NBP, Ministerstwo Rozwoju) oraz podmioty z sektora proptech i fintech, umożliwiając im tworzenie bardziej zaawansowanych narzędzi analitycznych i porównawczych na podstawie ujednoliconych, maszynowo przetwarzalnych danych.",
+      "autor": "Maj Marek",
+      "ankieta_nr": 155685
+    },
+    {
+      "lp": 12,
+      "nr": "Pyt. 12",
+      "komentarz": "Najbardziej uderza brak refleksji nad edukacją prawną i obywatelską. Sam dostęp do danych - nawet ujednoliconych - nie wystarczy, jeśli obywatel nie potrafi ich rozumieć, interpretować i wykorzystywać. Prawo zaczyna zakładać, że informacja równa się świadomość. To błąd. Bez edukacji prawnej obywatel pozostaje bierny wobec systemu, nawet jeśli ma do niego dostęp.\nPodobnie projekt nie dostrzega znaczenia organizacji społecznej. Dane publiczne mogą być użyteczne, ale dopiero wtedy, gdy istnieją podmioty - stowarzyszenia, inicjatywy obywatelskie, grupy eksperckie - które potrafią je przetwarzać i wykorzystywać dla dobra wspólnego. Bez tego pozostają martwym zasobem, z którego korzystają nieliczni.\nJest tu jeszcze jeden problem - jakość prawa. Projekt wprowadza obowiązek techniczny poprzez komunikat ministra publikowany w Monitorze Polskim, co formalnie jest rozwiązaniem elastycznym, ale jednocześnie rozmywa granicę między prawem a techniką. Obywatel i przedsiębiorca powinni mieć jasność, jakie są obowiązki i gdzie są one określone. Tymczasem powstaje system, w którym istotne elementy regulacji zależą od aktów o niższej randze i mogą być zmieniane bez pełnej procedury legislacyjnej. To osłabia stabilność prawa.\nPowiedzmy rzecz wprost: projekt poprawia narzędzie, ale nie dotyka rzeczywistości. Ujednolica dane, ale nie wzmacnia obywatela. Tworzy obowiązek, ale nie buduje świadomości ani wspólnoty. A bez edukacji prawnej, bez aktywnej organizacji społecznej i bez podnoszenia jakości prawa takie rozwiązania pozostają techniczne - i w gruncie rzeczy marginalne wobec rzeczywistych problemów. Trzeba powiedzieć uczciwie: tych problemów nie rozwiązuje się jedną ustawą ani jedną poprawką. To jest praca u podstaw - spokojna, systemowa, konsekwentna.\nNajpierw edukacja prawna i obywatelska. Nie jako dodatek, ale jako element fundamentu państwa. Obywatel powinien rozumieć, czym jest umowa, jakie ma prawa jako nabywca mieszkania, jak czytać dane o cenach i ryzykach. To oznacza wprowadzenie realnej edukacji prawnej do szkół, ale też praktycznych narzędzi dla dorosłych: poradników, konsultacji, punktów wsparcia. Sama publikacja danych - nawet najlepiej uporządkowanych - nic nie da, jeśli człowiek nie potrafi z nich korzystać.\nRównolegle trzeba wzmocnić organizację społeczną. Dane publiczne mają sens dopiero wtedy, gdy ktoś je interpretuje i wykorzystuje. Tu jest miejsce dla stowarzyszeń, watchdogów, inicjatyw lokalnych, ale też dla środowisk eksperckich. Państwo powinno wspierać takie działania - nie kontrolować, lecz umożliwiać. Bez tego obywatel zostaje sam wobec systemu, a to zawsze prowadzi do nierówności.\nKolejna rzecz to jakość prawa. Zamiast mnożyć przepisy techniczne i doraźne, trzeba upraszczać system i czynić go przewidywalnym. Jeżeli obowiązek istnieje - powinien być jasno określony w ustawie, a nie \"rozproszony\" między komunikaty i dokumenty pomocnicze. Prawo musi być czytelne dla człowieka, nie tylko dla urzędnika czy informatyka. To wymaga dyscypliny legislacyjnej, której dziś często brakuje.\nWreszcie - trzeba wrócić do istoty problemu rynku mieszkaniowego. Dane są potrzebne, ale nie zastąpią polityki. Potrzebna jest równowaga między interesem nabywcy a dewelopera, większa przejrzystość umów, realna ochrona przed ryzykiem oraz działania zwiększające dostępność mieszkań. Bez tego nawet najlepszy system informacji pozostanie narzędziem obserwacji, a nie zmiany.\nKrótko: trzeba budować człowieka, wspólnotę i prawo jednocześnie. Edukacja daje rozumienie, organizacja społeczna daje siłę działania, a dobre prawo daje ramy. Jeżeli zabraknie któregokolwiek z tych elementów, system będzie działał tylko pozornie.",
+      "autor": "Kowalczyk Zbigniew",
+      "ankieta_nr": 158718
+    },
+    {
+      "lp": 13,
+      "nr": "Pyt. 12",
+      "komentarz": "Tak, ustawa wpłynie na szereg podmiotów, o których wnioskodawca nie wspomniał w Ocenie Skutków Regulacji:\nFirmy z sektora PropTech i Big Data: To one są największymi beneficjentami tej zmiany. Ujednolicony, maszynowy format danych to darmowe paliwo dla komercyjnych wyszukiwarek i platform sprzedażowych, które zarabiają na przetwarzaniu tych informacji. Państwo de facto wykonuje za te firmy pracę polegającą na porządkowaniu bazy danych, zmuszając do tego deweloperów pod groźbą kar.\nDostawcy oprogramowania dla deweloperów: Firmy sprzedające systemy CRM i sprzedażowe dla budownictwa będą musiały zaktualizować swoje produkty. Choć dla nich to szansa na zarobek, to dla ich klientów (deweloperów) oznacza to dodatkowe koszty licencyjne i serwisowe.\nUrząd Ochrony Konkurencji i Konsumentów (UOKiK): Ustawa wymusi na Urzędzie zajęcie się sprawami stricte informatycznymi. Zamiast badać, czy cena mieszkania jest uczciwa, inspektorzy będą musieli sprawdzać techniczne parametry plików, co jest marnotrawstwem ich specjalistycznej wiedzy.\nObywatele o najniższych dochodach: Choć ustawa ma ich 'chronić', w rzeczywistości może ich wykluczać. Każdy wzrost kosztów biurokratycznych po stronie podaży (deweloperów) oddala wizję taniego budownictwa, co uderza w najsłabszą grupę, która i tak jest już odcięta od rynku mieszkaniowego.",
+      "autor": "Cybulska Dorota",
+      "ankieta_nr": 162735
+    }
+  ],
+  "artykuly": [
+    {
+      "lp": 1,
+      "nr": "Art. 1",
+      "komentarz": "Art. 1. W ustawie z dnia 20 maja 2021 r. o ochronie praw nabywcy lokalu mieszkalnego lub domu jednorodzinnego oraz Deweloperskim Funduszu Gwarancyjnym (Dz. U. z 2024 r. poz. 695, z 2025 r. poz. 758, 1077, 1167 i 1669 oraz z 2026 r. poz. 27) w art. 19b wprowadza się następujące zmiany:\nw ust. 1 po wyrazach \"domu jednorodzinnego\" dodaje się wyrazy \"oraz hale przemysłowe i magazynowe\";\nw ust. 2 kropkę zastępuje się przecinkiem i dodaje się wyrazy \"z zastrzeżeniem ust. 2a\";\npo ust. 2 dodaje się ust. 2a-2d w brzmieniu:\n\"2a. Dane, o których mowa w ust. 1, przekazuje się stosując ustrukturyzowany format przeznaczony do odczytu maszynowego, udostępniony komunikatem ministra właściwego do spraw informatyzacji, w portalu danych w rozumieniu art. 2 pkt 13 ustawy z dnia 11 sierpnia 2021 r. o otwartych danych i ponownym wykorzystywaniu informacji sektora publicznego.\n2b. Minister właściwy do spraw informatyzacji ogłasza komunikat, o którym mowa w ust. 2a, w Dzienniku Urzędowym Rzeczypospolitej Polskiej \"Monitor Polski\".\n2c. Przepisy ust. 2a i 2b stosuje się również do podmiotów realizujących inwestycje w zakresie hal przemysłowych i magazynowych w rozumieniu art. 3 pkt 2b ustawy z dnia 7 lipca 1994 r. - Prawo budowlane.\n2d. Obowiązek, o którym mowa w ust. 2a i 2c, dotyczy co najmniej następujących danych:\n- cena 1 m2 powierzchni użytkowej hali/magazynu;\n- lokalizacja (gmina, obręb ewidencyjny);\n- rok oddania do użytkowania / planowany termin;\n- klasa energetyczna (EP);\n- powierzchnia całkowita i użytkowa.\"\nw ust. 4 wyrazy \"ust. 1 i 2\" zastępuje się wyrazami \"ust. 1, 2 i 2a-2c\".",
+      "autor": "Maj Marek",
+      "ankieta_nr": 155685
+    },
+    {
+      "lp": 2,
+      "nr": "Art. 1",
+      "komentarz": "Wnoszę o wykreślenie zmiany zawartej w punkcie 3, która nowelizuje ust. 4 w art. 19b. Rozszerzenie definicji praktyki naruszającej zbiorowe interesy konsumentów o kwestie czysto techniczne (format pliku z ust. 2a) jest rozwiązaniem wadliwym.\nBłąd w strukturze pliku informatycznego (np. niewłaściwy format ustrukturyzowany) nie powinien być zrównywany z celowym działaniem na szkodę konsumentów. Taka konstrukcja przepisu doprowadzi do sytuacji, w której przedsiębiorca może zostać ukarany drastyczną karą finansową za usterkę techniczną, nawet jeśli przekazał rzetelne i prawdziwe dane o cenach.",
+      "autor": "Cybulska Dorota",
+      "ankieta_nr": 162735
+    },
+    {
+      "lp": 3,
+      "nr": "Art. 2",
+      "komentarz": "Termin 3 miesięcy na wejście w życie ustawy jest niewystarczający i nierealny. W połączeniu z ogromnymi karami finansowymi, projekt ten stanowi klasyczny przykład tzw. 'legislacji represyjnej', której celem nie jest realne usprawnienie systemu, lecz stworzenie mechanizmu łatwego karania przedsiębiorców za błędy techniczne. Cała ta zmiana powinna zostać wyrzucona z projektu, gdyż priorytetem państwa powinno być wspieranie cyfryzacji, a nie jej wymuszanie pod groźbą drastycznych sankcji.",
+      "autor": "Cybulska Dorota",
+      "ankieta_nr": 162735
+    }
+  ]
+}

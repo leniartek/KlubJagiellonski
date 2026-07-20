@@ -1,0 +1,683 @@
+{
+  "number": "SH-020-209/24",
+  "title": "Obywatelski projekt ustawy o ochronie małoletnich przed treściami pornograficznymi w Internecie oraz o zmianie ustawy - Prawo telekomunikacyjne",
+  "publicConsultationEndDate": "2025-02-16",
+  "calosc": [
+    {
+      "lp": 1,
+      "nr": null,
+      "komentarz": "Ustawa naiwnie pomija pomija kwestie implementacji metod weryfikacji wieku które będą albo nie skuteczne lub/oraz godzące w prywatność. Sposób blokady dostępu do stron jest również bardzo prosty do obejścia nawet dla osób z małą wiedzą techniczną lub małoletnich. Ustawa wyolbrzymia problem, będzie nie efektywna w swoim celu ale będzie powodować inne negatywne skutki.",
+      "autor": "Gąsior Michał",
+      "ankieta_nr": 10645
+    },
+    {
+      "lp": 2,
+      "nr": null,
+      "komentarz": "Wnioskodawca słusznie zwraca uwagę na relny problem powszechnego dostępu do pornografii przez nieletnich. Jednak proponowane rozwiązania ani nie są realne (nie istnieją odpowiednie narzędzia) ani skuteczne.",
+      "autor": "Świeczkowski Grzegorz",
+      "ankieta_nr": 10649
+    },
+    {
+      "lp": 3,
+      "nr": null,
+      "komentarz": "Ustawa wprowadza cenzurę i kontrolę nad treściami w Internecie. Nie jest możliwa weryfikacja wieku bez przetwarzania danych osobowych. Jakaś organizacja bądź instytucja (np. Ministerstwo Cyfryzacji, UKE, banki, dostawcy Internetu, twórcy stron z treściami pornograficznymi) będą mieli dostęp do informacji, że obywatel Jan Kowalski, numer PESEL XYZ, chce oglądać pornografię. Ta informacja może zostać wykorzystana przeciwko temu obywatelowi, może też wyciec do publicznej wiadomości.",
+      "autor": "Wojciechowski Krzysztof",
+      "ankieta_nr": 10651
+    },
+    {
+      "lp": 4,
+      "nr": null,
+      "komentarz": "Jako rodzic trójki dzieci w pełni się zgadzam z projektem ustawy, niemniej jednak mam wątpliwość, czy rozwiąże ona problem ze względu na dostępność technologii VPN.",
+      "autor": "Pakosz Mieczysław",
+      "ankieta_nr": 10726
+    },
+    {
+      "lp": 5,
+      "nr": null,
+      "komentarz": "Podstawą powinna być edukacja od początku szkoły a nie tylko zakazy.\nZakazy nigdy się nie sprawdzały.\nEdukacja i tylko Edukacja.",
+      "autor": "Sabiło Marcin",
+      "ankieta_nr": 10745
+    },
+    {
+      "lp": 6,
+      "nr": null,
+      "komentarz": "Generalnie zgadzam się z ideą regulowania pornografii tak samo jak alkohol czy papierosy. Mam jednak uwagę odnośnie pkt. 3 w art. 3: \"Systemy weryfikacji wieku odbiorcy uważa się za skuteczne, nawet gdy ich obejście\nprzez osoby małoletnie jest możliwe, jeżeli wymaga to zastosowania przez takie\nosoby małoletnie nadzwyczajnych srodków i działań, których nie można oczekiwać\nod przeciętnego odbiorcy.\" Co z siecią VPN, do której dostęp do niej nie jest skomplikowany, wlicza się do nadzwyczajnych środków, czy nie?",
+      "autor": "Stasiura Stanisław",
+      "ankieta_nr": 10781
+    },
+    {
+      "lp": 7,
+      "nr": null,
+      "komentarz": "Zobowiązanie dostawców to de fact przerzucenie problemu na podmioty prywatne, czyli kapitulacja państwa. Metody weryfikacji wieku będą albo limitowały anonimowość w sieci (co jest wstępem do cenzury) albo będą podatne na kradzieże/wyłudzenia pieniędzy z kart kredytowych.",
+      "autor": "Fogt Jarosław",
+      "ankieta_nr": 10790
+    },
+    {
+      "lp": 8,
+      "nr": null,
+      "komentarz": "Zupełnie oczywisty jest negatywny wpływ pornografii na psychikę i zachowania nie tylko małoletnich, ale i dorosłych. Projekt zawiera absolutny nadmiar \"udowodnień\" słuszności tej tezy, co zdecydowanie utrudnia zapoznanie się z właściwą treścią propozycji rozwiązań. Ale pomijając złośliwości..\nW treści projektu znajduje się zapis:\nDo zadań organu nadzorującego będzie należało:\n- monitorowanie przestrzegania zakazu udostępniania treści pornograficznych w spos6b uniemożliwiający zapoznanie się z tymi treściami osobom małoletnim, - ZGODA\n- prowadzenie prac badawczych dotyczących wpływu pornografii na małoletnich i popularyzowanie rozwiązań chroniących przed treściami pornograficznymi, - ZUPEŁNIE NIEPOTRZEBNY ZAPIS, kilkadziesiąt stron projektu wystarczająco (a nawet w zdecydowanym nadmiarze) opisuje ten wpływ i NIE są tu potrzebne żadne dodatkowe badania, a UKE ma wystarczająco dużo pracy w innych zakresach.\n- wskazywanie wymogów dotyczących narzędzi do weryfikowania pełnoletności, których spełnienie jest warunkiem uznania, ze strona internetowa (serwis, platforma) udostepniająca treści pornograficzne nie łamie prawa, - ZGODA\n- badanie skuteczności mechanizmów weryfikujących pełnoletność użytkownika, ich kontrola i ocena . pod względem takich kryteriów jak bezpieczeństwo danych osobowych, oraz certyfikowanie dostarczycieli narzędzi weryfikacji wieku, - ZGODA\n- prowadzenie rejestru stron udostępniających treści pornograficzne niezgodnie z ustawą. - Wypracowanie odpowiednich mechanizmów blokujących strony wpisane do rejestru powinno skutkować również uniemożliwieniem przeniesienia strony do innego przedsiębiorcy telekomunikacyjnego, ponieważ właściciel strony może ją w nieskończoność przenosić, czyniąc tym samym dostępną swoją stronę na 48h pomiędzy kolejnymi wpisami do rejestru..\nDodatkowo, tak w rzeczywistości, to ja nie do końca wierzę, że istnieją takie sposoby weryfikacji wieku, które będą działać w 100%. Jeśli małoletni się uprze, to i tak obejdzie wszystkie zabezpieczenia.",
+      "autor": "Piksa Monika",
+      "ankieta_nr": 10791
+    },
+    {
+      "lp": 9,
+      "nr": null,
+      "komentarz": "Uważam, że problem związany z pornografią powinien zostać rozwiązany, a nad stronami internetowymi, do których obecnie każdy ma bezpłatny dostęp, powinna być sprawowana odpowiednia kontrola. Przede wszystkim przed wejściem na taką stronę powinna być weryfikacja wieku w sposób skuteczny, uniemożliwiający młodym osobom jej obejście. Problem ciągle postępuje i dotyka coraz większej liczby bardzo młodych ludzi, kształtując w ich umysłach nierealistyczne wyobrażenia na temat relacji i intymności, szkodzi relacjom międzyludzkim.",
+      "autor": "Pomorska Zuzanna",
+      "ankieta_nr": 10797
+    },
+    {
+      "lp": 10,
+      "nr": null,
+      "komentarz": "To na rodzicach spoczywa odpowiedzialność, za oglądane w Internecie treści. Wprowadzanie ograniczeń w Internecie może spotkać się z ogromną falą krytyki. Wiele firm za małe pieniądze oferuje kompleksowe rozwiązania (aplikacje i programy) do ograniczania treści i to rodzic decyduje do czego dziecko ma dostęp.",
+      "autor": "Drężek Szymon",
+      "ankieta_nr": 10814
+    },
+    {
+      "lp": 11,
+      "nr": null,
+      "komentarz": "W Ustawie traktowane są jako synonimiczne pojęcia \"strony internetowej\" oraz \"domeny internetowej\", a są to zupełnie różne rzeczy.",
+      "autor": "Karocki Piotr",
+      "ankieta_nr": 10824
+    },
+    {
+      "lp": 12,
+      "nr": null,
+      "komentarz": "Bardzo ważna ustawa, proszę ją jak najszybciej procedować. Mówię to jako człowiek, mąż, mężczyzna i ojciec.",
+      "autor": "Kulma Robert",
+      "ankieta_nr": 10842
+    },
+    {
+      "lp": 13,
+      "nr": null,
+      "komentarz": "Bzdury i jeszcze raz bzdury",
+      "autor": "Prymas Łukasz",
+      "ankieta_nr": 10854
+    },
+    {
+      "lp": 14,
+      "nr": null,
+      "komentarz": "Ustawę w 100% popieram natomiast problem jest taki że dla chcącego młodego nic trudnego. Jak Ustawodawca sprawdzi na przykład Discorda na którym jest pełno serwerów typu NSFW - Discord jest prywatną platformą z siedzibą w Ameryce. Nie wymusimy na noch wielkij wertyfikacji wiekowej - w tym momencie weryfikacja wiku wykląda że trzeba kliknąć \"Tak\"",
+      "autor": "Gratowski Kacper",
+      "ankieta_nr": 10863
+    },
+    {
+      "lp": 15,
+      "nr": null,
+      "komentarz": "Uważam że Istnieje wiele narzędzi do kontroli niepełnoletnich więc państwo w mojej opinii nie powinno ingerować ponieważ są to duże koszty dla budżetu polskiego oraz państwowe narzędzia zawsze są nieefektywne oraz nie rozwiąże to całkowicie problemu",
+      "autor": "Studziżba Dawid",
+      "ankieta_nr": 10903
+    },
+    {
+      "lp": 16,
+      "nr": null,
+      "komentarz": "Bardzo ważne jest, żeby ograniczyć dostęp dzieciom do pornografii.",
+      "autor": "Pawluczuk Patryk",
+      "ankieta_nr": 10906
+    },
+    {
+      "lp": 17,
+      "nr": null,
+      "komentarz": "Nie została wylistowana w projekcie ustawy sankcje, grzywny i kary wynikające z braku skutecznej weryfikacji wieku użytkownika.",
+      "autor": "Ostojski Tomasz",
+      "ankieta_nr": 10913
+    },
+    {
+      "lp": 18,
+      "nr": null,
+      "komentarz": "Rozwiązania ochrony przewidziane w ustawie są nieskuteczne, prawo będzie uderzać w podmioty krajowe dostarczające treści pornograficzne. Wobec podmiotów zagranicznych będzie nieskuteczne, czy to chodzi o zwalczenie krajowej konkurencji w pornografii?",
+      "autor": "Puchalski Jarosław",
+      "ankieta_nr": 10928
+    },
+    {
+      "lp": 19,
+      "nr": null,
+      "komentarz": "\"Skuteczna\" weryfikacja wieku osób korzystających ze stron pornograficznych zawsze będzie stwarzała ryzyko wycieku danych osobowych osób korzystających z takich stron. Młodzież raczej trzeba edukować i przekazywać im wartości i wzorce postępowania niż iść w stronę zakazów, które albo będą bardziej lub mniej skutecznie obchodzić, albo sami wygenerują materiały pornograficzne używając AI. Dlatego powinno się odrzucić projekt w całości.",
+      "autor": "Gertych Artur",
+      "ankieta_nr": 10933
+    },
+    {
+      "lp": 20,
+      "nr": null,
+      "komentarz": "Uważam, że tego typo rozwiązanie jest potrzebne. Nie wiem na ile realne jest wprowadzenie systemu kontroli, który proponuje ustawodawcy, ale liczę że osoby bardziej kompetentne będą mogły się do tego odnieść.",
+      "autor": "Pisarek Natalia",
+      "ankieta_nr": 10947
+    },
+    {
+      "lp": 21,
+      "nr": null,
+      "komentarz": "Niestety nie uchronimy przed złą stroną internetu. To jest codzienność.. Powstrzymajmy jednak tych złych doroslych w internecie. Ograniczmy jak się da. Ustawa jak najbardziej potrzebna!",
+      "autor": "Chmielewska Karolina",
+      "ankieta_nr": 11004
+    },
+    {
+      "lp": 22,
+      "nr": null,
+      "komentarz": "Uważam,że nad ustawą powinno się pracować razem z rządem i Sejmem i komisjami. Dlatego nie powinno się go odrzucać tylko wprowadzać poprawki albo połaczyć z pomysłami ministerialnymi.",
+      "autor": "Kaluga Ilona",
+      "ankieta_nr": 11008
+    },
+    {
+      "lp": 23,
+      "nr": null,
+      "komentarz": "Fermy przemysłowe nie należą do dziedzictwa wsi ani nie stanowią żadnej wartości społecznej i nie powinny być lokalizowane blisko miejsc zamieszkania",
+      "autor": "Wiącek Krzysztof",
+      "ankieta_nr": 11030
+    },
+    {
+      "lp": 24,
+      "nr": null,
+      "komentarz": "Jako izba gospodarcza zrzeszająca przedsiębiorców telekomunikacyjnych w pełni popieramy obciążenie dostawców treści pornograficznych obowiązkiem skutecznej weryfikacji wieku. W odniesieniu do rejestru domen służących do udostępniania treści pornograficznych niezgodnie z ustawą, Izba konsekwentnie postuluje stworzenie jednego rejestru domen, które przedsiębiorcy telekomunikacyjni byliby zobowiązani blokować, zamiast kolejnych wersji pojedynczych rejestrów na wzór rejestru domen hazardowych. Należy podkreślić, że tym podmiotem, który powinien zostać zobowiązany do \"usuwania z systemów teleinformatycznych\" nazw domen wpisanych do odpowiedniego rejestru jest dostawca DNS (domain name system), a nie przedsiębiorca telekomunikacyjny. Większość przedsiębiorców telekomunikacyjnych posiada także system DNS, jednak nie jest to reguła, a posiadanie systemu DNS nie stanowi elementu usługi dostępu do internetu.",
+      "autor": "Pawłowska-Nojszewska Kinga",
+      "ankieta_nr": 11221
+    },
+    {
+      "lp": 25,
+      "nr": null,
+      "komentarz": "Po pierwsze chciałbym zaznaczyć, że jestem przeciwny wszelkim próbom regulowania i cenzury Internetu. Po drugie, uważam za szkodliwe zwiększanie biurokratyzacji poprzez obarczanie UKE i dostawców usług sieciowych dodatkowymi zadaniami. Wątpię też w skuteczność działania polskich organów regulacyjnych. Szacunkowe dane wskazują, że aż do 30% całkowitych zasobów sieciowych może mieć charakter pornograficzny. Próba ograniczenia dostępu do takiej ilości danych jest walką z wiatrakami z góry skazaną na porażkę. Nie wspominając o możliwościach obejścia krajowych regulacji.\nPo trzecie z racji stosunkowo małego krajowego rynku pornograficznego wątpię, aby właściciele domen o takim charakterze próbowali dostosować się rozwiązań przedstawionych w niniejszym projekcie. Zatem jeśli trafią na \"czarną listę\" po prostu pogodzą się z utratą części wpływów. Na tym stracą pełnoletni entuzjaści treści erotycznych, którzy będą mieli utrudniony dostęp do nich.",
+      "autor": "Wysocki Jakub",
+      "ankieta_nr": 11259
+    }
+  ],
+  "pytania_6_12": [
+    {
+      "lp": 1,
+      "nr": "Pyt. 6",
+      "komentarz": "Problemy wiązane z pornografią należy rozwiązać przez edukację",
+      "autor": "Gąsior Michał",
+      "ankieta_nr": 10645
+    },
+    {
+      "lp": 2,
+      "nr": "Pyt. 6",
+      "komentarz": "Tylko odpowiednia edukacja (w tym edukacja seksualna w szkole) pomoże wypracować odpowiednie wzorce zachowań i zapobiegać skutkom powszechnego dostępu do pornografii. Zakazany owoc zawsze przyciąga - zamiast robić z pornografii temat tabu, lepiej nauczyć prawidłowych wzorców i sposób obchodzenia się z nią.",
+      "autor": "Świeczkowski Grzegorz",
+      "ankieta_nr": 10649
+    },
+    {
+      "lp": 3,
+      "nr": "Pyt. 6",
+      "komentarz": "Należy edukować dzieci na temat seksualności i zagrożeń wynikających z Internetu.",
+      "autor": "Wojciechowski Krzysztof",
+      "ankieta_nr": 10651
+    },
+    {
+      "lp": 4,
+      "nr": "Pyt. 6",
+      "komentarz": "Edukowanie",
+      "autor": "Sabiło Marcin",
+      "ankieta_nr": 10745
+    },
+    {
+      "lp": 5,
+      "nr": "Pyt. 6",
+      "komentarz": "Wprawdzie nie znam innego sposobu, ale uważam, że ustawa i tak nie rozwiąże problemu. Może go troszkę złagodzi.",
+      "autor": "Piksa Monika",
+      "ankieta_nr": 10791
+    },
+    {
+      "lp": 6,
+      "nr": "Pyt. 6",
+      "komentarz": "jak wyżej.",
+      "autor": "Drężek Szymon",
+      "ankieta_nr": 10814
+    },
+    {
+      "lp": 7,
+      "nr": "Pyt. 6",
+      "komentarz": "Należy wprowadzić oprogramowanie które będzie filtrowało niebezpieczne treści na urządzeniach użytkowanych przez nieletnich. System taki powinien być wsparty AI i powinno się nałożyć ustawowy obowiązek instalacji na rodziców.",
+      "autor": "Puchalski Jarosław",
+      "ankieta_nr": 10928
+    },
+    {
+      "lp": 8,
+      "nr": "Pyt. 6",
+      "komentarz": "Zakazać kompletnie portali z treściami pornograficznymi, ale to sprawiłoby tylko, że więcej osób szukało by ich w bardziej nielegalny sposób, pozatym osoby dorosłe głównie mężczyźni by się na to nie zgodzili gdyż lubią pornografię, a obecnie mężczyźni stanowią większość w Sejmie więc niezgodziliby się na coś takiego",
+      "autor": "Pisarek Natalia",
+      "ankieta_nr": 10947
+    },
+    {
+      "lp": 9,
+      "nr": "Pyt. 6",
+      "komentarz": "Dodatkowo z propozycjami ministerialnymi.",
+      "autor": "Kaluga Ilona",
+      "ankieta_nr": 11008
+    },
+    {
+      "lp": 10,
+      "nr": "Pyt. 6",
+      "komentarz": "Plany zagospodarowania i minimalne odległości",
+      "autor": "Wiącek Krzysztof",
+      "ankieta_nr": 11030
+    },
+    {
+      "lp": 11,
+      "nr": "Pyt. 6",
+      "komentarz": "Możliwe jest promowanie wiedzy wśród rodziców na temat dostępnych na rynku filtrów rodzicielskich oraz narzędzia mOchrona stworzonego przez NASK ze środków publicznych.",
+      "autor": "Pawłowska-Nojszewska Kinga",
+      "ankieta_nr": 11221
+    },
+    {
+      "lp": 12,
+      "nr": "Pyt. 6",
+      "komentarz": "Po pierwsze należy wspomnieć, że już istnieją rozwiązania (np. filtry czy narzędzia kontroli dostępu) które pozwalają rodzicom albo instytucjom publicznym ograniczyć dostęp młodocianych do treści pornograficznych.\nPo drugie, uważam że skuteczniejsza będzie edukacja młodzieży w zakresie bezpiecznego posługiwania się Internetem i wychowanie zgodnie z zasadami chrześcijańskiej moralności.",
+      "autor": "Wysocki Jakub",
+      "ankieta_nr": 11259
+    },
+    {
+      "lp": 13,
+      "nr": "Pyt. 7",
+      "komentarz": "Jak każdy zakaz dotyczący tylko małoletnich spowoduje wzrost atrakcyjności tego co zakazane. Będzie on nie skuteczny technicznie, a spowoduje ryzyka związane z prywatnością.",
+      "autor": "Gąsior Michał",
+      "ankieta_nr": 10645
+    },
+    {
+      "lp": 14,
+      "nr": "Pyt. 7",
+      "komentarz": "Proponowane rozwiązania nie rozwiążą problemu. Wobec powszechnych sposobów tunelowania ruchu (np bezpłątne VPN, proxy) bez problemu można łączyć się do dowolnych zasobów poprzez kraje pośrednie. Sztuczki techniczne nie są tajemnicą dla młodzieży. Wprowadzenie mechanizmów kontroli i rejestru dostępów wraz z autentykacją stwarza natomiast niebezpieczeństwo inwigilacji i naruszenia prywatności.",
+      "autor": "Świeczkowski Grzegorz",
+      "ankieta_nr": 10649
+    },
+    {
+      "lp": 15,
+      "nr": "Pyt. 7",
+      "komentarz": "Nie do końca wierzę, że istnieją takie sposoby weryfikacji wieku, które będą działać w 100%. Jeśli małoletni się uprze, to i tak obejdzie wszystkie zabezpieczenia.",
+      "autor": "Piksa Monika",
+      "ankieta_nr": 10791
+    },
+    {
+      "lp": 16,
+      "nr": "Pyt. 7",
+      "komentarz": "Ograniczanie swobód obywatelskich.",
+      "autor": "Drężek Szymon",
+      "ankieta_nr": 10814
+    },
+    {
+      "lp": 17,
+      "nr": "Pyt. 7",
+      "komentarz": "Nie uwzględnia osób najbardziej dotkniętych skutkami lokalizacji ferm",
+      "autor": "Wiącek Krzysztof",
+      "ankieta_nr": 11030
+    },
+    {
+      "lp": 18,
+      "nr": "Pyt. 8",
+      "komentarz": "Ustawa sprawi że Polskie firmy będą musiał się dostosować do przepisów i będą nie konkurencyjne do zagranicznych które je zignorują, a klienci będą obchodzić zakaz.",
+      "autor": "Gąsior Michał",
+      "ankieta_nr": 10645
+    },
+    {
+      "lp": 19,
+      "nr": "Pyt. 8",
+      "komentarz": "W projekcie jest zapis mówiący o braku wpływu na gospodarkę. Ja uważam, że ograniczenie dostępności pornografii ma znaczący wpływ na gospodarkę choćby dlatego, że osoba \"bombardująca\" się pornografią jest (m. in. z uwagi na zmiany psychiczne) znacznie mniej wydajnym i wartościowym pracownikiem. Tym bardziej, jeśli swoją \"przygodę\" z pornografią rozpocznie w młodym wieku.",
+      "autor": "Piksa Monika",
+      "ankieta_nr": 10791
+    },
+    {
+      "lp": 20,
+      "nr": "Pyt. 8",
+      "komentarz": "Ograniczanie swobód obywatelskich.",
+      "autor": "Drężek Szymon",
+      "ankieta_nr": 10814
+    },
+    {
+      "lp": 21,
+      "nr": "Pyt. 8",
+      "komentarz": "Projekt narzuca stworzenie wiarygodnego systemu weryfikacji wieku, co nie jest proste pod względem technicznym ani prawnym. W dodatku tak stworzony system zapewne trzeba byłoby zmieniać gdy zostaną zakończone w EU prace zmierzające do stworzenia unijnego systemu weryfikacji wieku.",
+      "autor": "Karocki Piotr",
+      "ankieta_nr": 10824
+    },
+    {
+      "lp": 22,
+      "nr": "Pyt. 8",
+      "komentarz": "Koszty środowiskowe przewyższają zyski dla gospodarki",
+      "autor": "Wiącek Krzysztof",
+      "ankieta_nr": 11030
+    },
+    {
+      "lp": 23,
+      "nr": "Pyt. 8",
+      "komentarz": "Brak analizy skutków finansowych dla przedsiębiorców telekomunikacyjnych oraz dla wielu producentów aplikacji - filtrów rodzicielskich.",
+      "autor": "Pawłowska-Nojszewska Kinga",
+      "ankieta_nr": 11221
+    },
+    {
+      "lp": 24,
+      "nr": "Pyt. 9",
+      "komentarz": "Pominięto skutki finansowe dla polski firm.",
+      "autor": "Gąsior Michał",
+      "ankieta_nr": 10645
+    },
+    {
+      "lp": 25,
+      "nr": "Pyt. 9",
+      "komentarz": "W ustawie nie przedstawiono takiej oceny.",
+      "autor": "Wojciechowski Krzysztof",
+      "ankieta_nr": 10651
+    },
+    {
+      "lp": 26,
+      "nr": "Pyt. 9",
+      "komentarz": "Jeżeli do zadań Prezesa UKE wpisane zostanie prowadzenie prac badawczych dotyczących wpływu pornografii na małoletnich i popularyzowanie rozwiązań chroniących przed treściami pornograficznymi, co (z uwagi na badania wykonywane już w tym zakresie na świecie, na których wyniki powołuje się zresztą projekt) jest zadaniem zupełnie zbędnym, to wygeneruje to nadmiarowe koszty, które nie będą \"minimalne\" (jak zakłada projekt).",
+      "autor": "Piksa Monika",
+      "ankieta_nr": 10791
+    },
+    {
+      "lp": 27,
+      "nr": "Pyt. 9",
+      "komentarz": "Ograniczanie swobód obywatelskich.",
+      "autor": "Drężek Szymon",
+      "ankieta_nr": 10814
+    },
+    {
+      "lp": 28,
+      "nr": "Pyt. 9",
+      "komentarz": "Koszty nie są tak minimalne jak sugeruje projekt, bowiem sprawdzenie wypełnienia 2.2.b (\"istotną część\") oznacza konieczność przeglądnięcia dużej części serwisu; można przyjąć że jedno zgłoszenie oznacza dwa..trzy osobo-dni sprawdzania. Przy aktualnym zalewie treściami pornograficznymi, konieczna obsada weryfikatorów to raczej kilkaset osób niż kilka.",
+      "autor": "Karocki Piotr",
+      "ankieta_nr": 10824
+    },
+    {
+      "lp": 29,
+      "nr": "Pyt. 9",
+      "komentarz": "Koszty środowiskowe przewyższają zyski dla gospodarki",
+      "autor": "Wiącek Krzysztof",
+      "ankieta_nr": 11030
+    },
+    {
+      "lp": 30,
+      "nr": "Pyt. 9",
+      "komentarz": "Brak analizy skali potrzebnych środków finansowych dla Prezesa UKE, aby mógł realizować zadania wskazane w projektowanej ustawie.",
+      "autor": "Pawłowska-Nojszewska Kinga",
+      "ankieta_nr": 11221
+    },
+    {
+      "lp": 31,
+      "nr": "Pyt. 9",
+      "komentarz": "Uważam, że próba egzekwowania zapisów projektu w pełnym zakresie przekracza siły i środki UKE, a częściowa realizacja tych założeń nie pozwoli na wymierną realizację postawionych celów.",
+      "autor": "Wysocki Jakub",
+      "ankieta_nr": 11259
+    },
+    {
+      "lp": 32,
+      "nr": "Pyt. 10",
+      "komentarz": "Ograniczanie swobód obywatelskich.",
+      "autor": "Drężek Szymon",
+      "ankieta_nr": 10814
+    },
+    {
+      "lp": 33,
+      "nr": "Pyt. 10",
+      "komentarz": "Nie uwzględnia zabezpieczenia interesów osób narażonych na skutki funkcjonowania ferm",
+      "autor": "Wiącek Krzysztof",
+      "ankieta_nr": 11030
+    },
+    {
+      "lp": 34,
+      "nr": "Pyt. 11",
+      "komentarz": "Obecnie operatorzy internetowi już blokują strony hazardowe i hackerskie w oparciu o DNS, przy dodaniu stron pornografincyh duża część osób może zdecydować się używać systemów DNS globalnych w celu ominięcia blokady. Co zwiększy ryzyko ataków hakerskich i dostęp do stron hazardowych.",
+      "autor": "Gąsior Michał",
+      "ankieta_nr": 10645
+    },
+    {
+      "lp": 35,
+      "nr": "Pyt. 11",
+      "komentarz": "Stosowanie kontroli dostępu będzię prowadziło do zwiększenia inwigilacji. Zebrane dane dostępów do stron o charakterze pornograficznym przez osoby pełnoletnie, które będą musiały zweryfikować swój wiek, może prowadzić do ujawnienia danych o orientacji seksualnej, częstości korzystania z pornografii itd. co może posłużyć np do szantażowania osób w związkach lub na eksponowanych stanowiskach.",
+      "autor": "Świeczkowski Grzegorz",
+      "ankieta_nr": 10649
+    },
+    {
+      "lp": 36,
+      "nr": "Pyt. 11",
+      "komentarz": "Umożliwienie łatwej cenzury Internetu. Jeżeli na stronie może się pojawić zawartość tworzona przez użytkowników (user-generated content), to może się tam pojawić treść nielegalna według projektowanej ustawy, a następnie złożony zostanie donos na tę stronę (art. 7 ust. 3) i strona zostanie zablokowana.",
+      "autor": "Wojciechowski Krzysztof",
+      "ankieta_nr": 10651
+    },
+    {
+      "lp": 37,
+      "nr": "Pyt. 11",
+      "komentarz": "Ograniczanie swobód obywatelskich.",
+      "autor": "Drężek Szymon",
+      "ankieta_nr": 10814
+    },
+    {
+      "lp": 38,
+      "nr": "Pyt. 11",
+      "komentarz": "Dzieciaki będą szukać pornografii na mniej bezpiecznych stronach typu Telegram czy Discord gdzie będą narażone na atak pedofili",
+      "autor": "Gratowski Kacper",
+      "ankieta_nr": 10863
+    },
+    {
+      "lp": 39,
+      "nr": "Pyt. 11",
+      "komentarz": "Degradacja środowiska i krajobrazu wiejskiego",
+      "autor": "Wiącek Krzysztof",
+      "ankieta_nr": 11030
+    },
+    {
+      "lp": 40,
+      "nr": "Pyt. 12",
+      "komentarz": "Ustawa wpłynie na wszystkich użytkowników Internetu.",
+      "autor": "Wojciechowski Krzysztof",
+      "ankieta_nr": 10651
+    },
+    {
+      "lp": 41,
+      "nr": "Pyt. 12",
+      "komentarz": "Ogół obywateli RP",
+      "autor": "Drężek Szymon",
+      "ankieta_nr": 10814
+    },
+    {
+      "lp": 42,
+      "nr": "Pyt. 12",
+      "komentarz": "Wpłynie głównie na rozpowszechnianie pornografii w mniej bezpieczny sposób",
+      "autor": "Gratowski Kacper",
+      "ankieta_nr": 10863
+    },
+    {
+      "lp": 43,
+      "nr": "Pyt. 12",
+      "komentarz": "Dostawcy aplikacji - filtrów rodzicielskich.",
+      "autor": "Pawłowska-Nojszewska Kinga",
+      "ankieta_nr": 11221
+    }
+  ],
+  "artykuly": [
+    {
+      "lp": 1,
+      "nr": "Art. 1",
+      "komentarz": "Obowiązki przedsiębiorców telekomunikacyjnych, o których mowa w projekcie ustawy, dotyczą uniemożliwienia połączenia nazwy domeny internetowej z numerem IP, gdy nazwa domeny została ujęta w Rejestrze, o którym mowa w projekcie ustawy. Odpowiednimi adresatami tego obowiązku powinni być dostawcy DNS (zob. uwaga do projektowanego art. 9).",
+      "autor": "Pawłowska-Nojszewska Kinga",
+      "ankieta_nr": 11221
+    },
+    {
+      "lp": 2,
+      "nr": "Art. 2",
+      "komentarz": "Definicja małoletniego jest zbędna, ponieważ wynika ona z Kodeksu cywilnego.",
+      "autor": "Pakosz Mieczysław",
+      "ankieta_nr": 10726
+    },
+    {
+      "lp": 3,
+      "nr": "Art. 2",
+      "komentarz": "Rozszerzenie definicji \"podmiotu udostępniającego treści pornograficzne\" - można dodać podmioty udostępniające treści pornograficzne za pośrednictwem platform streamingowych, platformy społecznościowe, na których takie treści co raz częściej się pojawiają.\nDoprecyzowanie \"treści pornograficznych\" - dodanie zapisu, że treści pornograficzne obejmują także materiały dźwiękowe o wyraźnie seksualnym charakterze.",
+      "autor": "Pomorska Zuzanna",
+      "ankieta_nr": 10797
+    },
+    {
+      "lp": 4,
+      "nr": "Art. 2",
+      "komentarz": "1) proponowałbym zapis analogiczny do zapisu w ustawie o rzeczniku praw dziecka:\n\"W rozumieniu ustawy dzieckiem jest każda istota ludzka od poczęcia do osiągnięcia pełnoletności. Uzyskanie pełnoletności określają odrębne przepisy.\"\n2) Zgodnie z tu podaną definicją, wydawca podręcznika do seksuologii jest podmiotem udostępniającym treści pornograficzne, co wydaje się jednak przesadą.",
+      "autor": "Karocki Piotr",
+      "ankieta_nr": 10824
+    },
+    {
+      "lp": 5,
+      "nr": "Art. 2",
+      "komentarz": "\"[...]istotną część zawartości strony\" - ile? 50% 60% w jaki sposób ma to być weryfikowane? Jest to łatwe do obejścia wystarczy że taki PornHub na 1 film pornograficzny wstawi 10 filmów jak obliczyć całkę. i już są czyści",
+      "autor": "Gratowski Kacper",
+      "ankieta_nr": 10863
+    },
+    {
+      "lp": 6,
+      "nr": "Art. 2",
+      "komentarz": "w punkcie 2 dodałbym podmiot, na którego stronie w sieci Internet znajdują się reklamy o treści pornograficznej lub treści zbliżonych.\nNp. bardzo dużo jest tego typu reklam na stronach takich jak YouTube czy TikTok",
+      "autor": "Pawluczuk Patryk",
+      "ankieta_nr": 10906
+    },
+    {
+      "lp": 7,
+      "nr": "Art. 3",
+      "komentarz": "Doprecyzowanie sposobów weryfikacji wieku np:\nweryfikacji dokumentu tożsamości (dowód osobisty, paszport, prawo jazdy),\nweryfikacji przez zewnętrznych dostawców usług autoryzacji wieku,",
+      "autor": "Pomorska Zuzanna",
+      "ankieta_nr": 10797
+    },
+    {
+      "lp": 8,
+      "nr": "Art. 3",
+      "komentarz": "W tytule artykułu użyte jest niezdefiniowane określenie \"kwalifikowane treści pornograficzne\" - czym to się różni od \"treści pornograficzne\"?",
+      "autor": "Karocki Piotr",
+      "ankieta_nr": 10824
+    },
+    {
+      "lp": 9,
+      "nr": "Art. 3",
+      "komentarz": "Ust 3. Co jest uznawane za działania, których nie można oczekiwać od standardowego odbiorcy? Inspect Element czy może modyfikowanie klienta",
+      "autor": "Gratowski Kacper",
+      "ankieta_nr": 10863
+    },
+    {
+      "lp": 10,
+      "nr": "Art. 3",
+      "komentarz": "Jeśli chodzi o takie strony jak Twitter czy Reddit, które nie są stricte stronami p*rnorgaficznymi, należałoby zwiększyć zabezpieczenia. Na tych stronach treści p*rnograficzne są fabrycznie zamazane, ale wystarczy kliknąć, że chcesz widzieć, bez żadnej weryfikacji i każdy ma dostęp, w czym dzieci.",
+      "autor": "Pawluczuk Patryk",
+      "ankieta_nr": 10906
+    },
+    {
+      "lp": 11,
+      "nr": "Art. 3",
+      "komentarz": "Powinno znaleźć się coś o weryfikacji po jakimś okresie czasu, czy dane kryteria są wystaczajace i skuteczne czy też należy je skorygować.",
+      "autor": "Pisarek Natalia",
+      "ankieta_nr": 10947
+    },
+    {
+      "lp": 12,
+      "nr": "Art. 4",
+      "komentarz": "Należy wykreślić punkt 6! A przynajmniej pierwszą jego część dotyczącą prowadzenia prac badawczych dotyczących wpływu pornografii na małoletnich przez Prezesa UKE. Zupełnie niepotrzebne działanie - wszyscy logicznie myślący ludzie wiedzą, jaki wpływ ma pornografia na małoletnich (i nie tylko) i nie są do określenia tego potrzebne żadne dodatkowe badania generujące nadmiar obowiązków i KOSZTÓW.",
+      "autor": "Piksa Monika",
+      "ankieta_nr": 10791
+    },
+    {
+      "lp": 13,
+      "nr": "Art. 4",
+      "komentarz": "Nie widzę tutaj sposoby karania domen nie działających zgodnie z ustawą poza ich zapisywaniem. Powinny im grozić konkretne konsekwecje za brak poprawy ich systemu weryfikacji przez powiedziecmy 2/3 miesiące oraz przepisy, które uniemożliwiły by proste zmienianie domen tak by \"wyślizgiwać się\" terminom wprowadzenia popraw przez jednego twórcę strony. Mam tu na myśli że wlascieliel mógłby unikać prawa przez mała zmianę domen z pozostawianiem łatwego dostępu dla małoletnich.",
+      "autor": "Pisarek Natalia",
+      "ankieta_nr": 10947
+    },
+    {
+      "lp": 14,
+      "nr": "Art. 5",
+      "komentarz": "pkt. 2 - inicjowanie prac badawczych w zakresie wpływu treści pornograficznych na małoletnich - j.w.",
+      "autor": "Piksa Monika",
+      "ankieta_nr": 10791
+    },
+    {
+      "lp": 15,
+      "nr": "Art. 5",
+      "komentarz": "Do obowiązków Rady powinno należeć organizowanie materiałów, programów edukacyjnych dla dzieci, młodzieży i rodziców, aby wiedzieli w jaki sposób mogą pomóc swojemu dziecku.",
+      "autor": "Pomorska Zuzanna",
+      "ankieta_nr": 10797
+    },
+    {
+      "lp": 16,
+      "nr": "Art. 5",
+      "komentarz": "Wśród członków Rady dobrze byłoby mieć kogoś reprezentującego naukę (głównie socjologów i psychologów). Co prawda organizacje wymienione w (3.1) powinny się posiłkować osiągnięciami/badaniami naukowymi, ale warto byłoby do świata nauki odwoływać się bezpośrednio, a nie za pośrednictwem \"jakichś-tam\" organizacji.",
+      "autor": "Karocki Piotr",
+      "ankieta_nr": 10824
+    },
+    {
+      "lp": 17,
+      "nr": "Art. 5",
+      "komentarz": "Nie jestem pewna czy powstanie rady jest konieczne dla wprowadzenia dobrej weryfikacji wieku na portalach pornograficznych. Sama idea tego typy instytucji mogłaby miec sens jednak nie jestem pewna czy jej zadania nie pokrywałyby się z już istniejącymi organami. Duża role odgrywa też wynagrodzenia członków rady i to w jaki sposób moga współpracować z różnego rodzaju specjalistami. Nie jest również wspomniane jakie kompetencje powinny posiadać te osoby, tylko z jakich środowisk się one wywodzą.",
+      "autor": "Pisarek Natalia",
+      "ankieta_nr": 10947
+    },
+    {
+      "lp": 18,
+      "nr": "Art. 6",
+      "komentarz": "\"istotną część\" tutaj w 3 jest powtórzeniem z definicji.",
+      "autor": "Karocki Piotr",
+      "ankieta_nr": 10824
+    },
+    {
+      "lp": 19,
+      "nr": "Art. 6",
+      "komentarz": "Rozumiem ze powszechny dostęp do tego spisu ułatwił by znalezienie tych stron przez osoby małoletnie, jednak z drugiej strony rodzice mieliby możliwość blokowania określonych domen na urządzeniach i w sieci domowej z której korzystają osoby małoletnie. Może warto byłoby udostępnić te domeny osoba dorosłym za bo pomocom profilu zaufanego, którego z tego co wiem nie mogą mieć osoby nieletnie?",
+      "autor": "Pisarek Natalia",
+      "ankieta_nr": 10947
+    },
+    {
+      "lp": 20,
+      "nr": "Art. 6",
+      "komentarz": "Konsekwentnie podnoszonym postulatem KIKE jest, aby stworzyć jeden rejestr, do którego przedsiębiorcy będą zobowiązani sięgać, gdy kolejny projekt ustawy nałoży na nich obowiązek blokowania domen internetowych. Postulujemy, aby nie tworzyć kolejnego rejestru, lecz raczej stworzyć kolejną funkcjonalność w istniejącym rejestrze domen hazardowych, niezależnie od nowej roli przewidzianej dla Prezesa UKE.",
+      "autor": "Pawłowska-Nojszewska Kinga",
+      "ankieta_nr": 11221
+    },
+    {
+      "lp": 21,
+      "nr": "Art. 7",
+      "komentarz": "Literówka do naprawy - 1. Wpisu do Rejestm",
+      "autor": "Piksa Monika",
+      "ankieta_nr": 10791
+    },
+    {
+      "lp": 22,
+      "nr": "Art. 7",
+      "komentarz": "4 - \"w ust. 2, po jego weryfikacji\". Bez weryfikacji rejestr mógłby zostać wykorzystany przez biznes do blokowania stron konkurencji.",
+      "autor": "Karocki Piotr",
+      "ankieta_nr": 10824
+    },
+    {
+      "lp": 23,
+      "nr": "Art. 7",
+      "komentarz": "\"Wpis do REJESTRU\" chyba powinno być, a nie Rejestm.",
+      "autor": "Pawluczuk Patryk",
+      "ankieta_nr": 10906
+    },
+    {
+      "lp": 24,
+      "nr": "Art. 8",
+      "komentarz": "Po zablokowaniu domeny wysłanie email będzie niemożliwe - dlatego należy rozróżnić między domenami a serwisami www.",
+      "autor": "Karocki Piotr",
+      "ankieta_nr": 10824
+    },
+    {
+      "lp": 25,
+      "nr": "Art. 9",
+      "komentarz": "-Rozszerzenie obowiązków przedsiębiorców telekomunikacyjnych\n-Blokowanie alternatywnych metod dostępu - warto dodać, że przedsiębiorcy telekomunikacyjni powinni blokować również alternatywne sposoby dostępu do stron wpisanych do Rejestru (np. VPN-y).\n-Obowiązek raportowania - można dodać wymóg raportowania do Prezesa UKE o zablokowanych domenach oraz przypadkach prób ich obejścia.\n-Automatyczna synchronizacja Rejestru - systemy telekomunikacyjne powinny automatycznie synchronizować Rejestr blokowanych domen w celu uniknięcia opóźnień w egzekwowaniu blokad.",
+      "autor": "Pomorska Zuzanna",
+      "ankieta_nr": 10797
+    },
+    {
+      "lp": 26,
+      "nr": "Art. 9",
+      "komentarz": "Brak technicznej możliwości realizacji przekierowań - zapewne w projekcie chodzi o przekierowania www, ale zapisane jest przekierowanie domeny. Np. przy próbie wykorzystania adresu typu vpn.zablokowana.domena do połączenia VPN, przy próbie wysłania emaila (np. smtp.zablokowana.domena). Protokół SMTP nie pozwala na przekierowywanie do strony WWW (ani żaden inny protokół poza protokołem WWW).\nUsługi płatnicze - powiedzmy że jest zablokowana.domena, na niej była kontrolka PayPala do płacenia, w jej ramach płaci się poprzez organzację VISA kartą banku PKO. Który z tych podmiotów jest zobowiązany zablokować płatność? Paypal? VISA? Bank PKO? Który z tych podmiotów, poza ewentualnie Paypal, wie z jakiej strony WWW (domeny internetowej) dokonywana jest płatność?",
+      "autor": "Karocki Piotr",
+      "ankieta_nr": 10824
+    },
+    {
+      "lp": 27,
+      "nr": "Art. 9",
+      "komentarz": "Podmiotem, który zarządza systemami teleinformatycznymi, które służą do zamiany nazw domen internetowych na adresy IP, są dostawcy usług DNS, a nie przedsiębiorcy telekomunikacyjni, czy też przedsiębiorcy komunikacji elektronicznej. Oferowanie usługi translacji nazw domen na numer IP nie stanowi elementu usługi telekomunikacyjnej, lecz stanowi usługę DNS. Wyraźne rozróżnienie pomiędzy dostawcami DNS a przedsiębiorcami komunikacji elektronicznej zostało dokonane m.in. w dyrektywie NIS2 i jest zatem obecne zarazem w projekcie ustawy o zmianie ustawy o krajowym systemie cyberbezpieczeństwa oraz niektórych innych ustaw (UC32) (projekt nowelizacji KSC), który wdraża dyrektywę NIS2 do polskiego porządku prawnego.\nW projekcie nowelizacji KSC ujęto następującą definicję dostawcy usług DNS: \"dostawca usług DNS - podmiot, który świadczy dostępne publicznie rekurencyjne usługi rozpoznawania nazw domen na rzecz ogółu użytkowników końcowych internetu lub autorytatywne usługi rozpoznawania nazw domen do użytku ogółu użytkowników końcowych internetu, z wyjątkiem głównych serwerów nazw\" (projektowany art. 2 pkt 4f KSC). To podmioty świadczące usługi rozpoznawania nazw domen (i przyporządkowywania ich odpowiednim adresom IP) mogą zrealizować obowiązki, o których mowa w art. 9 ust. 1 projektu ustawy. Zdecydowana większość przedsiębiorców telekomunikacyjnych świadczy również usługę DNS, ale nie wszyscy. Wielu przedsiębiorców telekomunikacyjnych posługuje się serwerami DNS dostarczanymi przez innych dostawców, w szczególności darmowym serwerem DNS Google.\nAdresowanie obowiązków z art. 9 ust. 1 projektu ustawy do dostawców usług DNS zamiast do przedsiębiorców telekomunikacyjnych będzie zatem nie tylko bardziej właściwe tj. obowiązek modyfikacji zapisów na serwerze DNS będzie kierowany do podmiotów, które są w stanie je rzeczywiście wykonać. Adresowanie tych obowiązków do odpowiednich adresatów (dostawców DNS) spowoduje również, że obejście blokowania dostępu do treści pornograficznych nieodpowiednio zabezpieczonych przed dostępem osób małoletnich będzie trudniejsze. Zamiana serwera DNS z serwera dostawcy internetu (o ile dostawca internetu taki serwer posiada) na serwer innego dostawcy (np. dostarczanego przez duże, popularne międzynarodowe korporacje) jest łatwą operacją, którą można wykonać z poziomu własnego urządzenia końcowego.\nPodsumowując, w sytuacji, gdy na to na dostawcach DNS będzie spoczywał obowiązek blokowania dostępu do domen, które nie przestrzegają prawa obowiązującego w Polsce, wówczas (1) obowiązek będzie adresowany do podmiotu, który rzeczywiście będzie mógł ten obowiązek wykonać i zarazem (2) zablokowanie dostępu do takiej domeny będzie bardziej skuteczne.",
+      "autor": "Pawłowska-Nojszewska Kinga",
+      "ankieta_nr": 11221
+    },
+    {
+      "lp": 28,
+      "nr": "Art. 11",
+      "komentarz": "Wyjaśnienie, w jakiej formie podmiot wnoszący sprzeciw otrzymuje decyzję i jakie są dalsze kroki.",
+      "autor": "Pomorska Zuzanna",
+      "ankieta_nr": 10797
+    }
+  ]
+}

@@ -1,0 +1,907 @@
+{
+  "number": "RPW/11430/2026",
+  "title": "Poselski projekt ustawy o zmianie ustawy o wykonywaniu inicjatywy ustawodawczej przez obywateli oraz ustawy - Kodeks wyborczy",
+  "publicConsultationEndDate": "2026-05-02",
+  "calosc": [
+    {
+      "lp": 1,
+      "nr": null,
+      "komentarz": "Bardzo potrzebne rozwiązanie, które zapewni większy dostęp obywateli do inicjatywy ustawodawczej i poprawi poziom demokracji w Polsce.",
+      "autor": "Grabski Rafał",
+      "ankieta_nr": 139577
+    },
+    {
+      "lp": 2,
+      "nr": null,
+      "komentarz": "Ważne usprawnienie a zarazem większa pewność, że podpis należy do prawdziwej osoby - weryfikacja.",
+      "autor": "Kowalczewska Anna",
+      "ankieta_nr": 140145
+    },
+    {
+      "lp": 3,
+      "nr": null,
+      "komentarz": "Bardzo potrzebna ustawa ułatwiająca obywatelom udział w życiu naszego kraju.",
+      "autor": "Paprocki Bogdan",
+      "ankieta_nr": 140182
+    },
+    {
+      "lp": 4,
+      "nr": null,
+      "komentarz": "Bardzo dobre rozwiązanie. Wielu ludzi ma obawy przed składaniem podpisów, żeby \"gdzieś po drodze\" dane nie wyciekły. Poparcie podpisane podpisem zaufanym będzie bezpieczniejsze.",
+      "autor": "Warzocha Daniel",
+      "ankieta_nr": 140368
+    },
+    {
+      "lp": 5,
+      "nr": null,
+      "komentarz": "Zamiast budować jeden monolityczny \"Portal poparcia\", w którym obywatel musi odszukać inicjatywę na długiej liście, system centralny (utrzymywany przez Ministerstwo Cyfryzacji i PKW) powinien udostępniać bezpieczne API (Interfejs Programowania Aplikacji).\nDziałałoby to analogicznie do systemów takich jak KSeF, e-Deklaracje czy systemy bankowe oparte na dyrektywie PSD2. Komitety inicjatywy ustawodawczej (lub organizacje NGO tworzące narzędzia dla komitetów) mogłyby budować własne aplikacje i strony internetowe. Użytkownik wchodziłby na stronę komitetu, czytał postulaty, klikał \"Popieram\", a następnie byłby jedynie przekierowywany do Węzła Krajowego (login.gov.pl) w celu szybkiego uwierzytelnienia (np. mObywatelem), po czym wracałby na stronę komitetu, a sam \"podpis\" trafiałby przez API prosto do bazy PKW.\nZalety rozwiązania dla ankiety konsultacyjnej\nPrecyzyjne mierzenie konwersji i analityka kampanii: Komitety uzyskują pełną kontrolę nad procesem pozyskiwania podpisów.",
+      "autor": "Nowak Jakub",
+      "ankieta_nr": 140606
+    },
+    {
+      "lp": 6,
+      "nr": null,
+      "komentarz": "Powinniśmy więcej spraw możliwych do załatwienia przenosić do Internetu.",
+      "autor": "Langhammer Adam",
+      "ankieta_nr": 140727
+    },
+    {
+      "lp": 7,
+      "nr": null,
+      "komentarz": "dobra",
+      "autor": "Michno Krzysztof",
+      "ankieta_nr": 141366
+    },
+    {
+      "lp": 8,
+      "nr": null,
+      "komentarz": "Budzi wiele wątpliwości co do wyborów i możliwości oszustw.",
+      "autor": "Wierzbicki Przemysław",
+      "ankieta_nr": 142742
+    },
+    {
+      "lp": 9,
+      "nr": null,
+      "komentarz": "Zdecydowanie popieram ten projekt jako kluczowy dla rozwoju polskiej demokracji w XXI wieku. Wymóg zbierania tysięcy papierowych podpisów w dobie powszechnej cyfryzacji jest barierą, która wyklucza wiele cennych inicjatyw obywatelskich. Elektroniczne listy poparcia drastycznie obniżają koszty logistyczne i dają szansę mniejszym, oddolnym komitetom na realne zaistnienie w debacie publicznej.\nCo więcej, system oparty na mObywatelu lub ePUAP gwarantuje pełną weryfikowalność podpisów. Eliminuje to problem nieczytelnych danych czy błędnych numerów PESEL, co do tej pory było zmorą Państwowej Komisji Wyborczej. To rozwiązanie bezpieczne, ekologiczne (brak tysięcy ton papieru) i przede wszystkim uczciwe wobec obywateli.",
+      "autor": "Ludwikowski Maciej",
+      "ankieta_nr": 143142
+    },
+    {
+      "lp": 10,
+      "nr": null,
+      "komentarz": "Uważam, że każdy projekt zwiększający transparentność inicjatywy ustawodawczej oraz zwiększający podmiotowość obywateli w naszym kraju jest potrzebny.",
+      "autor": "Czapla Tomasz",
+      "ankieta_nr": 143221
+    },
+    {
+      "lp": 11,
+      "nr": null,
+      "komentarz": "Idźmy krok dalej w ważnych głosowaniach głos obywatela a nie ustawki partyjne",
+      "autor": "Skibiński Łukasz",
+      "ankieta_nr": 143481
+    },
+    {
+      "lp": 12,
+      "nr": null,
+      "komentarz": "Administracja publiczna dostosowana do zmieniającego się świata.",
+      "autor": "Grotkowski Michał",
+      "ankieta_nr": 145022
+    },
+    {
+      "lp": 13,
+      "nr": null,
+      "komentarz": "Podpis elektroniczny pod inicjatywą bardzo pomoże osobom z niepełnosprawnościami możliwości pełnego uczestnictwa w życiu społecznym",
+      "autor": "Chołodniak Antoni",
+      "ankieta_nr": 145890
+    },
+    {
+      "lp": 14,
+      "nr": null,
+      "komentarz": "Projekt ustawy słusznie reprezentuje konieczność cyfryzacji administracji publicznej. Jednakże mając na względzie konieczność odchodzenia od stosowania podpisów odręcznych i dokumentacji papierowej należy odejść od rozwiązania 1000 podpisów \"na start\" w wersji odręcznej.",
+      "autor": "Sawicki Bartosz",
+      "ankieta_nr": 148890
+    },
+    {
+      "lp": 15,
+      "nr": null,
+      "komentarz": "Możliwość elektronicznego podpisu pod projektem ustawy ułatwi realne wykonywanie obywatelskiej inicjatywy ustawodawczej. Odciąży również organy państwo od weryfikacji autentyczności tych podpisów z jednej strony, ułatwi ich zbieranie i zapobiegnie podpisywanie się dla żartu fałszywymi danymi, co obciąża wnioskodawcę.\nObawiam się zagadnień związanych z prywatnością. Bardzo łatwo będzie można sprawdzić pod którymi projektami kto się podpisał lub też w drugą stronę dana osoba pod jakimi projektami się podpisała, a na tej podstawie można profilować poglądy polityczne danej osoby i ją dyskryminować czy nawet represjonować poprzez odmówienie zatrudnienia w spółkach Skarbu Państwa, samorządowych, częste i wnikliwe kontrole skarbowe itp.",
+      "autor": "Jasiński Jordan",
+      "ankieta_nr": 149221
+    },
+    {
+      "lp": 16,
+      "nr": null,
+      "komentarz": "Sugeruję, że system taki powinien nie tyle mieć dobudowane open API, lecz powinien być zbudowany na otwartej normie. To oznacza publiczną dobrze opisaną wiedzę o tym, jak, jakimi metodami przebiegać mają strumienie informacji, jak i co ma być szyfrowane, a co nie, a każdy, kto te ścisłe wymagania spełnia będzie mógł się pod niego podłączyć.\nJak wykluczyć handel takim poparciem dla ustaw opisałem pod adresem: FB, którym posługuje się Pani poseł Paulina Matysiak inicjując tę dyskusją. Niestety FB służy do innych celów i nie zezwala na łatwe podanie tu linka (odnośnika). Niemniej tematy nad handlem poparciem nie ominiemy i nie powinniśmy pomijać.\nPodejmijmy to wyzwanie, jaki inicjuje ta ustawa.",
+      "autor": "Lisiecki Zbigniew",
+      "ankieta_nr": 149811
+    },
+    {
+      "lp": 17,
+      "nr": null,
+      "komentarz": "Bardzo dobry pomysł. Czas na taką zmianę.",
+      "autor": "Kaluga Ilona",
+      "ankieta_nr": 150035
+    },
+    {
+      "lp": 18,
+      "nr": null,
+      "komentarz": "Przyjęcie tej ustawy jest potrzebne a rozwiązania zawarte w projekcie ustawy są akceptowalne, przy czym w dalszym ciągu nie będę się odnosił do kwestii edytorskich, które powinny być poprawione w toku normalnych prac legislacyjnych, w tym takich, jak kwestie przecinków i innych znaków przestankowych, lub zbednych powtarzających się wyrazów.",
+      "autor": "Kazimierczyk Piotr",
+      "ankieta_nr": 150590
+    },
+    {
+      "lp": 19,
+      "nr": null,
+      "komentarz": "Zmiany są korzystne i potrzebne dla promocji demokracji w społeczeństwie cyfrowym oraz zasad funkcjonowania w społeczeństwie obywatelskim, a także dla ułatwienia dostępu do demokracji bezpośredniej, choć wiążą się z umiarkowanymi zagrożeniami bezpieczeństwa danych osobowych. Warunkiem koniecznym, aby okazały się one pomocne i nieszkodliwe, jest wdrożenie silnego szyfrowania oraz audytu systemu.",
+      "autor": "Kraszewski Krzysztof",
+      "ankieta_nr": 150841
+    },
+    {
+      "lp": 20,
+      "nr": null,
+      "komentarz": "Pozwoli obywatelom angażować się w zmiany prawne związane z państwem, które uważają za potrzebne",
+      "autor": "Krawiec Paweł",
+      "ankieta_nr": 151165
+    },
+    {
+      "lp": 21,
+      "nr": null,
+      "komentarz": "Polska jest krajem o bardzo wysokim postępie cyfryzacji - wystarczy zwrócić uwagę choćby na poziom dostępności do internet lub korzystania z innowacyjnych rozwiązań typu Blik czy mObywatel. Logicznym jest więc zrobienie kolejnego kroku - skoro rząd umożliwia podejmowanie tak ważnych czynności jak np. złożenie rozliczenia PIT w drodze czysto elektronicznej to również umożliwienie prowadzenia zbiórki podpisów za poparciem różnych inicjatyw może być prowadzone w takiej formie.",
+      "autor": "Wieszok Bartłomiej",
+      "ankieta_nr": 151196
+    },
+    {
+      "lp": 22,
+      "nr": null,
+      "komentarz": "Bardzo dobry projekt",
+      "autor": "Ptach Franciszek",
+      "ankieta_nr": 151452
+    },
+    {
+      "lp": 23,
+      "nr": null,
+      "komentarz": "Uważam że zbieranie podpisów dla kandydatów, lub komitetów wyborczych jest rzeczą która już od dawna powina być elektroniczna. Nie tylko ułatwia to poparcie przez osoby, które mogą mieć problem aby złożyć podpis osobiście, ale również zmniejsza ilość papieru która może być przez standardowe zbieranie podpisów potencjalnie nawet zmarnowana.",
+      "autor": "Stasiak Michał",
+      "ankieta_nr": 151461
+    },
+    {
+      "lp": 24,
+      "nr": null,
+      "komentarz": "Bardzo ważny projekt!",
+      "autor": "Koprowska Marcelina",
+      "ankieta_nr": 152165
+    },
+    {
+      "lp": 25,
+      "nr": null,
+      "komentarz": "Proponowana ustawa jest bardzo cenna i może w znaczący sposób zwiększyć udział obywateli w procesie tworzenia ustaw, które uznają za potrzebne.",
+      "autor": "Spytek Jakub",
+      "ankieta_nr": 152239
+    },
+    {
+      "lp": 26,
+      "nr": null,
+      "komentarz": "Bardzo potrzebna ustawa w czasach gdy obawiamy się udostępniać swój nr PESEL",
+      "autor": "Stach Monika",
+      "ankieta_nr": 152351
+    },
+    {
+      "lp": 27,
+      "nr": null,
+      "komentarz": "Jest to bardzo potrzebna zmiana. Warto rozważyć dalej idące zmiany jak możliwość głosowania w wyborach i referendach również internetowo przy użyciu podpisu cyfrowego.",
+      "autor": "Lasek Jakub",
+      "ankieta_nr": 152480
+    },
+    {
+      "lp": 28,
+      "nr": null,
+      "komentarz": "Ponieważ posiadamy jedno z wiodących narzędzi cyfryzacji życia obywatelskiego (aplikacja mObywatel), powinno ono w jak najszerszym zakresie zostać wykorzystywane do aktywizacji BEZPOŚREDNIEGO uczestnictwa obywateli w procesach zarządzania państwem, czego przejawem są m.in. Inicjatywy Obywatelskie. Zdecydowanie popieram każde rozwiązania, które przyczyniają się do powiększenia zakresu wpływu i odpowiedzialności bezpośredniego obywateli za państwo Polskie.",
+      "autor": "Piórkowski Wojciech",
+      "ankieta_nr": 152622
+    },
+    {
+      "lp": 29,
+      "nr": null,
+      "komentarz": "dziękuję za podjęcie inicjatywy zmiany ustawy z 1999 r. Obowiązujące dziś rozwiązania wyraźnie odbiegają od realiów cyfryzacji życia społecznego oraz możliwości technologicznych, jakimi obecnie dysponujemy. Proponowane zmiany to ważny krok w kierunku budowy nowoczesnego społeczeństwa obywatelskiego.\nProjekt odpowiada na realne problemy, z którymi spotykamy się w praktyce podczas zbierania podpisów. Obywatele coraz częściej nie chcą udostępniać swoich danych w formie papierowej, m.in. ze względu na obawy związane z bezpieczeństwem, a dodatkowo często pojawiają się błędy lub braki w danych.\nCyfryzacja procesu - w ramach Kancelarii Sejmu lub biura Marszałka Sejmu - obejmująca rejestrację komitetu oraz składanie projektów ustaw, jest bardzo dobrym kierunkiem. Po rejestracji inicjatywy można byłoby generować kod QR, który kierowałby bezpośrednio do systemu poparcia.",
+      "autor": "Skoczylas Tomasz",
+      "ankieta_nr": 152657
+    },
+    {
+      "lp": 30,
+      "nr": null,
+      "komentarz": "Cieszę się, że Pani Pola Matysiak zajęła się problemem, który od dawna był dyskutowany, że jest potrzebne jego rozwiązanie. Mamy XXI wiek.",
+      "autor": "Jędrych Sebastian",
+      "ankieta_nr": 152859
+    },
+    {
+      "lp": 31,
+      "nr": null,
+      "komentarz": "Żyjemy w XXI wieku, gdzie wszystko staje się cyfryzowane. Jest to konieczność, bez której Polacy tracą możliwość podpisania się pod projektami bliskimi swojemu sercu. Mnóstwo osób odmawia podpisu na tradycyjnych listach, w obawie o przypadkowe zagubienie takowych list lub ich kradzież. To ryzykowna i przestarzała metoda zbierania poparcia. Podpisy elektroniczne są o wiele bardziej bezpieczne.",
+      "autor": "Błachnio-Teroshyna Joanna",
+      "ankieta_nr": 152873
+    },
+    {
+      "lp": 32,
+      "nr": null,
+      "komentarz": "Jest ona bardzo potrzebna",
+      "autor": "Tomalak Wojciech",
+      "ankieta_nr": 152885
+    },
+    {
+      "lp": 33,
+      "nr": null,
+      "komentarz": "Projekt ustawy w znaczący sposób ułatwiłby dbanie o pamięć o przodkach.",
+      "autor": "Gil Emilia",
+      "ankieta_nr": 152891
+    },
+    {
+      "lp": 34,
+      "nr": null,
+      "komentarz": "Ta ustawa usprawni pozyskiwanie dokumentów do badań genealogicznych.",
+      "autor": "Rusek Janusz",
+      "ankieta_nr": 152986
+    },
+    {
+      "lp": 35,
+      "nr": null,
+      "komentarz": "Bardzo dobra inicjatywa, umożliwiająca pominięcie papierowego podawania PESEL oraz innych danych np adresowych.",
+      "autor": "Gągola Andrzej",
+      "ankieta_nr": 153093
+    },
+    {
+      "lp": 36,
+      "nr": null,
+      "komentarz": "Należy jak najbardziej rozszerzać możliwość składania podpisów w wersji cyfrowej.",
+      "autor": "Okrój Tomasz",
+      "ankieta_nr": 153339
+    },
+    {
+      "lp": 37,
+      "nr": null,
+      "komentarz": "Jak najbardziej zgadzam się że trzeba wprowadzić te zmiany",
+      "autor": "Szczygieł Sebastian",
+      "ankieta_nr": 153436
+    },
+    {
+      "lp": 38,
+      "nr": null,
+      "komentarz": "Popieram rozszerzenie funkcjonalności portalu poparcia w ten sposób, aby obywatel miał możliwość udzielić poprzez ten portal poparcia projektowi ustawy, pełnomocnikowi komitetu wniesienie do Marszałka Sejmu projektu ustawy oraz złożenie sprawozdania finansowego o źródłach pozyskanych funduszy.",
+      "autor": "Dropia Radosław",
+      "ankieta_nr": 153931
+    },
+    {
+      "lp": 39,
+      "nr": null,
+      "komentarz": "Bardzo zależy mi na udostępnieniu przez Urzędy Stanu Cywilnego kopert dowodowych moich przodków. Obecnie urząd we Wrocławiu odmawia mi do nich dostępu. Mam nadzieję na uchwalenie tej ustawy.",
+      "autor": "Sikorska Bronisława",
+      "ankieta_nr": 154024
+    },
+    {
+      "lp": 40,
+      "nr": null,
+      "komentarz": "Zmiana niezbędną żeby zaktywizować społeczeństwo do większego udziału w procesie demokratycznego sprawowania władzy, szczególnie w obecnym populistycznym krajobrazie w którym politycy obiecują wszystko w czasie wyborów a potem jako obywatele nie jesteśmy się w stanie doczekać nawet rozsądnego projektu ustawy.",
+      "autor": "Wnętrzak Mateusz",
+      "ankieta_nr": 154167
+    },
+    {
+      "lp": 41,
+      "nr": null,
+      "komentarz": "Projekt cyfryzuje obywatelską inicjatywę ustawodawczą - cel słuszny i od lat postulowany przez RPO. Ścieżka papierowa zostaje, co chroni wykluczonych cyfrowo. Uwierzytelnienie przez e-podpis ogranicza fałszerstwa.\nTrzy poważne zastrzeżenia: dostęp do danych osobowych jest zbyt szeroki (Marszałek, ministrowie, prokuratura \"na żądanie\" - bez wymogu sądowego); logi systemowe trzymane 5 lat bez uzasadnienia proporcjonalności; brak niezależnego audytu kodu źródłowego portalu.\nWniosek: dobry kierunek, niedopracowane gwarancje ochrony prywatności. Przed uchwaleniem projekt powinien trafić do ponownych konsultacji z UODO i RPO.",
+      "autor": "Lisiecki Marcin",
+      "ankieta_nr": 154370
+    },
+    {
+      "lp": 42,
+      "nr": null,
+      "komentarz": "W miarę możliwości należy ułatwiać inicjatywę ustawodawczą obywatelom. Regulacje jednak nie powinny być zbyt obszerne i wprowadzające za dużo nowych obowiązków i procedur instytucjom państwowym.",
+      "autor": "Białkowski Adam",
+      "ankieta_nr": 154437
+    },
+    {
+      "lp": 43,
+      "nr": null,
+      "komentarz": "projekt przyczyni się do szerszej aktywności obywateli w demokracji",
+      "autor": "Jankowski Przemysław",
+      "ankieta_nr": 154790
+    },
+    {
+      "lp": 44,
+      "nr": null,
+      "komentarz": "Wyrażam pozytywną ocenę projektu ustawy. Wprowadzenie narzędzi teleinformatycznych zwiększy dostępność procedury dla obywateli. Ponadto projekt realizuje wieloletnie postulaty Rzecznika Praw Obywatelskich dotyczące umożliwienia udzielania poparcia \"inicjatywy ludowej\" w formie elektronicznej.",
+      "autor": "Szewczyk Mateusz",
+      "ankieta_nr": 154801
+    },
+    {
+      "lp": 45,
+      "nr": null,
+      "komentarz": "Bardzo liczę na zmianę i ponowny powrót dostępności dokumentów. W dzisiejszych czasach wszechobecnej cyfryzacji nasze zdjęcia już nie zaginą ale zróbmy coś abyśmy mogli ,,odkopać\" jeszcze jak największą ilość zdjęć i dokumentów naszych przodków. One są a nie mamy do nich dostępu",
+      "autor": "Cilulko Żaneta",
+      "ankieta_nr": 154873
+    },
+    {
+      "lp": 46,
+      "nr": null,
+      "komentarz": "Bardzo dobry projekt, bardzo potrzebny.",
+      "autor": "Błoński Rafał",
+      "ankieta_nr": 155068
+    },
+    {
+      "lp": 47,
+      "nr": null,
+      "komentarz": "W pełni popieram tą inicjatywę która znacznie uprości, zwiększy dostępność i zapewni przejrzystość kwestii wyborczych.",
+      "autor": "Szlafka Rafał",
+      "ankieta_nr": 155206
+    },
+    {
+      "lp": 48,
+      "nr": null,
+      "komentarz": "Projekt ten ułatwia bezpieczne angażowanie się w życie publiczne. Rezygnacja z bezwzględnego wymogu przekazywania wrażliwych danych obcym osobom likwiduje kluczową barierę, która dotąd powstrzymywała wielu obywateli przed popieraniem inicjatyw obywatelskich.",
+      "autor": "Głowacki Błażej",
+      "ankieta_nr": 155371
+    },
+    {
+      "lp": 49,
+      "nr": null,
+      "komentarz": "Projekt ustawy stanowi uzasadniony krok w kierunku cyfryzacji procesu obywatelskiej inicjatywy ustawodawczej oraz dostosowania go do współczesnych realiów technologicznych. Wprowadzenie możliwości elektronicznego poparcia projektów ustaw może znacząco zwiększyć dostępność tego mechanizmu dla obywateli oraz obniżyć bariery organizacyjne i kosztowe.\nJednocześnie projekt niesie pewne ryzyka, w szczególności związane z potencjalnym wzrostem liczby inicjatyw o charakterze populistycznym, łatwością udzielania poparcia bez pogłębionej refleksji oraz kwestiami bezpieczeństwa danych i systemów teleinformatycznych. Zasadne byłoby rozważenie dodatkowych zabezpieczeń systemowych oraz mechanizmów ograniczających nadużycia.\nOgólnie projekt oceniam pozytywnie jako krok w stronę zwiększenia partycypacji obywatelskiej.",
+      "autor": "Biela Szymon",
+      "ankieta_nr": 155536
+    },
+    {
+      "lp": 50,
+      "nr": null,
+      "komentarz": "Każdy projekt, który popularyzuje bezpośredni udział w demokracji, jest warty bezwzględnego poparcia.",
+      "autor": "Kamiński Kacper",
+      "ankieta_nr": 155576
+    },
+    {
+      "lp": 51,
+      "nr": null,
+      "komentarz": "Projekt ustawy zdaje się być szczególnie ważny ze względu na światową tendencję do odchodzenia od demokratycznych sposobów organizowania społeczeństw, a wykorzystanie rozwiązań elektronicznych, może zwiększyć aktywność obywatelską mieszkańców Polski.\nPrzy projektowaniu zmiany i wprowadzaniu nowego systemu należy zwrócić szczególną uwagę na cyberbezpieczeństwo wprowadzanego systemu ze względu na możliwość wykorzystania usług elektronicznych przez wrogie interesom Polski organizacje.",
+      "autor": "Gancarek Kacper",
+      "ankieta_nr": 155780
+    },
+    {
+      "lp": 52,
+      "nr": null,
+      "komentarz": "Bardzo potrzebna ustawa która wreszcie pozwoli na bierne prawo wyborcze które obecnie jest fikcją",
+      "autor": "Karmańska-Błońska Anna",
+      "ankieta_nr": 156362
+    },
+    {
+      "lp": 53,
+      "nr": null,
+      "komentarz": "Jest to niewątpliwie konieczne rozwiązanie. Skandalem jest to, że w dobie mObywatela i bezpłatnej paczki e-podpisów które rzekomo mają \"tradycyjną moc\" okazuje się, że jednak tak nie jest. Brak e-inicjatyw skutkuje tym, że do Sejmu trafiają projekty wyłącznie pseudo-obywatelskie, tworzone tak naprawdę na zlecenie polityków, bo nikt inny nie radzi sobie z bezlitosną logistyką czy jej kosztami. Jednocześnie poprawi to znacznie niepotrzebnie mnożące się koszty po stronie Państwa związane z liczeniem i składowaniem list poparcia.\nNależy jednak docelowo rozważyć zmianę Konstytucji, by inicjatywy konstytucyjne mogły być tworzone przez wyborców, ale z odpowiednio wyższym progiem podpisów np. milion lub półtorej miliona.",
+      "autor": "Turczynowicz Mateusz",
+      "ankieta_nr": 156376
+    },
+    {
+      "lp": 54,
+      "nr": null,
+      "komentarz": "Koperty powinny być udostępniane członkom rodziny i geneolog, w ramach kultu osoby zmarły.",
+      "autor": "Wasek Michał",
+      "ankieta_nr": 156694
+    },
+    {
+      "lp": 55,
+      "nr": null,
+      "komentarz": "Będzie to znaczne ułatwienie przy składanou projektów obywatelskich.",
+      "autor": "Olkowski Andrzej",
+      "ankieta_nr": 156805
+    },
+    {
+      "lp": 56,
+      "nr": null,
+      "komentarz": "Projekt potrzebny dla tworzenia demokracji w obecnych czasach",
+      "autor": "Cwik Tomasz",
+      "ankieta_nr": 157057
+    },
+    {
+      "lp": 57,
+      "nr": null,
+      "komentarz": "Jest to projekt kluczowy dla zachowania równowagi ustawodawczej oraz wspierać inicjatywy Obywatelskie.",
+      "autor": "Szarama Łukasz",
+      "ankieta_nr": 157337
+    },
+    {
+      "lp": 58,
+      "nr": null,
+      "komentarz": "Projekt przewiduje ułatwienia przez zastosowanie rozwiązań elektronicznych, które obecnie są wdrażane w wielu dziedzinach życia gospodarczego i społecznego. Dlatego proponowane rozwiązanie jest również bardzo pożądane.",
+      "autor": "Małyszko Adam",
+      "ankieta_nr": 157346
+    },
+    {
+      "lp": 59,
+      "nr": null,
+      "komentarz": "Projekt zakłada, że poparcie dla obywatelskich projektów ustaw będzie można składać elektronicznie, przez specjalny system internetowy. Dzięki temu próg 100 000 podpisów przestaje być praktycznie dostępny wyłącznie dla dużych, dobrze zorganizowanych struktur, a wchodzi w zasięg zwykłych obywateli, którzy mogą taką elektroniczną inicjatywę wykorzystać do realnego nacisku na polityków i wspierania pro przedsiębiorczych reform. Organizacja Pracodawców Rada Przedsiębiorców wspiera inicjatywy ułatwiające przedsiębiorcom branie czynnego udziału w procesie legislacyjnym i wywieranie realnego wpływu na kształtowanie warunków prowadzenia działalności gospodarczej w Polsce.",
+      "autor": "Abramowicz Krzysztof",
+      "ankieta_nr": 158479
+    },
+    {
+      "lp": 60,
+      "nr": null,
+      "komentarz": "Ważna inicjatywa pozwalająca na aktywniejsze zaangażowanie obywateli w działania legislacyjne.",
+      "autor": "Selaszuk Mateusz",
+      "ankieta_nr": 158529
+    },
+    {
+      "lp": 61,
+      "nr": null,
+      "komentarz": "Wspieram każde poszerzenie możliwości wpływu obywateli na uchwalane prawa, które byłyby powolnym, acz koniecznym eliminowaniem wpływu koterii partyjnych na instrument jakim jest Obywatelska Inicjatywa Ustawodawcza.",
+      "autor": "Zubel Wiktor",
+      "ankieta_nr": 158536
+    },
+    {
+      "lp": 62,
+      "nr": null,
+      "komentarz": "Ten projekt ponownie ujawnia słabość myślenia ustawodawczego: reagowanie na bieżące napięcia zamiast budowania trwałego ładu. Proponowana zmiana - choć może być społecznie nośna i doraźnie odczuwalna - nie rozwiązuje problemów systemowych, lecz jedynie je maskuje . W efekcie państwo wykonuje gest, który wygląda na działanie, ale nie niesie rzeczywistej zmiany.\nNajbardziej niepokoi brak odniesienia do edukacji obywatelskiej. Bez świadomego obywatela, który rozumie mechanizmy gospodarki, prawa i instytucji publicznych, każda regulacja pozostaje narzędziem jednostronnym. Państwo nie może sprowadzać swojej roli do interwencji fiskalnych - powinno kształtować obywatela zdolnego do samodzielnego, odpowiedzialnego działania. Inaczej utrwala się postawa zależności, a nie podmiotowości.",
+      "autor": "Kowalczyk Zbigniew",
+      "ankieta_nr": 158586
+    },
+    {
+      "lp": 63,
+      "nr": null,
+      "komentarz": "Brzmi bardzo sensownie.",
+      "autor": "Kociak Jan",
+      "ankieta_nr": 159916
+    },
+    {
+      "lp": 64,
+      "nr": null,
+      "komentarz": "Krok w dobrą stronę. Kolejnym krokiem powinno być zniesienie konieczności uzyskania 50% frekwencji w referendach.",
+      "autor": "Kulig Szymon",
+      "ankieta_nr": 160441
+    },
+    {
+      "lp": 65,
+      "nr": null,
+      "komentarz": "Chciałabym, żeby obywatele mieli możliwość proponowania swoich ustaw",
+      "autor": "Idziak Magdalena",
+      "ankieta_nr": 161175
+    },
+    {
+      "lp": 66,
+      "nr": null,
+      "komentarz": "Uważam, że projekt ustawy ma bardzo pozytywny wpływ w kwestii wzrostu transparentności, partycypacji obywateli w życiu publicznym. Zważywszy na coraz bardziej intensywny rozwój technologiczny oraz powszechność użytku uważam, ze ten projekt zwiększy dostępność wśród osób młodych, gdzie aktywizacja społeczna jest zazwyczaj najmniejsza. Ważnym aspektem tego projektu jest model hybrydowy, czyli pozostawienie możliwości papierowej, ale włączając również wersję cyfrową (nie we wszystkich aspektach).",
+      "autor": "Nikiel Mateusz",
+      "ankieta_nr": 161934
+    },
+    {
+      "lp": 67,
+      "nr": null,
+      "komentarz": "to jakieś nieporozumienie",
+      "autor": "Ausiannikau Andrei",
+      "ankieta_nr": 162641
+    },
+    {
+      "lp": 68,
+      "nr": null,
+      "komentarz": "Popieram projekt ustawy. Wprowadzenie elektronicznego portalu poparcia to rozsądna i wyczekiwana modernizacja inicjatywy ustawodawczej obywateli. Umożliwi ona tysiącom Polaków łatwe, szybkie i darmowe wyrażenie poparcia dla projektu ustawy, bez konieczności drukowania, skanowania czy wysyłania papierowych list. Jednocześnie projekt mądrze zachowuje barierę 1000 własnoręcznych podpisów przy tworzeniu komitetu, co skutecznie chroni przed masowym spamem fikcyjnych inicjatyw. Dzięki temu realna demokracja bezpośrednia staje się prostsza i bardziej dostępna, a Marszałek Sejmu zyskuje przejrzyste, zweryfikowane narzędzie do pracy. To dobry kierunek cyfrowej transformacji państwa.",
+      "autor": "Żarski Przemysław",
+      "ankieta_nr": 162697
+    },
+    {
+      "lp": 69,
+      "nr": null,
+      "komentarz": "Pomysł cyfryzacji słuszny, ale projekt jest niebezpieczny. Próg 1000 podpisów papierowych to zaproszenie dla dezinformacji i inicjatyw radykalnych. Postuluję podniesienie go do 10 000 (10% limitu). Prawdziwa debata i rzetelna informacja odbywają się na ulicy, w rozmowie z ludźmi - internet powinien być tylko dopełnieniem, a nie silnikiem projektów pisanych pod wpływem chwilowych emocji. Bez silnych bezpieczników (wysoki próg papierowy i weryfikacja faktów w portalu), ustawa zaszkodzi jakości stanowionego prawa.",
+      "autor": "Cybulska Dorota",
+      "ankieta_nr": 162727
+    },
+    {
+      "lp": 70,
+      "nr": null,
+      "komentarz": "Przyjęcie projektu urealni możliwość wykonywania inicjatywy ustawodawczej przez obywateli, dostosowując je do współczesnych realiów. Wpłynie to pozytywnie na możliwość uczestnictwa obywateli w życiu społecznym i może przysłużyć się aktywizacji społeczeństwa.",
+      "autor": "Snarski Marcin",
+      "ankieta_nr": 162854
+    },
+    {
+      "lp": 71,
+      "nr": null,
+      "komentarz": "Wprowadzenie kolejnej usługi do tzw. Portalu Poparcia uruchamianego przez PKW będzie kolejnym krokiem na drodze do cyfryzacji usług publicznych, a tym samym na udostępnieniu ich większej liczbie obywateli RP.\nPonadto projekt ustawy wzmacnia instytucję obywatelskiej inicjatywy ustawodawczej, która dotychczas wymagała zaangażowania sporych sił i środków dla zebrania wymaganych 100 000 podpisów. Tym samym prowadzi do wzmocnienia tzw. społeczeństwa obywatelskiego, poprzez dramatyczne uproszczenie logistyki zbierania poparcia oraz zmniejszenia poczucia, że angażowanie się obywateli w sprawy Państwa i Społeczeństwa wymaga nie tylko zaangażowania ale też poświęcenia (np. poświęcenia celów prywatnych, poświęcenia czasu przeznaczonego dla bliskich) z niską szansą powodzenia uzyskania zamierzonych celów.",
+      "autor": "Sroka Marcin",
+      "ankieta_nr": 162887
+    },
+    {
+      "lp": 72,
+      "nr": null,
+      "komentarz": "Widzę potrzebę głębszej (niż zaprezentowana) analizy w zakresie grupy obywateli trwale przebywających poza terytorium Polski.\nZagadnienie partycypacji w decyzjach przy nieponoszeniu kosztów (brak statusu rezydenta podatkowego RP -> brak podatków, faktyczny brak obowiązków zawartych w np ustawie o obronności etc) jest pomijane nawet przy projektach ustaw bezpośrednio dotyczących procesu legislacji.\nKomentarz piszę w Dniu Polonii i zdaję sobie sprawę, że temat jest trudny. Nie jest moim zamiarem pozbawianie obywatelstwa czy pozbawianie obywateli prawa głosu. Jednakże technologia, rozwiązania IT, przenoszenie części procedur poza fizyczne terytorium ma znaczenie dla zwiększenia wagi/częstości głosowań obywateli niemających ścisłego związku z Polską. Efekt ten wzmacniany jest przez mocny trend potwierdzania oraz otrzymania polskiego obywatelstwa.",
+      "autor": "Sroczyński Włodzimierz",
+      "ankieta_nr": 163041
+    },
+    {
+      "lp": 73,
+      "nr": null,
+      "komentarz": "Realny wpływ decydowania w sposób szybszy i dogodny w nowoczesnej formie dla obywateli jest właściwy dla kształtowania obecnej i przyszłej Polski.",
+      "autor": "Gutman Beata",
+      "ankieta_nr": 163119
+    }
+  ],
+  "pytania_6_12": [
+    {
+      "lp": 1,
+      "nr": "Pyt. 6",
+      "komentarz": "Tak, problem może zostać rozwiązany inaczej - i znacznie efektywniej - niż w zaproponowanym w ustawie modelu zamkniętym.\nProblem cyfryzacji procesu zbierania podpisów pod obywatelskimi inicjatywami ustawodawczymi nie musi być rozwiązywany poprzez budowę jednego, scentralizowanego i monolitycznego \"Portalu poparcia\", który wymusza na obywatelu zmianę kontekstu i opuszczenie strony inicjatywy w celu oddania głosu.\nZamiast monopolizować ten proces w ramach jednej państwowej platformy, problem można rozwiązać poprzez stworzenie ram prawnych i technologicznych dla zdecentralizowanego modelu opartego na otwartym API (Interfejsie Programowania Aplikacji).\nW takim alternatywnym modelu państwo (Ministerstwo Cyfryzacji we współpracy z Państwową Komisją Wyborczą) odpowiadałoby wyłącznie za udostępnienie bezpiecznej usługi backendowej (bramki API) oraz integrację z Węzłem Krajowym (np. mObywatel, Profil Zaufany). Z kolei komitety inicjatywy ustawodawczej otrzymałyby prawo tworzenia własnych front-endów - dedykowanych portali i aplikacji kampanijnych, które bezpiecznie komunikowałyby się z centralnym rejestrem państwowym.\nDlaczego to alternatywne rozwiązanie jest właściwsze?\nMniejsze obciążenie dla budżetu i infrastruktury państwa: W modelu API to komitety utrzymują infrastrukturę serwerową obsługującą ruch użytkowników czytających projekt i oglądających materiały kampanijne. System państwowy przyjmuje jedynie \"lekkie\" żądania autoryzacyjne, co drastycznie zmniejsza ryzyko awarii rządowych serwerów przy dużej popularności danej inicjatywy.\nStandardy nowoczesnego e-Government: Podejście \"API-First\" to sprawdzony standard w nowoczesnej administracji (np. KSeF, e-Deklaracje czy otwarta bankowość w ramach dyrektywy PSD2). Zamiast budować kolejny portal, do którego obywatele muszą się przyzwyczajać, państwo dostarcza usługę, którą można osadzić w miejscu, gdzie obywatele faktycznie się znajdują.\nWiększa sprawczość obywateli (User Experience): Zaproponowany w ustawie centralny portal tworzy tzw. tarcie technologiczne (friction). Obywatel zachęcony do poparcia akcji w mediach społecznościowych będzie musiał wejść na portal rządowy, zalogować się i samodzielnie wyszukać inicjatywę na liście. W modelu API proces ten jest skrócony do minimum - przycisk uwierzytelnienia i poparcia znajduje się bezpośrednio na stronie komitetu, co znacząco podnosi konwersję (skuteczność) zbiórki podpisów.\nRozwój innowacji społecznych (Civic Tech): Umożliwienie komunikacji z systemem PKW przez organizacje zewnętrzne (NGO, fundacje, komitety) pobudzi rozwój nowoczesnych, bezpiecznych narzędzi wspierających partycypację obywatelską w Polsce.\nPodsumowując: cel wnioskodawcy (cyfryzacja) jest słuszny, jednak przyjęta metoda (centralny portal) jest nieoptymalna. Lepszym rozwiązaniem jest ustawa definiująca standardy bezpiecznej wymiany danych pomiędzy komitetami a systemem państwowym, a nie ustawa powołująca do życia kolejny zamknięty portal.",
+      "autor": "Nowak Jakub",
+      "ankieta_nr": 140606
+    },
+    {
+      "lp": 2,
+      "nr": "Pyt. 6",
+      "komentarz": "Pełnego uczestnictwa, dostępności w życiu społecznym osób mających trudności z poruszaniem się",
+      "autor": "Chołodniak Antoni",
+      "ankieta_nr": 145890
+    },
+    {
+      "lp": 3,
+      "nr": "Pyt. 6",
+      "komentarz": "Szanowna Pani Poseł,\ndziękuję za podjęcie inicjatywy zmiany ustawy z 1999 r. Obowiązujące dziś rozwiązania wyraźnie odbiegają od realiów cyfryzacji życia społecznego oraz możliwości technologicznych, jakimi obecnie dysponujemy. Proponowane zmiany to ważny krok w kierunku budowy nowoczesnego społeczeństwa obywatelskiego.\nProjekt odpowiada na realne problemy, z którymi spotykamy się w praktyce podczas zbierania podpisów. Obywatele coraz częściej nie chcą udostępniać swoich danych w formie papierowej, m.in. ze względu na obawy związane z bezpieczeństwem, a dodatkowo często pojawiają się błędy lub braki w danych.\nCyfryzacja procesu - w ramach Kancelarii Sejmu lub biura Marszałka Sejmu - obejmująca rejestrację komitetu oraz składanie projektów ustaw, jest bardzo dobrym kierunkiem. Po rejestracji inicjatywy można byłoby generować kod QR, który kierowałby bezpośrednio do systemu poparcia. Sam proces udzielania poparcia mógłby odbywać się poprzez aplikację mObywatel, co znacząco uprościłoby i przyspieszyło cały mechanizm.\nJednocześnie uważam, że nie ma potrzeby tworzenia nowego portalu, który generowałby dodatkowe koszty. Warto wykorzystać istniejącą infrastrukturę państwową, np. w ramach serwisów gov.pl, rozbudowując je o odpowiednią funkcjonalność. Zakładka danej inicjatywy mogłaby umożliwiać zarówno oddanie głosu, jak i bieżące śledzenie liczby zebranych podpisów.\nProces uwierzytelniania powinien opierać się na już funkcjonujących i sprawdzonych rozwiązaniach, takich jak profil zaufany, bankowość elektroniczna czy podpis kwalifikowany.\nDocelowo jestem zwolennikiem dalszej cyfryzacji i stopniowego odchodzenia od formy papierowej. Warto również rozpocząć szerszą debatę publiczną nad wykorzystaniem podobnych mechanizmów w innych procesach demokratycznych - w tym przy zbieraniu podpisów poparcia dla komitetów wyborczych, a w przyszłości także w samym procesie głosowania.\nZawodowo przez wiele lat byłem związany z informatyzacją administracji (m.in. w Urzędzie Miasta Rzeszowa oraz w Urban Lab Rzeszów), dlatego szczególnie bliski jest mi rozwój usług publicznych w duchu smart city i nowoczesnych technologii. W tym kontekście rekomenduję maksymalne wykorzystanie już istniejących narzędzi, zamiast budowy nowych systemów od podstaw.",
+      "autor": "Skoczylas Tomasz",
+      "ankieta_nr": 152657
+    },
+    {
+      "lp": 4,
+      "nr": "Pyt. 6",
+      "komentarz": "Problem mógłby zostać częściowo rozwiązany poprzez uproszczenie obecnych procedur papierowych lub wprowadzenie rozwiązań hybrydowych, bez konieczności tworzenia nowego, rozbudowanego systemu teleinformatycznego, co ograniczyłoby koszty i ryzyka technologiczne.",
+      "autor": "Biela Szymon",
+      "ankieta_nr": 155536
+    },
+    {
+      "lp": 5,
+      "nr": "Pyt. 6",
+      "komentarz": "Problem niskiej aktywności można rozwiązać poprzez wzmocnienie edukacji obywatelskiej i ułatwienie procedur administracyjnych dla komitetów, ale bez ryzykownego przenoszenia całości poparcia do sieci przy tak niskim progu (1000 osób). Alternatywą jest model hybrydowy z wysokim progiem wejścia (10 000 podpisów papierowych), który premiuje rzetelną debatę i bezpośredni kontakt z ludźmi, zamiast promować internetowy aktywizm oparty na emocjach i dezinformacji.",
+      "autor": "Cybulska Dorota",
+      "ankieta_nr": 162727
+    },
+    {
+      "lp": 6,
+      "nr": "Pyt. 7",
+      "komentarz": "Zgadzam się z oceną skutków społecznych jedynie częściowo. O ile sam kierunek zmian (cyfryzacja) przyniesie pozytywne efekty, o tyle ocena skutków dla przyjętego modelu scentralizowanego jest niepełna i zbyt optymistyczna.\nRozwiązanie zaproponowane w ustawie diagnozuje problem i korzyści w sposób powierzchowny, pomijając realia zachowań obywateli w internecie. Poniżej wskazuję kluczowe zastrzeżenia do przedstawionej oceny:\nNiedoszacowanie bariery technologicznej i spadku zaangażowania (UX friction): Wnioskodawca słusznie zakłada, że cyfryzacja usunie bariery fizyczne (np. dla osób z niepełnosprawnościami czy z mniejszych ośrodków). Pomija jednak bariery cyfrowe. Zmuszenie obywatela do opuszczenia strony kampanijnej komitetu, logowania się w osobnym rządowym portalu i samodzielnego wyszukiwania inicjatywy na długiej liście drastycznie obniży motywację do sfinalizowania podpisu. Skutki społeczne w postaci wzrostu partycypacji będą znacznie poniżej potencjału, ponieważ scentralizowany system zaprojektowano wbrew nowoczesnym zasadom użyteczności (User Experience).\nMarginalizacja roli organizacji pozarządowych i trzeciego sektora: Ocena skutków społecznych zakłada, że jedynym dostarczycielem rozwiązania technologicznego ma być państwo. To błąd, który zahamuje rozwój społeczeństwa obywatelskiego. Zastosowanie postulowanego modelu otwartego API pozwoliłoby na rozwój sektora Civic Tech (technologii obywatelskich). Fundacje, stowarzyszenia i oddolne inicjatywy mogłyby budować własne, innowacyjne i dostosowane do różnych grup społecznych narzędzia do zbierania podpisów, co z kolei stymulowałoby innowacyjność technologiczną w trzecim sektorze.\nOgraniczenie pluralizmu w prowadzeniu kampanii: Obywatelskie inicjatywy ustawodawcze często dotyczą spraw niszowych lub lokalnych. Wymaganie, by obywatele korzystali z jednego, państwowego portalu do oddania głosu podważa możliwość tworzenia przez mniejsze komitety spersonalizowanych, angażujących kampanii edukacyjno-informacyjnych, z którymi przycisk poparcia byłby bezpośrednio i bezproblemowo zintegrowany.\nPodsumowując: Zgadzam się z tezą, że cyfryzacja przyniesie korzyści społeczne. Uważam jednak, że korzyści te będą sztucznie dławione przez archaiczny, scentralizowany charakter projektowanego \"Portalu poparcia\". Przejście na architekturę opartą o otwarte API zwielokrotniłoby pozytywne skutki społeczne regulacji.",
+      "autor": "Nowak Jakub",
+      "ankieta_nr": 140606
+    },
+    {
+      "lp": 7,
+      "nr": "Pyt. 7",
+      "komentarz": "Zbyt wiele możliwości nadużyć.",
+      "autor": "Wierzbicki Przemysław",
+      "ankieta_nr": 142742
+    },
+    {
+      "lp": 8,
+      "nr": "Pyt. 7",
+      "komentarz": "Nie zgadzam się z oceną skutków społecznych przedstawioną w projekcie ustawy, ponieważ dokument ten nie zawiera dedykowanej sekcji \"oceny skutków regulacji\" - skupia się raczej na zmianach proceduralnych bez głębszej analizy pozytywów i ryzyk.",
+      "autor": "Kraszewski Krzysztof",
+      "ankieta_nr": 150841
+    },
+    {
+      "lp": 9,
+      "nr": "Pyt. 7",
+      "komentarz": "Ocena skutków społecznych jest niepełna. Pomija ryzyko masowej dezinformacji i polaryzacji. Prawdziwa aktywność obywatelska wymaga rzetelnego dialogu między ludźmi, a projekt w obecnej formie promuje szybki aktywizm cyfrowy, który może prowadzić do destabilizacji debaty publicznej przez dobrze zorganizowane, radykalne mniejszości.",
+      "autor": "Cybulska Dorota",
+      "ankieta_nr": 162727
+    },
+    {
+      "lp": 10,
+      "nr": "Pyt. 8",
+      "komentarz": "Nie zgadzam się w pełni z oceną skutków gospodarczych, ponieważ projektodawca nie uwzględnił kosztów alternatywnych oraz pominął potencjał optymalizacji wydatków publicznych, jaki niesie ze sobą architektura oparta na otwartym API.\nRozwiązanie polegające na budowie monolitycznego i scentralizowanego \"Portalu poparcia\" jest z punktu widzenia gospodarczego i budżetowego wariantem najdroższym w utrzymaniu. Poniżej przedstawiam główne zastrzeżenia o charakterze ekonomicznym:\nZwiększone koszty infrastruktury IT państwa: Rządowy portal będzie musiał przyjmować na siebie cały ruch sieciowy generowany przez masowe, ogólnopolskie kampanie polityczne i społeczne. W momentach szczytowych (np. bezpośrednio po emisji spotu telewizyjnego) będzie to wymagało utrzymywania bardzo kosztownej, dynamicznie skalowanej infrastruktury serwerowej, aby uniknąć paraliżu systemu. W alternatywnym modelu opartym o API, ciężar utrzymania ruchu sieciowego, obsługi treści i wyświetlania strony przeniesiony jest na prywatne serwery komitetów. System państwowy przetwarza jedynie \"lekkie\" pakiety danych autoryzacyjnych w tle, co drastycznie obniża koszty chmury obliczeniowej i utrzymania systemów publicznych.\nBrak stymulacji rynku usług cyfrowych (Civic Tech): Realizacja projektu wyłącznie w formie jednego, zamkniętego systemu zamyka drogę do innowacji. Udostępnienie otwartego API sprawiłoby, że polskie firmy informatyczne (software house?y), agencje marketingowe oraz startupy zyskałyby nową niszę rynkową. Pojawiłyby się zamówienia na tworzenie dedykowanych platform kampanijnych, wtyczek i narzędzi analitycznych dla komitetów. To napędzałoby gospodarkę cyfrową, analogicznie do tego, jak system KSeF napędza rozwój prywatnego oprogramowania księgowego.\nNieefektywność wydatków komitetów (niski wskaźnik ROI): Z gospodarczego punktu widzenia (zarządzania budżetami komitetów), model scentralizowany wymusza nieefektywne palenie budżetów reklamowych. Komitety będą wydawać znaczne środki na kampanie w internecie, z których zwrot (konwersja w postaci finalnego podpisu) będzie sztucznie zaniżany przez skomplikowany proces (konieczność opuszczenia strony inicjatywy, wejścia na portal rządowy i ręcznego szukania projektu). Brak integracji API sprawia, że koszt pozyskania pojedynczego podpisu (CAC - Customer Acquisition Cost) będzie drastycznie wyższy.\nPodsumowując: Architektura scentralizowana generuje wyższe koszty dla budżetu państwa i niższą efektywność ekonomiczną dla stron inicjujących. Ocena skutków gospodarczych powinna uwzględniać model API jako alternatywę bezpieczniejszą, znacznie tańszą w utrzymaniu przez stronę publiczną, a jednocześnie pro-rozwojową dla polskiej branży usług IT.",
+      "autor": "Nowak Jakub",
+      "ankieta_nr": 140606
+    },
+    {
+      "lp": 11,
+      "nr": "Pyt. 8",
+      "komentarz": "Nie, nie zgadzam się z oceną skutków gospodarczych w projekcie ustawy ponieważ dokument nie zawiera żadnych informacji dotyczących skutków finansowych, kosztów wdrożenia czy wpływu na budżet państwa.",
+      "autor": "Kraszewski Krzysztof",
+      "ankieta_nr": 150841
+    },
+    {
+      "lp": 12,
+      "nr": "Pyt. 8",
+      "komentarz": "Ocena skutków gospodarczych jest powierzchowna. Autorzy nie uwzględnili kosztów merytorycznej obsługi ogromnej liczby niskiej jakości projektów, które trafią do Sejmu przy progu 1000 podpisów. Brak też analizy wpływu na stabilność rynku w przypadku inicjatyw zgłaszanych pod wpływem chwilowych emocji społecznych.",
+      "autor": "Cybulska Dorota",
+      "ankieta_nr": 162727
+    },
+    {
+      "lp": 13,
+      "nr": "Pyt. 9",
+      "komentarz": "Nie zgadzam się z przedstawioną oceną skutków finansowych, ponieważ nie uwzględnia ona znaczących oszczędności dla budżetu państwa, jakie przyniósłby wybór architektury opartej na otwartym API w miejsce budowy monolitycznego, scentralizowanego portalu.\nOcena skutków finansowych zakłada finansowanie budowy i utrzymania potężnego systemu informatycznego z budżetu państwa. Przyjęcie alternatywnego modelu (API) pozwoliłoby na drastyczną redukcję tych wydatków publicznych. Poniżej przedstawiam główne argumenty finansowe:\nPrzeniesienie kosztów hostingu i transferu na komitety: W modelu scentralizowanym rządowy \"Portal poparcia\" musi przyjmować cały ruch generowany przez kampanie polityczne i społeczne. Oznacza to, że z pieniędzy podatników opłacany będzie transfer danych i moc obliczeniowa potrzebna obywatelom do czytania postulatów czy oglądania materiałów. W modelu API ciężar utrzymania tego ruchu (utrzymanie serwerów front-endowych i stron internetowych) ponoszą komitety inicjatyw ustawodawczej ze swoich własnych budżetów.\nOptymalizacja kosztów infrastruktury w obliczu \"pików\" ruchu: Zbieranie podpisów w internecie często ma charakter wirusowy (np. nagła akcja influencerów czy emisja spotu w prime-time). Aby scentralizowany portal rządowy nie uległ awarii w takich momentach, państwo musi płacić za drogą, nadmiarową infrastrukturę chmurową gotową na przyjęcie nagłych skoków ruchu. Jeśli wdrożymy otwarte API, z tymi skokami będą musiały radzić sobie serwery komitetów, a system rządowy będzie przetwarzał w tle jedynie \"lekkie\", zaszyfrowane komunikaty o złożonym podpisie. To gigantyczna różnica w kosztach utrzymania (OPEX).\nBrak kosztów budowy i utrzymania warstwy wizualnej (Front-end): Utrzymanie nowoczesnego portalu dla milionów użytkowników wymaga ciągłych nakładów finansowych na badania użyteczności (UX), aktualizacje interfejsu, testy dostępności (WCAG) oraz obsługę błędów po stronie użytkownika. Rezygnacja z budowy centralnego portalu na rzecz wystawienia usługi API zdejmuje te koszty z barków Ministerstwa Cyfryzacji. Państwo tworzy i finansuje jedynie bezpieczny \"silnik\" (back-end), podczas gdy koszty budowy \"karoserii\" (stron i aplikacji) biorą na siebie podmioty trzecie.\nPodsumowując: Zaprezentowana w projekcie ocena skutków finansowych opiera się na nieefektywnym i najdroższym z możliwych modeli cyfryzacji. Wdrożenie architektury \"API-First\" stanowiłoby racjonalizację wydatków publicznych - państwo sfinansowałoby jedynie rdzeń systemu (usługę zaufania i bazę danych), a koszty warstwy prezentacyjnej i komunikacyjnej przerzuciło na dysponujące własnymi budżetami komitety.",
+      "autor": "Nowak Jakub",
+      "ankieta_nr": 140606
+    },
+    {
+      "lp": 14,
+      "nr": "Pyt. 9",
+      "komentarz": "Ponieważ tworzenie czegoś nowego a nie wykorzystując tego co mamy generujemy koszty!",
+      "autor": "Skoczylas Tomasz",
+      "ankieta_nr": 152657
+    },
+    {
+      "lp": 15,
+      "nr": "Pyt. 9",
+      "komentarz": "Ocena skutków finansowych jest niepełna, gdyż nie uwzględnia w wystarczającym stopniu potencjalnych kosztów długoterminowego utrzymania systemu, jego rozwoju, zabezpieczeń cybernetycznych oraz ewentualnych kosztów związanych z incydentami bezpieczeństwa lub awariami.",
+      "autor": "Biela Szymon",
+      "ankieta_nr": 155536
+    },
+    {
+      "lp": 16,
+      "nr": "Pyt. 9",
+      "komentarz": "Ocena skutków finansowych jest nierzetelna. Wskazane 3 mln zł na budowę systemu to ułamek realnych kosztów. Autorzy pominęli koszty stałej obsługi merytorycznej i prawnej setek projektów, które przy tak niskim progu (1000 podpisów) zaleją Sejm. Każda taka inicjatywa wymaga opinii prawnych, pracy komisji i ekspertów, co generuje ogromne koszty operacyjne po stronie administracji publicznej, nieujęte w projekcie.",
+      "autor": "Cybulska Dorota",
+      "ankieta_nr": 162727
+    },
+    {
+      "lp": 17,
+      "nr": "Pyt. 10",
+      "komentarz": "Nie zgadzam się w pełni z oceną skutków prawnych, ponieważ opiera się ona na założeniu, że jedyną drogą do cyfryzacji jest stworzenie nowego, zamkniętego bytu prawnego w postaci centralnego \"Portalu poparcia\". Pominięto korzyści prawne płynące z modelu zdecentralizowanego (API).\nZaproponowany w ustawie scentralizowany system rodzi określone wyzwania i ryzyka natury prawnej, które zostałyby zniwelowane lub zminimalizowane w przypadku zastosowania architektury opartej na otwartym Interfejsie Programowania Aplikacji (API).\nOto główne argumenty do uwzględnienia w ankiecie, podważające obecną ocenę skutków prawnych:\nBrak spójności z istniejącą architekturą prawną e-państwa (Węzeł Krajowy): Zamiast powoływać do życia nowy, odrębny portal, ustawa powinna opierać się na już istniejących rozwiązaniach prawnych dotyczących identyfikacji elektronicznej (ustawa o informatyzacji, eIDAS). W modelu API to Węzeł Krajowy (np. profil zaufany, aplikacja mObywatel) stanowi jedyne państwowe środowisko weryfikacji tożsamości, do którego systemy komitetów po prostu by odsyłały. Tworzenie dodatkowej, centralnej \"nakładki\" w postaci Portalu poparcia jest prawnie i architektonicznie nadmiarowe.\nKwestia odpowiedzialności prawnej za awarie (SLA): W modelu centralnym państwo bierze na siebie całkowitą odpowiedzialność prawną za poprawne funkcjonowanie portalu, do którego zbiega się cały ruch z kampanii internetowych. W przypadku awarii serwerów rządowych w kluczowym momencie zbiórki podpisów, komitety mogą podnosić roszczenia lub zarzucać państwu uniemożliwienie realizacji ich konstytucyjnych praw. W modelu API odpowiedzialność prawna za dostępność strony internetowej, z której obywatele dowiadują się o inicjatywie, spoczywa w pełni na komitecie.\nPrecyzyjny podział ról w świetle RODO (Zasada minimalizacji danych): Architektura API pozwala na znacznie czystsze z prawnego punktu widzenia rozdzielenie ról administratorów danych osobowych. Komitet odpowiadałby za dane związane z ruchem na swojej stronie kampanijnej i komunikację z sympatykami. Z kolei infrastruktura państwowa (PKW/Ministerstwo Cyfryzacji), poprzez API, przetwarzałaby w tle wyłącznie wąski, ustawowo wymagany pakiet danych, służący stricte do weryfikacji podpisu (np. imię, nazwisko, PESEL), co idealnie realizuje unijną zasadę minimalizacji danych.\nLepsza realizacja prawa do dostępności cyfrowej: Ustawodawca narzuca jeden z góry określony interfejs Portalu poparcia. Wdrożenie API pozwoliłoby podmiotom trzecim (np. fundacjom wspierającym osoby z niepełnosprawnościami) na tworzenie własnych, wysoce zoptymalizowanych pod kątem WCAG aplikacji do zbierania podpisów. Przekłada się to na lepszą, bo pluralistyczną, realizację konstytucyjnego prawa do równego udziału obywateli w życiu publicznym.\nPodsumowując: Ocena skutków prawnych powinna uwzględniać wariant alternatywny. Przepisy nie powinny regulować powstania konkretnej strony internetowej (\"Portalu poparcia\"), lecz powinny skupić się na zdefiniowaniu prawnych standardów bezpiecznej wymiany danych pomiędzy państwowym systemem uwierzytelniającym a zewnętrznymi systemami teleinformatycznymi komitetów. Takie ujęcie byłoby znacznie bezpieczniejsze dla państwa i spójniejsze z nowoczesnym prawodawstwem cyfrowym.",
+      "autor": "Nowak Jakub",
+      "ankieta_nr": 140606
+    },
+    {
+      "lp": 18,
+      "nr": "Pyt. 10",
+      "komentarz": "Zasadniczo skutki prawne są pozytywne dla \"e-demokracji\", ale uważam że są niedopracowane. Projekt wymaga doprecyzowania kar (np. grzywny za manipulacje) i opinii RPO przed wdrożeniem.",
+      "autor": "Kraszewski Krzysztof",
+      "ankieta_nr": 150841
+    },
+    {
+      "lp": 19,
+      "nr": "Pyt. 10",
+      "komentarz": "Projekt wprowadza ryzyko inflacji niskiej jakości prawa. Umożliwienie zgłaszania inicjatyw ustawodawczych przy minimalnym progu 1000 podpisów papierowych sprawi, że Sejm stanie się miejscem procedowania postulatów pisanych pod wpływem emocji, często sprzecznych z istniejącym porządkiem prawnym. System prawny powinien być stabilny, a nie poddawany ciągłym, powierzchownym próbom zmian wynikającym z internetowych trendów, co autorzy projektu całkowicie zignorowali w swojej ocenie.",
+      "autor": "Cybulska Dorota",
+      "ankieta_nr": 162727
+    },
+    {
+      "lp": 20,
+      "nr": "Pyt. 11",
+      "komentarz": "Tak, dostrzegam szereg nieprzewidzianych przez wnioskodawcę skutków, które wynikają z wyboru scentralizowanego modelu \"Portalu poparcia\". Zignorowanie tych kwestii może doprowadzić do sytuacji, w której nowe prawo, zamiast ułatwiać partycypację obywatelską, stworzy nowe zagrożenia i bariery.\nWnioskodawca skupił się wyłącznie na pozytywach samej cyfryzacji, całkowicie pomijając negatywne skutki uboczne wybranej architektury technologicznej (centralnego portalu). Poniżej wskazuję kluczowe, pominięte skutki:\nZagrożenie cyberbezpieczeństwa (Single Point of Failure): Stworzenie jednego, centralnego \"Portalu poparcia\" dla wszystkich inicjatyw w kraju tworzy tzw. pojedynczy punkt awarii. W przypadku gorących sporów politycznych portal ten stanie się naturalnym celem zmasowanych ataków hakerskich (np. DDoS). Awaria lub zablokowanie jednego rządowego serwera sparaliżuje zbiórkę podpisów dla wszystkich komitetów w Polsce. W rekomendowanym modelu API ryzyko to jest rozproszone - ewentualny atak na stronę jednego komitetu nie wpływa na działanie innych, ani na centralną infrastrukturę państwa.\nWystąpienie \"efektu mrożącego\" (Chilling effect): Wiele obywatelskich inicjatyw ustawodawczych dotyczy spraw kontrowersyjnych lub wręcz wymierzonych w aktualnie rządzącą większość parlamentarną. Wymóg logowania się do scentralizowanego, rządowego portalu w celu poparcia inicjatywy opozycyjnej może wywołać u części obywateli obawę przed inwigilacją lub profilowaniem politycznym przez aparat państwowy. Zdecentralizowany model API, w którym obywatel wchodzi w interakcję ze stroną zaufanej organizacji pozarządowej (a państwo weryfikuje jedynie sam fakt autoryzacji w tle), znacznie lepiej chroni prywatność i zapobiega autocenzurze.\nDrastyczny spadek współczynnika konwersji (Bounce rate): Wnioskodawca błędnie zakłada, że możliwość złożenia e-podpisu automatycznie przełoży się na masowe poparcie projektów. W realiach internetu zmuszenie użytkownika do tzw. zmiany kontekstu (przejścia z kampanii w social mediach, na stronę inicjatywy, a następnie opuszczenia jej, by przejść na portal państwowy i tam ręcznie szukać projektu na liście) spowoduje, że ogromna część obywateli porzuci ten proces w połowie. Skutkiem będzie sztuczne zaniżenie liczby zebranych podpisów z powodów czysto technicznych (zły User Experience).\nZahamowanie rozwoju technologii obywatelskich (Civic Tech): Monopolizacja procesu przez państwo \"zabije\" innowacyjność w trzecim sektorze. Wdrożenie architektury opartej na otwartym API wywołałoby pozytywny skutek uboczny w postaci powstania nowych, oddolnych narzędzi cyfrowych. Organizacje pozarządowe, startupy technologiczne i fundacje mogłyby rywalizować w tworzeniu najbardziej przystępnych, bezpiecznych i dostępnych dla osób z niepełnosprawnościami aplikacji do wspierania inicjatyw ustawodawczych.\nPodsumowując: Projekt ustawy w obecnym kształcie niesie za sobą ryzyko stworzenia niewydolnego, podatnego na ataki i nieprzyjaznego dla użytkownika \"wąskiego gardła\" demokracji bezpośredniej. Wskazane negatywne skutki można wyeliminować poprzez modyfikację przepisów i oparcie systemu o otwarte i bezpieczne API.",
+      "autor": "Nowak Jakub",
+      "ankieta_nr": 140606
+    },
+    {
+      "lp": 21,
+      "nr": "Pyt. 11",
+      "komentarz": "podałem wyżej",
+      "autor": "Lisiecki Zbigniew",
+      "ankieta_nr": 149811
+    },
+    {
+      "lp": 22,
+      "nr": "Pyt. 11",
+      "komentarz": "pozytywne skutki społeczne",
+      "autor": "Pagliani Matteo",
+      "ankieta_nr": 150558
+    },
+    {
+      "lp": 23,
+      "nr": "Pyt. 11",
+      "komentarz": "1. Automatyczna integracja z PESEL z CRW zwiększa ryzyko wycieków danych (PESEL, adresy udostępniane policji i sądom, preferencje polityczne), prowadząc do pozwów - RODO i spadku zaufania do e-administracji. 2. 3-miesięczny termin na wniesienie projektu z e-podpisami premiuje szybką mobilizację (np. partie polityczne), ale utrudnia autentyczne ruchy oddolne.",
+      "autor": "Kraszewski Krzysztof",
+      "ankieta_nr": 150841
+    },
+    {
+      "lp": 24,
+      "nr": "Pyt. 11",
+      "komentarz": "Tak doprowadzi to do większego udziału społeczeństwa - mogą być to narzędzia wykorzystywane politycznie przez opozycyjne ruchy w zależności kto zarządza ale nie wolno się tego bać.",
+      "autor": "Skoczylas Tomasz",
+      "ankieta_nr": 152657
+    },
+    {
+      "lp": 25,
+      "nr": "Pyt. 11",
+      "komentarz": "Projekt może prowadzić do zwiększenia liczby inicjatyw ustawodawczych o charakterze populistycznym oraz do powierzchownego udzielania poparcia przez obywateli, co może obniżyć jakość debaty publicznej i procesu legislacyjnego.",
+      "autor": "Biela Szymon",
+      "ankieta_nr": 155536
+    },
+    {
+      "lp": 26,
+      "nr": "Pyt. 11",
+      "komentarz": "Wzrost zaufania Obywateli do Organów Państwowych.",
+      "autor": "Szarama Łukasz",
+      "ankieta_nr": 157337
+    },
+    {
+      "lp": 27,
+      "nr": "Pyt. 11",
+      "komentarz": "skutki w postaci większego wpływu zwykłych obywateli na stanowienie prawa.",
+      "autor": "Zubel Wiktor",
+      "ankieta_nr": 158536
+    },
+    {
+      "lp": 28,
+      "nr": "Pyt. 11",
+      "komentarz": "Dostrzegam poważne ryzyko paraliżu prac legislacyjnych oraz obniżenia powagi Sejmu. Przy tak niskim progu (1000 podpisów) system zostanie zalany inicjatywami pisanymi pod wpływem chwilowych emocji lub celowych kampanii dezinformacyjnych. Innym skutkiem będzie zanik rzetelnej debaty publicznej - portal internetowy nie zastąpi bezpośredniego dialogu z obywatelem na ulicy, który wymusza merytoryczne przygotowanie argumentów.",
+      "autor": "Cybulska Dorota",
+      "ankieta_nr": 162727
+    },
+    {
+      "lp": 29,
+      "nr": "Pyt. 12",
+      "komentarz": "Tak, proponowana ustawa w istotny sposób wpłynie na podmioty i grupy zawodowe, które zostały całkowicie pominięte w ocenie skutków regulacji. Skupienie się wyłącznie na relacji \"Obywatel - Państwo - Komitet\" jest błędem. Wybór zamkniętego, scentralizowanego modelu technologicznego (\"Portalu poparcia\") zablokuje rozwój całych sektorów, które mogłyby aktywnie wspierać procesy demokratyczne, gdyby zdecydowano się na wdrożenie otwartego API.\nPoniżej wskazuję kluczowe grupy, na które ustawa wywrze wpływ (poprzez ograniczenie ich potencjału):\nSektor IT, polskie \"Software house'y\" oraz branża Civic Tech: Wnioskodawca zakłada, że jedynym dostawcą oprogramowania do obsługi inicjatyw ustawodawczych będzie administracja państwowa (Ministerstwo Cyfryzacji/COI). Wdrożenie otwartego API stworzyłoby zupełnie nowy rynek dla polskich firm technologicznych i startupów. Podmioty te mogłyby komercyjnie lub pro publico bono tworzyć dedykowane platformy zbiórki podpisów, wtyczki do systemów CMS (np. WordPress) czy innowacyjne aplikacje mobilne dla komitetów. Monopolizacja tego obszaru przez państwowy portal odcina te firmy od możliwości partycypowania w transformacji cyfrowej usług publicznych.\nAgencje marketingowe, domy mediowe i specjaliści PR: W dzisiejszych realiach duże kampanie społeczne i polityczne są obsługiwane przez profesjonalne podmioty. Brak możliwości integracji systemów komitetu z bazą państwową uderza bezpośrednio w ich pracę. Scentralizowany system uniemożliwia agencjom stosowanie podstawowych narzędzi marketingu cyfrowego (np. zliczania konwersji za pomocą unikalnych linków, testów A/B formularzy, precyzyjnej analityki źródeł ruchu). W rezultacie ich praca na rzecz komitetów będzie znacznie mniej efektywna i trudniejsza do zaraportowania.\nOrganizacje wspierające osoby z niepełnosprawnościami oraz grupy wykluczone cyfrowo: Ustawodawca zakłada, że państwowy portal będzie w 100% odpowiadał na potrzeby wszystkich obywateli. W praktyce, standardy dostępności (WCAG) wdrażane centralnie często stanowią jedynie minimum. Zastosowanie modelu API pozwoliłoby specjalistycznym fundacjom i stowarzyszeniom (np. wspierającym osoby niewidome, osoby w spektrum autyzmu czy seniorów) na stworzenie i udostępnienie własnych, wysoce zoptymalizowanych, uproszczonych interfejsów (np. działających bezbłędnie ze specyficznymi czytnikami ekranu), które ułatwiłyby tym grupom oddanie głosu.\nPodsumowując: Projekt ustawy w obecnym kształcie marginalizuje istotne grupy eksperckie i organizacje społeczne, traktując je wyłącznie jako biernych obserwatorów. Oparcie architektury systemu na otwartym API włączyłoby branżę technologiczną, ekspertów od komunikacji oraz wyspecjalizowane organizacje pozarządowe w aktywne i innowacyjne wspieranie procesów demokratycznych w Polsce.",
+      "autor": "Nowak Jakub",
+      "ankieta_nr": 140606
+    },
+    {
+      "lp": 30,
+      "nr": "Pyt. 12",
+      "komentarz": "Ta ustawa nie jest dodatkiem do demokracji lecz olbrzymim wyzwaniem społecznym, które należy podjąć, co z całego serca popieram.",
+      "autor": "Lisiecki Zbigniew",
+      "ankieta_nr": 149811
+    },
+    {
+      "lp": 31,
+      "nr": "Pyt. 12",
+      "komentarz": "Proponowana zmiana wpłynie na inne podmioty niż te wskazane w projekcie, ponieważ nie uwzględnia szerszych skutków dla grup społecznych i organizacji. Obywatel bez e-podpisu czyli około 25% Polaków może stracić dostęp do inicjatywy. Mimio to, jestem na tak.",
+      "autor": "Kraszewski Krzysztof",
+      "ankieta_nr": 150841
+    },
+    {
+      "lp": 32,
+      "nr": "Pyt. 12",
+      "komentarz": "Wpłynie na różne podmioty - samorządy, NGO - ponieważ wtedy damy realny wpływ obywatelem decydować!",
+      "autor": "Skoczylas Tomasz",
+      "ankieta_nr": 152657
+    },
+    {
+      "lp": 33,
+      "nr": "Pyt. 12",
+      "komentarz": "Tak. , wpłynie i to pozytywnie na większość społeczeństwa",
+      "autor": "Błoński Rafał",
+      "ankieta_nr": 155068
+    },
+    {
+      "lp": 34,
+      "nr": "Pyt. 12",
+      "komentarz": "Regulacja wpłynie również na podmioty odpowiedzialne za infrastrukturę cyfrową i cyberbezpieczeństwo, a także na organizacje społeczne i grupy interesu, które mogą intensywniej wykorzystywać narzędzia cyfrowe do mobilizacji poparcia dla swoich inicjatyw.",
+      "autor": "Biela Szymon",
+      "ankieta_nr": 155536
+    },
+    {
+      "lp": 35,
+      "nr": "Pyt. 12",
+      "komentarz": "Partie polityczne będą bardziej monitorowane przez wyborców, co jednak znacznie poprawi polską praworządność.",
+      "autor": "Turczynowicz Mateusz",
+      "ankieta_nr": 156376
+    },
+    {
+      "lp": 36,
+      "nr": "Pyt. 12",
+      "komentarz": "Równie wyraźny jest brak troski o rozwój inicjatywy społecznej. Projekt nie przewiduje żadnych mechanizmów wzmacniających aktywność oddolną, współdziałanie czy odpowiedzialność wspólnot lokalnych. Tymczasem to właśnie tam powstają rozwiązania trwałe - nie w doraźnych korektach ustawowych, lecz w zdolności społeczeństwa do organizowania się i reagowania na własne potrzeby.\nNa tym tle szczególnie widoczny staje się problem jakości prawa. Kolejna zmiana wpisuje się w logikę nadprodukcji przepisów i rozwiązań tymczasowych. Zamiast porządkować system i czynić go przejrzystym, ustawodawca dodaje nowe elementy, które zwiększają jego złożoność i nieczytelność. Prawo traci przez to swoją podstawową funkcję - przestaje być stabilnym punktem odniesienia, a staje się zmiennym instrumentem reagowania.\nW rezultacie projekt nie wzmacnia ani państwa, ani obywatela. Pozostaje działaniem powierzchownym, które pomija to, co najważniejsze: wychowanie świadomego społeczeństwa, pobudzenie jego inicjatywy oraz budowę prawa, które jest trwałe, zrozumiałe i godne zaufania. Szczególnie wyraźny jest brak odniesienia do znaczenia organizacji społecznej. Społeczeństwo nie jest wyłącznie zbiorem jednostek oczekujących decyzji państwa, lecz wspólnotą zdolną do samoorganizacji, współdziałania i rozwiązywania problemów oddolnie. Tam, gdzie brakuje wsparcia dla stowarzyszeń, inicjatyw obywatelskich i struktur lokalnych, państwo przejmuje rolę, której nie jest w stanie skutecznie pełnić. Bez rozwiniętej tkanki organizacyjnej każda interwencja publiczna pozostaje powierzchowna i nietrwała.\nNie mniej istotny jest brak refleksji nad edukacją prawną. Obywatel, który nie zna prawa, nie rozumie swoich praw i obowiązków oraz nie potrafi poruszać się w systemie instytucjonalnym, pozostaje bierny i zależny. Tymczasem silne państwo opiera się na świadomych obywatelach, którzy potrafią korzystać z prawa, egzekwować je i współtworzyć ład publiczny. Edukacja prawna nie jest dodatkiem - jest warunkiem funkcjonowania państwa prawa.\nNa tym tle szczególnie widoczny staje się problem jakości prawa. Zamiast budować system przejrzysty, stabilny i spójny, projekt wpisuje się w logikę doraźnych korekt i mnożenia wyjątków. Takie podejście pogłębia chaos normatywny i podważa zaufanie do instytucji.\nW efekcie mamy do czynienia z projektem, który nie wzmacnia ani obywatela, ani wspólnoty. Pomija to, co najważniejsze: rozwój organizacji społecznych jako naturalnego zaplecza państwa oraz edukację prawną jako fundament świadomego obywatelstwa. Bez tych elementów każda regulacja pozostanie tylko krótkotrwałą interwencją, a nie krokiem w stronę trwałego porządku.",
+      "autor": "Kowalczyk Zbigniew",
+      "ankieta_nr": 158586
+    },
+    {
+      "lp": 37,
+      "nr": "Pyt. 12",
+      "komentarz": "Prawdopodobnie zmieni rozkład uczestniczących grup. Zwiększy aktywność w projektach obywatelskich szczególnie na rzecz mniejszych ośrodków, które z przyczyn ekonomicznych dla zbierających i podpisujących miały mniejszy udział.",
+      "autor": "Słojewski Adam",
+      "ankieta_nr": 159943
+    },
+    {
+      "lp": 38,
+      "nr": "Pyt. 12",
+      "komentarz": "Organizacje eksperckie i instytuty badawcze: Będą zasypywane prośbami o opinie do tysięcy niszowych lub \"szalonych\" projektów, co odciągnie je od pracy nad naprawdę ważnymi ustawami.\nMedia i portale fact-checkingowe: Spoczywać będzie na nich ogromna presja prostowania kłamstw zawartych w popularnych, ale nierzetelnych projektach obywatelskich.\nPrzedsiębiorcy: Mogą stać się celem \"ustaw uderzających w konkretne branże\", zgłaszanych przez grupy interesu pod płaszczykiem inicjatywy obywatelskiej (przy tak niskim progu 1000 osób to bardzo łatwe). np. Jeśli firma X nie spełni naszych postulatów, wrzucamy projekt ustawy uderzający w ich model biznesowy. Podpisy zbierzemy w godzinę na Facebooku.",
+      "autor": "Cybulska Dorota",
+      "ankieta_nr": 162727
+    }
+  ],
+  "artykuly": [
+    {
+      "lp": 1,
+      "nr": "Art. 1",
+      "komentarz": "1. Uwaga do Art. 1 pkt 2 (dodawany art. 9a ust. 1 oraz art. 9b ust. 1)\nKomentarz / Uzasadnienie:\nPrzepisy w proponowanym brzmieniu zamykają architekturę systemu wyłącznie do jednego, scentralizowanego \"portalu poparcia\" administrowanego przez państwo. Całkowicie pomija to możliwość integracji zewnętrznych systemów informatycznych. Należy poszerzyć definicję usługi tak, aby uwzględniała ona interfejs programistyczny (API).\nPropozycja zmiany:\nWnoszę o dodanie w art. 9a nowego ustępu (np. ust. 3) w brzmieniu:\n\"3. Usługa, o której mowa w ust. 1, jest udostępniana również za pomocą otwartego interfejsu programistycznego (API), umożliwiającego bezpieczną komunikację i przesyłanie oświadczeń o poparciu projektu ustawy bezpośrednio z zewnętrznych systemów teleinformatycznych prowadzonych przez komitety.\"\nKonsekwentnie, w art. 9b ust. 1 należy dodać zastrzeżenie, że portal poparcia jest tylko jednym ze sposobów udostępniania tej usługi, np.:\n\"1. Usługę, o której mowa w art. 9a, udostępnia się w portalu poparcia [...] oraz za pośrednictwem interfejsu programistycznego (API), o którym mowa w art. 9a ust. 3.\"\n2. Uwaga do Art. 1 pkt 2 (dodawany art. 9c ust. 4)\nKomentarz / Uzasadnienie:\nObecne brzmienie przepisu wymusza na obywatelu wysoce nieefektywną ścieżkę użytkownika (User Flow). Zapis mówi, że wykonanie uprawnień \"polega na wyborze komitetu i projektu ustawy\" za pośrednictwem centralnego portalu. Oznacza to, że obywatel trafiający na stronę rządową musi ręcznie odszukać inicjatywę na liście. W przypadku kampanii prowadzonych za pomocą unikalnych linków (bezpośrednio ze stron komitetów), obywatel powinien być kierowany do Węzła Krajowego (login.gov.pl) z już zdefiniowanym (sparametryzowanym) wyborem konkretnej inicjatywy, bez konieczności jej ponownego ręcznego wyszukiwania.\nPropozycja zmiany:\nWnoszę o modyfikację art. 9c ust. 4, nadając mu następujące brzmienie:\n\"4. Wykonanie uprawnień wskazanych w art. 9a ust. 1 pkt 2 polega na złożeniu oświadczenia o poparciu dla konkretnego komitetu i projektu ustawy opatrzonym kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym. Oświadczenie to może zostać złożone bezpośrednio w portalu poparcia lub zostać zainicjowane za pośrednictwem zewnętrznego systemu teleinformatycznego komitetu zintegrowanego z usługą za pomocą interfejsu programistycznego (API).\"\n3. Uwaga do Art. 1 pkt 2 (dodawany art. 9d ust. 4)\nKomentarz / Uzasadnienie:\nKatalog podmiotów posiadających dostęp do danych powinien wprost sankcjonować prawo pełnomocników komitetu do pobierania zaanonimizowanych statystyk (liczników) na temat poparcia poprzez API, aby mogli oni na żywo aktualizować paski postępu na własnych stronach internetowych.\nPropozycja zmiany:\nW art. 9d ust. 4 pkt 3 należy dodać doprecyzowanie dotyczące formy dostępu:\n\"3) pełnomocnik komitetu oraz zastępca pełnomocnika komitetu - w zakresie wskazanym w art. 9b ust. 2 pkt 1-3 oraz w zakresie informacji o liczbie obywateli, którzy udzielili projektowi poparcia [...], przy czym informacja o liczbie obywateli jest udostępniana w czasie rzeczywistym również poprzez interfejs programistyczny (API);\"",
+      "autor": "Nowak Jakub",
+      "ankieta_nr": 140606
+    },
+    {
+      "lp": 2,
+      "nr": "Art. 1",
+      "komentarz": "Ustawa przyczyni się do pełnego uczestnictwa osób z niepełnosprawnościami w życiu społecznym",
+      "autor": "Chołodniak Antoni",
+      "ankieta_nr": 145890
+    },
+    {
+      "lp": 3,
+      "nr": "Art. 1",
+      "komentarz": "art. 10 ust. 4 w proponowanej zmianie powinien uwzględniać możliwość zbierania podpisów przez 6 miesięcy od daty przyjęcia zawiadomienia o utworzeniu komitetu. Ponadto przedmiotowa zmiana powinna wprowadzać możliwość utworzenia komitetu, jak i zebrania pierwszych 1000 podpisów wyłącznie w drodze elektronicznej zbiórki podpisów.",
+      "autor": "Sawicki Bartosz",
+      "ankieta_nr": 148890
+    },
+    {
+      "lp": 4,
+      "nr": "Art. 1",
+      "komentarz": "Termin 12 miesięcy należy zmienić na bezzwłocznie oraz wprowadzić sankcję za nieusunięcie lub sporządzenie kopii tych danych. Nie ma powodu aby te dane przechowywać po rozwiązaniu komitetu.",
+      "autor": "Jasiński Jordan",
+      "ankieta_nr": 149221
+    },
+    {
+      "lp": 5,
+      "nr": "Art. 1",
+      "komentarz": "Art. 9d.5 należy bezwzględnie usunąć. Roszczenia prokuratury bądź policji odnośnie dostępu do wszelkich danych nie mogą wynikać z tego, że prowadzą one jakiekolwiek postępowanie karne. Byłoby to absurdalne i niebezpieczne ze względu na potencjalną presję ze strony organów na obywateli. Nie ma takiego przepisu w istniejącej ustawie i nie widać powodu, dla którego należałoby je wprowadzać tą ustawą. Ustawa nie wymienia też jakiegokolwiek sądu innego, niż Sąd Najwyższy a w niniejszym projekcie ustawy nie wskazano też innych sądów i ich właściwości odnośnie procesów poparcia.",
+      "autor": "Kazimierczyk Piotr",
+      "ankieta_nr": 150590
+    },
+    {
+      "lp": 6,
+      "nr": "Art. 1",
+      "komentarz": "dot. art. 1 pkt 4 projektu ustawy:\nZgłaszam uwagę dotyczącą terminu na zebranie wymaganej liczby podpisów oraz wniesienie obywatelskiego projektu ustawy. Przewidziany w projekcie okres 3 miesięcy należy ocenić jako zbyt krótki. Termin wskazany w art. 10 ust. 4 powinien zostać wydłużony do 6 miesięcy.",
+      "autor": "Szewczyk Mateusz",
+      "ankieta_nr": 154801
+    },
+    {
+      "lp": 7,
+      "nr": "Art. 1",
+      "komentarz": "Wnoszę o krytyczną analizę Art. 1 w zakresie punktów 2-5. Choć sama idea cyfryzacji portalu poparcia jest słuszna, diabeł tkwi w szczegółach technicznych i proceduralnych:\nRyzyko nadużyć przy niskim progu (Art. 1 pkt 4 i 5): Projekt zakłada, że podpisy cyfrowe \"sumują się\" z papierowymi (nowy Art. 10 ust. 5). Przy utrzymaniu niskiego progu 1000 podpisów papierowych, zebranie brakującej części w internecie zajmie radykalnym grupom zaledwie kilka godzin. To stworzy sytuację, w której Sejm zostanie zalany projektami o charakterze wizerunkowym, populistycznym lub dezinformacyjnym, paraliżując prace merytoryczne komisji.\nNieuzasadnione zaniechanie weryfikacji (Art. 1 pkt 5 lit. b): Nowy ust. 1a w Art. 12 zwalnia PKW z weryfikacji podpisów cyfrowych, jeśli ich liczba przekroczy wymagany próg. To błąd - systemy teleinformatyczne również mogą być celem manipulacji lub błędów, a całkowite zrezygnowanie z kontroli nad \"jakością\" tych podpisów osłabia wiarygodność całej procedury obywatelskiej.\nKoszty techniczne i administracyjne: Artykuł ten nakłada na Marszałka Sejmu i PKW ogromne nowe obowiązki (prowadzenie portalu, integracja z rejestrem PESEL i Wyborczym), których realne koszty obsługi (nie tylko budowy) są w OSR niedoszacowane.",
+      "autor": "Cybulska Dorota",
+      "ankieta_nr": 162727
+    },
+    {
+      "lp": 8,
+      "nr": "Art. 2",
+      "komentarz": "Wnoszę o odrzucenie lub głęboką modyfikację Art. 2. Zmiana Kodeksu wyborczego w celu obarczenia Państwowej Komisji Wyborczej stałą obsługą portalu poparcia jest nieuzasadniona i ryzykowna:\nRozmycie kompetencji PKW: PKW jest organem powołanym do czuwania nad rzetelnością wyborów i referendów. Przekształcenie jej w stały organ administracyjny obsługujący internetowe petycje ustawodawcze odciągnie uwagę i zasoby od jej kluczowej funkcji.\nKoszty etatowe i operacyjne: Autorzy projektu w OSR nie wykazali, ilu nowych pracowników będzie musiała zatrudnić PKW do bieżącej obsługi merytorycznej i technicznej systemu, który - przy niskim progu 1000 głosów - będzie generował ogromny ruch przez cały rok.\nBrak gotowości infrastrukturalnej: Nakładanie na PKW zadań z zakresu 'e-demokracji' bez jasnego planu finansowania infrastruktury serwerowej i bezpieczeństwa IT (cyberataki!) może zagrozić stabilności pozostałych systemów wyborczych zarządzanych przez tę instytucję.\nZmiana ta jest kolejnym dowodem na to, że projekt generuje ukryte koszty i ryzyka dla sprawnego działania instytucji państwowych.",
+      "autor": "Cybulska Dorota",
+      "ankieta_nr": 162727
+    },
+    {
+      "lp": 9,
+      "nr": "Art. 3",
+      "komentarz": "Uwaga do Art. 3 (Przepisy dostosowujące / zadania Ministra Cyfryzacji)\nKomentarz / Uzasadnienie:\nPrzepis nakłada na Ministra Cyfryzacji obowiązek przygotowania systemu w ciągu 12 miesięcy, ale nie obliguje go do opublikowania specyfikacji technicznej API dla podmiotów zewnętrznych. Jeśli komitety (lub firmy IT pracujące na ich rzecz) mają zintegrować swoje strony z systemem rządowym, muszą otrzymać dostęp do dokumentacji (np. standardu OpenAPI/Swagger) z odpowiednim, np. 3-miesięcznym wyprzedzeniem przed wejściem ustawy w życie. Zjawisko braku lub opóźnionej specyfikacji było w przeszłości wielkim problemem (np. przy wdrożeniu KSeF).\nPropozycja zmiany:\nWnoszę o dodanie w art. 3 punktu 3 w brzmieniu:\n\"3) udostępni w Biuletynie Informacji Publicznej specyfikację techniczną interfejsu programistycznego (API), o którym mowa w art. 9a ust. 3, nie później niż na 3 miesiące przed upływem terminu wskazanego w art. 4.\"",
+      "autor": "Nowak Jakub",
+      "ankieta_nr": 140606
+    },
+    {
+      "lp": 10,
+      "nr": "Art. 3",
+      "komentarz": "Kod źródłowy powinien być jawny, a na jego podstawie powinno zostać stworzone API",
+      "autor": "Wąsik Robert",
+      "ankieta_nr": 144201
+    },
+    {
+      "lp": 11,
+      "nr": "Art. 3",
+      "komentarz": "Z uwagi na konieczność przygotowania odpowiedniego zaplecza informatycznego, jak i konieczność przygotowania Portalu poparcia pod nadchodzące wybory parlamentarne, termin uruchomienia systemu powinien być wydłużony do 18 miesięcy, aby od nowej kadencji parlamentu możliwa była elektroniczna zbiórka podpisów.",
+      "autor": "Sawicki Bartosz",
+      "ankieta_nr": 148890
+    },
+    {
+      "lp": 12,
+      "nr": "Art. 3",
+      "komentarz": "Sugeruję skrócenie terminu z 12 do 6 miesięcy.\nSugeruję dodanie punktu 3:\n3) zabezpieczy system teleinformatyczny, o którym mowa w p. 1 przed nieuprawnionym dostępem do przechowywanych w nim danych.",
+      "autor": "Kazimierczyk Piotr",
+      "ankieta_nr": 150590
+    },
+    {
+      "lp": 13,
+      "nr": "Art. 3",
+      "komentarz": "Wnoszę o zdecydowane wydłużenie terminów oraz doprecyzowanie wymogów bezpieczeństwa w Art. 3. Proponowane 12 miesięcy na wdrożenie tak skomplikowanego systemu to termin całkowicie nierealny, który zagraża stabilności państwa:\nNierealne tempo wdrożenia: Budowa systemu, który integruje dane z Centralnego Rejestru Wyborczego, rejestru PESEL oraz systemów uwierzytelniania (Profil Zaufany), wymaga wielomiesięcznych testów bezpieczeństwa i audytów. Narzucenie 12-miesięcznego terminu doprowadzi do powstania \"dziurawego\" systemu, podatnego na błędy i manipulacje wynikami poparcia.\nBezpieczeństwo kodu źródłowego: Samo \"udostępnienie do wglądu\" kodu źródłowego PKW (Art. 3 pkt 2) to za mało. Przy tak niskim progu podpisów (1000 osób), portal stanie się głównym celem ataków grup dezinformacyjnych i obcych wywiadów. Ustawa powinna nakładać obowiązek przeprowadzenia niezależnego audytu bezpieczeństwa IT przed uruchomieniem usługi.\nBrak precyzji w odpowiedzialności: Artykuł nie określa, kto ponosi odpowiedzialność za błędy techniczne, które mogą doprowadzić do uznania lub odrzucenia podpisów obywateli.\nWprowadzenie tego artykułu w obecnym brzmieniu, przy braku merytorycznej weryfikacji dezinformacji i niskim progu papierowym, otwiera pole do ogromnych nadużyć technicznych.",
+      "autor": "Cybulska Dorota",
+      "ankieta_nr": 162727
+    },
+    {
+      "lp": 14,
+      "nr": "Art. 4",
+      "komentarz": "powinno wejsc odrazu po podpisaniu",
+      "autor": "Korzus Kamil",
+      "ankieta_nr": 141060
+    },
+    {
+      "lp": 15,
+      "nr": "Art. 4",
+      "komentarz": "W nawiązaniu do wcześniej zgłoszonej uwagi do art. 3 należy zmienić termin wejścia w życie ustawy do 18 miesięcy od dnia jej ogłoszenia. Poza tym ze względu na konieczność zachowania podstawy prawnej dla PKW w celu uruchomienia procesu przygotowań wdrożenia ustawy należy zachować termin 14 dnia na wejście w życie art. 3 niniejszej ustawy.",
+      "autor": "Sawicki Bartosz",
+      "ankieta_nr": 148890
+    },
+    {
+      "lp": 16,
+      "nr": "Art. 4",
+      "komentarz": "Jeśli są odpowiednie techniczne możliwości to ustawa powinna wejść w życie jak najszybciej.",
+      "autor": "Okrój Tomasz",
+      "ankieta_nr": 153339
+    },
+    {
+      "lp": 17,
+      "nr": "Art. 4",
+      "komentarz": "Zdecydowanie negatywnie oceniam harmonogram wejścia ustawy w życie zawarty w Art. 4. Jest on dowodem na lekceważenie powagi procesu legislacyjnego i bezpieczeństwa państwa:\nDwutygodniowy termin dla Art. 3 (14 dni): Zmuszenie administracji do rozpoczęcia budowy tak wrażliwego systemu w dwa tygodnie po ogłoszeniu ustawy, bez pełnego zabezpieczenia budżetowego i merytorycznego, to prosta droga do awarii i luk w bezpieczeństwie IT.\nBrak okresu przejściowego dla progu podpisów: Ustawa wchodzi w życie \"całościowo\" po 12 miesiącach, nie dając społeczeństwu czasu na adaptację do nowych realiów. Postuluję, aby wejście w życie portalu poparcia było poprzedzone kampanią informacyjną oraz - co najważniejsze - podniesieniem progu podpisów własnoręcznych do 10 000, o czym wspominałem w poprzednich punktach.\nRyzyko chaosu: Uruchomienie portalu przed pełnym przetestowaniem odporności na boty i dezinformację może doprowadzić do sytuacji, w której prawo będzie zmieniane pod wpływem błędów systemowych lub manipulacji zewnętrznych.\nWnioskuję o wydłużenie vacatio legis do minimum 24 miesięcy i uzależnienie startu portalu od uzyskania pozytywnego audytu bezpieczeństwa wydanego przez niezależną instytucję.",
+      "autor": "Cybulska Dorota",
+      "ankieta_nr": 162727
+    }
+  ]
+}

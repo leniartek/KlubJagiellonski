@@ -1,0 +1,94 @@
+{
+  "number": "RPW/30017/2025",
+  "title": "Komisyjny projekt ustawy o zmianie ustawy o ograniczeniu prowadzenia działalności gospodarczej przez osoby pełniące funkcje publiczne",
+  "publicConsultationEndDate": "2025-10-12",
+  "calosc": [
+    {
+      "lp": 1,
+      "nr": null,
+      "komentarz": "test1",
+      "autor": "Jakubowski Mariusz",
+      "ankieta_nr": 51700
+    },
+    {
+      "lp": 2,
+      "nr": null,
+      "komentarz": "Naszego Państwa nie stać aby utrzymywać obywateli wschodniego kraju.. ile jest ludzi bezdomnych, bez pracy, dzieci które są bardzo chore i nie ma kto im pomóc, rodzin które chcą żyć godnie a przez sytuacje losowe nie mogą....",
+      "autor": "Łuczak Michał",
+      "ankieta_nr": 51705
+    },
+    {
+      "lp": 3,
+      "nr": null,
+      "komentarz": "Proponowane przez ustawodawcę rozwiązania należy ocenić jako potrzebne i istotne z punktu widzenia transparentności oraz przejrzystości systemu. Zobowiązanie osób pełniących funkcje publiczne, jak również ich małżonków, do składania oświadczeń majątkowych i dotyczących prowadzenia działalności gospodarczej stanowi krok w stronę zwiększenia zaufania społecznego do instytucji państwa. Niemniej jednak pojawia się problem natury konstytucyjnej, związany z aktualnym kryzysem wymiaru sprawiedliwości i kwestionowaniem statusu sędziów, a także z przypadkami bezprawnej i arbitralnej ich samowoli. Obecnie projekt przewiduje składanie oświadczeń m.in. przez Rzecznika Praw Obywatelskich czy Rzecznika Praw Dziecka do Prezesa Sądu Najwyższego. Należy jednak podkreślić, że ze względu na silne upolitycznienie wymiaru sprawiedliwości w latach 2015 - 2023, a także wątpliwości co do obiektywizmu Prezesa Sądu Najwyższego w zakresie rozpatrywania tego rodzaju spraw, rozwiązanie to budzi poważne zastrzeżenia.\nW mojej ocenie znacznie bardziej racjonalnym i gwarantującym obiektywizm rozwiązaniem byłoby powierzenie obowiązku składania oświadczeń odpowiednim organom kontrolnym - przede wszystkim Najwyższej Izbie Kontroli, ewentualnie Sądowi Okręgowemu w Warszawie.",
+      "autor": "Bociąga Michał",
+      "ankieta_nr": 55651
+    }
+  ],
+  "pytania_6_12": [
+    {
+      "lp": 1,
+      "nr": "Pyt. 6",
+      "komentarz": "test6",
+      "autor": "Jakubowski Mariusz",
+      "ankieta_nr": 51700
+    },
+    {
+      "lp": 2,
+      "nr": "Pyt. 6",
+      "komentarz": "Tak, problem mógłby zostać rozwiązany inaczej, np. poprzez wykorzystanie istniejących mechanizmów kontroli i powierzenie składania oświadczeń niezależnym organom, takim jak Najwyższa Izba Kontroli. Rozwiązanie to zwiększałoby transparentność, a jednocześnie eliminowało wątpliwości konstytucyjne i polityczne związane z rolą Sądu Najwyższego.",
+      "autor": "Bociąga Michał",
+      "ankieta_nr": 55651
+    },
+    {
+      "lp": 3,
+      "nr": "Pyt. 7",
+      "komentarz": "test7",
+      "autor": "Jakubowski Mariusz",
+      "ankieta_nr": 51700
+    },
+    {
+      "lp": 4,
+      "nr": "Pyt. 8",
+      "komentarz": "test8",
+      "autor": "Jakubowski Mariusz",
+      "ankieta_nr": 51700
+    },
+    {
+      "lp": 5,
+      "nr": "Pyt. 9",
+      "komentarz": "test9",
+      "autor": "Jakubowski Mariusz",
+      "ankieta_nr": 51700
+    },
+    {
+      "lp": 6,
+      "nr": "Pyt. 10",
+      "komentarz": "test10",
+      "autor": "Jakubowski Mariusz",
+      "ankieta_nr": 51700
+    },
+    {
+      "lp": 7,
+      "nr": "Pyt. 10",
+      "komentarz": "Nie w pełni zgadzam się z przedstawioną oceną skutków prawnych. Projektowane zmiany co prawda wzmacniają transparentność życia publicznego, jednak przekazanie oświadczeń majątkowych RPO i RPD do Prezesa Sądu Najwyższego rodzi wątpliwości konstytucyjne i polityczne. W praktyce może to ograniczyć zaufanie obywateli do procedury. Bardziej adekwatnym rozwiązaniem byłoby powierzenie tego obowiązku organom niezależnym, np. Najwyższej Izbie Kontroli.",
+      "autor": "Bociąga Michał",
+      "ankieta_nr": 55651
+    },
+    {
+      "lp": 8,
+      "nr": "Pyt. 11",
+      "komentarz": "test11",
+      "autor": "Jakubowski Mariusz",
+      "ankieta_nr": 51700
+    },
+    {
+      "lp": 9,
+      "nr": "Pyt. 12",
+      "komentarz": "test12",
+      "autor": "Jakubowski Mariusz",
+      "ankieta_nr": 51700
+    }
+  ],
+  "artykuly": []
+}

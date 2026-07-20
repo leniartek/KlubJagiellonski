@@ -1,0 +1,592 @@
+{
+  "number": "RPW/7190/2026",
+  "title": "Poselski projekt ustawy o kryptoaktywach",
+  "publicConsultationEndDate": "2026-04-01",
+  "calosc": [
+    {
+      "lp": 1,
+      "nr": null,
+      "komentarz": "Reguluje kwestię kryptowalit na zasadzie EU+0",
+      "autor": "Nowak Sławomir",
+      "ankieta_nr": 126535
+    },
+    {
+      "lp": 2,
+      "nr": null,
+      "komentarz": "Ten projekt najpełniej realizuje obowiązki Polski i powinien być wyjściem do implementacji przepisów do Rozporządzenia UE. Jako niegdysiejszy przedsiębiorca z brażny około-krypto, który ze względu nie niedostosowanie Polskich przepisów musiał prowadzić działalność w Czechach, widzę potencjał, by Polska powróciła jako znaczący rynek tej branży (kiedyś nawet drugi rynek w Europie).",
+      "autor": "Krajewski Hieronim",
+      "ankieta_nr": 126977
+    },
+    {
+      "lp": 3,
+      "nr": null,
+      "komentarz": "Projekt jest bardzo dobry i pozytywnie wpłynie na mnie jako obywatela",
+      "autor": "Szewc Jacek",
+      "ankieta_nr": 127107
+    },
+    {
+      "lp": 4,
+      "nr": null,
+      "komentarz": "Projekt stanowi wartościową próbę wdrożenia MiCA w wariancie \"UE+0\" (bez gold-platingu) oraz wzmacnia gwarancje proceduralne, w szczególności kontrolę sądową przy środkach dotyczących interfejsów internetowych. Kluczowe jest zapewnienie przewidywalnego procesu licencyjnego CASP (terminy, kompletność wniosku, ograniczenie wielokrotnych wezwań), proporcjonalnych kosztów nadzoru oraz spójnych odesłań definicyjnych do MiCA. W projekcie warto doprecyzować kilka punktów, aby uniknąć rozbieżności z brzmieniem MiCA (m.in. terminy i mechanika art. 63 oraz zasady okresu przejściowego z art. 143) oraz jasno powiązać reżim MiCA z krajowymi mechanizmami ochrony konsumenta i ADR (Rzecznik Finansowy).",
+      "autor": "Wojciechowski Robert",
+      "ankieta_nr": 127434
+    },
+    {
+      "lp": 5,
+      "nr": null,
+      "komentarz": "Pilne przyjęcie ustawy o kryptoaktywach jest konieczne dla zapewnienia możliwości dalszego rozwoju, a wręcz istnienia polskiego rynku usług w zakresie kryptoaktywów i prowadzenia działalności gospodarczej przez krajowych dostawców tych usług. Brak przyjęcia przedmiotowej ustawy będzie niósł fatalne skutki dla pewności prawa, zaufania do państwa jak również ochrony interesów użytkowników (inwestorów). Zgłoszony projekt jest racjonalny, konstruktywny i kompromisowy, gdyż nie wprowadza nadmiernych regulacji w stosunku do rozporządzenia UE, przy jednoczesnym wyznaczeniu KNF jako organu właściwego do nadzoru nad rynkiem krypto. Jednocześnie ustawa zapewnia istotne rozwiązania przejściowe, które umożliwią dostawcom, którzy w terminie złożą wniosek do KNF o zezwolenie CASP na kontynuowanie dotychczasowej działalności do czasu rozpoznania tego wniosku przez KNF, co jest kluczowe z uwagi na wielomiesięczne opóźnienia po stronie państwa polskiego w przyjęciu przedmiotowych przepisów.",
+      "autor": "Cegłowski Mikołaj",
+      "ankieta_nr": 127954
+    },
+    {
+      "lp": 6,
+      "nr": null,
+      "komentarz": "Ustawa implementuje unijną dyrektywę MICA nie likwidując branży jak ta rządowa.",
+      "autor": "Nowak Kamil",
+      "ankieta_nr": 128487
+    },
+    {
+      "lp": 7,
+      "nr": null,
+      "komentarz": "Wprowadzenie ustawy o kryptoaktywach jest niezbędne, ponieważ umożliwia pełne i skuteczne stosowanie rozporządzenia MiCA na terytorium Rzeczypospolitej Polskiej, w szczególności poprzez wskazanie właściwego organu nadzoru oraz ustanowienie krajowych procedur administracyjnych, czego wymaga art. 93 MiCA. Projekt ustawy w sposób jednoznaczny wyznacza KNF jako organ właściwy oraz określa zasady współpracy z EBA i ESMA, co jest kluczowe dla zapewnienia spójności nadzorczej w ramach rynku unijnego. Ustawa wprowadza również niezbędne mechanizmy proceduralne, kwestie kosztów nadzoru. Istotnym elementem jest uregulowanie dostępu do infrastruktury finansowej, w tym obowiązek uzasadniania odmowy otwarcia rachunku bankowego. Ustawa wprowadza przepisy przejściowe, które umożliwiają płynne przejście z reżimu VASP na CASP, w tym uproszczoną procedurę dla podmiotów już działających. Brak takiej ustawy uniemożliwiłby prawidłowe stosowanie MiCA i stworzyłby istotną lukę nadzorczą w Polsce.",
+      "autor": "Boruta Katarzyna",
+      "ankieta_nr": 129450
+    },
+    {
+      "lp": 8,
+      "nr": null,
+      "komentarz": "Choć osobiście nie jestem zainteresowany inwestowaniem w kryptowaluty, dostrzegam ich rosnącą rolę w gospodarce. Moim zdaniem, polskie prawo nie powinno wprowadzać większych ograniczeń dotyczących kryptowalut, niż te wymagane przez UE. Polska powinna być państwem przyjaznym dla kryptowalut, gdyż według mnie przyniesie to pozytywne skutki dla gospodarki.",
+      "autor": "Cichoń Konrad",
+      "ankieta_nr": 129486
+    },
+    {
+      "lp": 9,
+      "nr": null,
+      "komentarz": "Potrzebna",
+      "autor": "Szłapak Marta",
+      "ankieta_nr": 131887
+    },
+    {
+      "lp": 10,
+      "nr": null,
+      "komentarz": "PONIP apeluje o uchwalenie ponad politycznymi podziałami możliwie najszybciej ustawy, która pozwoli nie tylko członkom PONIP, ale wszystkim zainteresowanym polskim przedsiębiorcom, na świadczenie usług w zakresie kryptoaktywów w oparciu o zezwolenie uzyskane w naszym kraju.",
+      "autor": "Masłowski Michał",
+      "ankieta_nr": 131946
+    },
+    {
+      "lp": 11,
+      "nr": null,
+      "komentarz": "Należy ten aspekt uregulować",
+      "autor": "Walter Magdalena",
+      "ankieta_nr": 132560
+    },
+    {
+      "lp": 12,
+      "nr": null,
+      "komentarz": "wprowadzenie ustawy konieczne (implementacja) wiec bardzo dobrze, ze projekt wg zasady UE + 0",
+      "autor": "Skoncej Aleksandra",
+      "ankieta_nr": 132629
+    },
+    {
+      "lp": 13,
+      "nr": null,
+      "komentarz": "starczy jak ustawa bedzie miała 1 strone jak w innych krajach UE",
+      "autor": "Kubala Przemysław",
+      "ankieta_nr": 132642
+    },
+    {
+      "lp": 14,
+      "nr": null,
+      "komentarz": "Zwiększy to komfort dla firm które musza dostosować się regulacji MICA z EU bez zbędnych dodatków",
+      "autor": "Ryński Michał",
+      "ankieta_nr": 132681
+    },
+    {
+      "lp": 15,
+      "nr": null,
+      "komentarz": "Projekt ustawy stanowi ważny krok w kierunku wdrożenia MiCA w Polsce i co do zasady realizuje swoje cele. Warto jednak doprecyzować niektóre procedury, w szczególności dotyczące terminów administracyjnych, katalogu wymaganych dokumentów oraz zasad proporcjonalności wobec mniejszych podmiotów.",
+      "autor": "Gajewski Marek",
+      "ankieta_nr": 132823
+    },
+    {
+      "lp": 16,
+      "nr": null,
+      "komentarz": "Bez wdrożenia proponowanej ustawy właściciele nieruchomości nadal będą narażeni na umyślne oszustwa dzikich lokatorów",
+      "autor": "Osiński Damian",
+      "ankieta_nr": 133264
+    },
+    {
+      "lp": 17,
+      "nr": null,
+      "komentarz": "Kryptowaluty są przedmiotem całkowitej nadregulacji a prawo w tej materii nie przystaje do rzeczywistości. Możliwość posługiwania się kryptowalutami powinna być ograniczana w jak najmniejszym stopniu. Posiadanie bitcoina powinno być tak samo naturalne jak płatność kartą czy gotówką",
+      "autor": "Błoński Rafał",
+      "ankieta_nr": 133758
+    },
+    {
+      "lp": 18,
+      "nr": null,
+      "komentarz": "Kryptoaktywa stanowią jeden z kierunków ewolucji nowoczesnych metod płatności w obszarze handlu elektronicznego.\nDlatego niezwykle ważne, aby wraz z implementacją Rozporządzenia MiCA zostały ukształtowane ramy regulacyjne umożliwiające ich praktyczne i bezpieczne wykorzystanie. W szczególności istotne jest, aby regulacje, w tym podatkowe, nie stanowiły bariery dla rozwoju przedsiębiorstw ani nie prowadziły do powstania nieuzasadnionych ryzyk prawnych i podatkowych, które mogłyby stanowić ograniczenie w wykorzystaniu kryptoaktywów. W szczególności istotnym jest zapewnienie takich regulacji, aby dokonywanie rozliczeń w branży e-commerce z wykorzystaniem kryptoaktywów wywoływało skutki prawne i ekonomiczne możliwie zbliżone do transakcji realizowanych przy użyciu tradycyjnych środków płatniczych, przy jednoczesnym zachowaniu odpowiedniego poziomu bezpieczeństwa obrotu oraz ochrony użytkowników.",
+      "autor": "Krzemińska Małgorzata",
+      "ankieta_nr": 133835
+    }
+  ],
+  "pytania_6_12": [
+    {
+      "lp": 1,
+      "nr": "Pyt. 6",
+      "komentarz": "Problem nieistotny społecznie",
+      "autor": "Grajoszek Roman",
+      "ankieta_nr": 127565
+    },
+    {
+      "lp": 2,
+      "nr": "Pyt. 6",
+      "komentarz": "Ewentulanie inną ustawą. Z punktu widzenia PONIP kluczowa jest pewność prawa i możliwość świadczenia usług w zakresie kryptoaktywów w oparciu o zezwolenie uzyskanie w Polsce.",
+      "autor": "Masłowski Michał",
+      "ankieta_nr": 131946
+    },
+    {
+      "lp": 3,
+      "nr": "Pyt. 6",
+      "komentarz": "Najlepszym rozwiązaniem problemu byłaby całkowita rezygnacja ustawodawcy z regulowania tego aspektu rzeczywistości.",
+      "autor": "Pietrzak Wojciech",
+      "ankieta_nr": 132799
+    },
+    {
+      "lp": 4,
+      "nr": "Pyt. 7",
+      "komentarz": "Brak , lub mikroskopijny skutek społeczny",
+      "autor": "Grajoszek Roman",
+      "ankieta_nr": 127565
+    },
+    {
+      "lp": 5,
+      "nr": "Pyt. 8",
+      "komentarz": "nie zgadzam sie na ponoszenie żadnych skutków gospodarczych, bo nie jest ta ustawa konieczna.",
+      "autor": "Grajoszek Roman",
+      "ankieta_nr": 127565
+    },
+    {
+      "lp": 6,
+      "nr": "Pyt. 9",
+      "komentarz": "nie zgadzam się na ponoszenie żadnych skutków finansowych, bo nie jest ta ustawa konieczna.",
+      "autor": "Grajoszek Roman",
+      "ankieta_nr": 127565
+    },
+    {
+      "lp": 7,
+      "nr": "Pyt. 10",
+      "komentarz": "nie zgadzam się na ponoszenie żadnych skutków prawnych, bo nie jest ta ustawa konieczna.",
+      "autor": "Grajoszek Roman",
+      "ankieta_nr": 127565
+    },
+    {
+      "lp": 8,
+      "nr": "Pyt. 11",
+      "komentarz": "Skutek instytucjonalny (organizacyjny): projekt w praktyce wymaga od KNF przygotowania zasobów kadrowych i kompetencyjnych do obsługi licencji CASP oraz stosowania środków nadzorczych w modelu zgodnym z MiCA (w tym współpracy z ESMA/EBA). Bez równoległego wzmocnienia zdolności operacyjnych organu może dojść do ryzyka zatorów w procedurach licencyjnych.\nSkutek rynkowy (konkurencyjność): ograniczenie gold-platingu oraz racjonalne opłaty nadzorcze mogą działać prokonkurencyjnie i zmniejszać ryzyko \"regulatory arbitrage\" (rejestrowanie CASP w innych państwach UE). Jest to istotne dla utrzymania działalności, miejsc pracy i podatków w Polsce.\nSkutek konsumencki (zaufanie): przewidywalne zasady licencjonowania i kontrola sądowa środków ingerencyjnych (np. dotyczących interfejsów internetowych) mogą zwiększyć zaufanie użytkowników i instytucji (w tym banków) do rynku regulowanego MiCA. Jednocześnie brak jasnego doprecyzowania relacji do krajowych przepisów ochrony konsumenta może rodzić spory interpretacyjne w relacjach B2C.",
+      "autor": "Wojciechowski Robert",
+      "ankieta_nr": 127434
+    },
+    {
+      "lp": 9,
+      "nr": "Pyt. 11",
+      "komentarz": "Bezsensowny wzrost biurokracji i niepotrzebnych aktów prawnych",
+      "autor": "Grajoszek Roman",
+      "ankieta_nr": 127565
+    },
+    {
+      "lp": 10,
+      "nr": "Pyt. 11",
+      "komentarz": "Ustawa może dodatkowo zwiększyć konkurencyjność polskich podmiotów na rynku unijnym oraz poprawić dostęp do rachunków bankowych.",
+      "autor": "Boruta Katarzyna",
+      "ankieta_nr": 129450
+    },
+    {
+      "lp": 11,
+      "nr": "Pyt. 11",
+      "komentarz": "Brak regulacji w Polsce prowadzi do szeregu reperkusji: arbitrażu regulacyjnego, spadku konkurencyjności polskich przedsiębiorców, spadku innowacyjności, spadku atrakcyjności polskiego rynku, zmniejszonymi wpływami do budżetu, brakiem zmniejszenia bezrobocia, odpływem talentów.",
+      "autor": "Masłowski Michał",
+      "ankieta_nr": 131946
+    },
+    {
+      "lp": 12,
+      "nr": "Pyt. 11",
+      "komentarz": "Projekt ustawy przyjmuje podejście do implementacji Rozporządzenia MiCA do polskiego porządku prawnego opierające się na modelu określanym jako UE+0. Tym samym projekt ten zakłada minimalistyczną i bezpośrednią transpozycję przepisów unijnych poprzez punktowe odwołania do regulacji MiCA, bez ich powielania oraz bez wprowadzania dodatkowych obowiązków regulacyjnych po stronie uczestników rynku. Podejście to pozostaje zbieżne z rozwiązaniami przyjętymi w niektórych innych jurysdykcjach unijnych, takich jak Cypr, Estonia czy Słowacja.\nProjekt ustawy doprecyzowuje i wprowadza istotne zmiany dotyczące zasad opodatkowania kryptoaktywów w podatkach dochodowych (min. wyłączenia z opodatkowania transferu własnego wirtualnej waluty i jej wymiany na inne kryptoaktywo) oraz nowe reguły dowodowe w postępowaniu podatkowym dostosowane do technologii blockchain i Rozporządzenia MiCA rozszerzając katalog dowodów (min. dopuszczając dowody z dokumentów elektronicznych, zapisy danych z blockchain/DLT). Zmiany te należy ocenić pozytywnie.\nW projekcie ustawy pozytywnie należy ocenić odniesienie się do problemów sygnalizowanych przez uczestników rynku, w tym w szczególności rezygnację z przyjętej w innych projektach konstrukcji opłat uzależnionych od przychodu oraz odstąpienie od koncepcji wpisywania domen dostawców usług do rejestru domen zakazanych. Niemniej w celu zapewnienia pewności prawa oraz bezpieczeństwa zarówno dla przedsiębiorców jak i konsumentów z branży e-commerce, zasadne jest rozważenie wprowadzenia opisanych niżej regulacji w przepisach podatkowych (w odpowiedzi na pytanie nr 12).",
+      "autor": "Krzemińska Małgorzata",
+      "ankieta_nr": 133835
+    },
+    {
+      "lp": 13,
+      "nr": "Pyt. 12",
+      "komentarz": "Banki i instytucje płatnicze - w kontekście obsługi rachunków podmiotów licencjonowanych oraz zapewnienia mechanizmów segregacji środków klientów (praktyczna wykonalność obowiązków MiCA).\nDostawców infrastruktury cyfrowej (hosting, rejestratorzy domen, operatorzy usług internetowych) - w zakresie wykonywania nakazów sądowych/środków dotyczących interfejsów internetowych; nawet przy modelu \"sądowym\" będą to podmioty wykonawcze.\nFirmy audytorskie, doradcy prawni i podatkowi, dostawcy usług compliance/IT-security - wzrośnie popyt na wyspecjalizowane usługi zapewniające zgodność z MiCA (governance, ryzyko, AML, cyber), co jest efektem ubocznym wejścia w reżim licencjonowany.\nKonsumenci i użytkownicy detaliczni - w sensie praktycznym: większa przejrzystość i ochrona w modelu licencjonowanym, ale również zmiany w procesach onboardingu/KYC i komunikacji regulacyjnej.",
+      "autor": "Wojciechowski Robert",
+      "ankieta_nr": 127434
+    },
+    {
+      "lp": 14,
+      "nr": "Pyt. 12",
+      "komentarz": "Zacheci inne grupy osób, żerujących na naszym państwie",
+      "autor": "Grajoszek Roman",
+      "ankieta_nr": 127565
+    },
+    {
+      "lp": 15,
+      "nr": "Pyt. 12",
+      "komentarz": "Wpływ obejmie również banki, instytucje płatnicze, operatorów infrastruktury finansowej oraz podmioty świadczące usługi technologiczne dla CASP.",
+      "autor": "Boruta Katarzyna",
+      "ankieta_nr": 129450
+    },
+    {
+      "lp": 16,
+      "nr": "Pyt. 12",
+      "komentarz": "Ustawa może pośrednio oddziaływać również na podmioty wspierające działalność CASP, takie jak dostawcy technologii, usług compliance czy infrastruktury.",
+      "autor": "Gajewski Marek",
+      "ankieta_nr": 132823
+    },
+    {
+      "lp": 17,
+      "nr": "Pyt. 12",
+      "komentarz": "W celu zapewnienia pewności prawa oraz bezpieczeństwa zarówno dla przedsiębiorców jak i konsumentów z branży e-commerce, zasadne jest rozważenie wprowadzenia opisanych niżej regulacji w przepisach podatkowych.\n-ustawa z 11 marca 2024 r. o podatku od towarów u usług - art. 43 ust. 1 pkt 7\n- Zwolnienie z VAT dla czynności w zakresie obrotu kryptowalutami obecnie wywodzone jest \"pośrednio\" w drodze wykładni celowościowej z art. 43 ust. 1 pkt 7 ustawy o VAT, który dotyczy \"walut, banknotów i monet\". Przepis ten skonstruowano w czasach, gdy nie znane były jeszcze kryptoaktywa, przez co posługuje się on pojęciami odnoszącymi się do \"klasycznych\" środków płatniczych. Istotnym jest doprecyzowanie, że płatność dokonana z wykorzystaniem kryptoaktywów, w zakresie, w jakim pełnią one funkcję środka płatniczego, powinna być traktowana analogicznie do płatności realizowanej przy użyciu walut tradycyjnych, tj. jako forma wykonania zobowiązania, a nie jako odrębna czynność podlegająca opodatkowaniu. Co istotne, art. 135 ust. 1 lit. e) Dyrektywy 2006/112/WE wprowadza zasadę zwolnienia z opodatkowania transakcje, łącznie z pośrednictwem, dotyczące walut, banknotów monet używanych jako prawny środki płatniczy, a więc nic nie stoi na przeszkodzie dookreśleniu, że zwolnieniu temu podlegają również kryptoaktywa. Potwierdza to już orzecznictwo (np. wyrok TSUE w sprawie C-264/14, Hedqvist).\n- Propozycja przepisu:\nWprowadzenie art. 43 ust. 1 pkt 7a ustawy o podatku od towarów i usług: Zwalnia się od podatku transakcje, łącznie z pośrednictwem, dotyczące walut które nie są prawnymi środkami płatniczymi, o ile waluty są akceptowane jako alternatywny środek płatniczy wobec prawnych środków płatniczych i ich przeznaczeniem jest funkcja środka płatniczego.\n- ustawa z dnia 9 września 2000 r. o podatku od czynności cywilnoprawnych - art. 9 ust. 1a\n- W obecnym brzmieniu, obrót określonymi grupami kryptoaktywów, niespełniających definicji waluty wirtualnej, podlega opodatkowaniu podatkiem od czynności cywilnoprawnych. W celu zapewnienia neutralności podatkowej (PCC) zasadne jest zastąpienie pojęcia \"walut wirtualnych\" pojęciem \"kryptoaktywów\" (nowym pojęciem wprowadzonym wraz z MiCA). Zmiany w tym obszarze przyczyniłyby się do poszerzenia zakresu dostępnych metod płatności stosowanych w branży e-commerce.\n- Propozycja przepisu : Art. 9a ust. 1a ustawy o podatku od czynności cywilnoprawnych otrzymuje brzmienie: Zwalnia się od podatku następujące czynności cywilnoprawne: sprzedaż i zamianę kryptoaktywów w rozumieniu art. 3 ust. 1 pkt 5 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2023/1114 z dnia 31 maja 2023 r. w sprawie rynków kryptoaktywów oraz zmiany rozporządzeń (UE) nr 1093/2010 i (UE) nr 1095/2010 oraz dyrektyw 2013/36/UE i (UE) 2019/1937 (Dz. Urz. UE L 150 z 09.06.2023, str. 40, z późn. zm.20).\n- ustawa z 11 marca 2024 r. o podatku od towarów u usług - art. 15 po ust. 11\n- W projekcie ustawy proponuje się dodanie art. 12 w ust. 4 pkt 31 i 32 ustawy o podatku dochodowym, które stanowią, że przychodem nie są wartości otrzymane przez emitentów EMT oraz ART - do momentu ich odkupu lub umorzenia. Projekt ustawy nie przewiduje jednak regulacji w zakresie kosztów dla emitentów EMT i ART tzn. dopiero wprowadzenie takich przepisów pozwoliłoby na realne opodatkowanie dochodu, a nie przychodu.\n- Propozycja przepisu: Wprowadzenie art. 15 ust. 11a ustawy o podatku dochodowym od osób prawnych: u emitentów tokenów będących pieniądzem elektronicznym (EMT) w rozumieniu przepisów rozporządzenia 2023/1114 oraz tokenów powiązanymi z aktywami (ART) w rozumieniu przepisów rozporządzenia 2023/1114 koszty uzyskania przychodów, o których mowa w art.7b ust. 1 pkt 6 lit. f, stanowią udokumentowane wydatki bezpośrednio związane z ich odkupem, umorzeniem lub wygaśnięciem takich tokenów, a także koszty związane z ich emisją.",
+      "autor": "Krzemińska Małgorzata",
+      "ankieta_nr": 133835
+    }
+  ],
+  "artykuly": [
+    {
+      "lp": 1,
+      "nr": "Art. 1",
+      "komentarz": "Projekt ustawy - zgodnie z tytułem - dotyczy stosowania rozporządzenia (UE) 2023/1114 (MiCA) oraz zmian w niektórych ustawach. Jednocześnie rozdział 7 (art. 18-21) wprowadza istotne zmiany w PIT, CIT i Ordynacji podatkowej. Z perspektywy czytelności systemowej oraz konsultacji publicznych zasadne jest doprecyzowanie w przepisie określającym przedmiot ustawy, że zmiany podatkowe stanowią zmiany towarzyszące związane z uporządkowaniem skutków podatkowych rynku kryptoaktywów, a nie autonomiczny \"drugi filar\" niezwiązany bezpośrednio z wykonywaniem MiCA.\nBrak takiego doprecyzowania może rodzić ryzyko interpretacyjne na etapie stosowania ustawy (np. w zakresie uzasadnienia/OSR, zakresu konsultacji branżowych oraz późniejszej interpretacji celu przepisów podatkowych). Doprecyzowanie w art. 1 poprawi przejrzystość legislacyjną i ograniczy potencjalne zarzuty formalne dotyczące \"rozszerzania\" przedmiotu ustawy ponad wdrożenie MiCA, przy jednoczesnym zachowaniu obecnej struktury projektu.\nProponowana poprawka:\nW art. 1 po wyrazach \"(MiCA)\" dodaje się zdanie drugie w brzmieniu:\n\"Zmiany, o których mowa w art. 18-21, stanowią przepisy dostosowujące w zakresie prawa podatkowego i dowodowego, pozostające w związku z funkcjonowaniem rynku kryptoaktywów oraz wykonywaniem MiCA na terytorium Rzeczypospolitej Polskiej.\"",
+      "autor": "Wojciechowski Robert",
+      "ankieta_nr": 127434
+    },
+    {
+      "lp": 2,
+      "nr": "Art. 2",
+      "komentarz": "W projekcie wielokrotnie pojawia się sformułowanie \"zezwolenie, o którym mowa w przepisach MiCA\" (m.in. w kontekście CASP, opłat, bankowości, przepisu karnego). Ze względu na różnice terminologiczne (w MiCA różne podstawy \"authorisation\" dla różnych podmiotów) wskazane jest doprecyzowanie definicji \"zezwolenia\" na potrzeby ustawy, aby wykluczyć rozbieżności interpretacyjne.\nProponowana poprawka:\nW art. 2 ust. 1 dodaje się pkt 5 w brzmieniu:\n\"5) zezwolenie MiCA - rozumie się przez to zezwolenie udzielone na podstawie MiCA, w szczególności zezwolenie, o którym mowa w art. 62 MiCA (CASP) oraz art. 21 MiCA (emitent ART), a także równoważne zezwolenie udzielone przez właściwy organ innego państwa członkowskiego zgodnie z MiCA.\"",
+      "autor": "Wojciechowski Robert",
+      "ankieta_nr": 127434
+    },
+    {
+      "lp": 3,
+      "nr": "Art. 2",
+      "komentarz": "1. PONIP popiera w Projekcie znaczące uproszczenie przepisów towarzyszących wdrożeniu MICAR do polskiego prawa wobec nieuchwalonej ustawy z dnia 7 listopada 2025 r. o rynku kryptoaktywów i koncepcję regulacji na poziomie krajowym wyłącznie tych aspektów wspomnianego rozporządzenia unijnego, które są niezbędne dla funkcjonowania rynku kryptoaktywów w Polsce, co znajduje swoje odzwierciedlenie choćby w katalogu definicji, przewidzianych w art. 2 Projektu.",
+      "autor": "Masłowski Michał",
+      "ankieta_nr": 131946
+    },
+    {
+      "lp": 4,
+      "nr": "Art. 5",
+      "komentarz": "Koniecznym wydaje się określenie odpowiedniego stosowania przepisów - np. co w przypadku zdecentralizowanego projektu web3, który jest oparty wyłącznie o publicznie dostepny blockchain - w jaki sposób ma zachować tajemnicę bankową. Brak zrozumienia kwestii technicznych u KNF bądź innych organów może pozostawiać zbyt duży luz decyzyjny/interpretacyjny.",
+      "autor": "Krajewski Hieronim",
+      "ankieta_nr": 126977
+    },
+    {
+      "lp": 5,
+      "nr": "Art. 5",
+      "komentarz": "Dla uniknięcia wątpliwości interpretacyjnych co do relacji pomiędzy tajemnicą zawodową z Prawa bankowego a reżimem MiCA, wskazane jest doprecyzowanie, że stosowanie art. 104-105 Prawa bankowego nie narusza obowiązków i uprawnień wynikających wprost z MiCA (w tym zasad tajemnicy zawodowej i wymiany informacji).\nProponowana poprawka:\nW art. 5 po zdaniu pierwszym dodaje się zdanie:\n\"Stosowanie przepisów, o których mowa w zdaniu pierwszym, następuje z uwzględnieniem przepisów MiCA dotyczących tajemnicy zawodowej oraz współpracy i wymiany informacji, i nie narusza obowiązków informacyjnych wynikających wprost z MiCA.\"",
+      "autor": "Wojciechowski Robert",
+      "ankieta_nr": 127434
+    },
+    {
+      "lp": 6,
+      "nr": "Art. 6",
+      "komentarz": "1. Przepis wprowadza KPA/PPSA jako zasadę, \"o ile MiCA nie stanowi inaczej\". W praktyce część czynności KNF w systemie nadzoru bywa realizowana w trybach szczególnych (np. postanowienia, środki natychmiastowe). Dla uniknięcia zarzutu, że \"KPA blokuje wykonanie środka z MiCA\", warto doprecyzować, że stosowanie KPA nie ogranicza natychmiastowej wykonalności środków przewidzianych w MiCA, jeżeli MiCA taką wykonalność przewiduje.\nProponowana poprawka:\nW art. 6 dodaje się zdanie drugie w brzmieniu:\n\"Stosowanie przepisów, o których mowa w zdaniu pierwszym, nie ogranicza możliwości niezwłocznego wykonania środków nadzorczych przewidzianych w MiCA, jeżeli MiCA przewiduje ich wykonalność przed ostatecznym zakończeniem postępowania.\"\n2. W celu jednoznacznego \"osadzenia\" MiCA w polskim porządku prawnym w relacjach B2C (bez gold-platingu) proponuje się dodanie przepisu kolizyjnego dot. ochrony konsumenta (umowy na odległość - usługi finansowe).\nProponowana poprawka:\nPo art. 6 dodaje się art. 6a w brzmieniu:\n\"Art. 6a. Do umów zawieranych z konsumentami dotyczących świadczenia usług w zakresie kryptoaktywów stosuje się przepisy ustawy o prawach konsumenta w zakresie umów dotyczących usług finansowych zawieranych na odległość, o ile przepisy MiCA nie stanowią inaczej.\"",
+      "autor": "Wojciechowski Robert",
+      "ankieta_nr": 127434
+    },
+    {
+      "lp": 7,
+      "nr": "Art. 7",
+      "komentarz": "Sugeruję dokładne określenie trybu elektronicznego, czy będzie to jakiś stworzony system teleinformatyczny, czy chodzi o np. o wykorzystanie e-Doręczeń.",
+      "autor": "Krajewski Hieronim",
+      "ankieta_nr": 126977
+    },
+    {
+      "lp": 8,
+      "nr": "Art. 7",
+      "komentarz": "Projekt zakłada obligatoryjną komunikację elektroniczną z wyjątkiem \"przyczyn technicznych\". Dla zapewnienia prawa strony do udziału w postępowaniu oraz uniknięcia ryzyk proceduralnych warto dopuścić możliwość odstępstwa także w razie braku obiektywnej możliwości po stronie uczestnika postępowania (np. wykluczenie cyfrowe), na jego wniosek.\nProponowana poprawka:\nW art. 7 po wyrazach \"z przyczyn technicznych\" dodaje się wyrazy:\n\"albo z innych obiektywnych przyczyn uniemożliwiających dokonanie czynności w tej postaci po stronie wnoszącego lub adresata, w szczególności na uzasadniony wniosek strony\".",
+      "autor": "Wojciechowski Robert",
+      "ankieta_nr": 127434
+    },
+    {
+      "lp": 9,
+      "nr": "Art. 7",
+      "komentarz": "Art. 7 Projektu Ustawy stanowi, że w sprawach z zakresu przepisów MiCA pisma i dokumenty wnosi się oraz doręcza w postaci elektronicznej, chyba że doręczenie albo wniesienie w tej postaci jest niemożliwe z przyczyn technicznych. Jednak, projektodawca w poprzedzającym przepisie art. 6 Projektu przesądza, że zasadniczo do postępowań prowadzonych przez KNF w sprawach z zakresu przepisów MiCA stosuje się przepisy ustawy z dnia 14 czerwca 1960 r. - Kodeks postępowania administracyjnego (\"KPA\"). Przepis art. 63 § 1 KPA wyczerpująco opisuje sposoby wnoszenia podań w postępowaniu administracyjnym, w tym umożliwia wniesienie zarówno podania utrwalonego na piśmie, jak i w postaci elektronicznej. Nie znajdujemy racjonalnego uzasadnienia dla celowego zawężenia możliwości wnoszenia podań w sprawach z zakresu przepisów MiCA do wyłącznie formy elektronicznej, z wyjątkiem sytuacji, w której stoją temu na przeszkodzie przyczyny techniczne. Postulujemy rezygnację z zawarcia tego przepisu w Projekcie Ustawy.",
+      "autor": "Krauzowicz Zuzanna",
+      "ankieta_nr": 134010
+    },
+    {
+      "lp": 10,
+      "nr": "Art. 8",
+      "komentarz": "Wydaje się to sprzeczne z art. 4 i 5 ustawy o języku polskim i tworzyłoby uprzywilejowanie względem innych przedsiębiorców, którzy muszą kontaktowac się z organami władzy publicznej wyłącznie w języku polskim. Proponuję usunąc z projektu.",
+      "autor": "Krajewski Hieronim",
+      "ankieta_nr": 126977
+    },
+    {
+      "lp": 11,
+      "nr": "Art. 8",
+      "komentarz": "1. Umożliwienie wersji angielskiej \"o charakterze informacyjnym\" jest korzystne, ale może rodzić spory przy podmiotach transgranicznych (np. jaki tekst jest wiążący). Dla pewności obrotu warto dopisać wprost, że wiążąca jest wersja polska i że ewentualna rozbieżność nie może obciążać strony, jeżeli wynika z błędu tłumaczenia po stronie organu.\nProponowana poprawka:\nW art. 8 po ust. 3 dodaje się zdanie:\n\"W razie rozbieżności pomiędzy wersją polską a wersją angielską rozstrzygnięcia wiążąca jest wersja polska; udostępnienie wersji angielskiej nie może naruszać praw strony, w szczególności gdy rozbieżność wynika z oczywistego błędu tłumaczenia.\"\n2. Przepis dotyczy języka postępowania z KNF, ale warto doprecyzować, że nie ogranicza obowiązków informacyjnych wobec klientów wynikających z MiCA (jasny i zrozumiały przekaz dla konsumenta).\nProponowana poprawka:\nW art. 8 po ust. 3 dodaje się ust. 4 w brzmieniu:\n\"4. Przepisy ust. 1-3 nie naruszają obowiązków informacyjnych wobec klientów wynikających z MiCA; informacje kierowane do klientów będących konsumentami na terytorium Rzeczypospolitej Polskiej przekazuje się w sposób jasny i zrozumiały.\"",
+      "autor": "Wojciechowski Robert",
+      "ankieta_nr": 127434
+    },
+    {
+      "lp": 12,
+      "nr": "Art. 8",
+      "komentarz": "Możliwość składania pism i dokumentów do KNF w języku angielskim to bardzo dobre i potrzebne rozwiązanie, które stosowane jest od dawna przez różne kraje członkowskie UE.",
+      "autor": "Cegłowski Mikołaj",
+      "ankieta_nr": 127954
+    },
+    {
+      "lp": 13,
+      "nr": "Art. 9",
+      "komentarz": "Co w przypadku braku adresata takiej decyzji? (problem szerszy).\nTym niemniej proponowałbym ujednolicić nazewnictwo i \"nakaz\" zastąpić \"postanowieniem\" oraz uzupełnić, iż postępowanie przed Sądem jest postepowaniem cywilnym/sprawą cywilną rozpoznawaną w postępowaniu nieprocesowym.",
+      "autor": "Krajewski Hieronim",
+      "ankieta_nr": 126977
+    },
+    {
+      "lp": 14,
+      "nr": "Art. 9",
+      "komentarz": "Art. 9 dotyczy środków wobec interfejsów internetowych i powinien wprost odnosić się do art. 94 ust. 1 lit. (aa) MiCA (online-interface measures), aby nie sugerować, że sąd dotyczy wszystkich środków z art. 94 ust. 1 MiCA. Dodatkowo warto wprost dopuścić element domenowy (registry/registrar), który MiCA przewiduje jako środek ultima ratio.\nProponowana poprawka:\nW art. 9 ust. 1 wyrazy \"art. 94 ust. 1 MiCA\" zastępuje się wyrazami: \"art. 94 ust. 1 lit. (aa) MiCA\".\nW art. 9 ust. 2 po pkt 4 dodaje się pkt 5 w brzmieniu:\n\"5) nakazanie rejestrowi domen lub rejestratorowi domen usunięcia w pełni kwalifikowanej nazwy domeny oraz umożliwienia jej rejestracji przez KNF.\"",
+      "autor": "Wojciechowski Robert",
+      "ankieta_nr": 127434
+    },
+    {
+      "lp": 15,
+      "nr": "Art. 9",
+      "komentarz": "Proponowane brzmienie przepisu jest fundamentalnie wadliwe i tworzy nieintuicyjny mechanizm, w którym organ administracji publicznej po wydaniu decyzji administracyjnej nakładającej środki nadzorcze może wystąpić do sądu powszechnego z wnioskiem o wydanie niedookreślonego nakazu, jeżeli jest to niezbędne do skutecznego wykonania tej decyzji. Proponowane rozwiązanie należy ocenić jednoznacznie negatywnie ze względu na następujące czynniki:\nsąd powszechny miałby oceniać środek funkcjonalnie związany z decyzją administracyjną, a projekt nie rozstrzyga jasno relacji między tą kontrolą a kontrolą administracyjnosądową decyzji KNF;\nryzyko przewlekłości postępowań, wynikające z obecnego przeciążenia sądów powszechnych;\nniedostosowanie przepisów procedury cywilnej do rozpoznawania spraw o charakterze administracyjnym (przy założeniu, że ta procedura miałaby zastosowanie do przedmiotowego postępowania - brak jest doprecyzowania w tym zakresie);\nposługiwanie się pojęciem \"nakazu\", które w omawianym kontekście nie znajduje oparcia ani w przepisach regulujących postępowanie cywilne, ani w innych aktach prawa krajowego, ani w rozporządzeniu MiCA.\nKwestia właściwości rzeczowej sądu, rodzaju wydawanego przez sąd orzeczenia z uwzględnieniem treści rozporządzenia MiCA, która wskazuje na formę postanowienia oraz procedury powinny być gruntownie przemodelowane. Uwzględniając współczesne realia postulujemy ewentualne wskazanie Wojewódzkiego Sądu Administracyjnego właściwego miejscowo ze względu na miejsce zamieszkania lub siedzibę podmiotu, którego środek dochodzeniowy lub nadzorczy dotyczy, jako sądu właściwego do rozpoznania sprawy.\nPonadto, postulujemy, by tylko środki nadzorcze, które niosą za sobą najdalej idące skutki, takie jak te o których mowa w art. 94 ust. 1 lit. c), d), e), h), p) oraz r) MICA były stosowane przez sąd na wniosek organu nadzoru. Rozwiązanie to zracjonalizuje procedurę sprawowania nadzoru, przy jednoczesnym zapewnieniu możliwie pełnej ochrony praw i wolności podmiotów nadzorowanych.\nNa marginesie, należy wskazać, iż istnieją poważne wątpliwości, co do tego czy Projekt Ustawy w istocie wdraża art. 94 ust. 1 MiCA, który wskazuje wprost, że \"(...) właściwe organy muszą posiadać - zgodnie z prawem krajowym - co najmniej poniższe uprawnienia nadzorcze i dochodzeniowe (...)\". Uwaga ta tyczy się także kolejnych ustępów art. 94 MiCAR, w szczególności art. 94 ust. 5 MiCAR, który jest przepisem o bardzo dużym poziomie ogólności i wymaga doprecyzowania poprzez uregulowanie we właściwym zakresie w akcie prawa krajowego. Postulujemy określenie w tym przepisie (lub w kolejnych przepisach tego rozdziału) katalogu uprawnień organu nadzoru związanych z realizacją obowiązków wynikających z MiCAR. Katalog ten powinien precyzyjnie implementować do porządku krajowego uprawnienia nadzorcze i dochodzeniowe, które Polska ma obowiązek wdrożyć zgodnie z postanowieniami art. 94 MiCAR. Wobec powyższego postulujemy również zmianę tytułu rozdziału 4 Projektu Ustawy na \"Środki nadzorcze i dochodzeniowe oraz ich wykonywanie\".",
+      "autor": "Krauzowicz Zuzanna",
+      "ankieta_nr": 134010
+    },
+    {
+      "lp": 16,
+      "nr": "Art. 10",
+      "komentarz": "Należy zastanowić się czy proponowany tryb nie prowadzi do mnożenia się postępowań. Z jednej strony każda decyzja Organu powinna być zaskrażalna (prawo do sądu), ale w propozycji istnieje automatyczne poddanie postanowienia tymczasowego ocenie sądu okręgowego - proponuję przyjąć konstrukcję automatycznego zaskarżenia takiej decyzji np. poprzez usunięcie ust. 6 i zmianę ust. 5 na: Postanowienie tymczasowe doręcza się niezwłocznie podmiotowi, którego dotyczy, wraz z uzasadnieniem oraz pouczeniem oraz wezwanie do zajęcia stanowiska w terminie 3 dni.",
+      "autor": "Krajewski Hieronim",
+      "ankieta_nr": 126977
+    },
+    {
+      "lp": 17,
+      "nr": "Art. 10",
+      "komentarz": "W trybie pilnym warto dopuścić wyłącznie najłagodniejszy środek (ostrzeżenie/komunikat), bez możliwości \"wyłączenia\" interfejsu bez sądu. Podnosi to realną skuteczność ochrony użytkowników w 0-48h, pozostawiając sądową kontrolę środków cięższych.\nProponowana poprawka:\nW art. 10 ust. 2 po zdaniu \"...o których mowa w art. 9 ust. 2.\" dodaje się zdanie:\n\"Postanowienie tymczasowe może jednak nakładać obowiązek, o którym mowa w art. 9 ust. 2 pkt 1 (zamieszczenie ostrzeżenia lub komunikatu), jeżeli jest to niezbędne do zapobieżenia poważnej szkodzie.\"",
+      "autor": "Wojciechowski Robert",
+      "ankieta_nr": 127434
+    },
+    {
+      "lp": 18,
+      "nr": "Art. 14",
+      "komentarz": "Majac na uwadze zasady konstytucyjne oraz postulat pewności prawa podatkowego (opłata jest de facto podatkiem), stawka opłaty za nadzór powinna wynikać bezpośrednio z ustawy.",
+      "autor": "Krajewski Hieronim",
+      "ankieta_nr": 126977
+    },
+    {
+      "lp": 19,
+      "nr": "Art. 14",
+      "komentarz": "Delegacja określa stawki w granicach ustawowych, ale brak wprost mechanizmu konsultacyjnego lub wymogu publikowania metody kalkulacji kosztów nadzoru może rodzić spór o arbitralność rozporządzenia (a w konsekwencji o legalność opłat). Bez naruszania konstrukcji projektu można dopisać minimalny wymóg transparentności.\nProponowana poprawka:\nW art. 14 po ust. 2 dodaje się ust. 2a w brzmieniu:\n\"2a. Przy określaniu stawek, o których mowa w ust. 1 pkt 2, minister publikuje w Biuletynie Informacji Publicznej informację o założeniach kalkulacji kosztów nadzoru stanowiących podstawę ustalenia stawek.\"",
+      "autor": "Wojciechowski Robert",
+      "ankieta_nr": 127434
+    },
+    {
+      "lp": 20,
+      "nr": "Art. 14",
+      "komentarz": "2. W ocenie PONIP także proponowana regulacja kosztów nadzoru, w tym kosztów udzielenia zezwolenia przez organ nadzoru, które mają być ponoszone przez dostawców usług w zakresie kryptoaktywów, zasługuje na poparcie. Niemniej warto rozważyć w tej materii np. wprowadzenie mechanizmu, który pozwalałby na eliminację lub redukcję (również ograniczoną czasowo) wysokości opłat na pokrycie kosztów nadzoru dla dostawców usług w zakresie kryptoaktywów, którzy posiadali już uprzednio status podmiotów nadzorowanych na podstawie innych właściwych przepisów i ponoszą koszty nadzoru z tego tytułu. Taka sytuacja dotyczy instytucji płatniczych. Wspomniany mechanizm stanowiłby jedną z istotnych zachęt do podejmowania działalności obejmującej świadczenie usług w zakresie kryptoaktywów przez np. instytucje płatnicze. W tym kontekście należałoby zmodyfikować odpowiednio np. art. 14 poprzez stosowne ujęcie określonej wytycznej w delegacji dla ministra właściwego do spraw instytucji finansowych do wydania rozporządzenia dotyczącego opłat na koszty nadzoru.",
+      "autor": "Masłowski Michał",
+      "ankieta_nr": 131946
+    },
+    {
+      "lp": 21,
+      "nr": "Art. 14",
+      "komentarz": "Sugerujemy uzupełnić zakres delegacji ustawowej wskazany w art. 14 projektu o możliwość wprowadzenia przez Ministra właściwego do spraw instytucji finansowych mechanizmów umożliwiających zwolnienie czasowo w całości lub części z kosztów nadzoru w ramach nowego reżimu podmiotów, które już podlegają nadzorowi na podstawie odrębnych regulacji (np. KIP, KIPE) i ponoszą z tego tytułu koszty, by zachęcić polskich dostawców do pozostania na rodzimym rynku.",
+      "autor": "Krzemińska Małgorzata",
+      "ankieta_nr": 133835
+    },
+    {
+      "lp": 22,
+      "nr": "Art. 14",
+      "komentarz": "Postulujemy, aby polscy przedsiębiorcy, którzy za pośrednictwem podmiotów zależnych uzyskali w innych państwach członkowskich zezwolenie na prowadzenie działalności jako dostawca usług w zakresie kryptoaktywów w innych krajach członkowskich, zostali okresowo, w całości lub w części, zwolnieni z kosztów nadzoru. Opóźniające się procesy legislacyjne, których celem jest uchwalenie ustawy wdrażającej rozporządzenie MiCA, oddziałują negatywnie na rynek kryptoaktywów w Polsce i zniechęcają zarówno przedsiębiorców zagranicznych, jak i krajowych do utrzymywania obecności na polskim rynku. W naszej ocenie takie rozwiązanie mogłoby stanowić realny impuls do przenoszenia z powrotem do kraju działalności w zakresie kryptoaktywów przez podmioty, których pierwotną intencją było prowadzenie jej w Polsce, a zarazem sprzyjać wzmacnianiu pozycji gospodarczej Rzeczypospolitej Polskiej na rynku europejskim.",
+      "autor": "Krauzowicz Zuzanna",
+      "ankieta_nr": 134010
+    },
+    {
+      "lp": 23,
+      "nr": "Art. 15",
+      "komentarz": "proponuję - zgodnie zresztą z MiCa - rozszerzyć krąg podmiotów odpowiedzialnych o członkoów organów emitenta oraz osoby, które formalnie zatwierdziły dokument/whitepaper.",
+      "autor": "Krajewski Hieronim",
+      "ankieta_nr": 126977
+    },
+    {
+      "lp": 24,
+      "nr": "Art. 15",
+      "komentarz": "MiCA przewiduje odrębne reżimy odpowiedzialności cywilnej za dokument informacyjny dla różnych kategorii kryptoaktywów (m.in. art. 15, art. 26 oraz art. 52 MiCA). Dla spójności i uniknięcia rozbieżności interpretacyjnych właściwe jest odesłanie do MiCA zamiast tworzenia równoległego reżimu krajowego.\nProponowana poprawka (zamiana całego art. 15):\nArt. 15 otrzymuje brzmienie:\n\"Art. 15. Odpowiedzialność cywilna za informacje zawarte w dokumentach informacyjnych (crypto-asset white papers) sporządzanych na podstawie MiCA ponoszona jest na zasadach określonych w MiCA, w szczególności w art. 15, art. 26 oraz art. 52 MiCA. W zakresie nieuregulowanym w MiCA stosuje się przepisy prawa krajowego dotyczące odpowiedzialności odszkodowawczej.\"",
+      "autor": "Wojciechowski Robert",
+      "ankieta_nr": 127434
+    },
+    {
+      "lp": 25,
+      "nr": "Art. 15",
+      "komentarz": "Art. 15 Projektu wymaga zasadniczego doprecyzowania i dostosowania do konstrukcji odpowiedzialności cywilnej przewidzianej w MiCAR. Przepis w obecnym brzmieniu w sposób nadmiernie uproszczony i nie w pełni zgodny z MiCAR ujmuje zarówno krąg podmiotów odpowiedzialnych, jak i przesłanki tej odpowiedzialności. MiCAR różnicuje reżimy odpowiedzialności w zależności od rodzaju kryptoaktywa oraz roli danego podmiotu, przypisując ją odpowiednio oferującemu, osobie ubiegającej się o dopuszczenie do obrotu, operatorowi platformy obrotu albo emitentowi, a także członkom ich organów administracyjnych, zarządzających lub nadzorczych. Projekt posługuje się natomiast jednolitą kategorią emitenta kryptoaktywów oraz rozszerza odpowiedzialność na osoby, które sporządziły dokument informacyjny lub zatwierdziły jego treść w imieniu emitenta, co nie odpowiada konstrukcji przyjętej w MiCA. W konsekwencji przepis może prowadzić do niepewności co do zakresu odpowiedzialności oraz do sporów interpretacyjnych. Zasadne jest zatem jego przeredagowanie przez wierniejsze odwołanie do kategorii podmiotów i przesłanek odpowiedzialności wynikających z art. 15, 26 i 52 MiCAR.",
+      "autor": "Krauzowicz Zuzanna",
+      "ankieta_nr": 134010
+    },
+    {
+      "lp": 26,
+      "nr": "Art. 16",
+      "komentarz": "Dla spójności z konstrukcją MiCA (Title V) i uniknięcia nadmiernie szerokiej interpretacji, przepis powinien odnosić się do \"świadczenia usług w zakresie kryptoaktywów\" (CASP), a nie ogólnie do \"działalności w zakresie kryptoaktywów\".\nProponowana poprawka:\nW art. 16 wyrazy \"wykonuje działalność w zakresie kryptoaktywów\" zastępuje się wyrazami:\n\"świadczy usługi w zakresie kryptoaktywów w rozumieniu tytułu V MiCA\".",
+      "autor": "Wojciechowski Robert",
+      "ankieta_nr": 127434
+    },
+    {
+      "lp": 27,
+      "nr": "Art. 17",
+      "komentarz": "MiCA wymaga, aby CASP posiadał procedurę rozpatrywania skarg klientów (art. 71 MiCA). Dla uporządkowania ścieżki (najpierw reklamacja u CASP > potem ADR) warto dopisać dwa ustępy.\nProponowana poprawka:\nW art. 17 dodaje się ust. 2 i 3 w brzmieniu:\n\"2. Skorzystanie z działań Rzecznika Finansowego następuje co do zasady po uprzednim złożeniu reklamacji do dostawcy usług w zakresie kryptoaktywów zgodnie z art. 71 MiCA, chyba że z okoliczności sprawy wynika, że takie działanie byłoby oczywiście nieskuteczne.\n3. Dostawca usług w zakresie kryptoaktywów informuje klienta o trybie skargowym wynikającym z art. 71 MiCA oraz o możliwości skorzystania z pomocy Rzecznika Finansowego.\"",
+      "autor": "Wojciechowski Robert",
+      "ankieta_nr": 127434
+    },
+    {
+      "lp": 28,
+      "nr": "Art. 19",
+      "komentarz": "Konstrukcja na podstawie ust. 4 nie daje niczego przedsiębiorcom, ponieważ ci już dziś mogą dochodzić swoich praw na zasadach ogólnych. Problem polega na tym, że utracone korzyści są trudne do wykazania i wymagają długotrwałego procesu z opiniami biegłych. Proponuję wprowadzenie zryczałtowanej rekompensaty (dla pokrzywdzonego przedsiębiorcy) lub grzywny/nawiązki na rzecz Funduszu Pomocy Pokrzywdzonym oraz Pomocy Postpenitencjarnej.",
+      "autor": "Krajewski Hieronim",
+      "ankieta_nr": 126977
+    },
+    {
+      "lp": 29,
+      "nr": "Art. 19",
+      "komentarz": "Sformułowanie, że \"prowadzenie działalności regulowanej na podstawie MiCA nie może stanowić przesłanki uznania podmiotu za podwyższone ryzyko\", może być odczytywane jako ograniczające obowiązki banku w zakresie oceny ryzyka AML/CFT. Dla uniknięcia konfliktu interpretacyjnego warto doprecyzować, że zakaz dotyczy wyłącznie automatycznej kwalifikacji ryzyka \"z samego faktu MiCA\", a nie znosi obowiązku indywidualnej oceny.\nProponowana poprawka:\nW art. 19 po ust. 3 dodaje się ust. 3a w brzmieniu:\n\"3a. Przepis ust. 3 nie wyłącza obowiązku dokonywania przez bank indywidualnej oceny ryzyka, w szczególności na potrzeby stosowania przepisów o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu; oznacza jedynie zakaz automatycznego uznania podmiotu za podwyższone ryzyko wyłącznie z faktu prowadzenia działalności regulowanej na podstawie MiCA.\"",
+      "autor": "Wojciechowski Robert",
+      "ankieta_nr": 127434
+    },
+    {
+      "lp": 30,
+      "nr": "Art. 19",
+      "komentarz": "3. PONIP popiera również co do zasady proponowane w Projekcie regulacje dotyczące dostępu do infrastruktury finansowej (rozdział 8) dla CASPs. Pod rozwagę poddajemy jednak podjęcie próby harmonizacji np. kwestii otwierania i zamykania rachunków, o których stanowi art. 19 Projektu, z właściwymi rozwiązaniami w obszarze dostępu do usług w zakresie rachunków płatniczych (w tym bankowych), przewidzianymi w projekcie PSR (ustalono już ostateczny tekst tego projektu, a jego wejście w życie nastąpi najprawdopodobniej w czerwcu lub lipcu 2026 r.). W art. 32 tego projektu wskazano na zamknięty katalog przesłanek, na które dostawca prowadzący rachunek (lub mający prowadzić rachunek) dla instytucji płatniczej może się powołać odmawiając otwarcia rachunku lub wypowiadając umowę o jego prowadzenie. Na zasadzie analogii można by skonstruować taki katalog w art. 19 Projektu, by wyeliminować dowolność po stronie prowadzących rachunki. Warto również rozważyć, w świetle art. 19 ust. 1 Projektu, poza samym obowiązkiem sporządzenia pisemnego uzasadnienia przez bank, również zobligowanie tego podmiotu do powiadomienia organu nadzoru, a także wskazać terminy, w których rozpatrzenie wniosku o otwarcie rachunku powinno nastąpić.",
+      "autor": "Masłowski Michał",
+      "ankieta_nr": 131946
+    },
+    {
+      "lp": 31,
+      "nr": "Art. 19",
+      "komentarz": "Rekomendujemy uzupełnić art. 19 projektu regulujący zasady otwierania i zamykania rachunków o zamknięty katalog przesłanek uprawniających dostawcę rachunku do odmowy otwarcia lub zamknięcia rachunku - na wzór katalogu przesłanek zawartych w art. 32 projektu PSR. Ponadto wskazane byłoby wprowadzenie po stronie dostawcy rachunku obowiązku powiadomienia organu nadzoru o odmowie lub wypowiedzeniu, a także określenie terminów na rozpatrzenie wniosków o otwarcie rachunków.",
+      "autor": "Krzemińska Małgorzata",
+      "ankieta_nr": 133835
+    },
+    {
+      "lp": 32,
+      "nr": "Art. 19",
+      "komentarz": "Co do zasady pozytywnie należy ocenić intencję projektodawcy, zmierzającą do ograniczenia zjawiska blankietowego odmawiania dostępu do infrastruktury podmiotom posiadającym zezwolenie MiCAR. Prowadzenie działalności regulowanej na podstawie przepisów MiCA nie powinno samo przez się prowadzić do automatycznego wykluczania tych podmiotów z dostępu do podstawowych usług bankowych. W tym zakresie projekt trafnie zmierza do przeciwdziałania nieuzasadnionemu de-riskingowi. Jednocześnie art. 19 w obecnym brzmieniu budzi istotne zastrzeżenia z perspektywy instytucji obowiązanych. Przepis w ust. 3 stanowi bowiem, że prowadzenie działalności regulowanej na podstawie MiCA nie może stanowić przesłanki uznania podmiotu za podwyższone ryzyko ani podstawy odmowy zawarcia umowy rachunku bankowego albo jej wypowiedzenia. Tak sformułowana norma może być odczytywana jako nadmierna ingerencja ustawowa w obowiązek samodzielnej, opartej na analizie ryzyka oceny klienta dokonywanej przez instytucję obowiązaną w wykonaniu obowiązków AML/CFT.\nZ perspektywy instytucji obowiązanej kluczowe jest to, że licencja MiCAR nie eliminuje ryzyk AML/CFT, lecz jedynie stanowi jeden z elementów profilu ryzyka klienta. Okoliczność prowadzenia działalności w zakresie kryptoaktywów może w konkretnym przypadku pozostawać relewantna dla oceny ryzyka, zwłaszcza przy modelach transgranicznych, ekspozycji na self-hosted wallets, wysokiej rotacji aktywów, złożonych strukturach właścicielskich, korzystaniu z wielu dostawców technologicznych lub powiązaniach z jurysdykcjami podwyższonego ryzyka. Instytucja obowiązana musi zachować możliwość podjęcia decyzji odmownej lub decyzji o zakończeniu relacji, jeżeli wynika to z całościowej oceny ryzyka, niemożności m.in. zastosowania adekwatnych środków bezpieczeństwa finansowego albo braku możliwości bieżącego monitorowania relacji zgodnie z wymogami AML. Wątpliwości budzi więc w konsekwencji przyjęcie, że ust. 3 może zostać zinterpretowany tak, jakby ustawodawca z góry wyłączał możliwość traktowania działalności CASP jako czynnika ryzyka. Taka konstrukcja jest zbyt daleko idąca. W praktyce instytucja obowiązana nie powinna być uprawniona do automatycznego uznawania każdego CASP za klienta wysokiego ryzyka tylko dlatego, że działa w obszarze kryptoaktywów, ale równie nie powinna być pozbawiona możliwości uwzględnienia charakteru tej działalności jako jednego z elementów indywidualnej oceny ryzyka. Wątpliwości budzi także ust. 2, zgodnie z którym uzasadnienie ma wskazywać okoliczności związane z oceną ryzyka dotyczącą danego podmiotu. Intencja transparentności jest zrozumiała, jednak przepis wymaga doprecyzowania, aby nie prowadził do obowiązku ujawniania klientowi szczegółowych mechanizmów detekcji, scenariuszy monitorowania, wewnętrznych modeli scoringowych, parametrów alertowych czy informacji objętych tajemnicą bankową, tajemnicą przedsiębiorstwa albo reżimem AML. W przeciwnym razie obowiązek uzasadnienia może osłabić skuteczność systemów przeciwdziałania nadużyciom i obchodzeniu kontroli instytucji obowiązanej.",
+      "autor": "Krauzowicz Zuzanna",
+      "ankieta_nr": 134010
+    },
+    {
+      "lp": 33,
+      "nr": "Art. 20",
+      "komentarz": "Jak rozumiem środki umieszczone w puli (poolu) będą uznane za uzasadnione, dla braku zastosowania wymogów w ust. 1.",
+      "autor": "Krajewski Hieronim",
+      "ankieta_nr": 126977
+    },
+    {
+      "lp": 34,
+      "nr": "Art. 20",
+      "komentarz": "W polskim prawie pojęcie \"środki\" bywa rozumiane szeroko, natomiast obowiązki segregacyjne w MiCA obejmują zarówno aktywa klientów, jak i środki pieniężne (w zależności od usługi). Dla uniknięcia nieporozumień w relacji bank-CASP wskazane jest doprecyzowanie, że art. 20 dotyczy środków pieniężnych klientów powierzonych/obsługiwanych w banku, a nie kryptoaktywów.\nProponowana poprawka:\nW art. 20 ust. 1 wyrazy \"segregacji środków klientów\" zastępuje się wyrazami:\n\"segregacji środków pieniężnych klientów\"\nalbo alternatywnie dodaje się zdanie drugie:\n\"Przez środki klientów, o których mowa w zdaniu pierwszym, rozumie się środki pieniężne klientów prowadzone lub rozliczane za pośrednictwem banku.\"",
+      "autor": "Wojciechowski Robert",
+      "ankieta_nr": 127434
+    },
+    {
+      "lp": 35,
+      "nr": "Art. 21",
+      "komentarz": "Dla zgodności z konstrukcją MiCA (Title V) i uniknięcia nadmiernie szerokiego zakresu penalizacji, przepis powinien dotyczyć świadczenia usług w zakresie kryptoaktywów (CASP), a nie ogólnie \"działalności w zakresie kryptoaktywów\". Należy też wyłączyć podmioty działające legalnie w okresie przejściowym (art. 143 MiCA) oraz podmioty uprawnione na podstawie art. 60 MiCA.\nProponowana poprawka:\nW art. 21 wyrazy \"wykonuje działalność w zakresie kryptoaktywów\" zastępuje się wyrazami:\n\"świadczy usługi w zakresie kryptoaktywów w rozumieniu tytułu V MiCA\".\nPo art. 21 dodaje się ust. 2 w brzmieniu:\n\"2. Przepisu ust. 1 nie stosuje się do podmiotów uprawnionych do świadczenia usług zgodnie z MiCA na podstawie przepisów przejściowych (art. 143 MiCA) oraz do podmiotów, o których mowa w art. 60 MiCA.\"",
+      "autor": "Wojciechowski Robert",
+      "ankieta_nr": 127434
+    },
+    {
+      "lp": 36,
+      "nr": "Art. 21",
+      "komentarz": "W opinii PONIP przepis karny (art. 21 Projektu) został prawidłowo ujęty i skonstruowany.",
+      "autor": "Masłowski Michał",
+      "ankieta_nr": 131946
+    },
+    {
+      "lp": 37,
+      "nr": "Art. 22",
+      "komentarz": "W dodawanym art. 17 ust. 1l ustawy PIT pojawia się pojęcie \"inne kryptoaktywo\", które nie jest zdefiniowane w PIT i może być rozumiane odmiennie niż w MiCA (a także mylone z instrumentami finansowymi spoza zakresu MiCA). Dla uniknięcia sporów interpretacyjnych wskazane jest albo zdefiniowanie \"kryptoaktywa\" przez odesłanie do MiCA, albo konsekwentne użycie sformułowania \"kryptoaktywo w rozumieniu MiCA\".\nProponowana poprawka:\nW art. 22 pkt 2 (w dodawanym art. 17 ust. 1l ustawy PIT) wyrazy \"inne kryptoaktywo\" zastępuje się wyrazami:\n\"inne kryptoaktywo w rozumieniu MiCA\".\n(Opcjonalnie - bardziej systemowo): w art. 22 pkt 1, w art. 5a ustawy PIT dodaje się dodatkowy pkt definiujący:\n\"kryptoaktywo - kryptoaktywo w rozumieniu MiCA\".",
+      "autor": "Wojciechowski Robert",
+      "ankieta_nr": 127434
+    },
+    {
+      "lp": 38,
+      "nr": "Art. 22",
+      "komentarz": "Zmiany proponowane w treści art. 22 pkt 1 Projektu, w zakresie dodania po treści art. 5a pkt 52 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2025 r. poz. 163, 340, 368, 620, 680, 1022, 1180, 1301, 1302, 1366 - \"Ustawa PIT\"), art. 5a pkt 53 i 54 obejmują wprowadzenie definicji transferu własnego i stakingu. Następnie projektodawca w treści art. 22 pkt 2 Projektu zakłada dodanie po treści art. 17 ust. 1i Ustawy PIT art. 17 ust. 1j oraz 1k, które wskazują, odpowiednio, że transfer własny nie powoduje powstania przychodu oraz że otrzymanie waluty wirtualnej w wyniku stakingu nie stanowi przychodu.\nWprowadzona definicja stakingu może w praktyce okazać się zbyt wąska i może rodzić wątpliwości interpretacyjne. Proponujemy jej uproszczenie z uwzględnieniem oczekiwań biznesowych poprzez zdefiniowanie stakingu jako blokowania aktywów cyfrowych i pobierania z tego tytułu wynagrodzenia - niezależnie od celu i rodzaju konsensusu. Tym samym postulujemy o rozszerzenie definicji stakingu na szerokie zastosowania. Pozostaje niejasnym, dlaczego doprecyzowano, że transfer własny nie powoduje przychodu. Już w obecnym stanie prawnym, wydaje się, że taki transfer jest neutralny na gruncie Ustawy PIT, jeśli nie dochodzi do wymiany waluty wirtualnej na inną walutę wirtualną.\nPrzepis art. 22 pkt 2 Projektu zakłada dodanie po treści art. 17 ust. 1i Ustawy PIT art. 17 ust. 1l, który wskazuje, że wymiana waluty wirtualnej na inne kryptoaktywo (w tym token będący pieniądzem elektronicznym) nie stanowi odpłatnego zbycia waluty wirtualnej i nie powoduje powstania przychodu, jeżeli w jej wyniku podatnik nie otrzymuje prawnego środka płatniczego, towaru ani usługi. Przepis ten należy ocenić pozytywnie, ponieważ powoduje on, że wymiana waluty wirtualnej na inne kryptoaktywo jest neutralna na gruncie Ustawy PIT. Wydaje się jednak, że proponowana zmiana nie jest kompletna i generuje lukę w systemie podatkowym. Wątpliwości powoduje sytuacja, gdy podatnik dokona wymiany pieniądza elektronicznego otrzymanego za walutę wirtualną na złotówki, co w obecnym stanie prawnym jest neutralne, czy w takiej sytuacji podatnik powinien rozpoznać przychód z takiej wymiany, a jeśli tak, czy jest to przychód ze zbycia waluty wirtualnej. Odpowiedzią na powyższe pytania powinien być zgłaszany wielokrotnie postulat zastąpienia definicji waluty wirtualnej definicją kryptoaktywa, co zrówna wszystkie instrumenty.",
+      "autor": "Krauzowicz Zuzanna",
+      "ankieta_nr": 134010
+    },
+    {
+      "lp": 39,
+      "nr": "Art. 24",
+      "komentarz": "Wprowadzany art. 180a Ordynacji podatkowej posługuje się pojęciem \"rozproszony rejestr transakcji (DLT)\", które może być rozumiane różnie (różne standardy techniczne). Dla spójności z prawem UE warto odwołać się do definicji DLT z MiCA, aby uniknąć sporów co do tego, jakie rejestry spełniają przesłanki dowodowe.\nProponowana poprawka:\nW art. 24 (w dodawanym art. 180a § 1 Ordynacji podatkowej) po skrócie \"(DLT)\" dodaje się wyrazy:\n\"w rozumieniu MiCA\"\nalbo dodaje się zdanie:\n\"Przez DLT rozumie się technologię rozproszonego rejestru w rozumieniu MiCA.\"",
+      "autor": "Wojciechowski Robert",
+      "ankieta_nr": 127434
+    },
+    {
+      "lp": 40,
+      "nr": "Art. 27",
+      "komentarz": "Przepis wymaga doprecyzowania na poziomie legislacyjnym, gdyż w ustawie AML znacznie więcej przepisów będzie podlegało zmianom niż tylko art. 129m (zasadniczo wszystkie przepisy odnoszące się do działalności w zakresie walut wirtualnych powinny zostać uchylone, a w katalogu instytucji obowiązanych konieczne będzie dodanie dostawców usług w zakresie kryptoaktywów).",
+      "autor": "Cegłowski Mikołaj",
+      "ankieta_nr": 127954
+    },
+    {
+      "lp": 41,
+      "nr": "Art. 30",
+      "komentarz": "Proponuję uproszczenie - Przepisy art. 180a ustawy zmienianej w art. 24 stosuje się do postępowań wszczętych również przed dniem 31 grudnia 2026 r.",
+      "autor": "Krajewski Hieronim",
+      "ankieta_nr": 126977
+    },
+    {
+      "lp": 42,
+      "nr": "Art. 31",
+      "komentarz": "Przepis przewiduje stosowanie regulacji AML dotyczących \"walut wirtualnych\" do \"kryptoaktywów\" w rozumieniu MiCA. Ponieważ pojęcia te nie są tożsame zakresowo, istnieje ryzyko wątpliwości, czy w okresie przejściowym część aktywności/podmiotów pozostaje w dotychczasowym reżimie AML, czy przechodzi na \"MiCA-mapping\". Warto doprecyzować, że przepis ma charakter technicznego \"przyporządkowania\" pojęć na potrzeby okresu przejściowego i nie ogranicza stosowania AML do aktywów/aktywności poza zakresem MiCA.\nProponowana poprawka:\nW art. 31 dodaje się ust. 3 w brzmieniu:\n\"3. Przepis ust. 1 ma charakter dostosowujący pojęcia na potrzeby okresu przejściowego i nie ogranicza stosowania przepisów ustawy, o której mowa w ust. 1, do aktywów lub działalności pozostających poza zakresem MiCA.\"",
+      "autor": "Wojciechowski Robert",
+      "ankieta_nr": 127434
+    },
+    {
+      "lp": 43,
+      "nr": "Art. 32",
+      "komentarz": "Art. 63 MiCA przewiduje termin 40 dni roboczych na rozpatrzenie kompletnego wniosku. Ponadto MiCA dopuszcza żądanie dodatkowych informacji w toku oceny (art. 63 ust. 12 MiCA) - co należy odzwierciedlić, aby uniknąć interpretacji, że organ jest związany wyłącznie \"jednym wezwaniem\" z ust. 2.\nProponowana poprawka:\nW art. 32 ust. 4 wyrazy \"45 dni roboczych\" zastępuje się wyrazami: \"40 dni roboczych\".\nW art. 32 dodaje się ust. 7 w brzmieniu:\n\"7. W toku oceny kompletnego wniosku KNF może żądać dodatkowych informacji zgodnie z art. 63 ust. 12 MiCA; żądanie to oraz skutki dla biegu terminu rozpatrzenia wniosku następują na zasadach określonych w MiCA.\"",
+      "autor": "Wojciechowski Robert",
+      "ankieta_nr": 127434
+    },
+    {
+      "lp": 44,
+      "nr": "Art. 33",
+      "komentarz": "Art. 143 MiCA przewiduje kontynuację działalności do 1 lipca 2026 r. lub do rozstrzygnięcia wniosku - w zależności od tego, co nastąpi wcześniej. Obecne brzmienie ust. 2 (\"do dnia doręczenia ostatecznej decyzji...\") może prowadzić do kontynuacji po 1 lipca 2026 r., co jest niezgodne z literalną konstrukcją MiCA.\nProponowana poprawka:\nW art. 33 ust. 2 wyrazy \"do dnia doręczenia ostatecznej decyzji wydanej w sprawie tego wniosku\" zastępuje się wyrazami:\n\"do dnia 1 lipca 2026 r. albo do dnia doręczenia ostatecznej decyzji wydanej w sprawie tego wniosku - w zależności od tego, które zdarzenie nastąpi wcześniej\".",
+      "autor": "Wojciechowski Robert",
+      "ankieta_nr": 127434
+    },
+    {
+      "lp": 45,
+      "nr": "Art. 33",
+      "komentarz": "Art 33 ust. 2 to bardzo istotny przepis z perspektywy ochrony praw nabytych podmiotów świadczących do tej pory usługi w zakresie walut wirtualnych na podstawie wpisu do rejestru prowadzonego przez Dyrektora IAS w Katowicach.",
+      "autor": "Cegłowski Mikołaj",
+      "ankieta_nr": 127954
+    },
+    {
+      "lp": 46,
+      "nr": "Art. 33",
+      "komentarz": "Art. 33 ust. 5 Projektu budzi istotne wątpliwości co do zgodności z art. 143 ust. 6 MiCA. Przepis ten przyjmuje, że wyłącznie na potrzeby stosowania art. 143 ust. 6 MiCA za podmiot posiadający zezwolenie na podstawie prawa krajowego uznaje się również podmiot wpisany do rejestru działalności w zakresie walut wirtualnych. Tymczasem art. 143 ust. 6 MiCA odnosi się do podmiotów, które posiadały zezwolenie na podstawie prawa krajowego, a nie do podmiotów objętych jedynie rejestrem lub wpisem o charakterze ewidencyjnym.",
+      "autor": "Krauzowicz Zuzanna",
+      "ankieta_nr": 134010
+    },
+    {
+      "lp": 47,
+      "nr": "Art. 37",
+      "komentarz": "Z kolei art. 37 wymaga przeformułowania. PONIP przyjmuje, że intencją projektodawcy było przyjęcie terminu wejścia w życiu ustawy z dniem ogłoszenia, jednak w obecnym brzmieniu tego przepisu nie jest to jasne (Ustawa wchodzi w życie po upływie z dniem ogłoszenia). PONIP popiera możliwie najszybsze wejście ustawy w życie.",
+      "autor": "Masłowski Michał",
+      "ankieta_nr": 131946
+    },
+    {
+      "lp": 48,
+      "nr": "Art. 37",
+      "komentarz": "Artykuł 37 projektu wymaga doprecyzowania. Intencją projektodawcy jest wejście w życie z dniem ogłoszenia, jednak obecne sformułowanie (\"Ustawa wchodzi w życie po upływie z dniem ogłoszenia\") jest niejednoznaczne. Proponowane brzmienie: \"Ustawa wchodzi w życie z dniem ogłoszenia.\"",
+      "autor": "Krzemińska Małgorzata",
+      "ankieta_nr": 133835
+    }
+  ]
+}

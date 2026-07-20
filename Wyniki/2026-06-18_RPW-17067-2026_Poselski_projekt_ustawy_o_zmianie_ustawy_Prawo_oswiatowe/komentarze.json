@@ -1,0 +1,73 @@
+{
+  "number": "RPW/17067/2026",
+  "title": "Poselski projekt ustawy o zmianie ustawy - Prawo oświatowe",
+  "publicConsultationEndDate": "2026-06-18",
+  "calosc": [
+    {
+      "lp": 1,
+      "nr": null,
+      "komentarz": "test",
+      "autor": "Szancer Marcin",
+      "ankieta_nr": 174847
+    },
+    {
+      "lp": 2,
+      "nr": null,
+      "komentarz": "Dlaczego dany Minister albo szef ministra czyli Premier nie może tego wprowadzić rozporządzeniem albo ustawą rządową? Rada Ministrów przecież też może się tym zająć.",
+      "autor": "Kaluga Ilona",
+      "ankieta_nr": 175106
+    },
+    {
+      "lp": 3,
+      "nr": null,
+      "komentarz": "Projekt należy ocenić co do zasady pozytywnie, ponieważ usuwa konkretną lukę kompetencyjną: wskazuje ministra właściwego do spraw oświaty i wychowania jako organ odpowiedzialny za dostęp do systemu ORE obsługującego kierowanie nieletnich do MOW.\nRegulacja jest wąska i techniczna, co działa na jej korzyść, ale trzeba dopilnować, aby rozporządzenie precyzyjnie określiło krąg uprawnionych osób, kontrolę dostępu, rejestrowanie operacji i odpowiedzialność za naruszenia.\nNajsilniejszy argument za przyjęciem projektu jest praktyczny: bez sprawnego dostępu do systemu nawet słuszne orzeczenia sądów rodzinnych mogą pozostawać na papierze, a państwo nie może sobie pozwolić na taki administracyjny zator.",
+      "autor": "Kowalczyk Zbigniew",
+      "ankieta_nr": 176159
+    }
+  ],
+  "pytania_6_12": [
+    {
+      "lp": 1,
+      "nr": "Pyt. 7",
+      "komentarz": "Ocena skutków społecznych projektu jest zbyt lakoniczna i nadmiernie optymistyczna. Projekt słusznie wskazuje, że usprawnienie dostępu do systemu ORE może skrócić czas oczekiwania nieletnich na umieszczenie w MOW oraz poprawić wykonywanie orzeczeń sądów rodzinnych, ale nie wystarczy stwierdzić, że \"skutki negatywne - brak\" i że regulacja nie generuje skutków finansowych w sferze społecznej.\nW istocie projekt dotyczy grupy szczególnie wrażliwej: nieletnich kierowanych do placówek wychowawczych, ich rodzin, sądów rodzinnych, powiatów, dyrektorów MOW i administracji oświatowej. Dlatego skutki społeczne powinny zostać opisane głębiej, z uwzględnieniem ryzyka technokratycznego uproszczenia problemu. Samo nadanie dostępu do systemu nie tworzy nowych miejsc, nie zwiększa liczby wychowawców, nie poprawia jakości pracy resocjalizacyjnej i nie rozwiązuje przyczyn deficytu miejsc. Może jedynie usprawnić obieg informacji, a to jest narzędzie, nie lekarstwo.\nProjekt powinien więc wskazywać, czy szybsze kierowanie nieletnich do MOW nie spowoduje presji na placówki już przeciążone, pogorszenia warunków pobytu albo mechanicznego \"upychana\" wychowanków tam, gdzie system pokaże wolne miejsce, a nie tam, gdzie odpowiada to potrzebom konkretnej osoby. Należy też mocniej opisać ochronę danych osobowych, kontrolę dostępu i odpowiedzialność za błędne albo nieuprawnione operacje w systemie, ponieważ chodzi o dane dzieci i młodzieży znajdujących się w trudnej sytuacji życiowej. W części dotyczącej skutków społecznych warto dodać mierniki oceny: czas oczekiwania na miejsce, liczbę niezrealizowanych orzeczeń, liczbę aktywnych placówek, liczbę miejsc oraz liczbę incydentów związanych z dostępem do danych. Bez tego projekt wygląda poprawnie formalnie, ale społecznie pozostaje niedoszacowany.",
+      "autor": "Kowalczyk Zbigniew",
+      "ankieta_nr": 176159
+    },
+    {
+      "lp": 2,
+      "nr": "Pyt. 8",
+      "komentarz": "Ocena skutków gospodarczych jest zbyt kategoryczna, ponieważ stwierdzenie, że projekt \"nie oddziałuje na sferę gospodarczą\" i że skutki gospodarcze są \"zerowe\", upraszcza rzeczywisty obraz regulacji. Projekt rzeczywiście nie nakłada typowych obowiązków na przedsiębiorców, konsumentów ani rynek pracy, ale dotyczy systemu kierowania nieletnich do MOW, a więc pośrednio wpływa na funkcjonowanie placówek, dostawców usług informatycznych, podmiotów obsługujących systemy teleinformatyczne, szkolenia, ochronę danych, utrzymanie infrastruktury oraz rynek pracy wychowawców, pedagogów, psychologów i personelu administracyjnego.\nNie przekonuje także twierdzenie, że projekt nie wywoła żadnych skutków dla mikro-, małych i średnich przedsiębiorców, ponieważ w praktyce każda zmiana w systemie teleinformatycznym może powodować zapotrzebowanie na usługi techniczne, audyty bezpieczeństwa, wdrożenia, szkolenia albo obsługę serwisową. To nie musi być argument przeciwko projektowi - przeciwnie, może to być normalny koszt uporządkowania państwa - ale powinno zostać uczciwie nazwane. Uzasadnienie powinno więc odróżniać brak bezpośrednich obowiązków regulacyjnych dla przedsiębiorców od możliwych pośrednich skutków gospodarczych.\nNajwiększa słabość tej części polega na braku danych: nie wskazano liczby placówek, potencjalnej liczby nowych dostępów, przewidywanego zapotrzebowania na obsługę systemu ani wpływu na tworzenie nowych miejsc w MOW. Bez tego ocena wygląda jak formalne wypełnienie rubryki, a nie realna analiza. Lepsze byłoby stwierdzenie, że projekt nie powinien wywołać istotnych negatywnych skutków gospodarczych, ale może powodować ograniczone skutki pośrednie związane z obsługą informatyczną, organizacyjną i kadrową systemu. To byłoby ostrożniejsze, prawdziwsze i trudniejsze do podważenia.",
+      "autor": "Kowalczyk Zbigniew",
+      "ankieta_nr": 176159
+    },
+    {
+      "lp": 3,
+      "nr": "Pyt. 9",
+      "komentarz": "Ocena skutków finansowych jest najsłabszą częścią DSR, ponieważ opiera się na zbyt odważnym założeniu, że projekt \"nie generuje skutków finansowych\" dla budżetu państwa, budżetów jednostek samorządu terytorialnego i sektora finansów publicznych oraz \"nie wymaga pozyskania dodatkowych środków\". Takie stwierdzenie brzmi wygodnie, ale nie zostało udowodnione żadnymi danymi, wyliczeniem ani choćby minimalnym opisem kosztów organizacyjnych.\nProjekt dotyczy systemu teleinformatycznego, dostępu do danych, rejestrowania operacji, nadawania, zmiany, zawieszania i cofania uprawnień, a więc z natury rzeczy może powodować koszty administracyjne, informatyczne i szkoleniowe. Nawet jeżeli będą one niewielkie, należy wskazać, czy zostaną pokryte z obecnych środków ministra, ORE albo innych jednostek, czy też wymagają dodatkowej obsługi kadrowej, aktualizacji systemu, procedur bezpieczeństwa, audytów, szkoleń użytkowników i bieżącego nadzoru. Państwo nie powinno udawać, że system działa sam jak zegar w wieży ratuszowej - ktoś go utrzymuje, zabezpiecza i rozlicza.\nSzczególnie wątpliwe jest pominięcie kosztów pośrednich. Jeżeli celem projektu jest sprawniejsze włączanie nowych MOW do systemu i skrócenie czasu oczekiwania na realizację orzeczeń, to trzeba uczciwie ocenić, czy wzrost liczby obsługiwanych placówek i użytkowników nie zwiększy kosztów funkcjonowania systemu oraz administracji. Lepsza, bezpieczniejsza formuła brzmiałaby: projekt nie powinien powodować istotnych nowych obciążeń finansowych, ale może wywołać ograniczone koszty wdrożeniowe i organizacyjne, pokrywane w ramach istniejących planów finansowych. To byłoby mniej efektowne, ale bardziej wiarygodne.",
+      "autor": "Kowalczyk Zbigniew",
+      "ankieta_nr": 176159
+    },
+    {
+      "lp": 4,
+      "nr": "Pyt. 10",
+      "komentarz": "Ocena skutków prawnych jest zbyt ogólna i ma charakter raczej deklaracji niż analizy. Projekt słusznie zmierza do usunięcia luki kompetencyjnej przez wskazanie ministra właściwego do spraw oświaty i wychowania jako organu nadającego, zmieniającego, zawieszającego i cofającego dostęp do systemu ORE, ale w DSR nie wyjaśniono dostatecznie relacji tej regulacji do przepisów o wykonywaniu orzeczeń sądów rodzinnych, ochronie danych osobowych, odpowiedzialności administratora systemu oraz organizacji młodzieżowych ośrodków wychowawczych.\nNajwiększy problem polega na tym, że projekt tworzy kompetencję, lecz nie opisuje jej granic. Należałoby jasno wskazać, kto może występować o dostęp, jakie kategorie użytkowników mogą go otrzymać, jakie dane mogą być przetwarzane, jakie są przesłanki odmowy, zawieszenia i cofnięcia uprawnień oraz czy zainteresowany podmiot ma jakikolwiek środek kwestionowania rozstrzygnięcia. Samo odesłanie do rozporządzenia jest wygodne, ale w sprawach dostępu do danych o nieletnich ustawa powinna dawać mocniejszy szkielet, a rozporządzenie jedynie doprecyzowywać procedurę.\nZbyt słabe jest także stwierdzenie, że projekt jest zgodny z zasadą legalizmu i prawem Unii Europejskiej. To prawdopodobnie prawda, ale wymaga krótkiego uzasadnienia, zwłaszcza w świetle RODO, zasady minimalizacji danych, rozliczalności, rejestrowania operacji i kontroli dostępu. Trzeba też ocenić, czy 14-dniowe vacatio legis wystarczy na przygotowanie procedur, upoważnień, instrukcji bezpieczeństwa i ewentualnych zmian technicznych w systemie. Bez tego skutki prawne są opisane poprawnie na papierze, lecz zbyt ubogo jak na regulację dotyczącą wrażliwej grupy nieletnich.",
+      "autor": "Kowalczyk Zbigniew",
+      "ankieta_nr": 176159
+    },
+    {
+      "lp": 5,
+      "nr": "Pyt. 11",
+      "komentarz": "Inne skutki projektu mają przede wszystkim charakter organizacyjny, administracyjny, informatyczny i ochronny, a nie tylko prawny. Projekt porządkuje kompetencję ministra w zakresie nadawania, zmiany, zawieszania i cofania dostępu do systemu ORE służącego kierowaniu nieletnich do MOW, więc może realnie usprawnić współpracę między administracją oświatową, placówkami i sądami rodzinnymi.\nTrzeba jednak uczciwie wskazać, że regulacja może zwiększyć odpowiedzialność organizacyjną ministerstwa i ORE za ciągłość działania systemu, jakość procedur dostępowych, bezpieczeństwo danych oraz nadzór nad użytkownikami. Powstaną skutki techniczne: konieczność prowadzenia rejestrów operacji, obsługi wniosków o dostęp, aktualizowania uprawnień, szkolenia osób korzystających z systemu i reagowania na błędy albo nadużycia. To nie są skutki uboczne bez znaczenia; w sprawach dotyczących nieletnich nawet drobna pomyłka administracyjna może mieć ciężar kamienia wrzuconego w rzekę - fala idzie dalej.\nProjekt może także wywołać skutki terytorialne, ponieważ sprawniejsze podłączanie nowych MOW do systemu może zmienić rozkład dostępnych miejsc między województwami i wpłynąć na kierowanie nieletnich poza miejsce zamieszkania. Należy więc ocenić, czy regulacja nie pogłębi nierówności między regionami oraz czy nie będzie sprzyjała czysto technicznemu zarządzaniu miejscami kosztem indywidualnych potrzeb wychowanka. Dodatkowo wystąpią skutki kontrolne: potrzebne będzie monitorowanie, czy nadane dostępy są aktualne, celowe i zgodne z zasadą minimalizacji danych. Innymi słowy: projekt jest potrzebny, ale nie wolno udawać, że dotyczy wyłącznie \"kliknięcia dostępu\" w systemie. Dotyczy sprawności państwa wobec młodego człowieka, który już znajduje się w trudnym położeniu.",
+      "autor": "Kowalczyk Zbigniew",
+      "ankieta_nr": 176159
+    },
+    {
+      "lp": 6,
+      "nr": "Pyt. 12",
+      "komentarz": "Projekt będzie oddziaływał nie tylko na ministra właściwego do spraw oświaty i wychowania oraz Ośrodek Rozwoju Edukacji, lecz także na szerszy krąg podmiotów uczestniczących w wykonywaniu orzeczeń dotyczących nieletnich. W pierwszej kolejności wpłynie na młodzieżowe ośrodki wychowawcze, zarówno już funkcjonujące, jak i nowo tworzone, ponieważ dostęp do systemu będzie warunkiem ich sprawnego udziału w procesie kierowania wychowanków. Pośrednio regulacja dotknie również organy prowadzące te placówki, w tym jednostki samorządu terytorialnego i podmioty niepubliczne, jeżeli prowadzą albo zamierzają prowadzić MOW.\nProjekt może mieć znaczenie także dla sądów rodzinnych, kuratorów sądowych, powiatowych centrów pomocy rodzinie, placówek opiekuńczo-wychowawczych, szkół, poradni psychologiczno-pedagogicznych oraz rodzin nieletnich. Sprawniejsze działanie systemu może ułatwić realizację orzeczeń, ale jednocześnie wymaga dobrej wymiany informacji między instytucjami, aby decyzje nie były podejmowane wyłącznie według technicznej dostępności miejsc. Wpływ wystąpi również wobec administratorów i użytkowników systemu teleinformatycznego, inspektorów ochrony danych, dostawców usług informatycznych oraz podmiotów odpowiedzialnych za szkolenia i bezpieczeństwo informacji.\nW ocenie projektu należałoby wyraźnie wskazać te podmioty, ponieważ regulacja nie jest wyłącznie wewnętrzną sprawą administracji rządowej. Dotyczy ona całego łańcucha instytucji, które odpowiadają za los nieletniego: od sądu rodzinnego, przez administrację oświatową, po konkretny ośrodek wychowawczy. Pominięcie tego szerszego kręgu adresatów osłabia ocenę skutków regulacji i może prowadzić do niedoszacowania skutków organizacyjnych, kadrowych, informacyjnych oraz związanych z ochroną danych.",
+      "autor": "Kowalczyk Zbigniew",
+      "ankieta_nr": 176159
+    }
+  ],
+  "artykuly": []
+}

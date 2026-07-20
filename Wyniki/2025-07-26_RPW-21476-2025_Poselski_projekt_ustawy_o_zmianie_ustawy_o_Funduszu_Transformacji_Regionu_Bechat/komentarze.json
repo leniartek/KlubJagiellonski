@@ -1,0 +1,45 @@
+{
+  "number": "RPW/21476/2025",
+  "title": "Poselski projekt ustawy o zmianie ustawy o Funduszu Transformacji Regionu Bełchatowskiego Spółce Akcyjnej",
+  "publicConsultationEndDate": "2025-07-26",
+  "calosc": [
+    {
+      "lp": 1,
+      "nr": null,
+      "komentarz": "Nie mam zdania",
+      "autor": "Dzwonkowski Adrian",
+      "ankieta_nr": 39209
+    },
+    {
+      "lp": 2,
+      "nr": null,
+      "komentarz": "To próba wyciągnięcia pieniędzy z budżetu pod przykrywką pomocy poprzez fundusz.",
+      "autor": "Nosal Tomasz",
+      "ankieta_nr": 39861
+    }
+  ],
+  "pytania_6_12": [
+    {
+      "lp": 1,
+      "nr": "Pyt. 6",
+      "komentarz": "Poprzez bezpośrednie zaangażowanie spółki skarbu państwa która jest podmiotem tego projektu, nie przez osobny fundusz.",
+      "autor": "Nosal Tomasz",
+      "ankieta_nr": 39861
+    },
+    {
+      "lp": 2,
+      "nr": "Pyt. 9",
+      "komentarz": "Ustawa nie posiada pewnych źródeł finansowania z budżetu. Hipotetyczne oszczędności są wysoce nieprawdopodobne do uzyskania. Koszty jedynie pogłębiłby deficyt budżetowy",
+      "autor": "Nosal Tomasz",
+      "ankieta_nr": 39861
+    },
+    {
+      "lp": 3,
+      "nr": "Pyt. 12",
+      "komentarz": "Podmioty z innych regionów niedotowanych z funduszu.",
+      "autor": "Nosal Tomasz",
+      "ankieta_nr": 39861
+    }
+  ],
+  "artykuly": []
+}
