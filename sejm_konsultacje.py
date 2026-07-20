@@ -256,8 +256,8 @@ def main() -> int:
 
         meta_path = proj_dir / "metadata.json"
         if not meta_path.exists():
-            bill["wynikiUrl"] = (f"https://www.sejm.gov.pl/Sejm{args.term}.nsf/"
-                                 f"agent.xsp?symbol=KONSULTACJE_WYNIKI&NrProjektu={number}")
+            bill["url"] = (f"https://www.sejm.gov.pl/Sejm{args.term}.nsf/"
+                           f"agent.xsp?symbol=KONSULTACJE_WYNIKI&NrProjektu={number}")
             meta_path.write_text(json.dumps(bill, ensure_ascii=False, indent=2))
 
         # 1. Raport statystyczny (PDF z orka)
