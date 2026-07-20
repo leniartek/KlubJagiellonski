@@ -151,29 +151,47 @@ df.groupby("projekt").size().sort_values(ascending=False)  # aktywność per pro
 ## Najpopularniejsze konsultacje
 
 Suma pierwszych dziesiątek według liczby ankiet i według liczby komentarzy
-(stan na 2026-07-21, posortowane po liczbie ankiet; liczba ankiet pochodzi ze
-strony Sejmu, liczba komentarzy z `komentarze.json`). Tytuł linkuje do katalogu
-z pobranymi wynikami:
+(stan na 2026-07-21, posortowane malejąco po liczbie komentarzy; liczba ankiet
+pochodzi ze strony Sejmu, liczba komentarzy z `komentarze.json`). Tytuł linkuje
+do katalogu z pobranymi wynikami:
 
 | Projekt | Numer | Koniec konsultacji | Ankiety | Komentarze |
 |---|---|---|---:|---:|
-| [Poselski projekt ustawy o zmianie ustawy o przeciwdziałaniu narkomanii](Wyniki/2026-04-29_RPW-10875-2026_Poselski_projekt_ustawy_o_zmianie_ustawy_o_przeciwdziaaniu_narkomanii/) | RPW/10875/2026 | 2026-04-29 | 22 561 | 13 080 |
+| [Poselski projekt ustawy o zawodzie psychoterapeuty oraz samorządzie zawodowym](Wyniki/2025-03-13_RPW-5317-2025_Poselski_projekt_ustawy_o_zawodzie_psychoterapeuty_oraz_samorzadzie_zawodowym/) | RPW/5317/2025 | 2025-03-13 | 7 575 | 47 788 |
 | [Poselski projekt ustawy o zmianie ustawy o broni i amunicji](Wyniki/2025-10-19_RPW-31004-2025_Poselski_projekt_ustawy_o_zmianie_ustawy_o_broni_i_amunicji/) | RPW/31004/2025 | 2025-10-19 | 20 898 | 36 527 |
 | [Poselski projekt ustawy o zmianie ustawy - Prawo łowieckie](Wyniki/2026-01-17_RPW-42391-2025_Poselski_projekt_ustawy_o_zmianie_ustawy_Prawo_owieckie/) | RPW/42391/2025 | 2026-01-17 | 17 325 | 19 955 |
 | [Poselski projekt ustawy o zmianie ustawy o broni i amunicji](Wyniki/2024-12-07_SH-020-277-24_Poselski_projekt_ustawy_o_zmianie_ustawy_o_broni_i_amunicji/) | SH-020-277/24 | 2024-12-07 | 8 298 | 17 054 |
-| [Poselski projekt ustawy o zawodzie psychoterapeuty oraz samorządzie zawodowym](Wyniki/2025-03-13_RPW-5317-2025_Poselski_projekt_ustawy_o_zawodzie_psychoterapeuty_oraz_samorzadzie_zawodowym/) | RPW/5317/2025 | 2025-03-13 | 7 575 | 47 788 |
-| [Poselski projekt ustawy o zmianie ustawy o ochronie praw nabywcy lokalu mieszkalnego...](Wyniki/2025-03-23_RPW-6415-2025_Poselski_projekt_ustawy_o_zmianie_ustawy_o_ochronie_praw_nabywcy_lokalu_mieszkal/) | RPW/6415/2025 | 2025-03-23 | 6 201 | 3 668 |
+| [Poselski projekt ustawy o zmianie ustawy o przeciwdziałaniu narkomanii](Wyniki/2026-04-29_RPW-10875-2026_Poselski_projekt_ustawy_o_zmianie_ustawy_o_przeciwdziaaniu_narkomanii/) | RPW/10875/2026 | 2026-04-29 | 22 561 | 13 080 |
+| [Poselski projekt ustawy o zmianie ustawy o ochronie przyrody](Wyniki/2026-05-16_RPW-13032-2026_Poselski_projekt_ustawy_o_zmianie_ustawy_o_ochronie_przyrody/) | RPW/13032/2026 | 2026-05-16 | 3 510 | 7 913 |
+| [Poselski projekt ustawy o zmianie ustawy o obywatelstwie polskim](Wyniki/2025-06-05_RPW-15086-2025_Poselski_projekt_ustawy_o_zmianie_ustawy_o_obywatelstwie_polskim/) | RPW/15086/2025 | 2025-06-05 | 2 286 | 7 706 |
 | [Poselski projekt ustawy o zmianie ustawy o obywatelstwie polskim](Wyniki/2025-11-06_RPW-32950-2025_Poselski_projekt_ustawy_o_zmianie_ustawy_o_obywatelstwie_polskim/) | RPW/32950/2025 | 2025-11-06 | 4 353 | 6 929 |
+| [Poselski projekt ustawy o zmianie ustawy o obywatelstwie polskim oraz ustawy o cudzoziemcach](Wyniki/2026-05-20_RPW-13478-2026_Poselski_projekt_ustawy_o_zmianie_ustawy_o_obywatelstwie_polskim_oraz_ustawy_o_c/) | RPW/13478/2026 | 2026-05-20 | 1 242 | 6 499 |
+| [Poselski projekt ustawy o zmianie ustawy - Kodeks wyborczy](Wyniki/2025-08-07_RPW-22565-2025_Poselski_projekt_ustawy_o_zmianie_ustawy_Kodeks_wyborczy/) | RPW/22565/2025 | 2025-08-07 | 2 779 | 5 333 |
+| [Poselski projekt ustawy o zmianie ustawy o ochronie praw nabywcy lokalu mieszkalnego...](Wyniki/2025-03-23_RPW-6415-2025_Poselski_projekt_ustawy_o_zmianie_ustawy_o_ochronie_praw_nabywcy_lokalu_mieszkal/) | RPW/6415/2025 | 2025-03-23 | 6 201 | 3 668 |
 | [Przedstawiony przez Prezydenta RP projekt ustawy o zapewnieniu...](Wyniki/2025-09-10_RPW-26832-2025_Przedstawiony_przez_Prezydenta_Rzeczypospolitej_Polskiej_projekt_ustawy_o_zapewn/) | RPW/26832/2025 | 2025-09-10 | 3 946 | 3 031 |
 | [Poselski projekt ustawy o zmianie ustawy o wykonywaniu działalności gospodarczej...](Wyniki/2025-05-04_RPW-11625-2025_Poselski_projekt_ustawy_o_zmianie_ustawy_o_wykonywaniu_dziaalnosci_gospodarczej/) | RPW/11625/2025 | 2025-05-04 | 3 548 | 1 495 |
-| [Poselski projekt ustawy o zmianie ustawy o ochronie przyrody](Wyniki/2026-05-16_RPW-13032-2026_Poselski_projekt_ustawy_o_zmianie_ustawy_o_ochronie_przyrody/) | RPW/13032/2026 | 2026-05-16 | 3 510 | 7 913 |
-| [Poselski projekt ustawy o zmianie ustawy - Kodeks wyborczy](Wyniki/2025-08-07_RPW-22565-2025_Poselski_projekt_ustawy_o_zmianie_ustawy_Kodeks_wyborczy/) | RPW/22565/2025 | 2025-08-07 | 2 779 | 5 333 |
-| [Poselski projekt ustawy o zmianie ustawy o obywatelstwie polskim](Wyniki/2025-06-05_RPW-15086-2025_Poselski_projekt_ustawy_o_zmianie_ustawy_o_obywatelstwie_polskim/) | RPW/15086/2025 | 2025-06-05 | 2 286 | 7 706 |
-| [Poselski projekt ustawy o zmianie ustawy o obywatelstwie polskim oraz ustawy o cudzoziemcach](Wyniki/2026-05-20_RPW-13478-2026_Poselski_projekt_ustawy_o_zmianie_ustawy_o_obywatelstwie_polskim_oraz_ustawy_o_c/) | RPW/13478/2026 | 2026-05-20 | 1 242 | 6 499 |
 
 Ciekawostka: rankingi się nie pokrywają — projekt o zawodzie psychoterapeuty ma
 najwięcej komentarzy (47 788) przy 7 575 ankietach, a projekt o przeciwdziałaniu
 narkomanii najwięcej ankiet (22 561) przy 13 080 komentarzach.
+
+## Brakujące dane
+
+Kompletność zbioru (stan na 2026-07-21, 279 konsultacji):
+
+- **4 projekty nie mają raportu statystycznego (PDF)** — serwer Sejmu zwraca
+  dla nich 404, więc najprawdopodobniej PDF nigdy nie został opublikowany.
+  Raporty z komentarzami i `komentarze.json` są dla nich kompletne:
+  - [SH-020-227/24 — ustawa o zagospodarowaniu wspólnot gruntowych](Wyniki/2025-02-09_SH-020-227-24_Senacki_projekt_ustawy_o_zmianie_ustawy_o_zagospodarowaniu_wspolnot_gruntowych/)
+  - [RPW/5327/2026 — ustawa o publicznym transporcie zbiorowym](Wyniki/2026-02-19_RPW-5327-2026_Poselski_projekt_ustawy_o_zmianie_ustawy_o_publicznym_transporcie_zbiorowym/)
+  - [RPW/2277/2026 — Kodeks karny](Wyniki/2026-02-21_RPW-2277-2026_Poselski_projekt_ustawy_o_zmianie_ustawy_Kodeks_karny/)
+  - [RPW/5184/2026 — ustawa o ubezpieczeniach obowiązkowych](Wyniki/2026-03-15_RPW-5184-2026_Poselski_projekt_ustawy_o_zmianie_ustawy_o_ubezpieczeniach_obowiazkowych_Ubezpie/)
+- **2 projekty (SH-020-227/24 i RPW/5327/2026) nie figurują na stronie Sejmu
+  z listą zakończonych konsultacji**, mimo że API oznacza je jako posiadające
+  wyniki — dla nich nie znamy też liczby ankiet ze strony www. To pokazuje,
+  że API jest pełniejszym źródłem odkrywania projektów niż sama strona.
+- Liczba ankiet nie jest dostępna w API ani w `metadata.json` — pochodzi
+  wyłącznie ze strony z listą konsultacji.
 
 ## Uwagi
 
