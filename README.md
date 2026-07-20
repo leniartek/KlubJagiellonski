@@ -179,13 +179,22 @@ narkomanii najwięcej ankiet (22 561) przy 13 080 komentarzach.
 
 Kompletność zbioru (stan na 2026-07-21, 279 konsultacji):
 
-- **4 projekty nie mają raportu statystycznego (PDF)** — serwer Sejmu zwraca
-  dla nich 404, więc najprawdopodobniej PDF nigdy nie został opublikowany.
-  Raporty z komentarzami i `komentarze.json` są dla nich kompletne:
+- **3 projekty nie mają raportu statystycznego (PDF).** Raporty z komentarzami
+  i `komentarze.json` są dla nich kompletne:
   - [SH-020-227/24 — ustawa o zagospodarowaniu wspólnot gruntowych](Wyniki/2025-02-09_SH-020-227-24_Senacki_projekt_ustawy_o_zmianie_ustawy_o_zagospodarowaniu_wspolnot_gruntowych/)
+    — strona wyników nie zawiera linku do PDF,
   - [RPW/5327/2026 — ustawa o publicznym transporcie zbiorowym](Wyniki/2026-02-19_RPW-5327-2026_Poselski_projekt_ustawy_o_zmianie_ustawy_o_publicznym_transporcie_zbiorowym/)
-  - [RPW/2277/2026 — Kodeks karny](Wyniki/2026-02-21_RPW-2277-2026_Poselski_projekt_ustawy_o_zmianie_ustawy_Kodeks_karny/)
+    — link do PDF na stronie wyników jest pusty,
   - [RPW/5184/2026 — ustawa o ubezpieczeniach obowiązkowych](Wyniki/2026-03-15_RPW-5184-2026_Poselski_projekt_ustawy_o_zmianie_ustawy_o_ubezpieczeniach_obowiazkowych_Ubezpie/)
+    — strona wyników linkuje **omyłkowo do cudzego raportu** (RPW/5149/2026,
+    "godka śląska"; potwierdzone sumą kontrolną i treścią PDF), własny raport
+    nie istnieje.
+- **PDF bywa opublikowany pod innym numerem niż numer projektu** — raport dla
+  RPW/2277/2026 (Kodeks karny) jest w pliku `RPW-2277-2025_wyniki.pdf` (literówka
+  w roku po stronie Sejmu; tytuł w PDF potwierdza właściwy projekt). Skrypt
+  wykrywa takie przypadki: przy braku pliku pod numerem projektu odczytuje
+  właściwy adres ze strony wyników, ale odrzuca slug należący do innego
+  projektu (ochrona przed omyłkowymi linkami jak przy RPW/5184/2026).
 - **2 projekty (SH-020-227/24 i RPW/5327/2026) nie figurują na stronie Sejmu
   z listą zakończonych konsultacji**, mimo że API oznacza je jako posiadające
   wyniki — dla nich nie znamy też liczby ankiet ze strony www. To pokazuje,

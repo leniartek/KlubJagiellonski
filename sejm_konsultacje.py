@@ -245,6 +245,7 @@ def main() -> int:
     www = WWW_BASE.format(term=args.term)
     summary = {"ok": 0, "skipped": 0, "not_found": 0, "failed": 0}
     failures = []
+    all_slugs = {slugify_number(b["number"]) for b in bills}
 
     for i, bill in enumerate(selected, 1):
         number = bill["number"]
@@ -262,8 +263,26 @@ def main() -> int:
 
         # 1. Raport statystyczny (PDF z orka)
         pdf_url = ORKA_PDF.format(term=args.term, slug=slug)
-        status = download(session, pdf_url, proj_dir / f"{slug}_raport_statystyczny.pdf",
-                          expect_pdf=True, delay=args.delay)
+        pdf_dest = proj_dir / f"{slug}_raport_statystyczny.pdf"
+        status = download(session, pdf_url, pdf_dest, expect_pdf=True, delay=args.delay)
+        if status == "not_found":
+            # PDF bywa opublikowany pod innym numerem niż numer projektu
+            # (np. RPW/2277/2026 -> RPW-2277-2025_wyniki) — odczytaj właściwy
+            # slug z linku na stronie wyników. Slug należący do INNEGO projektu
+            # odrzucamy: zdarza się, że strona wyników linkuje omyłkowo do
+            # cudzego raportu (RPW/5184/2026 linkuje do raportu RPW/5149/2026).
+            polite_sleep(args.delay)
+            try:
+                r = session.get(f"{www}?symbol=KONSULTACJE_WYNIKI&NrProjektu={number}",
+                                timeout=60)
+                m = re.search(r"dok\?OpenAgent&([A-Za-z0-9-]+)_wyniki", r.text)
+            except requests.RequestException:
+                m = None
+            if m and m.group(1) != slug and m.group(1) not in all_slugs:
+                alt_url = ORKA_PDF.format(term=args.term, slug=m.group(1))
+                print(f"    PDF pod innym numerem: {m.group(1)}")
+                status = download(session, alt_url, pdf_dest,
+                                  expect_pdf=True, delay=args.delay)
         print(f"    raport statystyczny (PDF): {status}")
         summary[status] += 1
         if status == "failed":
