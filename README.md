@@ -278,14 +278,15 @@ Trzy pliki z tekstem to każdorazowo inna historia:
 ## OCR
 
 Katalog [`OCR/`](OCR/) zawiera skrypt i wyniki — szczegóły w
-[`OCR/README.md`](OCR/README.md).
+[`OCR/AppleVision/README.md`](OCR/AppleVision/README.md).
 
 **Wybrane podejście (test):** wbudowany w macOS framework Vision
 (`VNRecognizeTextRequest`, język polski, tryb accurate, render 300 DPI) —
-skrypt [`OCR/applevision_ocr.swift`](OCR/applevision_ocr.swift), bez
-zewnętrznych zależności, ~0,5 s/stronę (cały korpus ~5,5 tys. stron ≈ 1 h,
+skrypt [`OCR/AppleVision/applevision_ocr.swift`](OCR/AppleVision/applevision_ocr.swift),
+bez zewnętrznych zależności, ~0,5 s/stronę (cały korpus ~5,5 tys. stron ≈ 1 h,
 za darmo). Przetestowane na trzech plikach reprezentujących wszystkie grupy
-skanerów (`1006-003`, `1000-001`, `2359-004`) — wyniki w `OCR/AppleVision/`
+skanerów (`1006-003`, `1000-001`, `2359-004`) — wyniki w
+[`OCR/AppleVision/Results/`](OCR/AppleVision/Results/)
 (format: `.txt` ze znacznikami `--- page N ---`).
 
 Jakość testu: **tekst ciągły i przypisy niemal bezbłędne** (pełne polskie
