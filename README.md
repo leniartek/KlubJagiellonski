@@ -1,4 +1,15 @@
-# Konsultacje publiczne Sejmu RP — pobieranie wyników
+# Dane z Sejmu RP (kadencja X)
+
+Repozytorium obejmuje dwa zbiory danych:
+
+1. **[Konsultacje](#konsultacje)** — wyniki zakończonych konsultacji publicznych
+   projektów ustaw: raporty statystyczne (PDF) i komentarze uczestników (JSON),
+   katalog `Wyniki/`.
+2. **[Skutki Regulacji](#skutki-regulacji)** — oceny skutków regulacji (OSR)
+   opracowywane przez Biuro Ekspertyz i Oceny Skutków Regulacji Kancelarii
+   Sejmu, katalog `SkutkiRegulacji/` (skany wymagające OCR — zob. `OCR/`).
+
+# Konsultacje
 
 Narzędzie do automatycznego pobierania wyników zakończonych konsultacji publicznych
 projektów ustaw w Sejmie RP (kadencja X) — raportów statystycznych (PDF) oraz
@@ -148,28 +159,6 @@ df = pd.DataFrame(rows)
 df.groupby("projekt").size().sort_values(ascending=False)  # aktywność per projekt
 ```
 
-## Oceny skutków regulacji (OSR)
-
-Sejm publikuje oceny skutków regulacji jako **druki dodatkowe** do druków
-sejmowych (tytuły w rodzaju "Do druku nr 1527 - ocena skutków regulacji").
-Skrypt `sejm_skutki_regulacji.py` znajduje je przez oficjalne API
-(`/sejm/term10/prints`, filtr po tytule druku dodatkowego) i pobiera PDF-y
-bezpośrednio z API:
-
-```bash
-python3 sejm_skutki_regulacji.py            # cała kadencja (domyślnie 10)
-```
-
-Wynik trafia do katalogu `SkutkiRegulacji/`: pliki PDF nazwane numerem druku
-dodatkowego (np. `1527-004.pdf` — prefiks to numer druku głównego) oraz
-`manifest.json` wiążący każdy plik z drukiem głównym, tytułami i datą wpływu.
-Ponowne uruchomienie pomija pobrane pliki.
-
-Stan na 2026-07-21: **264 z 265 OSR** X kadencji. Jedyny brak to OSR do druku
-934 — na [stronie druku](https://orka.sejm.gov.pl/Druki10ka.nsf/dok?OpenAgent&10-934-002)
-widnieje "Brak tekstu w postaci elektronicznej" (dodatkowo dwa różne druki
-dodatkowe mają ten sam numer 934-002, przez co API zwraca 404).
-
 ## Najpopularniejsze konsultacje
 
 Suma pierwszych dziesiątek według liczby ankiet i według liczby komentarzy
@@ -238,3 +227,84 @@ Kompletność zbioru (stan na 2026-07-21, 279 konsultacji):
   komentarze wielowierszowe zachowują podziały wierszy.
 - Dane osobowe: raporty zawierają imiona i nazwiska uczestników konsultacji
   opublikowane przez Sejm — przy dalszym udostępnianiu danych trzeba to uwzględnić.
+
+# Skutki Regulacji
+
+Oceny skutków regulacji (OSR) — opinie Biura Ekspertyz i Oceny Skutków
+Regulacji (BEOS) Kancelarii Sejmu, publikowane jako **druki dodatkowe** do
+druków sejmowych (tytuły w rodzaju "Do druku nr 1527 - ocena skutków
+regulacji"). Każdy dokument to kierowana do Marszałka Sejmu "Opinia w sprawie
+oceny skutków regulacji" danego projektu ustawy, zwykle 10–30 stron.
+
+## Pobieranie
+
+Skrypt `sejm_skutki_regulacji.py` znajduje OSR przez oficjalne API
+(`/sejm/term10/prints`, filtr po tytule druku dodatkowego) i pobiera PDF-y
+bezpośrednio z API:
+
+```bash
+python3 sejm_skutki_regulacji.py            # cała kadencja (domyślnie 10)
+```
+
+Wynik trafia do katalogu `SkutkiRegulacji/`: pliki PDF nazwane numerem druku
+dodatkowego (np. `1527-004.pdf` — prefiks to numer druku głównego) oraz
+`manifest.json` wiążący każdy plik z drukiem głównym, tytułami i datą wpływu.
+Ponowne uruchomienie pomija pobrane pliki.
+
+Stan na 2026-07-21: **264 z 265 OSR** X kadencji. Jedyny brak to OSR do druku
+934 — na [stronie druku](https://orka.sejm.gov.pl/Druki10ka.nsf/dok?OpenAgent&10-934-002)
+widnieje "Brak tekstu w postaci elektronicznej" (dodatkowo dwa różne druki
+dodatkowe mają ten sam numer 934-002, przez co API zwraca 404).
+
+## Charakterystyka plików (co ustaliliśmy)
+
+Analiza wszystkich 264 PDF-ów (2026-07-21): **261 to skany bez warstwy
+tekstowej** — obrazy z kserokopiarek Kancelarii Sejmu, tekstu nie da się z nich
+wyszukać ani skopiować bez OCR.
+
+| Grupa (pole Producer w PDF) | Plików | Charakter |
+|---|---:|---|
+| Konica Minolta bizhub C451i / C458 / 458e | 211 | surowy skan, sam obraz |
+| pdf-lib (złożone programowo) | 50 | również sam obraz (np. `2359-004.pdf`: 16 stron, 1967 obiektów graficznych, 0 fontów) |
+| z warstwą tekstową | 3 | zob. niżej |
+
+Trzy pliki z tekstem to każdorazowo inna historia:
+
+- `1528-004.pdf` — dokument cyfrowy (eksport z Worda), tekst idealny;
+- `1319-001.pdf` — skan po OCR Acrobat ClearScan, tekst zaszumiony
+  ("KANCElARII", "1 O czerwca") — nadaje się do wyszukiwania, nie do cytowania;
+- `1526-004.pdf` — warstwa tekstowa tylko na części stron.
+
+## OCR
+
+Katalog [`OCR/`](OCR/) zawiera skrypt i wyniki — szczegóły w
+[`OCR/README.md`](OCR/README.md).
+
+**Wybrane podejście (test):** wbudowany w macOS framework Vision
+(`VNRecognizeTextRequest`, język polski, tryb accurate, render 300 DPI) —
+skrypt [`OCR/applevision_ocr.swift`](OCR/applevision_ocr.swift), bez
+zewnętrznych zależności, ~0,5 s/stronę (cały korpus ~5,5 tys. stron ≈ 1 h,
+za darmo). Przetestowane na trzech plikach reprezentujących wszystkie grupy
+skanerów (`1006-003`, `1000-001`, `2359-004`) — wyniki w `OCR/AppleVision/`
+(format: `.txt` ze znacznikami `--- page N ---`).
+
+Jakość testu: **tekst ciągły i przypisy niemal bezbłędne** (pełne polskie
+znaki, poprawne sygnatury aktów prawnych); pieczątki wpływu i odręczne
+adnotacje nieczytelne; nagłówki wersalikami czasem gubią znaki diakrytyczne;
+zrzuty wykresów wklejone w dokumenty (np. `1006-003` s. 17) nieczytelne;
+sporadyczne pomyłki znaków (cyrylickie "г." zamiast "r.", "ga" zamiast "9a",
+"Il" zamiast "II").
+
+Rozważane alternatywy:
+
+- **Mistral OCR 4** (API) — najlepsza jakość na rynku (szczególnie tabele,
+  wyjście w Markdown), $4/1000 stron ($2 w trybie batch) → cały korpus
+  ~$11–22. Model **nie jest open source** — self-hosting tylko w licencji
+  enterprise. Opcja, gdyby jakość Apple Vision okazała się niewystarczająca.
+- **Bielik** (SpeakLeash) — to wyłącznie tekstowy LLM, **nie ma modelu
+  OCR/wizyjnego** — może służyć co najwyżej do post-processingu
+  rozpoznanego tekstu.
+- **tesseract/ocrmypdf** — darmowe i lokalne, jedyna droga do PDF-ów
+  z przeszukiwalną warstwą tekstową "z pudełka", ale jakość polskiego druku
+  słabsza od Vision; otwarte modele wizyjne (DeepSeek-OCR, olmOCR 2) —
+  lokalnie na Macu wolne, jakość tabel poniżej Mistrala.
