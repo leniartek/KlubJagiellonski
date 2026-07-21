@@ -148,6 +148,28 @@ df = pd.DataFrame(rows)
 df.groupby("projekt").size().sort_values(ascending=False)  # aktywność per projekt
 ```
 
+## Oceny skutków regulacji (OSR)
+
+Sejm publikuje oceny skutków regulacji jako **druki dodatkowe** do druków
+sejmowych (tytuły w rodzaju "Do druku nr 1527 - ocena skutków regulacji").
+Skrypt `sejm_skutki_regulacji.py` znajduje je przez oficjalne API
+(`/sejm/term10/prints`, filtr po tytule druku dodatkowego) i pobiera PDF-y
+bezpośrednio z API:
+
+```bash
+python3 sejm_skutki_regulacji.py            # cała kadencja (domyślnie 10)
+```
+
+Wynik trafia do katalogu `SkutkiRegulacji/`: pliki PDF nazwane numerem druku
+dodatkowego (np. `1527-004.pdf` — prefiks to numer druku głównego) oraz
+`manifest.json` wiążący każdy plik z drukiem głównym, tytułami i datą wpływu.
+Ponowne uruchomienie pomija pobrane pliki.
+
+Stan na 2026-07-21: **264 z 265 OSR** X kadencji. Jedyny brak to OSR do druku
+934 — na [stronie druku](https://orka.sejm.gov.pl/Druki10ka.nsf/dok?OpenAgent&10-934-002)
+widnieje "Brak tekstu w postaci elektronicznej" (dodatkowo dwa różne druki
+dodatkowe mają ten sam numer 934-002, przez co API zwraca 404).
+
 ## Najpopularniejsze konsultacje
 
 Suma pierwszych dziesiątek według liczby ankiet i według liczby komentarzy
