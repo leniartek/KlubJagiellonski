@@ -1,0 +1,3989 @@
+[
+  {
+    "id": "63-004",
+    "druk": "63",
+    "druk_title": "Poselski projekt ustawy o zmianie ustawy o ograniczeniu handlu w niedziele i święta oraz niektóre inne dni.",
+    "delivery_date": "2023-12-05",
+    "pdf": "63-004.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/63-004/63-004.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "72-010",
+    "druk": "72",
+    "druk_title": "Poselski projekt ustawy o zmianie ustaw w celu wsparcia odbiorców energii elektrycznej, paliw gazowych i ciepła oraz niektórych innych ustaw.",
+    "delivery_date": "2023-12-14",
+    "pdf": "72-010.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/72-010/72-010.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "72-A-005",
+    "druk": "72-A",
+    "druk_title": "Autopoprawka do poselskiego projektu ustawy o zmianie ustaw w celu wsparcia odbiorców energii elektrycznej, paliw gazowych i ciepła oraz niektórych innych ustaw.",
+    "delivery_date": "2023-12-14",
+    "pdf": "72-A-005.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/72-A-005/72-A-005.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "75-001",
+    "druk": "75",
+    "druk_title": "Poselski projekt ustawy o zmianie ustawy o samorządzie gminnym oraz ustawy - Kodeks wyborczy.",
+    "delivery_date": "2023-12-12",
+    "pdf": "75-001.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/75-001/75-001.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "92-003",
+    "druk": "92",
+    "druk_title": "Poselski projekt ustawy o zmianie ustawy o doręczeniach elektronicznych.",
+    "delivery_date": "2024-01-05",
+    "pdf": "92-003.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/92-003/92-003.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "123-003",
+    "druk": "123",
+    "druk_title": "Poselski projekt ustawy o ustanowieniu Narodowego Dnia Powstania Zamojskiego i Pamięci Dzieci Zamojszczyzny.",
+    "delivery_date": "2024-01-10",
+    "pdf": "123-003.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/123-003/123-003.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "141-005",
+    "druk": "141",
+    "druk_title": "Rządowy projekt ustawy o zmianie ustawy - Przepisy wprowadzające ustawę - Prawo o szkolnictwie wyższym i nauce.",
+    "delivery_date": "2024-01-15",
+    "pdf": "141-005.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/141-005/141-005.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "141-A-001",
+    "druk": "141-A",
+    "druk_title": "Autopoprawka do projektu ustawy o zmianie ustawy - Przepisy wprowadzające ustawę - Prawo o szkolnictwie wyższym i nauce.",
+    "delivery_date": "2024-02-02",
+    "pdf": "141-A-001.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/141-A-001/141-A-001.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "142-003",
+    "druk": "142",
+    "druk_title": "Rządowy projekt ustawy o szczególnych rozwiązaniach służących realizacji ustawy budżetowej na rok 2024.",
+    "delivery_date": "2024-01-11",
+    "pdf": "142-003.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/142-003/142-003.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "156-002",
+    "druk": "156",
+    "druk_title": "Poselski projekt ustawy o zmianie ustawy o ograniczeniu prowadzenia działalności gospodarczej przez osoby pełniące funkcje publiczne oraz niektórych innych ustaw.",
+    "delivery_date": "2024-01-26",
+    "pdf": "156-002.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/156-002/156-002.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "171-002",
+    "druk": "171",
+    "druk_title": "Rządowy projekt ustawy o zmianie ustawy o Narodowym Centrum Badań i Rozwoju oraz ustawy - Prawo o szkolnictwie wyższym i nauce.",
+    "delivery_date": "2024-02-01",
+    "pdf": "171-002.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/171-002/171-002.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "185-001",
+    "druk": "185",
+    "druk_title": "Rządowy projekt ustawy o zmianie ustawy - Prawo farmaceutyczne.",
+    "delivery_date": "2024-02-16",
+    "pdf": "185-001.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/185-001/185-001.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "187-002",
+    "druk": "187",
+    "druk_title": "Poselski projekt ustawy o zmianie ustawy o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych oraz niektórych innych ustaw w celu wprowadzenia emerytury stażowej.",
+    "delivery_date": "2024-02-16",
+    "pdf": "187-002.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/187-002/187-002.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "188-006",
+    "druk": "188",
+    "druk_title": "Rządowy projekt ustawy o zmianie ustawy o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa, ustawy o podatku dochodowym od osób fizycznych oraz ustawy o podatku dochodowym od osób prawnych.",
+    "delivery_date": "2024-02-23",
+    "pdf": "188-006.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/188-006/188-006.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "201-001",
+    "druk": "201",
+    "druk_title": "Poselski projekt ustawy o zmianie ustawy - Prawo pocztowe oraz ustawy o zmianie ustawy - Prawo pocztowe.",
+    "delivery_date": "2024-02-27",
+    "pdf": "201-001.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/201-001/201-001.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "204-001",
+    "druk": "204",
+    "druk_title": "Rządowy projekt ustawy o zmianie zakresu obowiązywania Traktatu o konwencjonalnych siłach zbrojnych w Europie, podpisanego w Paryżu dnia 19 listopada 1990 r.",
+    "delivery_date": "2024-02-29",
+    "pdf": "204-001.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/204-001/204-001.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "208-001",
+    "druk": "208",
+    "druk_title": "Poselski projekt ustawy o zmianie ustawy o konsumenckiej pożyczce lombardowej oraz o zmianie niektórych innych ustaw.",
+    "delivery_date": "2024-02-27",
+    "pdf": "208-001.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/208-001/208-001.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "210-001",
+    "druk": "210",
+    "druk_title": "Poselski projekt ustawy o zmianie ustawy - Kodeks wykroczeń.",
+    "delivery_date": "2024-02-27",
+    "pdf": "210-001.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/210-001/210-001.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "211-001",
+    "druk": "211",
+    "druk_title": "Poselski projekt ustawy o zmianie ustawy o świadczeniu pieniężnym z tytułu pełnienia funkcji sołtysa.",
+    "delivery_date": "2024-02-27",
+    "pdf": "211-001.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/211-001/211-001.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "219-002",
+    "druk": "219",
+    "druk_title": "Rządowy projekt ustawy o zmianie ustawy o Krajowej Radzie Sądownictwa.",
+    "delivery_date": "2024-03-20",
+    "pdf": "219-002.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/219-002/219-002.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "223-002",
+    "druk": "223",
+    "druk_title": "Poselski projekt ustawy o zmianie ustawy o planowaniu rodziny, ochronie płodu ludzkiego i warunkach dopuszczalności przerywania ciąży.",
+    "delivery_date": "2024-03-19",
+    "pdf": "223-002.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/223-002/223-002.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "244-003",
+    "druk": "244",
+    "druk_title": "Poselski projekt ustawy o zmianie ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych oraz ustawy o refundacji leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych.",
+    "delivery_date": "2024-03-20",
+    "pdf": "244-003.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/244-003/244-003.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "253-002",
+    "druk": "253",
+    "druk_title": "Poselski projekt ustawy o Trybunale Konstytucyjnym.",
+    "delivery_date": "2024-04-18",
+    "pdf": "253-002.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/253-002/253-002.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "254-001",
+    "druk": "254",
+    "druk_title": "Poselski projekt ustawy - Przepisy wprowadzające ustawę o Trybunale Konstytucyjnym.",
+    "delivery_date": "2024-04-09",
+    "pdf": "254-001.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/254-001/254-001.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "257-001",
+    "druk": "257",
+    "druk_title": "Poselski projekt ustawy o uchyleniu ustawy z dnia 13 lipca 2023 r. o zmianie ustawy o ochronie zabytków i opiece nad zabytkami.",
+    "delivery_date": "2024-04-05",
+    "pdf": "257-001.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/257-001/257-001.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "261-001",
+    "druk": "261",
+    "druk_title": "Poselski projekt ustawy o zmianie niektórych ustaw w celu naprawy ładu korporacyjnego w spółkach z udziałem Skarbu Państwa.",
+    "delivery_date": "2024-03-26",
+    "pdf": "261-001.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/261-001/261-001.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "409-001",
+    "druk": "409",
+    "druk_title": "Poselski projekt ustawy o zmianie ustawy - Kodeks postępowania karnego.",
+    "delivery_date": "2024-05-22",
+    "pdf": "409-001.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/409-001/409-001.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "410-002",
+    "druk": "410",
+    "druk_title": "Poselski projekt ustawy o zmianie ustawy - Kodeks postępowania karnego.",
+    "delivery_date": "2024-06-05",
+    "pdf": "410-002.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/410-002/410-002.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "494-003",
+    "druk": "494",
+    "druk_title": "Obywatelski projekt ustawy o zmianie ustaw w celu wsparcia odbiorców energii elektrycznej, paliw gazowych i ciepła oraz niektórych innych ustaw.",
+    "delivery_date": "2024-07-09",
+    "pdf": "494-003.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/494-003/494-003.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "526-001",
+    "druk": "526",
+    "druk_title": "Poselski projekt ustawy o zmianie ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych oraz niektórych innych ustaw.",
+    "delivery_date": "2024-07-16",
+    "pdf": "526-001.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/526-001/526-001.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "526-A-001",
+    "druk": "526-A",
+    "druk_title": "Autopoprawka do poselskiego projektu ustawy o zmianie ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych oraz niektórych innych ustaw.",
+    "delivery_date": "2024-08-13",
+    "pdf": "526-A-001.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/526-A-001/526-A-001.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "528-001",
+    "druk": "528",
+    "druk_title": "Poselski projekt ustawy o zmianie ustawy o opiece nad dziećmi do lat 3 oraz ustawy - Prawo oświatowe.",
+    "delivery_date": "2024-07-18",
+    "pdf": "528-001.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/528-001/528-001.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "573-004",
+    "druk": "573",
+    "druk_title": "Poselski projekt ustawy o zmianie ustawy - Prawo lotnicze.",
+    "delivery_date": "2024-08-06",
+    "pdf": "573-004.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/573-004/573-004.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "603-002",
+    "druk": "603",
+    "druk_title": "Poselski projekt ustawy o zmianie ustawy o ochotniczych strażach pożarnych oraz niektórych innych ustaw.",
+    "delivery_date": "2024-08-30",
+    "pdf": "603-002.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/603-002/603-002.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "613-001",
+    "druk": "613",
+    "druk_title": "Poselski projekt ustawy o wypowiedzeniu Konwencji o przekazywaniu i wykorzystywaniu danych ze zdalnego badania Ziemi z kosmosu, sporządzonej w Moskwie dnia 19 maja 1978 roku.",
+    "delivery_date": "2024-08-29",
+    "pdf": "613-001.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/613-001/613-001.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "643-002",
+    "druk": "643",
+    "druk_title": "Poselski projekt ustawy o zmianie ustawy - Kodeks postępowania karnego oraz ustawy - Kodeks karny.",
+    "delivery_date": "2024-12-18",
+    "pdf": "643-002.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/643-002/643-002.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "660-002",
+    "druk": "660",
+    "druk_title": "Poselski projekt ustawy o zmianie ustawy o systemie ubezpieczeń społecznych.",
+    "delivery_date": "2024-09-24",
+    "pdf": "660-002.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/660-002/660-002.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "669-005",
+    "druk": "669",
+    "druk_title": "Poselski projekt ustawy o szczególnych rozwiązaniach związanych ze wsparciem finansowym dla poszkodowanych przez powódź w 2024 roku.",
+    "delivery_date": "2024-10-15",
+    "pdf": "669-005.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/669-005/669-005.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "671-007",
+    "druk": "671",
+    "druk_title": "Poselski projekt ustawy o wychowaniu patriotycznym zmieniająca niektóre ustawy.",
+    "delivery_date": "2024-11-06",
+    "pdf": "671-007.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/671-007/671-007.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "698-003",
+    "druk": "698",
+    "druk_title": "Poselski projekt ustawy o zmianie ustawy o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi.",
+    "delivery_date": "2024-10-15",
+    "pdf": "698-003.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/698-003/698-003.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "699-006",
+    "druk": "699",
+    "druk_title": "Obywatelski projekt ustawy o zobowiązaniu władz publicznych do realizacji inwestycji Centralnego Portu Komunikacyjnego.",
+    "delivery_date": "2024-11-15",
+    "pdf": "699-006.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/699-006/699-006.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "700-004",
+    "druk": "700",
+    "druk_title": "Obywatelski projekt ustawy o zmianie ustawy o ochronie zwierząt oraz zmianie niektórych innych ustaw.",
+    "delivery_date": "2024-11-08",
+    "pdf": "700-004.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/700-004/700-004.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "748-001",
+    "druk": "748",
+    "druk_title": "Poselski projekt ustawy o zmianie ustawy - o prawach pacjenta i Rzeczniku Praw Pacjenta oraz niektórych innych ustaw.",
+    "delivery_date": "2024-11-06",
+    "pdf": "748-001.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/748-001/748-001.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "777-009",
+    "druk": "777",
+    "druk_title": "Poselski projekt ustawy o zmianie ustawy o dniach wolnych od pracy oraz niektórych innych ustaw.",
+    "delivery_date": "2024-11-19",
+    "pdf": "777-009.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/777-009/777-009.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "828-001",
+    "druk": "828",
+    "druk_title": "Poselski projekt ustawy o zmianie ustawy - Prawo łowieckie.",
+    "delivery_date": "2024-12-18",
+    "pdf": "828-001.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/828-001/828-001.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "829-001",
+    "druk": "829",
+    "druk_title": "Poselski projekt ustawy o Instytucie imienia Wincentego Witosa.",
+    "delivery_date": "2024-11-27",
+    "pdf": "829-001.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/829-001/829-001.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "830-002",
+    "druk": "830",
+    "druk_title": "Poselski projekt ustawy o zmianie ustawy - Kodeks karny.",
+    "delivery_date": "2024-11-29",
+    "pdf": "830-002.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/830-002/830-002.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "836-001",
+    "druk": "836",
+    "druk_title": "Poselski projekt ustawy o zapobieganiu bezdomności psów i kotów.",
+    "delivery_date": "2024-11-27",
+    "pdf": "836-001.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/836-001/836-001.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "837-004",
+    "druk": "837",
+    "druk_title": "Poselski projekt ustawy o działalności stowarzyszeń felinologicznych i kynologicznych oraz organizacji hodowli kotów i psów rasowych.",
+    "delivery_date": "2024-12-02",
+    "pdf": "837-004.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/837-004/837-004.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "864-001",
+    "druk": "864",
+    "druk_title": "Poselski projekt ustawy o zmianie ustawy - Kodeks postępowania cywilnego oraz niektórych innych ustaw.",
+    "delivery_date": "2024-12-03",
+    "pdf": "864-001.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/864-001/864-001.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "865-003",
+    "druk": "865",
+    "druk_title": "Poselski projekt ustawy o zmianie ustawy - Kodeks postępowania karnego.",
+    "delivery_date": "2024-12-13",
+    "pdf": "865-003.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/865-003/865-003.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "866-002",
+    "druk": "866",
+    "druk_title": "Poselski projekt ustawy o zmianie ustawy o podatkach i opłatach lokalnych oraz ustawy - Ordynacja podatkowa.",
+    "delivery_date": "2024-12-13",
+    "pdf": "866-002.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/866-002/866-002.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "867-002",
+    "druk": "867",
+    "druk_title": "Poselski projekt ustawy o zmianie ustawy o broni i amunicji.",
+    "delivery_date": "2024-12-20",
+    "pdf": "867-002.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/867-002/867-002.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "880-003",
+    "druk": "880",
+    "druk_title": "Poselski projekt ustawy o zmianie ustawy o drogach publicznych.",
+    "delivery_date": "2025-01-09",
+    "pdf": "880-003.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/880-003/880-003.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "907-003",
+    "druk": "907",
+    "druk_title": "Poselski projekt ustawy o zmianie niektórych ustaw w celu poprawy warunków prowadzenia działalności gospodarczej.",
+    "delivery_date": "2025-01-15",
+    "pdf": "907-003.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/907-003/907-003.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "908-002",
+    "druk": "908",
+    "druk_title": "Poselski projekt ustawy o zmianie ustawy o Instytucie Pamięci Narodowej - Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu oraz ustawy - Kodeks karny.",
+    "delivery_date": "2025-01-21",
+    "pdf": "908-002.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/908-002/908-002.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "909-005",
+    "druk": "909",
+    "druk_title": "Poselski projekt ustawy o zmianie ustawy o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych.",
+    "delivery_date": "2025-01-15",
+    "pdf": "909-005.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/909-005/909-005.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "923-002",
+    "druk": "923",
+    "druk_title": "Poselski projekt ustawy o szczególnych rozwiązaniach w zakresie rozpoznawania przez Sąd Najwyższy spraw, związanych z wyborami Prezydenta Rzeczypospolitej Polskiej oraz wyborami uzupełniającymi do Senatu Rzeczypospolitej Polskiej, zarządzonymi w 2025 r.",
+    "delivery_date": "2025-01-07",
+    "pdf": "923-002.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/923-002/923-002.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "925-001",
+    "druk": "925",
+    "druk_title": "Poselski projekt ustawy o ustanowieniu Narodowego Dnia Pamięci Żołnierzy Armii Krajowej.",
+    "delivery_date": "2025-01-07",
+    "pdf": "925-001.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/925-001/925-001.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "926-001",
+    "druk": "926",
+    "druk_title": "Poselski projekt ustawy o zmianie ustawy o wykonywaniu mandatu posła i senatora.",
+    "delivery_date": "2025-01-08",
+    "pdf": "926-001.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/926-001/926-001.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "934-002",
+    "druk": "934",
+    "druk_title": "Poselski projekt ustawy o zmianie ustawy - Kodeks pracy.",
+    "delivery_date": "2025-01-20",
+    "pdf": null,
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/934-002/934-002.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "935-002",
+    "druk": "935",
+    "druk_title": "Poselski projekt ustawy o zmianie niektórych ustaw w celu ograniczenia nadużywania tymczasowego aresztowania oraz ochrony praw osób tymczasowo aresztowanych.",
+    "delivery_date": "2025-01-17",
+    "pdf": "935-002.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/935-002/935-002.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "954-004",
+    "druk": "954",
+    "druk_title": "Poselski projekt ustawy zmieniającej ustawę o zmianie ustawy o finansowym wsparciu tworzenia lokali socjalnych, mieszkań chronionych, noclegowni i domów dla bezdomnych, ustawy o ochronie praw lokatorów, mieszkaniowym zasobie gminy i o zmianie Kodeksu cywilnego oraz niektórych innych ustaw.",
+    "delivery_date": "2025-02-03",
+    "pdf": "954-004.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/954-004/954-004.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "962-003",
+    "druk": "962",
+    "druk_title": "Poselski projekt ustawy o zmianie ustawy o środkach nadzwyczajnych mających na celu ograniczenie wysokości cen energii elektrycznej oraz wsparciu niektórych odbiorców w latach 2023-2025 oraz niektórych innych ustaw.",
+    "delivery_date": "2025-01-22",
+    "pdf": "962-003.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/962-003/962-003.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "965-003",
+    "druk": "965",
+    "druk_title": "Poselski projekt ustawy o zmianie ustawy - Ordynacja podatkowa.",
+    "delivery_date": "2025-02-05",
+    "pdf": "965-003.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/965-003/965-003.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "966-002",
+    "druk": "966",
+    "druk_title": "Poselski projekt ustawy o zmianie ustawy o podatku od towarów i usług.",
+    "delivery_date": "2025-02-05",
+    "pdf": "966-002.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/966-002/966-002.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "995-002",
+    "druk": "995",
+    "druk_title": "Senacki projekt ustawy o zmianie ustawy o zagospodarowaniu wspólnot gruntowych.",
+    "delivery_date": "2025-02-21",
+    "pdf": "995-002.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/995-002/995-002.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "997-003",
+    "druk": "997",
+    "druk_title": "Poselski projekt ustawy o zmianie ustawy o drogach publicznych.",
+    "delivery_date": "2025-03-05",
+    "pdf": "997-003.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/997-003/997-003.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "998-003",
+    "druk": "998",
+    "druk_title": "Poselski projekt ustawy o ochronie prowadzenia działalności rolniczej.",
+    "delivery_date": "2025-02-14",
+    "pdf": "998-003.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/998-003/998-003.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "999-001",
+    "druk": "999",
+    "druk_title": "Poselski projekt ustawy o zmianie ustawy o odnawialnych źródłach energii.",
+    "delivery_date": "2025-02-05",
+    "pdf": "999-001.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/999-001/999-001.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "1000-001",
+    "druk": "1000",
+    "druk_title": "Poselski projekt ustawy o zmianie ustawy o kształtowaniu ustroju rolnego.",
+    "delivery_date": "2025-02-27",
+    "pdf": "1000-001.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/1000-001/1000-001.pdf",
+    "ocr": {
+      "applevision": true,
+      "deepseek": true,
+      "canonical": true
+    },
+    "pages": 19,
+    "chars": 59017,
+    "merge_stats": {
+      "vision_only_runs": 21,
+      "garbage_dropped": 2
+    }
+  },
+  {
+    "id": "1006-003",
+    "druk": "1006",
+    "druk_title": "Obywatelski projekt ustawy o ochronie małoletnich przed treściami pornograficznymi w Internecie oraz o zmianie ustawy - Prawo telekomunikacyjne.",
+    "delivery_date": "2025-02-27",
+    "pdf": "1006-003.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/1006-003/1006-003.pdf",
+    "ocr": {
+      "applevision": true,
+      "deepseek": true,
+      "canonical": true
+    },
+    "pages": 25,
+    "chars": 77802,
+    "merge_stats": {
+      "vision_only_runs": 26,
+      "garbage_dropped": 1
+    }
+  },
+  {
+    "id": "1035-001",
+    "druk": "1035",
+    "druk_title": "Poselski projekt ustawy o zmianie ustawy o podatku od towarów i usług.",
+    "delivery_date": "2025-02-28",
+    "pdf": "1035-001.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/1035-001/1035-001.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "1036-001",
+    "druk": "1036",
+    "druk_title": "Poselski projekt ustawy o zmianie ustawy o podatku od towarów i usług.",
+    "delivery_date": "2025-02-28",
+    "pdf": "1036-001.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/1036-001/1036-001.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "1037-001",
+    "druk": "1037",
+    "druk_title": "Poselski projekt ustawy o zmianie ustawy o podatku od towarów i usług.",
+    "delivery_date": "2025-03-03",
+    "pdf": "1037-001.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/1037-001/1037-001.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "1038-002",
+    "druk": "1038",
+    "druk_title": "Poselski projekt ustawy o zmianie ustawy o zawodzie lekarza weterynarii i izbach lekarsko-weterynaryjnych.",
+    "delivery_date": "2025-03-05",
+    "pdf": "1038-002.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/1038-002/1038-002.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "1039-001",
+    "druk": "1039",
+    "druk_title": "Poselski projekt ustawy o zmianie ustawy o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa.",
+    "delivery_date": "2025-03-05",
+    "pdf": "1039-001.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/1039-001/1039-001.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "1040-001",
+    "druk": "1040",
+    "druk_title": "Poselski projekt ustawy o zmianie ustawy o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa.",
+    "delivery_date": "2025-03-04",
+    "pdf": "1040-001.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/1040-001/1040-001.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "1076-003",
+    "druk": "1076",
+    "druk_title": "Poselski projekt ustawy o zmianie ustawy o mniejszościach narodowych i etnicznych oraz o języku regionalnym.",
+    "delivery_date": "2025-04-02",
+    "pdf": "1076-003.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/1076-003/1076-003.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "1077-003",
+    "druk": "1077",
+    "druk_title": "Poselski projekt ustawy o zmianie ustawy o umowach międzynarodowych.",
+    "delivery_date": "2025-03-24",
+    "pdf": "1077-003.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/1077-003/1077-003.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "1078-003",
+    "druk": "1078",
+    "druk_title": "Poselski projekt ustawy o zmianie ustawy o zmianie ustawy o finansowym wsparciu tworzenia lokali socjalnych, mieszkań chronionych, noclegowni i domów dla bezdomnych oraz niektórych innych ustaw.",
+    "delivery_date": "2025-03-25",
+    "pdf": "1078-003.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/1078-003/1078-003.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "1079-002",
+    "druk": "1079",
+    "druk_title": "Poselski projekt ustawy o zmianie ustawy - Prawo o ruchu drogowym.",
+    "delivery_date": "2025-04-02",
+    "pdf": "1079-002.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/1079-002/1079-002.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "1080-001",
+    "druk": "1080",
+    "druk_title": "Poselski projekt ustawy o zmianie ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych.",
+    "delivery_date": "2025-03-17",
+    "pdf": "1080-001.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/1080-001/1080-001.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "1106-003",
+    "druk": "1106",
+    "druk_title": "Przedstawiony przez Prezydenta Rzeczypospolitej Polskiej projekt ustawy o zmianie Konstytucji Rzeczypospolitej Polskiej.",
+    "delivery_date": "2025-04-15",
+    "pdf": "1106-003.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/1106-003/1106-003.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "1109-003",
+    "druk": "1109",
+    "druk_title": "Komisyjny projekt ustawy o zmianie ustawy - Kodeks karny wykonawczy.",
+    "delivery_date": "2025-04-08",
+    "pdf": "1109-003.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/1109-003/1109-003.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "1110-003",
+    "druk": "1110",
+    "druk_title": "Komisyjny projekt ustawy o zmianie ustawy - Kodeks karny wykonawczy.",
+    "delivery_date": "2025-04-08",
+    "pdf": "1110-003.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/1110-003/1110-003.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "1112-004",
+    "druk": "1112",
+    "druk_title": "Poselski projekt ustawy o zmianie ustawy o ochronie praw nabywcy lokalu mieszkalnego lub domu jednorodzinnego oraz Deweloperskim Funduszu Gwarancyjnym oraz ustawy o ochronie konkurencji i konsumentów.",
+    "delivery_date": "2025-04-02",
+    "pdf": "1112-004.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/1112-004/1112-004.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "1113-003",
+    "druk": "1113",
+    "druk_title": "Poselski projekt ustawy o Rzeczniku Rolników.",
+    "delivery_date": "2025-04-02",
+    "pdf": "1113-003.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/1113-003/1113-003.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "1114-001",
+    "druk": "1114",
+    "druk_title": "Poselski projekt ustawy o wystąpieniu Rzeczypospolitej Polskiej ze Światowej Organizacji Zdrowia.",
+    "delivery_date": "2025-03-31",
+    "pdf": "1114-001.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/1114-001/1114-001.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "1131-002",
+    "druk": "1131",
+    "druk_title": "Poselski projekt ustawy o zmianie ustawy - Kodeks postępowania karnego.",
+    "delivery_date": "2025-04-03",
+    "pdf": "1131-002.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/1131-002/1131-002.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "1141-003",
+    "druk": "1141",
+    "druk_title": "Senacki projekt ustawy o zmianie ustawy o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych oraz ustawy o emeryturach pomostowych.",
+    "delivery_date": "2025-04-29",
+    "pdf": "1141-003.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/1141-003/1141-003.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "1142-003",
+    "druk": "1142",
+    "druk_title": "Poselski projekt ustawy o zmianie ustawy o ochotniczych strażach pożarnych.",
+    "delivery_date": "2025-04-15",
+    "pdf": "1142-003.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/1142-003/1142-003.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "1148-003",
+    "druk": "1148",
+    "druk_title": "Poselski projekt ustawy o zmianie ustawy o dochodzeniu roszczeń w postępowaniach grupowych.",
+    "delivery_date": "2025-04-15",
+    "pdf": "1148-003.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/1148-003/1148-003.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "1185-001",
+    "druk": "1185",
+    "druk_title": "Senacki projekt ustawy o zmianie ustawy o skardze na naruszenie prawa strony do rozpoznania sprawy w postępowaniu przygotowawczym prowadzonym lub nadzorowanym przez prokuratora i postepowaniu sądowym bez nieuzasadnionej zwłoki.",
+    "delivery_date": "2025-04-30",
+    "pdf": "1185-001.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/1185-001/1185-001.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "1186-002",
+    "druk": "1186",
+    "druk_title": "Poselski projekt ustawy o zmianie ustawy o zasadach zarządzania mieniem państwowym oraz niektórych innych ustaw.",
+    "delivery_date": "2025-04-30",
+    "pdf": "1186-002.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/1186-002/1186-002.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "1187-003",
+    "druk": "1187",
+    "druk_title": "Poselski projekt ustawy o zmianie ustawy o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych.",
+    "delivery_date": "2025-05-15",
+    "pdf": "1187-003.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/1187-003/1187-003.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "1204-002",
+    "druk": "1204",
+    "druk_title": "Komisyjny projekt ustawy o zmianie ustawy - Prawo o ustroju sądów powszechnych.",
+    "delivery_date": "2025-05-07",
+    "pdf": "1204-002.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/1204-002/1204-002.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "1205-001",
+    "druk": "1205",
+    "druk_title": "Poselski projekt ustawy o zmianie ustawy - Kodeks postępowania karnego oraz ustawy - Prawo o prokuraturze.",
+    "delivery_date": "2025-05-06",
+    "pdf": "1205-001.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/1205-001/1205-001.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "1237-001",
+    "druk": "1237",
+    "druk_title": "Przedstawiony przez Prezydenta Rzeczypospolitej Polskiej projekt ustawy o zmianie ustawy o realizowaniu usług społecznych przez centrum usług społecznych.",
+    "delivery_date": "2025-05-20",
+    "pdf": "1237-001.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/1237-001/1237-001.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "1271-003",
+    "druk": "1271",
+    "druk_title": "Poselski projekt ustawy o ustanowieniu 11 lipca Dniem Pamięci o Polakach - ofiarach ludobójstwa dokonanego przez OUN-UPA na Kresach Wschodnich II Rzeczypospolitej Polskiej.",
+    "delivery_date": "2025-06-04",
+    "pdf": "1271-003.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/1271-003/1271-003.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "1272-005",
+    "druk": "1272",
+    "druk_title": "Poselski projekt ustawy o zmianie ustawy o ochronie praw nabywcy lokalu mieszkalnego lub domu jednorodzinnego oraz Deweloperskim Funduszu Gwarancyjnym.",
+    "delivery_date": "2025-06-09",
+    "pdf": "1272-005.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/1272-005/1272-005.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "1273-001",
+    "druk": "1273",
+    "druk_title": "Poselski projekt ustawy o zmianie ustawy o obywatelstwie polskim.",
+    "delivery_date": "2025-06-17",
+    "pdf": "1273-001.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/1273-001/1273-001.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "1316-001",
+    "druk": "1316",
+    "druk_title": "Poselski projekt ustawy o zmianie ustawy o wykonywaniu działalności gospodarczej w zakresie wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym.",
+    "delivery_date": "2025-06-12",
+    "pdf": "1316-001.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/1316-001/1316-001.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "1317-003",
+    "druk": "1317",
+    "druk_title": "Poselski projekt ustawy o zmianie ustawy o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych.",
+    "delivery_date": "2025-06-10",
+    "pdf": "1317-003.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/1317-003/1317-003.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "1318-006",
+    "druk": "1318",
+    "druk_title": "Poselski projekt ustawy o zmianie ustawy o gospodarce nieruchomościami, ustawy o ochronie praw lokatorów, mieszkaniowym zasobie gminy i o zmianie Kodeksu cywilnego oraz ustawy o finansowym wsparciu niektórych przedsięwzięć mieszkaniowych.",
+    "delivery_date": "2025-06-25",
+    "pdf": "1318-006.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/1318-006/1318-006.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "1319-001",
+    "druk": "1319",
+    "druk_title": "Poselski projekt ustawy o zmianie ustawy o społecznych formach rozwoju mieszkalnictwa oraz niektórych innych ustaw.",
+    "delivery_date": "2025-06-11",
+    "pdf": "1319-001.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/1319-001/1319-001.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "1320-005",
+    "druk": "1320",
+    "druk_title": "Poselski projekt ustawy o zmianie ustawy o podatku od niektórych instytucji finansowych.",
+    "delivery_date": "2025-06-10",
+    "pdf": "1320-005.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/1320-005/1320-005.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "1345-003",
+    "druk": "1345",
+    "druk_title": "Poselski projekt ustawy o zawodzie psychoterapeuty oraz samorządzie zawodowym.",
+    "delivery_date": "2025-07-07",
+    "pdf": "1345-003.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/1345-003/1345-003.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "1347-002",
+    "druk": "1347",
+    "druk_title": "Poselski projekt ustawy o zmianie ustawy o wielkoobszarowych terenach zdegradowanych oraz ustawy - Prawo ochrony środowiska.",
+    "delivery_date": "2025-07-01",
+    "pdf": "1347-002.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/1347-002/1347-002.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "1348-001",
+    "druk": "1348",
+    "druk_title": "Poselski projekt ustawy o zmianie ustawy o podatku dochodowym od osób fizycznych.",
+    "delivery_date": "2025-06-20",
+    "pdf": "1348-001.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/1348-001/1348-001.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "1387-002",
+    "druk": "1387",
+    "druk_title": "Poselski projekt ustawy o zmianie ustawy o ochronie przyrody oraz niektórych innych ustaw.",
+    "delivery_date": "2025-07-16",
+    "pdf": "1387-002.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/1387-002/1387-002.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "1388-001",
+    "druk": "1388",
+    "druk_title": "Poselski projekt ustawy o zmianie ustawy - Prawo energetyczne oraz niektórych innych ustaw.",
+    "delivery_date": "2025-07-01",
+    "pdf": "1388-001.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/1388-001/1388-001.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "1389-005",
+    "druk": "1389",
+    "druk_title": "Poselski projekt ustawy o zmianie ustawy - Kodeks wyborczy.",
+    "delivery_date": "2025-07-08",
+    "pdf": "1389-005.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/1389-005/1389-005.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "1390-001",
+    "druk": "1390",
+    "druk_title": "Poselski projekt ustawy o zmianie ustawy o wstrzymaniu sprzedaży nieruchomości Zasobu Własności Rolnej Skarbu Państwa oraz o zmianie niektórych ustaw.",
+    "delivery_date": "2025-07-01",
+    "pdf": "1390-001.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/1390-001/1390-001.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "1404-005",
+    "druk": "1404",
+    "druk_title": "Poselski projekt ustawy o zmianie ustawy - Kodeks pracy oraz niektórych innych ustaw.",
+    "delivery_date": "2025-07-22",
+    "pdf": "1404-005.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/1404-005/1404-005.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "1456-001",
+    "druk": "1456",
+    "druk_title": "Poselski projekt ustawy o zmianie ustawy o wspieraniu rodziny i systemie pieczy zastępczej.",
+    "delivery_date": "2025-07-23",
+    "pdf": "1456-001.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/1456-001/1456-001.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "1456-003",
+    "druk": "1456",
+    "druk_title": "Poselski projekt ustawy o zmianie ustawy o wspieraniu rodziny i systemie pieczy zastępczej.",
+    "delivery_date": "2025-08-05",
+    "pdf": "1456-003.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/1456-003/1456-003.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "1457-011",
+    "druk": "1457",
+    "druk_title": "Poselski projekt ustawy o związkach partnerskich.",
+    "delivery_date": "2025-07-31",
+    "pdf": "1457-011.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/1457-011/1457-011.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "1458-011",
+    "druk": "1458",
+    "druk_title": "Poselski projekt ustawy - Przepisy wprowadzające ustawę o związkach partnerskich.",
+    "delivery_date": "2025-07-31",
+    "pdf": "1458-011.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/1458-011/1458-011.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "1459-001",
+    "druk": "1459",
+    "druk_title": "Poselski projekt ustawy o zmianie ustawy - o wspieraniu rodziców w aktywności zawodowej oraz w wychowaniu dziecka - \"Aktywny rodzic\".",
+    "delivery_date": "2025-07-14",
+    "pdf": "1459-001.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/1459-001/1459-001.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "1488-003",
+    "druk": "1488",
+    "druk_title": "Poselski projekt ustawy o zniesieniu opłat abonamentowych i likwidacji TVP Info.",
+    "delivery_date": "2025-08-06",
+    "pdf": "1488-003.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/1488-003/1488-003.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "1525-003",
+    "druk": "1525",
+    "druk_title": "Poselski projekt ustawy o zmianie ustawy - Prawo geodezyjne i kartograficzne.",
+    "delivery_date": "2025-08-04",
+    "pdf": "1525-003.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/1525-003/1525-003.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "1526-004",
+    "druk": "1526",
+    "druk_title": "Poselski projekt ustawy o zmianie ustawy - Prawo oświatowe.",
+    "delivery_date": "2025-08-06",
+    "pdf": "1526-004.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/1526-004/1526-004.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "1527-004",
+    "druk": "1527",
+    "druk_title": "Poselski projekt ustawy o Rzeczniku Praw Rolników.",
+    "delivery_date": "2025-08-20",
+    "pdf": "1527-004.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/1527-004/1527-004.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "1528-004",
+    "druk": "1528",
+    "druk_title": "Poselski projekt ustawy o Funduszu Transformacji Regionu Bełchatowskiego Spółce Akcyjnej.",
+    "delivery_date": "2025-08-05",
+    "pdf": "1528-004.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/1528-004/1528-004.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "1529-007",
+    "druk": "1529",
+    "druk_title": "Poselski projekt ustawy o zmianie ustawy - Kodeks wyborczy.",
+    "delivery_date": "2025-08-20",
+    "pdf": "1529-007.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/1529-007/1529-007.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "1603-008",
+    "druk": "1603",
+    "druk_title": "Obywatelski projekt ustawy o zmianie ustawy o systemie oświaty oraz ustawy - Prawo oświatowe.",
+    "delivery_date": "2025-09-16",
+    "pdf": "1603-008.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/1603-008/1603-008.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "1613-003",
+    "druk": "1613",
+    "druk_title": "Poselski projekt ustawy o zmianie ustawy - Kodeks karny.",
+    "delivery_date": "2025-09-02",
+    "pdf": "1613-003.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/1613-003/1613-003.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "1631-005",
+    "druk": "1631",
+    "druk_title": "Przedstawiony przez Prezydenta Rzeczypospolitej Polskiej projekt ustawy o zapewnieniu realizacji inwestycji Centralnego Portu Komunikacyjnego.",
+    "delivery_date": "2025-09-23",
+    "pdf": "1631-005.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/1631-005/1631-005.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "1632-003",
+    "druk": "1632",
+    "druk_title": "Przedstawiony przez Prezydenta Rzeczypospolitej Polskiej projekt ustawy o zmianie niektórych ustaw w celu ochrony polskiego rolnictwa.",
+    "delivery_date": "2025-09-24",
+    "pdf": "1632-003.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/1632-003/1632-003.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "1633-002",
+    "druk": "1633",
+    "druk_title": "Przedstawiony przez Prezydenta Rzeczypospolitej Polskiej projekt ustawy o zmianie ustawy o środkach nadzwyczajnych mających na celu ograniczenie wysokości cen energii elektrycznej oraz wsparciu niektórych odbiorców w latach 2023-2025.",
+    "delivery_date": "2025-10-13",
+    "pdf": "1633-002.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/1633-002/1633-002.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "1649-001",
+    "druk": "1649",
+    "druk_title": "Senacki projekt ustawy o zmianie ustawy o rzecznikach patentowych.",
+    "delivery_date": "2025-09-15",
+    "pdf": "1649-001.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/1649-001/1649-001.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "1650-001",
+    "druk": "1650",
+    "druk_title": "Senacki projekt ustawy o zmianie ustawy - Prawo oświatowe.",
+    "delivery_date": "2025-09-11",
+    "pdf": "1650-001.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/1650-001/1650-001.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "1651-003",
+    "druk": "1651",
+    "druk_title": "Senacki projekt ustawy o zmianie ustawy o działaczach opozycji antykomunistycznej oraz osobach represjonowanych z powodów politycznych.",
+    "delivery_date": "2025-09-15",
+    "pdf": "1651-003.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/1651-003/1651-003.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "1652-001",
+    "druk": "1652",
+    "druk_title": "Poselski projekt ustawy o likwidacji Funduszu Przeciwdziałania COVID-19.",
+    "delivery_date": "2025-09-15",
+    "pdf": "1652-001.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/1652-001/1652-001.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "1654-001",
+    "druk": "1654",
+    "druk_title": "Poselski projekt ustawy o utworzeniu Politechniki Włocławskiej.",
+    "delivery_date": "2025-09-23",
+    "pdf": "1654-001.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/1654-001/1654-001.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "1726-002",
+    "druk": "1726",
+    "druk_title": "Przedstawiony przez Prezydenta Rzeczypospolitej Polskiej projekt ustawy o zmianie ustawy o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa oraz niektórych innych ustaw.",
+    "delivery_date": "2025-10-07",
+    "pdf": "1726-002.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/1726-002/1726-002.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "1730-001",
+    "druk": "1730",
+    "druk_title": "Poselski projekt ustawy o ustanowieniu Dnia Inwalidy Wojennego.",
+    "delivery_date": "2025-10-14",
+    "pdf": "1730-001.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/1730-001/1730-001.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "1731-002",
+    "druk": "1731",
+    "druk_title": "Poselski projekt ustawy o zmianie ustawy o podatku dochodowym od osób fizycznych.",
+    "delivery_date": "2025-10-22",
+    "pdf": "1731-002.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/1731-002/1731-002.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "1732-003",
+    "druk": "1732",
+    "druk_title": "Poselski projekt ustawy o zmianie ustawy o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa.",
+    "delivery_date": "2025-10-21",
+    "pdf": "1732-003.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/1732-003/1732-003.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "1759-003",
+    "druk": "1759",
+    "druk_title": "Przedstawiony przez Prezydenta Rzeczypospolitej Polskiej projekt ustawy o zmianie ustawy o obywatelstwie polskim.",
+    "delivery_date": "2025-11-27",
+    "pdf": "1759-003.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/1759-003/1759-003.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "1760-003",
+    "druk": "1760",
+    "druk_title": "Przedstawiony przez Prezydenta Rzeczypospolitej Polskiej projekt ustawy o zmianie ustawy o Instytucie Pamięci Narodowej - Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu oraz ustawy - Kodeks karny.",
+    "delivery_date": "2025-11-26",
+    "pdf": "1760-003.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/1760-003/1760-003.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "1763-001",
+    "druk": "1763",
+    "druk_title": "Komisyjny projekt ustawy o zmianie ustawy o ograniczeniu prowadzenia działalności gospodarczej przez osoby pełniące funkcje publiczne.",
+    "delivery_date": "2025-10-22",
+    "pdf": "1763-001.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/1763-001/1763-001.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "1765-004",
+    "druk": "1765",
+    "druk_title": "Poselski projekt ustawy o zmianie ustawy o ochronie zwierząt.",
+    "delivery_date": "2025-11-28",
+    "pdf": "1765-004.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/1765-004/1765-004.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "1767-003",
+    "druk": "1767",
+    "druk_title": "Poselski projekt ustawy o zmianie ustawy o ochronie praw nabywcy lokalu mieszkalnego lub domu jednorodzinnego oraz Deweloperskim Funduszu Gwarancyjnym.",
+    "delivery_date": "2025-11-27",
+    "pdf": "1767-003.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/1767-003/1767-003.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "1808-002",
+    "druk": "1808",
+    "druk_title": "Senacki projekt ustawy o zmianie ustawy o fundacjach oraz ustawy - Prawo o stowarzyszeniach.",
+    "delivery_date": "2025-11-26",
+    "pdf": "1808-002.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/1808-002/1808-002.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "1810-003",
+    "druk": "1810",
+    "druk_title": "Poselski projekt ustawy o zmianie ustawy o wykonywaniu mandatu posła i senatora oraz ustawy o Straży Marszałkowskiej.",
+    "delivery_date": "2025-11-26",
+    "pdf": "1810-003.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/1810-003/1810-003.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "1811-004",
+    "druk": "1811",
+    "druk_title": "Poselski projekt ustawy o minimalnym wynagrodzeniu za pracę.",
+    "delivery_date": "2025-11-26",
+    "pdf": "1811-004.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/1811-004/1811-004.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "1813-002",
+    "druk": "1813",
+    "druk_title": "Poselski projekt ustawy o zmianie ustawy o radiofonii i telewizji.",
+    "delivery_date": "2025-11-27",
+    "pdf": "1813-002.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/1813-002/1813-002.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "1814-001",
+    "druk": "1814",
+    "druk_title": "Poselski projekt ustawy o zmianie ustawy o Polskiej Agencji Żeglugi Powietrznej.",
+    "delivery_date": "2025-11-27",
+    "pdf": "1814-001.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/1814-001/1814-001.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "1816-002",
+    "druk": "1816",
+    "druk_title": "Poselski projekt ustawy o zmianie ustawy o szczególnych zasadach przygotowania do realizacji inwestycji w zakresie budowli przeciwpowodziowych.",
+    "delivery_date": "2025-11-25",
+    "pdf": "1816-002.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/1816-002/1816-002.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "1839-005",
+    "druk": "1839",
+    "druk_title": "Poselski projekt ustawy o zmianie ustawy o planowaniu i zagospodarowaniu przestrzennym oraz niektórych innych ustaw.",
+    "delivery_date": "2025-11-04",
+    "pdf": "1839-005.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/1839-005/1839-005.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "1849-006",
+    "druk": "1849",
+    "druk_title": "Poselski projekt ustawy o zmianie ustawy - Prawo oświatowe oraz niektórych innych ustaw.",
+    "delivery_date": "2025-11-28",
+    "pdf": "1849-006.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/1849-006/1849-006.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "1850-003",
+    "druk": "1850",
+    "druk_title": "Poselski projekt ustawy o zmianie ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych oraz ustawy o refundacji leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych.",
+    "delivery_date": "2025-12-01",
+    "pdf": "1850-003.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/1850-003/1850-003.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "1888-002",
+    "druk": "1888",
+    "druk_title": "Poselski projekt ustawy o zmianie ustawy o obywatelstwie polskim.",
+    "delivery_date": "2025-12-01",
+    "pdf": "1888-002.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/1888-002/1888-002.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "1889-004",
+    "druk": "1889",
+    "druk_title": "Poselski projekt ustawy o zmianie ustawy o działaczach opozycji antykomunistycznej oraz osobach represjonowanych z powodów politycznych oraz niektórych innych ustaw.",
+    "delivery_date": "2025-11-27",
+    "pdf": "1889-004.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/1889-004/1889-004.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "1890-004",
+    "druk": "1890",
+    "druk_title": "Poselski projekt ustawy o zmianie ustawy o społecznych formach rozwoju mieszkalnictwa.",
+    "delivery_date": "2025-12-02",
+    "pdf": "1890-004.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/1890-004/1890-004.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "1891-001",
+    "druk": "1891",
+    "druk_title": "Poselski projekt ustawy o zmianie ustawy o obronie Ojczyzny.",
+    "delivery_date": "2025-11-28",
+    "pdf": "1891-001.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/1891-001/1891-001.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "1892-005",
+    "druk": "1892",
+    "druk_title": "Poselski projekt ustawy o zmianie ustawy - Kodeks postępowania cywilnego i niektórych innych ustaw.",
+    "delivery_date": "2025-12-12",
+    "pdf": "1892-005.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/1892-005/1892-005.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "1893-003",
+    "druk": "1893",
+    "druk_title": "Poselski projekt ustawy o zmianie ustawy o broni i amunicji.",
+    "delivery_date": "2025-12-03",
+    "pdf": "1893-003.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/1893-003/1893-003.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "1894-001",
+    "druk": "1894",
+    "druk_title": "Poselski projekt ustawy o zmianie ustawy o Straży Marszałkowskiej oraz ustawy o podatku dochodowym od osób fizycznych.",
+    "delivery_date": "2025-12-01",
+    "pdf": "1894-001.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/1894-001/1894-001.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "1898-001",
+    "druk": "1898",
+    "druk_title": "Przedstawiony przez Prezydenta Rzeczypospolitej Polskiej projekt ustawy o zmianie ustawy o podatku dochodowym od osób fizycznych oraz niektórych innych ustaw.",
+    "delivery_date": "2025-12-01",
+    "pdf": "1898-001.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/1898-001/1898-001.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "1899-003",
+    "druk": "1899",
+    "druk_title": "Poselski projekt ustawy o zmianie ustawy o podatku od czynności cywilnoprawnych.",
+    "delivery_date": "2025-12-09",
+    "pdf": "1899-003.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/1899-003/1899-003.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "1931-001",
+    "druk": "1931",
+    "druk_title": "Poselski projekt ustawy o zmianie ustawy o broni i amunicji.",
+    "delivery_date": "2025-11-27",
+    "pdf": "1931-001.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/1931-001/1931-001.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "1933-008",
+    "druk": "1933",
+    "druk_title": "Poselski projekt ustawy o asystencji osobistej osób z niepełnosprawnościami.",
+    "delivery_date": "2025-12-08",
+    "pdf": "1933-008.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/1933-008/1933-008.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "1939-001",
+    "druk": "1939",
+    "druk_title": "Poselski projekt ustawy o zmianie ustawy - Prawo o ruchu drogowym oraz ustawy o kierujących pojazdami.",
+    "delivery_date": "2025-12-10",
+    "pdf": "1939-001.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/1939-001/1939-001.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "1940-003",
+    "druk": "1940",
+    "druk_title": "Poselski projekt ustawy o zmianie ustawy o systemie ubezpieczeń społecznych.",
+    "delivery_date": "2025-12-08",
+    "pdf": "1940-003.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/1940-003/1940-003.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "1941-004",
+    "druk": "1941",
+    "druk_title": "Poselski projekt ustawy o zmianie ustawy - Prawo wodne.",
+    "delivery_date": "2025-12-05",
+    "pdf": "1941-004.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/1941-004/1941-004.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "1942-001",
+    "druk": "1942",
+    "druk_title": "Poselski projekt ustawy o zmianie ustawy o stosunku Państwa do Kościoła Katolickiego w Rzeczypospolitej Polskiej.",
+    "delivery_date": "2025-11-26",
+    "pdf": "1942-001.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/1942-001/1942-001.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "1945-001",
+    "druk": "1945",
+    "druk_title": "Poselski projekt ustawy o zmianie ustawy - Karta Nauczyciela.",
+    "delivery_date": "2025-11-18",
+    "pdf": "1945-001.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/1945-001/1945-001.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "1956-006",
+    "druk": "1956",
+    "druk_title": "Przedstawiony przez Prezydenta Rzeczypospolitej Polskiej projekt ustawy o zmianie ustawy o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych oraz niektórych innych ustaw.",
+    "delivery_date": "2025-12-29",
+    "pdf": "1956-006.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/1956-006/1956-006.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "1962-004",
+    "druk": "1962",
+    "druk_title": "Komisyjny projekt ustawy o zmianie ustawy - Prawo o adwokaturze.",
+    "delivery_date": "2025-12-09",
+    "pdf": "1962-004.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/1962-004/1962-004.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "1963-005",
+    "druk": "1963",
+    "druk_title": "Komisyjny projekt ustawy o zmianie ustawy o radcach prawnych.",
+    "delivery_date": "2025-12-05",
+    "pdf": "1963-005.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/1963-005/1963-005.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "1964-004",
+    "druk": "1964",
+    "druk_title": "Poselski projekt ustawy o Karcie Rodziny Mundurowej.",
+    "delivery_date": "2025-12-15",
+    "pdf": "1964-004.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/1964-004/1964-004.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "2002-001",
+    "druk": "2002",
+    "druk_title": "Senacki projekt ustawy o zmianie ustawy o języku polskim.",
+    "delivery_date": "2025-12-31",
+    "pdf": "2002-001.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/2002-001/2002-001.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "2003-002",
+    "druk": "2003",
+    "druk_title": "Senacki projekt ustawy o  zmianie ustawy o obronie Ojczyzny.",
+    "delivery_date": "2025-12-29",
+    "pdf": "2003-002.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/2003-002/2003-002.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "2004-002",
+    "druk": "2004",
+    "druk_title": "Poselski projekt ustawy o zmianie ustawy o Krajowym Ośrodku Wsparcia Rolnictwa.",
+    "delivery_date": "2025-12-31",
+    "pdf": "2004-002.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/2004-002/2004-002.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "2005-009",
+    "druk": "2005",
+    "druk_title": "Poselski projekt ustawy o zmianie ustawy o finansowaniu zadań oświatowych.",
+    "delivery_date": "2025-12-18",
+    "pdf": "2005-009.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/2005-009/2005-009.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "2006-003",
+    "druk": "2006",
+    "druk_title": "Poselski projekt ustawy o zmianie ustawy - Kodeks wyborczy.",
+    "delivery_date": "2025-12-17",
+    "pdf": "2006-003.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/2006-003/2006-003.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "2007-001",
+    "druk": "2007",
+    "druk_title": "Poselski projekt ustawy o zmianie ustawy o wychowaniu w trzeźwości i przeciwdziałaniu alkoholizmowi oraz ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych.",
+    "delivery_date": "2025-12-01",
+    "pdf": "2007-001.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/2007-001/2007-001.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "2010-002",
+    "druk": "2010",
+    "druk_title": "Poselski projekt ustawy o zmianie ustawy o wychowaniu w trzeźwości i przeciwdziałaniu alkoholizmowi oraz ustawy o radiofonii i telewizji.",
+    "delivery_date": "2025-12-01",
+    "pdf": "2010-002.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/2010-002/2010-002.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "2029-001",
+    "druk": "2029",
+    "druk_title": "Komisyjny projekt ustawy o zmianie ustawy o wykonywaniu mandatu posła i senatora.",
+    "delivery_date": "2026-01-13",
+    "pdf": "2029-001.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/2029-001/2029-001.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "2030-001",
+    "druk": "2030",
+    "druk_title": "Poselski projekt ustawy o zadośćuczynieniu ofiarom i rodzinom ofiar przestępstw popełnionych na tle narodowościowym, religijnym lub rasowym w latach 1945-1946.",
+    "delivery_date": "2025-12-16",
+    "pdf": "2030-001.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/2030-001/2030-001.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "2031-003",
+    "druk": "2031",
+    "druk_title": "Poselski projekt ustawy o zmianie ustawy o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych.",
+    "delivery_date": "2026-01-13",
+    "pdf": "2031-003.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/2031-003/2031-003.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "2032-005",
+    "druk": "2032",
+    "druk_title": "Poselski projekt ustawy o zmianie ustawy o organizowaniu i prowadzeniu działalności kulturalnej.",
+    "delivery_date": "2026-01-12",
+    "pdf": "2032-005.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/2032-005/2032-005.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "2033-002",
+    "druk": "2033",
+    "druk_title": "Poselski projekt ustawy o zmianie ustawy o podatkach i opłatach lokalnych oraz ustawy o dochodach jednostek samorządu terytorialnego.",
+    "delivery_date": "2025-12-31",
+    "pdf": "2033-002.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/2033-002/2033-002.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "2034-001",
+    "druk": "2034",
+    "druk_title": "Poselski projekt ustawy o Prezydencie Elekcie Rzeczypospolitej Polskiej, ochronie kandydatów na urząd Prezydenta oraz statusie Małżonka Prezydenta.",
+    "delivery_date": "2025-12-29",
+    "pdf": "2034-001.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/2034-001/2034-001.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "2063-003",
+    "druk": "2063",
+    "druk_title": "Senacki projekt ustawy o zmianie ustawy o transporcie kolejowym.",
+    "delivery_date": "2025-12-17",
+    "pdf": "2063-003.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/2063-003/2063-003.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "2080-001",
+    "druk": "2080",
+    "druk_title": "Senacki projekt ustawy o zmianie ustawy - Kodeks wyborczy oraz ustawy o zmianie niektórych ustaw w celu zwiększenia udziału obywateli w procesie wybierania, funkcjonowania i kontrolowania niektórych organów publicznych.",
+    "delivery_date": "2026-01-20",
+    "pdf": "2080-001.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/2080-001/2080-001.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "2082-002",
+    "druk": "2082",
+    "druk_title": "Poselski projekt ustawy o uznaniu osobowości prawnej rzeki Odry.",
+    "delivery_date": "2026-01-08",
+    "pdf": "2082-002.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/2082-002/2082-002.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "2102-001",
+    "druk": "2102",
+    "druk_title": "Poselski projekt ustawy o zmianie ustawy o samorządzie gminnym.",
+    "delivery_date": "2026-01-13",
+    "pdf": "2102-001.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/2102-001/2102-001.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "2126-001",
+    "druk": "2126",
+    "druk_title": "Senacki projekt ustawy o zmianie ustawy o referendum lokalnym.",
+    "delivery_date": "2026-01-23",
+    "pdf": "2126-001.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/2126-001/2126-001.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "2127-003",
+    "druk": "2127",
+    "druk_title": "Poselski projekt ustawy o zmianie ustawy o podatkach i opłatach lokalnych oraz ustawy o dochodach jednostek samorządu terytorialnego.",
+    "delivery_date": "2026-01-27",
+    "pdf": "2127-003.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/2127-003/2127-003.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "2128-001",
+    "druk": "2128",
+    "druk_title": "Poselski projekt ustawy o zmianie ustawy o ochronie przyrody.",
+    "delivery_date": "2026-01-19",
+    "pdf": "2128-001.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/2128-001/2128-001.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "2129-002",
+    "druk": "2129",
+    "druk_title": "Poselski projekt ustawy o klubach seniora.",
+    "delivery_date": "2026-01-22",
+    "pdf": "2129-002.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/2129-002/2129-002.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "2130-001",
+    "druk": "2130",
+    "druk_title": "Poselski projekt ustawy o zmianie ustawy o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych oraz niektórych innych ustaw.",
+    "delivery_date": "2026-01-20",
+    "pdf": "2130-001.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/2130-001/2130-001.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "2144-002",
+    "druk": "2144",
+    "druk_title": "Poselski projekt ustawy o zmianie ustawy - Prawo łowieckie.",
+    "delivery_date": "2026-02-10",
+    "pdf": "2144-002.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/2144-002/2144-002.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "2165-007",
+    "druk": "2165",
+    "druk_title": "Poselski projekt ustawy o zmianie ustawy o zbiorowym zaopatrzeniu w wodę i zbiorowym odprowadzaniu ścieków oraz niektórych innych ustaw.",
+    "delivery_date": "2026-02-10",
+    "pdf": "2165-007.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/2165-007/2165-007.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "2196-001",
+    "druk": "2196",
+    "druk_title": "Poselski projekt ustawy o zmianie ustawy o lasach oraz ustawy o ochronie przyrody.",
+    "delivery_date": "2026-01-27",
+    "pdf": "2196-001.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/2196-001/2196-001.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "2197-003",
+    "druk": "2197",
+    "druk_title": "Poselski projekt ustawy o zmianie ustawy o podatkach i opłatach lokalnych oraz ustawy o dochodach jednostek samorządu terytorialnego.",
+    "delivery_date": "2026-02-23",
+    "pdf": "2197-003.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/2197-003/2197-003.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "2198-002",
+    "druk": "2198",
+    "druk_title": "Poselski projekt ustawy o zmianie ustawy o dochodach jednostek samorządu terytorialnego.",
+    "delivery_date": "2026-02-23",
+    "pdf": "2198-002.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/2198-002/2198-002.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "2208-005",
+    "druk": "2208",
+    "druk_title": "Poselski projekt ustawy o zmianie ustawy - Kodeks karny.",
+    "delivery_date": "2026-03-13",
+    "pdf": "2208-005.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/2208-005/2208-005.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "2210-003",
+    "druk": "2210",
+    "druk_title": "Poselski projekt ustawy o zmianie ustawy - Kodeks karny.",
+    "delivery_date": "2026-03-09",
+    "pdf": "2210-003.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/2210-003/2210-003.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "2211-001",
+    "druk": "2211",
+    "druk_title": "Poselski projekt ustawy o zmianie Konstytucji Rzeczypospolitej Polskiej.",
+    "delivery_date": "2026-02-24",
+    "pdf": "2211-001.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/2211-001/2211-001.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "2212-001",
+    "druk": "2212",
+    "druk_title": "Poselski projekt ustawy o zmianie ustawy - Kodeks karny oraz ustawy - Kodeks wykroczeń.",
+    "delivery_date": "2026-02-24",
+    "pdf": "2212-001.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/2212-001/2212-001.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "2223-002",
+    "druk": "2223",
+    "druk_title": "Poselski projekt ustawy o zmianie ustawy o zmianie ustawy o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi oraz niektórych innych ustaw oraz o zmianie ustawy - Prawo wodne.",
+    "delivery_date": "2026-02-25",
+    "pdf": "2223-002.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/2223-002/2223-002.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "2245-001",
+    "druk": "2245",
+    "druk_title": "Poselski projekt ustawy o zmianie ustawy o publicznym transporcie zbiorowym.",
+    "delivery_date": "2026-02-24",
+    "pdf": "2245-001.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/2245-001/2245-001.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "2270-001",
+    "druk": "2270",
+    "druk_title": "Przedstawiony przez Prezydenta Rzeczypospolitej Polskiej projekt ustawy o zmianie ustawy o ochronie zwierząt.",
+    "delivery_date": "2026-02-25",
+    "pdf": "2270-001.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/2270-001/2270-001.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "2274-001",
+    "druk": "2274",
+    "druk_title": "Poselski projekt ustawy o zmianie ustawy o ochronie zwierząt.",
+    "delivery_date": "2026-02-26",
+    "pdf": "2274-001.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/2274-001/2274-001.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "2320-007",
+    "druk": "2320",
+    "druk_title": "Poselski projekt ustawy o zmianie ustawy o ubezpieczeniach obowiązkowych, Ubezpieczeniowym Funduszu Gwarancyjnym i Polskim Biurze Ubezpieczycieli Komunikacyjnych oraz o ochronie przeciwpożarowej.",
+    "delivery_date": "2026-03-25",
+    "pdf": "2320-007.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/2320-007/2320-007.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "2321-004",
+    "druk": "2321",
+    "druk_title": "Poselski projekt ustawy o zmianie ustawy o podatku od towarów i usług.",
+    "delivery_date": "2026-03-26",
+    "pdf": "2321-004.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/2321-004/2321-004.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "2322-001",
+    "druk": "2322",
+    "druk_title": "Poselski projekt ustawy o ochronie strategicznych obiektów sportowych.",
+    "delivery_date": "2026-03-24",
+    "pdf": "2322-001.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/2322-001/2322-001.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "2353-002",
+    "druk": "2353",
+    "druk_title": "Poselski projekt ustawy o najmie krótkoterminowym.",
+    "delivery_date": "2026-04-03",
+    "pdf": "2353-002.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/2353-002/2353-002.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "2353-A-002",
+    "druk": "2353-A",
+    "druk_title": "Autopoprawka do poselskiego projektu ustawy o najmie krótkoterminowym.",
+    "delivery_date": "2026-04-03",
+    "pdf": "2353-A-002.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/2353-A-002/2353-A-002.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "2358-001",
+    "druk": "2358",
+    "druk_title": "Poselski projekt ustawy o zmianie ustawy o wychowaniu w trzeźwości i przeciwdziałaniu alkoholizmowi.",
+    "delivery_date": "2026-03-26",
+    "pdf": "2358-001.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/2358-001/2358-001.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "2359-004",
+    "druk": "2359",
+    "druk_title": "Poselski projekt ustawy o zmianie ustawy o podatku od towarów i usług.",
+    "delivery_date": "2026-04-13",
+    "pdf": "2359-004.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/2359-004/2359-004.pdf",
+    "ocr": {
+      "applevision": true,
+      "deepseek": true,
+      "canonical": true
+    },
+    "pages": 16,
+    "chars": 47686,
+    "merge_stats": {
+      "vision_only_runs": 18,
+      "garbage_dropped": 1
+    }
+  },
+  {
+    "id": "2360-001",
+    "druk": "2360",
+    "druk_title": "Komisyjny projekt ustawy o zmianie ustawy o mniejszościach narodowych i etnicznych oraz o języku regionalnym.",
+    "delivery_date": "2026-04-13",
+    "pdf": "2360-001.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/2360-001/2360-001.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "2373-001",
+    "druk": "2373",
+    "druk_title": "Senacki projekt ustawy o zmianie ustawy o sejmowej komisji śledczej.",
+    "delivery_date": "2026-04-21",
+    "pdf": "2373-001.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/2373-001/2373-001.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "2374-001",
+    "druk": "2374",
+    "druk_title": "Poselski projekt ustawy o zmianie ustawy o ochronie przyrody.",
+    "delivery_date": "2026-04-09",
+    "pdf": "2374-001.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/2374-001/2374-001.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "2393-001",
+    "druk": "2393",
+    "druk_title": "Przedstawiony przez Prezydenta Rzeczypospolitej Polskiej projekt ustawy o zmianie niektórych ustaw w celu obniżenia kosztów energii elektrycznej oraz finansowaniu systemów wsparcia energetyki ze środków z handlu uprawnieniami do emisji CO2.",
+    "delivery_date": "2026-04-09",
+    "pdf": "2393-001.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/2393-001/2393-001.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "2394-001",
+    "druk": "2394",
+    "druk_title": "Przedstawiony przez Prezydenta Rzeczypospolitej Polskiej projekt ustawy o rozwoju portów morskich o podstawowym znaczeniu dla gospodarki narodowej oraz o zmianie niektórych innych ustaw.",
+    "delivery_date": "2026-04-08",
+    "pdf": "2394-001.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/2394-001/2394-001.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "2396-006",
+    "druk": "2396",
+    "druk_title": "Poselski projekt ustawy o zmianie ustawy o podatku akcyzowym oraz niektórych innych ustaw.",
+    "delivery_date": "2026-04-09",
+    "pdf": "2396-006.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/2396-006/2396-006.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "2412-001",
+    "druk": "2412",
+    "druk_title": "Komisyjny projekt ustawy o zmianie ustawy o imprezach turystycznych i powiązanych usługach turystycznych.",
+    "delivery_date": "2026-04-27",
+    "pdf": "2412-001.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/2412-001/2412-001.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "2413-002",
+    "druk": "2413",
+    "druk_title": "Poselski projekt ustawy o zmianie ustawy o podatku od towarów i usług.",
+    "delivery_date": "2026-05-08",
+    "pdf": "2413-002.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/2413-002/2413-002.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "2415-001",
+    "druk": "2415",
+    "druk_title": "Poselski projekt ustawy o zmianie ustawy o pomocy społecznej.",
+    "delivery_date": "2026-05-11",
+    "pdf": "2415-001.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/2415-001/2415-001.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "2416-001",
+    "druk": "2416",
+    "druk_title": "Poselski projekt ustawy o zmianie ustawy - Kodeks pracy oraz ustawy o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa.",
+    "delivery_date": "2026-05-05",
+    "pdf": "2416-001.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/2416-001/2416-001.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "2447-002",
+    "druk": "2447",
+    "druk_title": "Poselski projekt ustawy o zmianie ustawy o ochronie praw lokatorów, mieszkaniowym zasobie gminy i o zmianie Kodeksu cywilnego oraz niektórych innych ustaw.",
+    "delivery_date": "2026-04-28",
+    "pdf": "2447-002.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/2447-002/2447-002.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "2452-003",
+    "druk": "2452",
+    "druk_title": "Poselski projekt ustawy o zmianie ustawy o wykonywaniu inicjatywy ustawodawczej przez obywateli oraz ustawy - Kodeks wyborczy.",
+    "delivery_date": "2026-05-18",
+    "pdf": "2452-003.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/2452-003/2452-003.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "2468-006",
+    "druk": "2468",
+    "druk_title": "Poselski projekt ustawy o zmianie ustawy o ochronie praw nabywcy lokalu mieszkalnego lub domu jednorodzinnego oraz Deweloperskim Funduszu Gwarancyjnym.",
+    "delivery_date": "2026-05-26",
+    "pdf": "2468-006.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/2468-006/2468-006.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "2527-008",
+    "druk": "2527",
+    "druk_title": "Poselski projekt ustawy o rynku kryptoaktywów.",
+    "delivery_date": "2026-05-12",
+    "pdf": "2527-008.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/2527-008/2527-008.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "2530-002",
+    "druk": "2530",
+    "druk_title": "Poselski projekt ustawy o kryptoaktywach.",
+    "delivery_date": "2026-05-12",
+    "pdf": "2530-002.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/2530-002/2530-002.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "2551-001",
+    "druk": "2551",
+    "druk_title": "Poselski projekt ustawy o zmianie ustawy o drogach publicznych.",
+    "delivery_date": "2026-05-22",
+    "pdf": "2551-001.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/2551-001/2551-001.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "2552-001",
+    "druk": "2552",
+    "druk_title": "Poselski projekt ustawy o zmianie ustawy o drogach publicznych oraz o zmianie niektórych innych ustaw.",
+    "delivery_date": "2026-05-19",
+    "pdf": "2552-001.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/2552-001/2552-001.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "2553-001",
+    "druk": "2553",
+    "druk_title": "Poselski projekt ustawy o zmianie ustawy o dowodach osobistych.",
+    "delivery_date": "2026-05-19",
+    "pdf": "2553-001.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/2553-001/2553-001.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "2600-001",
+    "druk": "2600",
+    "druk_title": "Poselski projekt ustawy o zmianie ustawy o ochotniczych strażach pożarnych.",
+    "delivery_date": "2026-06-25",
+    "pdf": "2600-001.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/2600-001/2600-001.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "2601-004",
+    "druk": "2601",
+    "druk_title": "Poselski projekt ustawy o zmianie niektórych ustaw w związku z rozszerzeniem zakresu oświadczenia o stanie majątkowym.",
+    "delivery_date": "2026-06-24",
+    "pdf": "2601-004.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/2601-004/2601-004.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "2601-001",
+    "druk": "2602",
+    "druk_title": "Obywatelski projekt ustawy o ochronie bezpieczeństwa wewnętrznego w związku z realizacją polityki migracyjnej Unii Europejskiej.",
+    "delivery_date": "2026-06-23",
+    "pdf": "2602-001.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/2601-001/2602-001.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "2603-001",
+    "druk": "2603",
+    "druk_title": "Poselski projekt ustawy o zespołach ludowych.",
+    "delivery_date": "2026-06-05",
+    "pdf": "2603-001.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/2603-001/2603-001.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "2621-002",
+    "druk": "2621",
+    "druk_title": "Poselski projekt ustawy o zmianie ustawy o prawach pacjenta i Rzeczniku Praw Pacjenta.",
+    "delivery_date": "2026-06-30",
+    "pdf": "2621-002.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/2621-002/2621-002.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "2622-002",
+    "druk": "2622",
+    "druk_title": "Poselski projekt ustawy o zmianie ustawy - Prawo energetyczne.",
+    "delivery_date": "2026-06-29",
+    "pdf": "2622-002.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/2622-002/2622-002.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "2647-002",
+    "druk": "2647",
+    "druk_title": "Komisyjny projekt ustawy o zmianie ustawy o sporcie.",
+    "delivery_date": "2026-06-29",
+    "pdf": "2647-002.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/2647-002/2647-002.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "2648-002",
+    "druk": "2648",
+    "druk_title": "Poselski projekt ustawy o zmianie ustawy - Prawo wodne.",
+    "delivery_date": "2026-06-30",
+    "pdf": "2648-002.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/2648-002/2648-002.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "2649-004",
+    "druk": "2649",
+    "druk_title": "Poselski projekt ustawy o zmianie ustawy o samorządzie gminnym.",
+    "delivery_date": "2026-06-30",
+    "pdf": "2649-004.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/2649-004/2649-004.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "2669-003",
+    "druk": "2669",
+    "druk_title": "Senacki projekt ustawy o zmianie ustawy o samorządach zawodowych architektów oraz inżynierów budownictwa oraz ustawy - Prawo budowlane.",
+    "delivery_date": "2026-07-06",
+    "pdf": "2669-003.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/2669-003/2669-003.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "2670-004",
+    "druk": "2670",
+    "druk_title": "Senacki projekt ustawy o zmianie ustawy - Kodeks wyborczy oraz ustawy o referendum lokalnym.",
+    "delivery_date": "2026-07-07",
+    "pdf": "2670-004.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/2670-004/2670-004.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "2671-001",
+    "druk": "2671",
+    "druk_title": "Poselski projekt ustawy o zmianie ustawy o sporcie.",
+    "delivery_date": "2026-06-22",
+    "pdf": "2671-001.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/2671-001/2671-001.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "2672-001",
+    "druk": "2672",
+    "druk_title": "Poselski projekt ustawy o zmianie ustawy o przeciwdziałaniu narkomanii.",
+    "delivery_date": "2026-06-23",
+    "pdf": "2672-001.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/2672-001/2672-001.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "2673-001",
+    "druk": "2673",
+    "druk_title": "Poselski projekt ustawy o systemie ochrony zdrowia oraz o zmianie niektórych innych ustaw.",
+    "delivery_date": "2026-06-19",
+    "pdf": "2673-001.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/2673-001/2673-001.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "2674-002",
+    "druk": "2674",
+    "druk_title": "Poselski projekt ustawy o zmianie ustawy - Prawo o szkolnictwie wyższym i nauce.",
+    "delivery_date": "2026-07-08",
+    "pdf": "2674-002.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/2674-002/2674-002.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "2701-001",
+    "druk": "2701",
+    "druk_title": "Komisyjny projekt ustawy o zmianie ustawy o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych.",
+    "delivery_date": "2026-07-09",
+    "pdf": "2701-001.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/2701-001/2701-001.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "2702-002",
+    "druk": "2702",
+    "druk_title": "Poselski projekt ustawy o zmianie ustawy o rynku pracy i służbach zatrudnienia.",
+    "delivery_date": "2026-07-09",
+    "pdf": "2702-002.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/2702-002/2702-002.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "2704-002",
+    "druk": "2704",
+    "druk_title": "Poselski projekt ustawy o zmianie ustawy - Kodeks wyborczy.",
+    "delivery_date": "2026-07-15",
+    "pdf": "2704-002.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/2704-002/2704-002.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "2705-002",
+    "druk": "2705",
+    "druk_title": "Poselski projekt ustawy o zmianie ustawy - Kodeks wyborczy oraz ustawy o zmianie ustawy - Kodeks wyborczy.",
+    "delivery_date": "2026-07-09",
+    "pdf": "2705-002.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/2705-002/2705-002.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "2706-001",
+    "druk": "2706",
+    "druk_title": "Poselski projekt ustawy o zmianie ustawy - Kodeks rodzinny i opiekuńczy.",
+    "delivery_date": "2026-07-16",
+    "pdf": "2706-001.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/2706-001/2706-001.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "2721-002",
+    "druk": "2721",
+    "druk_title": "Komisyjny projekt ustawy o zmianie ustawy o dostępie do informacji publicznej i ustawy o petycjach.",
+    "delivery_date": "2026-07-16",
+    "pdf": "2721-002.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/2721-002/2721-002.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "2722-002",
+    "druk": "2722",
+    "druk_title": "Komisyjny projekt ustawy o zmianie ustawy - Kodeks wyborczy.",
+    "delivery_date": "2026-07-16",
+    "pdf": "2722-002.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/2722-002/2722-002.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "2723-004",
+    "druk": "2723",
+    "druk_title": "Poselski projekt ustawy o zmianie ustawy o ochronie konkurencji i konsumentów.",
+    "delivery_date": "2026-07-09",
+    "pdf": "2723-004.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/2723-004/2723-004.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "2724-001",
+    "druk": "2724",
+    "druk_title": "Poselski projekt ustawy o zmianie ustawy o podatku od towarów i usług  oraz niektórych innych ustaw.",
+    "delivery_date": "2026-06-29",
+    "pdf": "2724-001.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/2724-001/2724-001.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "2745-002",
+    "druk": "2745",
+    "druk_title": "Poselski projekt ustawy o zmianie ustawy o samorządzie gminnym oraz niektórych innych ustaw.",
+    "delivery_date": "2026-07-21",
+    "pdf": "2745-002.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/2745-002/2745-002.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "2746-001",
+    "druk": "2746",
+    "druk_title": "Poselski projekt ustawy o zmianie ustawy - Kodeks postępowania karnego.",
+    "delivery_date": "2026-07-10",
+    "pdf": "2746-001.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/2746-001/2746-001.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "2749-001",
+    "druk": "2749",
+    "druk_title": "Poselski projekt ustawy o zmianie niektórych ustaw w celu zachowania i rozwoju śląskiego etnolektu języka polskiego - \"godki śląskiej\".",
+    "delivery_date": "2026-07-09",
+    "pdf": "2749-001.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/2749-001/2749-001.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "2750-001",
+    "druk": "2750",
+    "druk_title": "Komisyjny projekt ustawy zmieniającej ustawę o zmianie ustawy - Prawo energetyczne oraz niektórych innych ustaw.",
+    "delivery_date": "2026-07-07",
+    "pdf": "2750-001.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/2750-001/2750-001.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "2769-001",
+    "druk": "2769",
+    "druk_title": "Senacki projekt ustawy o organach właściwych i postępowaniach w sprawach reklamy politycznej oraz odpowiedzialności za naruszenie obowiązków w tych sprawach.",
+    "delivery_date": "2026-07-14",
+    "pdf": "2769-001.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/2769-001/2769-001.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "2772-001",
+    "druk": "2772",
+    "druk_title": "Poselski projekt ustawy o zmianie ustawy - Kodeks wyborczy.",
+    "delivery_date": "2026-07-21",
+    "pdf": "2772-001.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/2772-001/2772-001.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  },
+  {
+    "id": "2804-001",
+    "druk": "2804",
+    "druk_title": "Poselski projekt ustawy o zmianie ustawy o szczególnych rozwiązaniach dotyczących regulacji stanu prawnego niektórych dróg ogólnodostępnych.",
+    "delivery_date": "2026-07-21",
+    "pdf": "2804-001.pdf",
+    "url": "https://api.sejm.gov.pl/sejm/term10/prints/2804-001/2804-001.pdf",
+    "ocr": {
+      "applevision": false,
+      "deepseek": false,
+      "canonical": false
+    },
+    "pages": null,
+    "chars": null
+  }
+]

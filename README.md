@@ -327,3 +327,24 @@ Rozważane alternatywy:
   rozpoznanego tekstu.
 - **tesseract/ocrmypdf** — darmowe i lokalne, ale jakość polskiego druku
   słabsza od Vision i DeepSeek.
+
+## Zbiór do analiz (wersja kanoniczna, katalog, korpus)
+
+Skrypt `OCR/build_dataset.py` (czysta biblioteka standardowa) składa z obu
+silników OCR gotowy do badań zbiór danych:
+
+- **`OCR/Canonical/{id}.md`** — kanoniczny tekst dokumentu: baza z DeepSeek
+  (lepsze glify i struktura), a fragmenty pominięte przez DeepSeek — pieczątki,
+  nagłówki "Do druku nr", **całe bloki przypisów** — odzyskane z Apple Vision
+  i wstawione jako linie `> [Vision]: …` (diff słowny, filtr odsiewa śmieci
+  z wykresów). Znaczniki `--- page N ---` zachowane.
+- **`OCR/catalog.json`** — rekord dla każdego z 265 druków OSR: id, druk,
+  tytuł, data wpływu, dostępne wersje OCR, liczba stron/znaków. Punkt startowy
+  każdej analizy.
+- **`OCR/corpus.jsonl`** — rekord na **sekcję** dokumentu. Opinie BEOS mają
+  stały szablon (I. Problem … X. Zmiana obciążeń administracyjnych), więc
+  pytania przekrojowe ("porównaj sekcję IV we wszystkich opiniach") to jeden
+  grep/jq zamiast czytania całych plików. Na 3 przetestowanych dokumentach
+  szablon wykrywa się w całości (sekcje 0 + I–X).
+
+Wskazówki dla agentów AI pracujących z repozytorium: `CLAUDE.md`.
