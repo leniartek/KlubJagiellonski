@@ -296,16 +296,34 @@ zrzuty wykresów wklejone w dokumenty (np. `1006-003` s. 17) nieczytelne;
 sporadyczne pomyłki znaków (cyrylickie "г." zamiast "r.", "ga" zamiast "9a",
 "Il" zamiast "II").
 
+Oprócz `.txt` powstają też **PDF-y z przeszukiwalną warstwą tekstową**
+(`OCR/AppleVision/Results/*.pdf`): oryginalny skan pozostaje nietknięty,
+a niewidoczna warstwa tekstu (tryb renderowania 3) pozwala zaznaczać,
+kopiować i przeszukiwać tekst w każdej przeglądarce PDF — pipeline
+`applevision_boxes.swift` + `make_searchable.py` (narzut ~0,7–0,8 MB/plik).
+
+**Druga wersja: DeepSeek-OCR** (katalog [`OCR/DeepSeekOCR/`](OCR/DeepSeekOCR/))
+— otwarty model ~3B uruchamiany w całości lokalnie przez mlx-vlm
+(kwantyzacja 8-bit, ~5,5 GB RAM, ~9 s/stronę na M3). Wyjście w Markdown
+z zachowaną strukturą (nagłówki). Porównanie na tych samych 3 plikach:
+
+- czytelniejszy od Vision na trudnych miejscach: poprawne "II."/"9a" tam,
+  gdzie Vision daje "Il"/"ga"; zamiast śmieci z wykresów — poprawnie odczytany
+  podpis i pominięta grafika;
+- **ale potrafi po cichu pomijać fragmenty**: we wszystkich 3 plikach zgubił
+  blok nagłówkowy "Do druku nr ..." i pieczątki wpływu, które Vision
+  (nieporadnie, ale) rejestruje. Do ekstrakcji danych bezpieczniej łączyć
+  obie wersje.
+
 Rozważane alternatywy:
 
 - **Mistral OCR 4** (API) — najlepsza jakość na rynku (szczególnie tabele,
   wyjście w Markdown), $4/1000 stron ($2 w trybie batch) → cały korpus
   ~$11–22. Model **nie jest open source** — self-hosting tylko w licencji
-  enterprise. Opcja, gdyby jakość Apple Vision okazała się niewystarczająca.
+  enterprise. Opcja, gdyby jakość lokalnych silników okazała się
+  niewystarczająca.
 - **Bielik** (SpeakLeash) — to wyłącznie tekstowy LLM, **nie ma modelu
   OCR/wizyjnego** — może służyć co najwyżej do post-processingu
   rozpoznanego tekstu.
-- **tesseract/ocrmypdf** — darmowe i lokalne, jedyna droga do PDF-ów
-  z przeszukiwalną warstwą tekstową "z pudełka", ale jakość polskiego druku
-  słabsza od Vision; otwarte modele wizyjne (DeepSeek-OCR, olmOCR 2) —
-  lokalnie na Macu wolne, jakość tabel poniżej Mistrala.
+- **tesseract/ocrmypdf** — darmowe i lokalne, ale jakość polskiego druku
+  słabsza od Vision i DeepSeek.
