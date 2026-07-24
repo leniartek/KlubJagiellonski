@@ -1,0 +1,720 @@
+--- page 1 ---
+Do druku nr 999
+BIURO EKSPERTYZI OCENY SKUTKÓW REGULACII
+SEIM	KANCELARII SEJMU
+RLECZYPOSPOLIFE POLSKIE]
+Warszawa, 5 lutego 2025 r.
+BEOS-2776/24
+Pan
+Szymon Hołownia
+Marszałek Sejmu
+Rzeczypospolitej Polskiej
+Opinia w sprawie oceny skutków regulacji poselskiego projektu ustawy
+o zmianie ustawy o odnawialnych źródłach energii
+(druk sejmowy nr 999)
+Na podstawie art. 34 ust. 9a uchwały Sejmu Rzeczypospolitej Polskiej z dnia 30 lipca 1992 r.
+- Regulamin Sejmu Rzeczypospolitej Polskiej (Monitor Polski z 2022 r. poz. 990, ze zmianami)
+sporządza się następującą opinię:
+I. Problem, który zamierzają rozwiązać Wnioskodawcy
+Zgodnie z uzasadnieniem projektu i deklarowanymi skutkami regulacji (DSR)
+podstawowym problemem, którego rozwiązaniu stuży proponowana ustawa, jest
+niewykorzystywanie w Polsce potencjału wytwarzania biometanu, który może służyć
+do produkcji energii elektrycznej i ciepła, a posrednio również do produkcji nawozów.
+W ocenie Wnioskodawców „jedną z kluczowych barier dla rozwoju sektora
+biometanu w Polsce jest charakterystyka sieci dystrybucyjnych". Twierdzą oni, że
+„w wielu przypadkach konieczne jest dostosowanie jakości biometanu przed
+zataczaniem do sieci", co obecnie jest utrudnione z powodu braku możliwości
+dodawania innego gazu do biometanu.
+II. Rozwiązanie rekomendowane przez Wnioskodawców
+Rozwiązanie problemów zidentyfikowanych przez Wnioskodawców ma
+zostać osiągnięte poprzez wprowadzenie zmian w ustawie z dnia 20 lutego 2015 r.
+o odnawialnych źródłach energii', dalej jako „ustawa o OZE" (art. 1 projektu).
+Polegają one na takim doprecyzowaniu przepisów określających obowiązki
+wytwórcy biometanu (art. 9) oraz instrumenty wsparcia wytwarzania biometanu (art.
+83l), które ma potwierdzić możliwość dodawania innego gazu w celu zwiększenia
+wartości kalorycznej biometanu załaczanego do sieci.
+' Dz. U. z 2024 r. poz. 1361, ze zm.	WYDZIAŁ OBSŁUGI PREZYDIUM SEJMU
+1	1.02. SPS-WP. 020.315.17.1014
+Data wpyw... 05.02.20254..
+
+--- page 2 ---
+Zgodnie ze zmienianym art. 9 ust. la pkt 3 ustawy o OZE wytwórca
+wykonujący działalność gospodarczą w zakresie biogazu lub biometanu ma być
+obowiązany nie wykorzystywać jako surowców do wytwarzania biogazu na potrzeby
+wytwarzania biometanu lub do wytwarzania biometanu z biogazu paliw kopalnych
+lub paliw powstałych z ich przetworzenia lub biomasy, biogazu lub biopłynów,
+zanieczyszczonych substancjami niebędącymi biomasą, biogazem lub biopłynami
+zwiększającymi ich wartość opałową, z wyjątkiem konieczności dodania gazu
+zmieniającego ciepło spalania biometanu, ze względu na wymogi operatora sieci,
+do którego instalacja jest przyłączona, a ilość i jakość tego gazu można
+jednoznacznie określić.
+Z powyższą zmianą łączy się propozycja dodania ust. 4 W art. 83l ustawy
+• OZE, który ma określić zasady uwzględniania prawa do pokrycia ujemnego salda
+w przypadku dodawania innego gazu do biometanu, oraz zmiana art. 83m w ust. 3
+pkt 4 ustawy o OZE, który dotyczy deklaracji składanej przez wytwórcę biometanu
+Prezesowi Urzędu Regulacji Energetyki.
+W art. 2 projektu zawarty jest przepis przejściowy. Projektowana ustawa ma
+wejść w życie po upływie 14 dni od dnia ogłoszenia.
+Ill. Inne rozwiązania rozważane przez Wnioskodawców
+Wnioskodawcy nie rozważali alternatywnych rozwiązań.
+IV.	-Rozwiązania przyjmowane w innych państwach, w szczególności
+państwach członkowskich OECD/UE
+W Europie w 2022 r. najwięcej biometanu wprowadzano do sieci gazowej
+w Niemczech (12,8 TWh), Francji (6,9 TWh), Wielkiej Brytanii (6,5 TWh), Danii
+(5,6 TWh), Holandii (2,3 TWh) i we Włoszech (1,2 TWh)2. W państwach tych
+podejmowano zróżnicowane działania mające na celu rozwój rynku tego biogazu,
+skoncentrowane nie tylko na technicznej możliwości podłączenia do sieci gazowej .
+Jednocześnie należy pamiętać o zróżnicowanej strukturze i konfiguracji systemów
+gazowniczych w poszczególnych państwach, co przeklada się na możliwości
+zastosowania określonych rozwiązań prawnych4.
+2 7th European Biomethane Benchmark, https://www.sia-
+partners.com/syster/files/document download/file/2023-
+12/Sia%20Partners Benchmark Europe Biomethane.pdf [ dostęp: 03.02.2025 r.].
+3 Overview of production routes and end-uses of renewable gases and existing policy frameworks in
+advanced European and Mission Innovation countries, 2024, https://www.greenmeup-project.eu/wp-
+content/uploads/2024/07/D1.1.pdf [dostęp: 03.02.2025 г.].
+4 A. Barczyński, P. Barczyński, System transportu gazu ziemnego w Polsce i Niemczech, „Wiadomości
+Naftowe i Gazownicze" 2018, nr 3(233),
+https://www.cire.pl/pliki/2/2018/wnig_03_2018_1.pdf; A. Barczyński, Podstawowe zadania i cele
+realizowane przez operatorów systemów gazowniczych, „Gaz, woda i technika sanitarna" 2022, listopad
+https://gazwoda.p//wp-content/uploads/Openaccess/2022/1015199172022114.pdf dostep
+03.02.2025 r.].
+2
+
+--- page 3 ---
+Działania mające na celu rozwój rynku biometanu w państwach będących
+liderami w produkcji tego biogazu obejmowały m.in. opracowanie narodowych wizji
+rozwoju rynku biometanu poprzez: (1) podjęcie badań nad potencjalem
+wykorzystania biometanu, (2) przyjęcie strategii w tym obszarze, a także
+(3) określenie celów rozwoju i wykorzystania gazów odnawialnych, w tym
+biometanu. W Austrii i Francji krajowe agencje ds. energii (w Austrii Osterreichische
+Energieagentur we wspólpracy z ośrodkami naukowymi; we Francji Agence de la
+transition écologique we wspólpracy z operatorami sieci przesyłowej i dystrybucyjnej
+gazu®) przeprowadziły badania nad potencjałem wykorzystania biometanu. W Danii
+w 2021 r. przyjęto strategię określającą m.in. rolę biometanu w procesie zielonej
+transformacji. Dania i Holandia określily oficjalne cele w zakresie wykorzystania
+odnawialnych gazów. We Francji rząd pryjmuje programy okreslające priorytety
+działań i orientacyjne cele w zakresie prowadzania biometanu do sieci.
+W programie z 2019 r. przyjęto cele na lata 2023 | 2028 w wysokosci odpowiednio 6
+i 14-22 TWh rocznie®
+W państwach będących liderami w produkcji biometanu wprowadzano
+również bezpośrednie wsparcie dla inwestycji i produkcji. W zakresie inwestycji
+wparcie dostępne jest m.in. we Włoszech, w wysokości 40% kosztów inwestycyjnych
+na przekształcenie instalacji biogazowych w biometanowe lub budowę nowych
+instalacji biometanowych. W zakresie wsparcia produkcji przyjmowane
+w poszczególnych państwach w różnych okresach rozwiązania obejmowały przede
+wszystkim taryfy gwarantowane, tzw. feed-in-tariffs (n. w Danii w latach 2012-2019,
+we Francji w latach 2011-2020, w Wielkiej Brytanii w latach 2011-2021, we Wioszech
+od 2022 r. dla instalacji, które wytwarzają poniżej 250 m3 na godzinę) oraz systemy
+doptat do ceny rynkowej, tzw. feed-in-premiums (np. w Holandii od 2011 r., we
+Włoszech od 2022 r., dla instalacji, które wytwarzają powyżej 250 m3 na godzinę)°.
+Jednocześnie państwa o rozwiniętej produkcji biometanu, jak Niemcy, odchodza
+obecnie od dotacji inwestycyjnych i taryf gwarantowanych na rzecz systemów
+przetargowych, dążąc do zmniejszenia zależności od rządowych mechanizmów
+wsparcia'°. W Niemczech rozpoczęcie produkcji biometanu poprzedzone zostało
+5 Erneuerbares Gas in Österreich 2040,
+https://www.bmk.gv.at/themen/energie/publikationen/erneuerbares-gas-2040.htm| [dostep: 03.02.2025
+r.).
+6 Mix de gaz 100% renouvelable en 2050?, https://librairie.ademe.fr/energies/1548-mix-de-gaz-100-
+renouvelable-en-2050-.html [dostep: 03.02.2025 г.].
+" Green Gas Strategy, https://ens.dk/media/4246/download [dostęp: 03.02.2025 r.].
+8 Programmations pluriannuelles de l'énergie (PPE) 2019-2023, 2024-2028, Synthèse,
+https://www.ecologie.gouv.fr/sites/defaul/files/documents/20200422%20Synthe%CC%80se%20de%2
+0la%20PPE.pdf [dostęp: 03.02.2025 r.].
+9 Overview of production routes and end-uses of renewable gases and existing policy frameworks in
+advanced European and Mission Innovation countries, 2024, https://www.greenmeup-project.eu/wp-
+content/uploads/2024/07/D1.1.pdf; Biomethane Incentives and their Effectiveness, Biomethane
+Industrial Partnership, January 2024, https://bip-europe.eu/wp-content/uploads/2024/04/BIP-
+TF1 Biomethane-incentives-and-their-effectiveness-Final.pdf; Biomethane Decree
+2022 Legal Framework and Application Procedures, Bird & Bird, https://www.twobirds.com/-
+/media/new-website-content/insights/pdfs/alert_biomethane-decree-2022_eng.pdf [dostep: 03.02.2025
+r.).
+7th European Biomethane Benchmark, https://www.sia-
+partners.com/system/files/document_download/file/2023-
+12/Sia%20Partners_Benchmark_Europe_Biomethane.pdf [dostęp: 03.02.2025 r.]
+3
+
+--- page 4 ---
+rozwojem sieci instalacji wytwarzających biogaz. W 2000 r. wprowadzono
+gwarantowane stawki dla energii elektrycznej produkowanej z biogazu w postaci
+taryf gwarantowanych. Od 2017 r. nastapiła zmiana systemu wsparcia na model
+aukcyjny, tzw. pay-as-bid, w celu wprowadzenia elementu konkurencji pomiędzy
+różnymi technologiami wytwarzania, w konsekwencji czego wzrost produkcji
+biogazu zaczął wyhamowywać. Niemieckie programy wsparcia nie obejmuja
+aktualnie preferencyjnych taryf dla biometanu czy bezpośredniego finansowania
+samej produkcji biometanu. W pośredni sposób produkcję biometanu wspierają
+programy dedykowane zwiększaniu udziału energii odnawialnej w wytwarzaniu
+energii elektrycznej, ciepła oraz mobilności"'.
+Państwa o znacznej produkcji biometanu stosują także narzędzia
+zwiększania popytu na ten biogaz, m.in. poprzez obowiązek zakupu biometanu
+przez dostawców gazu (np. we Francji od 2026 r. i Holandii od 2026 r.)12 oraz
+preferencje podatkowe (np. w Niemczech)13.
+Poszczególne państwa wprowadzały również regulacje uatwiające
+producentom biometanu dostęp do sieci. W Niemczech proces wprowadzania
+biometanu do sieci był możliwy dzięki jasnym przepisom technicznym zawartym
+w rozporządzeniu o dostępie do sieci gazowej. Przepisy techniczne dotyczące
+właściwości jakościowych biometanu i gazu ziemnego określono w normach
+opublikowanych przez organ normalizacyjny dla przemysłu gazowego i wodnego
+(Deutscher Verein des Gas- und Wasserfaches, DVGW)14. W Niemczech, tak jak we
+Francji i Wielkiej Brytanii dostosowanie poziomu ciepła spalania biometanu odbywa
+się poprzez dodawanie propanu/LPG15	5. Katwiejszy dostęp producentów biometanu
+do sieci może wynikać również z mniejszych kosztów podłączania do sieci.
+W niektórych państwach część kosztów przyłączenia do sieci ponoszą ich
+operatorzy (np. we Francji, w Niemczech). Z kolei w celu dostosowania sieci do
+rosnącego poziomu wtłaczania biometanu np. w Danii i w Niemczech operatorzy
+1' Od gazu ziemnego do biometanu. Dekarbonizacja polskiego gazownictwa, Dolnośląski Instytut
+Studiów Energetycznych, Wroclaw, Wrzesień 2024, https://dise.org.pl/Raport-Od-gazu-ziemnego-do-
+biometanu.pdf [dostęp: 03.02.2025 r.].
+12 EU targets for biogas production - including RED III, Energistyrelsen, October 2024
+https://www.bioenergi.dk/images/pdf/nordic_biogas_2024_praesentation/1A%20Stefan%20Krи%СС%
+88ger%20Nielsen%20Danish%20Energy%20Agency.pdf[dostęp: 03.02.2025 г.].
+13 Overview of production routes and end-uses of renewable gases and existing policy frameworks in
+advanced European and Mission Innovation countries, 2024, https://www.greenmeup-project.eu/wp-
+content/uploads/2024/07/D1.1.pdf; Biomethane Incentives and their Effectiveness, Biomethane
+Industrial Partnership, January 2024, https://bip-europe.eu/wp-content/uploads/2024/04/BIP-
+TF1_Biomethane-incentives-and-their-effectiveness-Final.pdf [dostęp: 03.02.2025 r.].
+14 M. Rogulska, P. Bukrejewski, E. Krasuska, Biomethane as Transport Fuel, 2018,
+https://www.intechopen.com/chapters/60028; Verordnung über den Zugang zu Gasversorgungsnetzen
+(Gasnetzzugangsverordnung - GasNZV), https://www.gesetze-im-
+internet.de/gasnzv_2010/BJNR126110010.html [dostęp: 03.02.2025 r.].
+15 Biogas to Biomethane, Fachverband Biogas, September 2017,
+https://www.dvgw.de/medien/dvgw/en/news/Biogas-to-Biomethane-Brochure.PDF; S. Kariuk,
+Techniczne możliwości blendowania biometanu, Portal Biomasa, 21.08.2024,
+https://magazynbiomasa.pl/techniczne-mozliwosci-blendowania-biometanu/; Green Gas Guide,
+Northern Gas Networks, https://biomethane.northerngasnetworks.co.uk/wp-
+content/uploads/2020/06/NGN_BioGreenGasGuide_0420_St04A.pdf [dostęp: 03.02.2025 г.].
+4
+
+--- page 5 ---
+zobowiązani są do budowy niezbędnej infrastruktury, w tym instalacji przepływu
+zwrotnego (np. do sieci przesyłowej)'6.
+W ankietach przesłanych w ramach konsultacji społecznych dotyczących
+analizowanego projektu ustawy nie odniesiono się do konkretnych rozwiązań
+przyjmowanych w innych państwach, w szczególności państwach członkowskich
+OECDIUE.
+V. Skutki prawne projektowanej ustawy
+Wskazany przez Wnioskodawców problem, że istniejące wymogi
+funkcjonowania sieci gazowych służących do transportu gazu ziemnego utrudniają
+wykorzystanie biometanu w Polsce, jest prawdopodobny. Dla potrzeb dostosowania
+wartości ciepła spalania biometanu do parametrów funkcjonowanie sieci gazowych
+wydane zostało rozporządzenie Ministra Klimatu i Srodowiska z dnia 28 marca
+2024 r. zmieniające rozporządzenie w sprawie szczegółowych warunków
+funkcjonowania systemu gazowego', którym zmieniono rozporządzenie Ministra
+Gospodarki z dnia 2 lipca 2010 r. w sprawie szczegółowych warunków
+funkcjonowania systemu gazowego 18 (dalej jako „rozporządzenie systemowe").
+Zmianą tą podniesiono zakres różnic między uzyskiwanymi średnimi w ciągu doby
+wartościami średniego ciepła spalania gazu w sieci dla potrzeb biometanu z ‡ 3%
+do ‡ 4%. Z uzasadnienia projektu rozporządzenia zmieniającego wynika, że zmiana
+służyła dostosowaniu minimalnej wartość ciepła spalania biometanu do realnie
+osiąganych maksymalnych średnich parametrów ciepła spalania odnotowywanych
+w sieci dystrybucyjnej w tzw. obszarach rozliczeniowych ciepła spalania (ORCS)19.
+Skoro wystapiła potrzeba wprowadzenia szczególnej regulacji w rozporządzeniu
+systemowym, to uznać trzeba, że z perspektywy funkcjonowania sieci gazu
+ziemnego istnieje problem związany z wartością ciepła spalania biometanu.
+Zarazem jednak zwraca uwagę, że Wnioskodawcy w uzasadnieniu zmian wskazują,
+iż w niektórych województwach paliwa gazowe w sieci charakteryzują się duża
+zawartością azotu oraz niższym ciepłem spalania, i że w związku z tym może
+zachodzić potrzeba zubożania metanu poprzez dodanie innego gazu przed jego
+wprowadzeniem do sieci. Takie stwierdzenie wywołuje wątpliwość, czy problemem
+jest niższa wartość ciepła spalania biometanu w porównaniu do gazu ziemnego, czy
+16 7th European Biomethane Benchmark, https://www.sia-
+partners.com/system/files/document_download/file/2023-
+12/Sia%20Partners_Benchmark_Europe_	Biomethane.pdf; Overview of production routes and end-
+uses of renewable gases and existing policy frameworks in advanced European and Mission
+Innovation countries, 2024, https://www.greenmeup-project.eu/wp-content/uploads/2024/07/D1.1.pdf
+[dostęp: 03.02.2025 r.].
+17 Dz. U. poz. 517.
+18 Dz. U. z 2018 r. poz. 1158, ze zm.
+19 Projekt rozporządzenia wraz z uzasadnieniem figuruje pod nr 51 w wykazie prac legislacyjnych
+Rządowego Centrum Legislacji. Jest dostępny na stronie: https://legislacja.rcl.gov.pl/projekt/12337300
+[dostęp: 8.01.2024]. Więcej na temat zastosowania biometanu i możliwości dekarbonizacji gospodarki
+z wykorzystaniem biometanu w Raporcie Dolnośląskiego Instytutu Studiów Energetycznych pt. Od gazu
+ziemnego do biometanu. Dekarbonizacja polskiego gazownictwa, wrzesień 2024, dostępny na stronie:
+https://raporty-branzowe.cire.pl/artykuly/serwis-informacyjny-cire-24/raport-dise-energy-od-gazu-
+5
+
+--- page 6 ---
+też raczej sposób ustalania wymaganej w danym miejscu sieci wartości ciepła
+spalania gazu. W tym kontekscie można zauważyć, że w § 40 ust. За
+rozporządzenia systemowego przyjęto pewną metodologię ustalania wymaganej
+wartości ciepła spalania dla biometanu wprowadzanego do sieci, która odnosi się do
+obszarów rozliczeniowych ciepła spalania.
+Przyłączanie biometanowni i wtłaczanie biometanu do sieci gazowej jest
+pożądane w świetle krajowych i unijnych dokumentów politycznych i aktów
+prawnych w związku z zadaniem tzw. dekarbonizacji polskiej gospodarki. Biometan
+jest paliwem odnawialnym i może być wykorzystywany do produkcji energii
+elektrycznej i cieplnej, jak również może być załaczany do sieci gazowej - a więc
+ma szerokie zastosowanie i może pomóc osiągnąć Polsce wymagany udział energii
+ze źródeł odnawialnych w końcowym zużyciu energii brutto do roku 203020
+Kluczowy dla polityki energetycznej państwa akt w postaci „Polityki Energetycznej
+Polski do 2040 r." (PEP2040) zakłada, że na znaczeniu będą zyskiwać biogaz,
+biometan, a także wodór, gazy syntezowe, czy gaz syntetyczny, a także że
+pozytywny wpływ na wzrost wykorzystania gazów innych niż ziemny będzie miało
+zwiększenie	możliwości transportu takich gazów sieciami	aktualnie
+wykorzystywanymi do transportu gazu ziemnego21. Również w ogłoszonej przez
+Komisję Europejską w 2020 r. strategii na rzecz ograniczenia emisji metanu
+wskazano, że zgodnie z unijną długoterminową strategią dekarbonizacji do 2050 r.
+zużycie biogazów (biogazu i biometanu) w UE ma wzrosnąć do 54-71 Mtoe rocznie
+w porównaniu z około 17 Mtoe w 2017 r., a wzrost produkcji ma przyczynić się do
+osiągnięcia unijnych celów w zakresie energii odnawialnej i klimatu?2, W dyrektywie
+Parlamentu Europejskiego i Rady (UE) 2024/1788 z dnia 13 czerwca 2024 r. W
+sprawie wspólnych zasad rynków wewnętrznych gazu odnawialnego, gazu
+ziemnego i wodoru, zmieniającej dyrektywę (UE) 2023/1791 i uchylającej dyrektywę
+2009/73/WE (wersja przekształcona)23 (dalej jako „dyrektywa 2024/1788") przyjęto,
+iż „włączenie zrównoważonego biometanu zgodnie z kryteriami określonymi w
+dyrektywie Parlamentu Europejskiego i Rady (UE) 2018/2001 do systemu gazu
+ziemnego wspiera unijne cele klimatyczne i pomaga zdywersyfikować dostawy
+energii. Wnioski o przyłączenie do sieci produkcji gazu odnawialnego powinny być
+oceniane w rozsądnych terminach i monitorowane przez właściwe organy
+regulacyjne. Powinna istnieć możliwość priorytetowego traktowania na poziomie
+przesyłu i dystrybucji wniosków o przyłączenie produkcji gazu odnawialnego w
+stosunku do wniosków o przyłączenie produkcji gazu ziemnego i gazu
+niskoemisyjnego" (motyw 10 dyrektywy 2024/1788). W związku z tym w art. 30
+20 W projekcie Krajowego Planu w dziedzinie Energii i Klimatu do 2030 r., w wersji do konsultacji
+publicznych nr 10.2024, Polska deklaruje osiągnięcie do 2030 r. 32,6% udziału OZE w końcowym
+zużyciu energii brutto, jako wkład w realizację nowego ogólnounijnego celu na 2030 r. Projekt dostępny
+jest na stronie: https://www.gov.pl/web/klimat/projekt-krajowego-planu-w-dziedzinie-energii-i-klimatu-
+do-2030-r--wersja-do-konsultacji-publicznych-z-102024-r [dostęp: 10.01.2025].
+21 Polityka Energetyczna Polska do 2040 r., zał, do obwieszczenia Ministra Klimatu i Środowiska z dnia
+2 marca 2021 r. w sprawie polityki energetycznej państwa do 2040 г., M. P. z 2021 r. poz. 264, s. 26.
+22 Komunikat Komisji do Parlamentu Europejskiego, Rady, Europejskiego Komitetu Ekonomiczno-
+Społecznego i Komitetu Regionów dotyczący strategii UE na rzecz ograniczenia emisji metanu,
+COM(2020) 663 final.
+23 Dz. Urz. UE L, 2024/1788, 15.7.2024, ELl: http://data.europa.eu/eli/dir/2024/1788/oj.
+6
+
+--- page 7 ---
+dyrektywy 2024/1788 wskazano, że państwa członkowskie mają umożliwiać dostęp
+gazów odnawialnych i niskoemisyjnych do rynku i infrastruktury, i to bez względu na
+to, czy instalacje wytwarzania gazów odnawialnych i niskoemisyjnych są
+przyłączone do sieci dystrybucyjnych lub przesyłowych, czy też nie są. W innej,
+kluczowej dla rozwoju energii odnawialnej dyrektywie, mianowicie w dyrektywie
+Parlamentu Europejskiego i Rady (UE) 2018/2001 z dnia 11 grudnia 2018 r.
+dotyczącej promowania stosowania energii ze źródeł odnawialnych24 (dalej jako
+„dyrektywa RED II"), także zwrócono uwagę na wykorzystanie biogazu i biometanu.
+W dyrektywie RED II czytamy: „Istnieje potrzeba wsparcia włączenia energii ze
+źródeł odnawialnych do sieci przesyłowej i dystrybucyjnej, a także wykorzystania
+systemów magazynowania energii do zintegrowanej zmiennej produkcji energii ze
+źródeł odnawialnych, w szczególności jeśli chodzi o zasady regulujące
+dysponowanie mocą i dostęp do sieci" (motyw 60 dyrektywy RED II). Energią ze
+źródeł odnawialnych jest biogaz oraz biometan (art. 2 pkt 1 dyrektywy RED II) i art.
+20 dyrektywy RED II, który odnosi się do dostępu do sieci gazowej, zakłada
+„utatwienie integracji" gazu ze źródeł odnawialnych w związku z istniejącą
+infrastrukturą sieci gazowniczej.
+Stwierdzić zatem trzeba, iż jeśli rzeczywiście występują przeszkody w
+przyłączeniu biometanowni do sieci gazu ziemnego i wtłaczaniu biometanu do sieci
+gazu ziemnego w związku z wartością spalania biometanu, to należy podjąć
+działania celem usunięcia tych przeszkód, ponieważ utrudniają one dostęp
+biometanu do rynku i infrastruktury, o którym mowa w art. 30 dyrektywy 2024/1788,
+oraz wykorzystanie tego paliwa w sposób przewidziany w krajowej i unijnej polityce
+energetycznej.
+Niezależnie od powyższego trzeba mieć na uwadze, że w Unii Europejskiej
+stawia się na „zrównoważoną produkcję" biogazu i biometanu i dlatego w dyrektywie
+RED II określono wymagania dotyczące kryteriów zrównoważonego rozwoju i
+ograniczania emisji gazów cieplarnianych w odniesieniu do biopaliw, biopłynów i
+paliw z biomasy (art. 29 i n. dyrektywy RED II). Kryteria te są pewnymi wymogami,
+które muszą być spełnione, aby biopaliwa mogły zostać zaliczane na poczet celów
+określonych w dyrektywie i mogły być wspierane przez państwa członkowskie UE
+(zob. art. 29 ust, 1 lit. a-c dyrektywy RED II). Sytuację wyjaśniono w motywie 18
+dyrektywy 2024/1788 w sposób następujący: „W odniesieniu do w pełni otwartego
+rynku państwa członkowskie powinny, w kontekście swoich szczególnych
+uwarunkowań krajowych, nadal mieć moźliwość planowania swojego koszyka
+energetycznego, w tym połączonego wykorzystania paliw odnawialnych i paliw
+niskoemisyjnych. Mając to na względzie, przy opracowywaniu systemów wsparcia,
+w tym wsparcia finansowego, dla paliw odnawialnych lub niskoemisyjnych Unia
+powinna wspierać osiaganie celów Unii, natomiast państwa członkowskie zachować
+prawo wyboru, czy i które źródło paliw odnawialnych lub paliw niskoemisyjnych będa
+wspierały, przy zastrzeżeniu, że paliwa te spełniają kryteria określone w dyrektywie
+(UE) 2018/2001 i niniejszej dyrektywie oraz że takie systemy wsparcia są zgodne
+z mającymi zastosowanie ramami prawnymi dotyczącymi pomocy państwa opartymi
+24 Dz. Urz. UE L 328 z 21.12.2018, s. 82, ze zm.
+7
+
+--- page 8 ---
+na art. 107 i 108 TFUE. Ponadto państwa członkowskie mogą podjąć decyzję
+o określeniu dodatkowych wymogów dotyczących redukcji emisji gazów
+cieplarnianych, zgodnie ze swoją krajową strategią dekarbonizacji". Wynika z tego,
+iż chociaż nadal co do zasady to państwa członkowskie UE decydują o własnym
+„miksie energetycznym", tj. o udziale poszczególnych rodzajów źródeł energii
+w całkowitym życiu energii na ich terytorium, to wiąże je unijna i ewentualnie krajowa
+strategia dekarbonizacji i mogą one wspierać jedynie te paliwa odnawialne lub
+niskoemisyjne, które spełniają kryteria zrównoważonego rozwoju i ograniczania
+emisji gazów cieplarnianych określone w dyrektywie RED II.
+W świetle przepisów dyrektywy RED II jest możliwe mieszanie partii
+surowców o różnych właściwościach energetycznych, istotnych z punktu widzenia
+kryteriów zrównoważonego rozwoju i ograniczania emisji gazów cieplarnianych, ale
+muszą być przestrzegane zasady dotyczące tzw. bilansowania masy. Z art. 30 ust. 1
+dyrektywy RED II wynika, że podmioty gospodarcze muszą stosować odpowiednie
+„systemy bilansu masy", by energia z biopaliw, biopłynów i paliw z biomasy mogła
+zostać uwzględniona dla celów, o których mowa w art. 29 ust. 1 dyrektywy RED II.
+System bilansu masy to sposób postępowania, który pozwala przypisaó
+„właściwości zrównoważonego rozwoju" do poszczególnych partii surowców
+o różnej wartości energetycznej. System ten zakłada zbieranie danych na temat
+surowców wykorzystywanych do produkcji biopaliw, biopłynów i paliw z biomasy
+oraz gotowych paliw, które mogą być wytwarzane z tych surowców - danych
+o „wejściowych" i „wyjściowych" ilościach surowców i paliw, dla których określono
+właściwości zrównoważonego rozwoju (surowce i paliwa certyfikowane jako
+zrównoważone), jak i surowcach i paliw, dla których nie okreslono właściwości
+zrównoważonego rozwoju, w tym paliw kopalnych25.
+Przechodząc do oceny propozycji Wnioskodawców, można stwierdzić, że sa
+możliwe dwa sposoby usunięcia wskazanego przez Wnioskodawców problemu
+związanego z parametrem spalania biometanu. Moźna rozważyć zmianę ww.
+rozporządzenia systemowego przez ministra właściwego ds. gospodarki, aby
+parametr czy metodologia określania ciepła spalania paliw gazowych w sieciach
+gazowych zostały dostosowane właściwie do biometanu. Powinno się
+w szczególności rozważyć, czy metodologia liczenia średniej wartości ciepła
+spalania paliw gazowych w sieciach dystrybucyjnych określona w § 40 ust. За
+rozporządzenia systemowego jest właściwa z punktu widzenia parametrów
+biometanu. W tym kierunku idzie opinia zgłoszona w ramach konsultacji
+społecznych, sugerująca, iż omawianą kwestię powinno uregulować Ministerstwo
+Klimatu i Środowiska w przepisach wykonawczych26
+Po drugie, można też zająć się kwestią zmiany parametrów biometanu przed
+wprowadzeniem do sieci przez jego wytwórcę albo inny podmiot. W tym kierunku
+idą propozycje Wnioskodawców, którzy chcą umożliwić wytwórcom biometanu
+dodawanie innych gazów, przy czym to dodawanie ma nie wiązać się z obowiązkiem
+25 Więcej na ten temat np. Wytyczne techniczne dotyczące bilansowania mas systemu SURE-EU,
+wersja TG-MASS-pl-2, data dokumentu: 22.12.2023, dostępny na stronie: www.sure-system.org
+[dostęp: 10.01.2025].
+26 ID ankiety: 51528.
+8
+
+--- page 9 ---
+uzyskania odrębnej koncesji na obrót paliwami gazowymi (zob. zdanie ostatnie w
+ust. 4, który Wnioskodawcy proponują dodać w art. 83| ustawy o OZE). Zakłada się
+również, czemu dano wyraz w tresci zaproponowanego ust. 4 art. 83| ustawy o OZE,
+że dodawanie do biometanu innego gazu nie będzie wiązać się z utratą prawa do
+tzw. pokrycia ujemnego salda przez wytwórcę biometanu, o którym mowa w art. 83l
+ust. 2 ustawy o OZE.
+Zarazem jednak można zgłosić jedną, zasadniczą watpliwość, która dotyczy
+zgodności z obowiązującym mechanizmem wsparcia biometanu wprowadzanego do
+sieci gazowej, który ustanowiono w art. 83l i n. ustawy o OZE. Mianowicie
+mechanizm ten opiera się na prawie wytwórcy biometanu w instalacji odnawialnego
+źródła energii do pokrycia tzw. ujemnego salda (ten mechanizm wsparcia nazywany
+jest „feed-in-premium"). Zastrzeżono przy tym, że lączna moc zainstalowanej
+instalacji odnawialnego źródła energii do wytwarzania biometanu przeliczona na
+moc zainstalowaną elektryczną ma być nie większa niż 1 MW (art. 83l ust. 1 ustawy
+• OZE). Pojawia się zatem watpliwość, czy gaz powstały w wyniku mieszania
+biometanu z innym gazem dla zmiany jego wartości spalania będzie mógł dalej
+korzystać z przedmiotowego mechanizmu wsparcia, skoro warunkiem wsparcia jest
+wprowadzenie biometanu do sieci gazowej, a zgodnie z definicją biometanem jest
+„gaz uzyskany z biogazu, biogazu rolniczego lub wodoru odnawialnego, poddanych
+procesowi oczyszczenia, wprowadzany do sieci gazowej lub transportowany w
+postaci sprężonej albo skroplonej środkami transportu innymi niż sieci gazowe, lub
+wykorzystany do tankowania pojazdów silnikowych bez konieczności jego
+transportu" (art. 2 pkt 3c ustawy o OZE). Definicja legalna biometanu nie zakłada
+możliwości dodawania do biometanu innych gazów.
+Wnioskodawcy zaproponowali również, aby dotychczasowe przepisy
+wykonawcze wydane na podstawie art. 62 ustawy o OZE zachowały moc do czasu
+wejścia w życie nowych przepisów wykonawczych, lecz nie dłużej niż przez 3
+miesiące od dnia wejścia w życie ustawy (art. 2 projektu). Trudno powiedzieć, czy
+zmiana ta jest konieczna. Z pewnością w związku z dodawaniem do biometanu
+innego paliwa jest konieczne dokonywanie pomiarów dla ustalenia udziału
+biometanu w związku z ww. zasadami bilansowania masy. Aktualnie obowiązujące
+i wydane na podstawie art. 62 ustawy o OZE rozporządzenie Ministra Klimatu
+i Srodowiska z dnia 26 czerwca 2024 r. w sprawie wymagań dotyczących pomiarów,
+rejestracji i sposobu obliczania ilości biogazu, biogazu rolniczego i biometanu,
+wytworzonych w instalacjach odnawialnego źródła energii z odnawialnych źródeł
+energii i transportowanych środkami transportu innymi niż sieci gazowe 27
+przewiduje jednak pomiary ilości biogazu, biogazu rolniczego i biometanu w sposób
+ciągły w okresach, w których następuje przesył biogazu, biogazu rolniczego
+i biometanu do dalszego wykorzystania lub przetwarzania (§ 2 pkt 2). W ramach
+konsultacji społecznych podniesiono, że w projekcie „nie ma żadnych uwag
+dotyczących toksyczności gazów dodawanych do biometanu, jak również kontroli
+tejże"28. Może więc w tym zakresie celowa byłaby zmiana przepisów wykonawczych.
+27 Dz. U. poz. 974
+28 ID ankiety: 52352, 52350, 52354, 52355.
+
+--- page 10 ---
+Propozycja wejścia w życie ustawy po upływie 14 dni od dnia jej ogłoszenia
+(art. 3) nie budzi zastrzeżeń. Jest zgodna z art. 4 ust. 1 ustawy z dnia 20 lipca 2000 r.
+o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych29.
+Projekt ustawy był przedmiotem analiz Biura Ekspertyz i Oceny Skutków
+Regulacji Kancelarii Sejmu dotyczących zgodności z prawem Unii Europejskiej3°.
+Omawiany projekt byt także przedmiotem analizy BEOS w trybie art. 95a ust. 3
+regulaminu Sejmu31
+VI. Skutki społeczne projektowanej ustawy
+A) Podmioty, na które wpływa projekt
+Przyjmując założenie projektodawców, że proponowana regulacja
+doprecyzowująca kwestię dodawania innych gazów do biometanu zataczanego do
+sieci gazowych doprowadzi do rozwoju sektora energetyki biometanowej w Polsce,
+można wnioskować, że projekt może wpłynąć na operatorów systemu przesyłowego
+i dystrybucyjnego gazu, spółki obrotu gazem (tj. dostawców gazu dodawanego do
+biometanu), przedsiębiorców zajmujących się wytwarzaniem biometanu z biogazu
+oraz jednostki samorządu terytorialnego, na terenie których powstałyby
+biometanownie.
+1. Podmioty	gospodarcze, tj. operatorzy systemu dystrybucyjnego
+i przesyłowego gazu, spólki obrotu gazem oraz przedsiębiorcy zajmujący się
+wytwarzaniem biometanu z biogazu. Zgodnie z danymi Urzędu Regulacji
+Energetyki, według stanu na 31 grudnia 2023 r., w Polsce koncesję na obrót
+paliwami gazowymi posiadało 178 podmiotów. Natomiast 86 przedsiębiorstw
+aktywnie uczestniczyło w obrocie gazem ziemnym. Na rynku gazu ziemnego
+działało 50 operatorów systemów dystrybucyjnych 32 . Operatorem systemu
+przesyłowego gazu ziemnego w Polsce była strategiczna dla polskiej gospodarki
+spółka GAZ-SYSTEM. Warto podkreślić, że w Polsce obecnie nie działa żadna
+instalacja biometanowa, trudno więc określić potencjalną liczbę podmiotów, które
+będą wytwarzać biometan z biogazu.
+2. Jednostki samorządu terytorialnego, w tym głównie gminy, w których
+powstałyby instalacje biometanowe. Potencjalne skutki dla takich gmin to
+w szczególności dodatkowe miejsca pracy i wpływy podatkowe.
+W związku z tym, że proponowana regulacja jedynie doprecyzowuje kwestię
+dodawania innych gazów do biometanu załaczanego do sieci gazowych nie jest ona
+29 Dz. U. z 2019 r. poz. 1461.
+30 Opinia w sprawie zgodności z prawem Unii Europejskiej poselskiego projektu ustawy o zmianie
+ustawy o odnawialnych źródłach energii (przedstawiciel wnioskodawców: poseł Janusz Kowalski),
+opinia z 10 stycznia 2025 r., BEOS-WPEIM-2772/24
+31 Opinia w sprawie stwierdzenia, czy poselski projekt ustawy o zmianie ustawy o odnawialnych źródłach
+energii (przedstawiciel wnioskodawców: poseł Janusz Kowalski) jest projektem ustawy wykonującej
+prawo Unii Europejskiej w rozumieniu art. 95a regulaminy Sejmu, opinia z 10 stycznia 2025 r., BEOS-
+WAPEIM-2773/24.
+internetowa Urzędu Regulacji Energetyki, link: https://www.ure.gov.pl/pl/paliwa-
+gazowe/charakterystyka-rynku/12155,2023.html [dostęp 3 lutego 2025 r.].
+10
+
+--- page 11 ---
+kluczowym warunkiem rozwoju sektora biometanowego w Polsce. Przeprowadzone
+w 2023 r. badania na temat czynników ułatwiających inwestowanie i barier rozwoju
+biometanowi w Polsce wskazują, że problemy związane z wprowadzaniem
+biometanu do sieci nie należą do najważniejszych utrudnień. Wśród czynników
+mających największe znaczenie dla rozwoju produkcji biometanu wymienia się
+najczęściej: dotacje i dostęp do finansowania (44%), uproszczenie przepisów
+administracyjnych (30%), stabilność przepisów (22%), ustalona cena referencyjna
+(18%), rozwój sieci odbioru biometanu (18%), długotrwała strategia rozwoju rynku
+(18%), zwiększanie świadomości społecznej (16%) i szybciej podejmowane decyzje
+w urzędach (12%)33
+B) Wpływ na społeczeństwo w ujęciu pieniężnym i niepieniężnym
+Wprawdzie Projektodawcy wskazują, że proponowane przepisy przyniosą
+pozytywne skutki związane m.in. wykorzystaniem gnojowicy i innych odpadów
+rolniczych, możliwością wykorzystania jako nawozu pofermentu itp., to jednak trzeba
+zauważyć, że przepisy te nie dotyczą biometanu wytwarzanego z biogazu
+rolniczego, nie wpłyną więc na działalność rolniczą i zakres potencjalnych skutków
+będzie mniejszy. Niemniej można oczekiwać pewnych skutków dla rynku pracy,
+w związku z nowymi miejscami zatrudnienia powstającymi dzięki uruchamianiu
+instalacji biometanowych. Można też ogólnie stwierdzić, że rozwój energetyki
+odnawialnej będzie miał pozytywny wpływ na emisyjność sektora energetycznego
+i konkurencyjność gospodarki, co może się przełożyć na jakość życia i stan zdrowia
+społeczeństwa.
+Przy budowie instalacji biometanowych można się spodziewać lokalnych
+konfliktów z kategorii NIMBY (ang. Not In My Back Yard, „nie na moim podwórku"),
+tj. aktywizmu o charakterze lobbingu na poziomie lokalnym, który jest
+ukierunkowany na zablokowanie inwestycji, choć nie zaprzeczającego, że są one
+potrzebne 34	. W przypadku instalacji biometanowych opór społeczny może być
+powodowany obawami związanymi z m.in. potencjalną uciążliwością tych inwestycji,
+obniżeniem poziomu bezpieczeństwa, zaburzeniem estetyki sąsiedztwa i spadkiem
+wartości nieruchomości.
+W ramach przeprowadzonego procesu konsultacji społecznych nie zgłoszono
+istotnych uwag dotyczących skutków społecznych.
+VII Skutki gospodarcze projektowanej ustawy
+Proponowane przepisy doprecyzowują kwestię dodawania innych gazów do
+biometanu załaczanego do sieci gazowych. Uzupełnienie przepisu w art. 9 ust. 1a
+pkt 3 oraz dodanie nowego ust. 4 w art. 83l służy potwierdzeniu, iž dodawanie do
+33 Biometan w Polsce. Rosnąca rola biometanu w transformacji energetycznej, Strategy&Part of PwC
+Network, 2024, link: https://www.strategyand.pwc.com/pl/pl/publikacie/2024/biometan-w-polsce-
+perspektywa-strategiczna-i-inwestycyina.html [dostęp 3 lutego 2025 r.].
+34 Bednarek, M., Dmochowska-Dudek, K. (2016). Syndrom NIMBY na obszarach wiejskich w Polsce:
+uwarunkowania i specyfika konfliktów wokół lokalizacji niechcianych inwestycji: NIMBY syndrome in
+rural areas of Poland: determinants and specificity of conflicts on the location of unwanted
+investments (Vol. 255). IGiPZ PAN.
+11
+
+--- page 12 ---
+biometanu gazów zmieniających jego wartość kaloryczną, w tym np. takich gazów
+kopalnych jak propan, jest dopuszczalne i nie wpłynie ograniczająco na istniejące
+możliwości uzyskania wsparcia przez wytwórców biometanu. Można sądzić, że
+zmiana ta służy rozwianiu obaw wytwórców biometanu o utratę prawa do uzyskania
+wsparcia na skutek zmieszania biometanu z innymi rodzajami gazów przed jego
+wprowadzeniem do sieci gazowych. Tym samym może ona ułatwić przyłączanie do
+sieci instalacji wytwarzających biometan. W efekcie - jak słusznie wskazują w DSR
+Projektodawcy - proponowane przepisy, w jakimś stopniu, będą oddziaływać na
+operatorów systemu przesyłowego i dystrybucyjnego gazu, spółki obrotu gazem (tj.
+dostawców gazu dodawanego do biometanu) oraz przedsiębiorców zajmujących się
+wytwarzaniem biometanu.
+Oceniając skutki gospodarcze trzeba zwrócić uwagę, że proponowane
+zmiany obejmują tylko część potencjalnych wytwórców biometanu. Zmieniany
+przepis w art. 9 ust. Ia dotyczy bowiem tylko wytwórców biometanu z biogazu, ale
+już nie wytwórców biometanu z biogazu rolniczego. Miałby więc znaczenie dla tych
+przedsiębiorców, którzy pozyskują biometan z biogazu uzyskanego z biomasy,
+wtym z instalacji przeróbki odpadów zwierzęcych lub roślinnych, oczyszczalni
+ścieków i składowisk odpadów. Nie wpłynie on natomiast na wytwórców biometanu
+uzyskiwanego z biogazu rolniczego otrzymywanego w procesie fermentacji
+metanowej, np. z produktów rolnych i produktów ubocznych rolnictwa, w tym
+odchodów zwierzęcych, a także odpadów lub pozostałości z przetwórstwa
+produktów pochodzenia rolniczego, przetwórstwa i produkcji żywności. Być może
+proponowany przepis ich także powinien objąć, skoro ustawa przewiduje możliwość
+wytwarzania i wprowadzania do sieci gazowej biometanu z biogazu rolniczego (art
+25 pkt 3a i 4d). Warto zauważyć, że mimo powszechnie krytykowanego powolnego
+tempa powstawania biogazowni, ich liczba w Polsce rośnie. Dzis ta pierwsza grupa
+wytwórców biogazu obejmuje ok. 195 instalacji (to grównie biogazownie komunalne
+zlokalizowane na składowiskach odpadów i przy oczyszczalniach ścieków)35	', zaś w
+ramach tej drugiej grupy funkcjonuje obecnie 180 biogazowni rolniczych, należących
+do 150 wytwórców (łączna wydajność biogazowni rolniczych wynosi 690,5 min m3
+biogazu / rok)36
+Jak dotąd jednak nie powstała ani jedna biometanownia. Prawdopodobnie
+najbardziej zaawansowana jest budowa biometanowni powstającej w zakładzie
+doświadczalnym Brody należącym do Uniwersytetu Przyrodniczego w Poznaniu. Jej
+uruchomienie planowane jest na 2025 r.37 Trwają też przygotowania do kolejnych
+inwestycji. O rosnącym zainteresowaniu inwestowaniem w biometanownie może
+świadczyć liczba składanych wniosków o wydanie warunków lub informacji
+o przyłączeniu do sieci dla biometanowni. W latach 2019-2021 wyniosła ona
+35 Zródło: Ile jest biogazowni w Polsce? 19 września 2024 r.;
+https://magazynbiomasa.pl/lle-jest-biogazowni-w-polsce/_dostep: 03.02.2025 r.J.
+36 Źródło: reiestr wytwórców biogazu rolniczego prowadzony przez Dyrektora Generalnego KOWR (stan
+na dzień 16 stycznia 2025 r.); https://www.gov.pl/web/kowr/rejestr-wytworcow-biogazu-rolniczego
+}dostęp: 03.02.2025 r.].
+„Raport 2024: Od gazu ziemnego do biometanu. Dekarbonizacja polskiego gazownictwa",
+Dolnośląski Instytut Studiów Energetycznych, Wrocław, Wrzesień 2024 (str. 72).
+12
+
+--- page 13 ---
+dziewięć, w 2022 r. - 18, a do września 2024 r. - ponad 15038. Omawiane tu przepisy
+znajdą więc zastosowanie dopiero w przyszłości, kiedy planowane instalacje
+zostaną oddane do użytku. Trudno też stwierdzić, że proponowane obecnie zmiany
+w ustawie w istotny sposób wpłyną na decyzje o rozpoczęciu inwestycji
+w biometanownie. Rosnąca w ostatnich latach liczba wniosków o wydanie
+warunków lub informacji o przyłączeniu do sieci może bowiem świadczyć o tym, że
+proponowane zmiany nie są - w ocenie przyszłych inwestorów - warunkiem
+koniecznym do podjęcia decyzji o budowie biometanowni.
+Trzeba pamiętać, że proponowane przepisy dotyczą jedynie wytwórców
+biometanu wprowadzanego do sieci gazowych. Nie będą więc mieć znaczenia dla
+wytwórców biometanu, który będzie transportowany w postaci sprężonej lub
+skroplonej innymi środkami niż sieci gazowe, i który znajdzie zastosowanie np. jako
+paliwo (bioCNG lub bioLNG) w pojazdach wyposażonych w silniki na gaz ziemny
+(np. w autobusach czy ciężarówkach). Trudno więc oszacować, jak licznej grupy
+potencjalnych wytwórców biometanu przepisy te mogą dotyczyć. Duże znaczenie
+dla decyzji o wprowadzaniu biometanu do sieci gazowych będzie mieć lokalizacja
+przyszłych metanowni w stosunku do istniejących sieci dystrybucyjnych czy
+przesyłowych: im odległość między instalacją a siecią większa, tym opłacalnosć
+budowy przyłącza i prawdopodobieństwo podłączenia instalacji do sieci będą maleć
+Kluczowym warunkiem przyłączenia do sieci jest odpowiednia, wymagana
+przez operatora systemu wartość ciepła spalania biometanu w danym „obszarze
+rozliczeniowym ciepła spalania" (ORCS). W większości ORCS wartości ciepła
+spalania przewyższają wartość ciepła spalania biometanu, co wymaga zwiększenia
+jego kaloryczności. W części ORCS te wartości są niższe lub zbliżone do wartości
+ciepła spalania biometanu. Wg danych Polskiej Spółki Gazownictwa Sp. z 0.o.,
+w grudniu 2024 r., spośród 326 ORCS w 60 odnotowano wartości ciepła spalania
+poniżej 40 MJ/m3, choć zapewne w części z nich niższa wartość ciepła spalania
+wynikała z obecności gazu ziemnego zaazotowanego39 . Niewykluczone jednak, że
+w części ORCS nie byłoby potrzeby mieszania biometanu z innym gazem, tym
+samym proponowane przepisy nie mialyby zastosowania.
+Zgodnie z proponowanym przepisem w art. 83| ust. 4, gaz zwiększający
+kaloryczność biometanu powinien być dodawany przez wytwórcę przed
+wprowadzeniem do sieci gazowej. Skutkiem takiego rozstrzygnięcia będzie
+konieczność dodatkowego zakupu przez wytwórcę instalacji wzbogacania
+biometanu (miksera gazu) i zakupu dodawanego gazu. Trudno ocenić skalę tych
+wydatków, z pewnością w jakimś stopniu wpłyną one na zwiększenie ogólnych
+kosztów inwestycyjnych i operacyjnych biometanowni. Warto jednak rozważyć czy
+nie bardziej korzystne byłoby rozwiązanie, aby to operator sieci gazowej, a więc
+podmiot najlepiej znający wymogi jakościowe gazu w sieci, dążył (np. w ramach
+odpłatnej umowy z wytwórcą biometanu) do zapewnienia odpowiedniej wartości
+ciepła spalania gazu w danym ORCS.
+38 Do 2030 r. w UE powstanie 950 nowych biometanowni. Ile w Polsce?; „Teraz Srodowisko", 16
+września 2024 r.; https://www.teraz-srodowisko.pl/aktualnosci/950-nowych-biometanowni-do-2030-
+polskie-forum-biometanu-15657.html [dostep: 03.02.2025 г.]
+39 Źródło: Lista Obszarów Rozliczeniowych Ciepła Spalania w Polskiej Spółce Gazownictwa Sp. z 0.0.;
+https://www.psgaz.pl/mapa-orcs-i-jakosc-gazu [dostep: 03.02.2025 r.].
+13
+
+--- page 14 ---
+Wtrakcie przeprowadzonych konsultacji społecznych nie wskazano istotnych
+informacji dotyczących skutków gospodarczych projektowanej ustawy.
+VIII. Skutki projektowanej ustawy dla sektora finansów publicznych
+W opinii Projektodawców projekt nie pociąga za sobą negatywnych skutków
+dla budżetu państwa i nie generuje kosztów dla budżetów jednostek samorządu
+terytorialnego. Projektodawcy wskazują, że proponowana regulacja może
+przyczynić się do uzyskania przez jednostki samorządu terytorialnego dodatkowych
+dochodówo.
+Projektowana regulacja nie będzie miała bezpośredniego wpływu na sektor
+finansów publicznych, w tym na budżet państwa oraz budżety jednostek samorządu
+terytorialnego (JST).
+Nie jest możliwe oszacowanie zależności rozwoju biogazowni (w tym budowy
+instalacji do wytwarzania i oczyszczania biogazu czy wytwarzania biometanu) od
+projektowanej	możliwości dodania (do wytwarzania biogazu na potrzeby
+wytwarzania biometanu lub do wytwarzania biometanu) gazu zmieniającego ciepło
+spalania biometanu wymagane przy wprowadzaniu go do gazowej	sieci
+dystrybucyjnej lub gazowej sieci przesyłowej. Wobec braku takiego oszacowania nie
+można wskazać wysokości potencjalnych dodatkowych dochodów JST, które
+mogłyby powstać w konsekwencji proponowanych przepisów i podać przełożenia
+tego wzrostu dochodów na sektor finansów publicznych.
+W trakcie przeprowadzonych konsultacji społecznych nie wskazano istotnych
+informacji dotyczących skutków finansowych projektowanej ustawy dla sektora
+finansów publicznych.
+IX. Inne skutki projektowanej ustawy
+Nie zidentyfikowano innych skutków wejścia w życie projektowanej ustawy.
+X. Zmiana obciążeń administracyjnych
+Wejście w życie projektowanej ustawy nie spowoduje istotnej zmiany
+obciążeń administracyjnych.
+XI.	Konkluzje
+1. Skutki prawne: Jeżeli rzeczywiście istnieją przeszkody w integracji instalacji
+40 Według projektodawcy instalacje biometanowe przynoszą korzyści dla samorządów lokalnych,
+przede wszystkim w postaci odprowadzania podatku od nieruchomości, w wysokości zazwyczaj ok. 2%
+wartości budowli. Przykładowo, dla niewielkiej instalacji biometanowej o mocy ekwiwalentnej 1 MWel,
+wartość inwestycji wynosi 40 mln zł, przychody gminne z tytułu podatku od nieruchomości należy
+szacować na poziomie około 280 tys. zł rocznie. Do tego dochodzi podatek gruntowy w wysokości około
+30 tys. zt rocznie.
+14
+
+--- page 15 ---
+odnawialnych źróder energii wytwarzających biometan z sieciami gazu ziemnego
+w związku z ciepłem spalania biometanu, to w związku z obowiązującymi celami
+polityki energetycznej i przepisami prawa energetycznego należy podjąć działania
+na rzecz eliminacji tych przeszkód. Oprócz propozycji Wnioskodawców można
+rozważyć moźliwość zmiany gazowego rozporządzenia	systemowego, tj.
+rozporządzenia Ministra Gospodarki z dnia 2 lipca 2010 r. w sprawie szczegółowych
+warunków funkcjonowania systemu gazowego 41	, w zakresie dotyczącym
+wymaganej wartości ciepła spalania w związku z wprowadzeniem biometanu do
+sieci (§ 40 ust. 3). Propozycja Wnioskodawców, aby umożliwić wytwórcom
+biometanu dodawanie innych gazów dla zmiany parametru ciepła spalania, ma
+zapobiec utracie prawa do skorzystania z mechanizmu wsparcia, o którym mowa
+w art. 83l ust. 2 ustawy o OZE, choć zarazem wywołuje watpliwość, czy - w związku
+z definicją biometanu w art. 2 pkt 3c ustawy o OZE - gaz powstały w wyniku
+dodawania do biometanu innych gazów będzie mógł dalej korzystać z mechanizmu
+wsparcia dia biometanu. Nie wydaje się, aby propozycje Wnioskodawców wiązały
+się z dodatkowymi obciążeniami administracyjnymi dla wytwórców biogazu czy
+biometanu, operatorów sieci gazowych czy organów regulacyjnych. Można jedynie
+dostrzec pewne obciążenie administracyjne związane z sugerowanym w projekcie
+wydaniem przez ministra właściwego ds. Klimatu nowego rozporządzenia
+wykonawczego na podstawie art. 62 ustawy o OZE.
+2. Skutki społeczne: Proponowana regulacja prawdopodobnie nie przełoży się na
+istotny wzrost liczby instalacji biometanowych w Polsce, można więc stwierdzić, że
+skutki społeczne tej regulacji będą marginalne.
+3. Skutki gospodarcze: Proponowane zmiany mogą w pewnym stopniu ulatwić
+przyłączanie do sieci instalacji wytwarzających biometan, choć - należy zauważyć
+- nie obejmują one instalacji wytwarzających biometan z biogazu rolniczego. Mogą
+one oddziaływać na operatorów systemu przesyłowego i dystrybucyjnego gazu,
+spółki obrotu gazem (tj. dostawców gazu dodawanego do biometanu) oraz
+przedsiębiorców zajmujących się wytwarzaniem biometanu. Niemniej, rosnąca
+w ostatnich latach liczba wniosków o wydanie warunków lub informacji
+o przyłączeniu biometanowni do sieci może też świadczyć o tym, że proponowane
+zmiany nie są - w ocenie przyszłych inwestorów - warunkiem koniecznym do
+podjęcia decyzji o budowie tego rodzaju instalacji. Z uwagi na fakt, iż - jak dotąd -
+nie powstała w Polsce ani jedna biometanownia, i nie wiadomo jaka część
+przyszłych instalacji będzie wprowadzać biometan do sieci gazowych, trudno
+obecnie wskazać bezposrednie skutki gospodarcze.
+4. Skutki finansowe: Projektowana regulacja nie będzie miała bezpośredniego
+wpływu na sektor finansów publicznych, w tym na budżet państwa i budżety
+jednostek samorządu terytorialnego.
+41 Dz. U. z 2018 r. poz. 1158, ze zm.
+15
+
+--- page 16 ---
+5. Rozwiązania zagraniczne: Działania mające na celu rozwój rynku biometanu
+w państwach będących liderami w produkcji tego biogazu (Niemcy, Francja, Wielka
+Brytania, Dania, Holandia) obejmowały m.in. opracowanie narodowych wizji rozwoju
+rynku biometanu, wprowadzenie bezpośredniego wsparcia dla inwestycji i produkcji,
+a także narzędzi zwiększania popytu na biometan i regulacji ułatwiających
+producentom biometanu dostęp do sieci.
+Autorzy:
+dr Tomasz Jaroszyński, naczelnik Wydziału Prawa Europejskiego i Międzynarodowego
+(pkt I-III)
+dr Danuta Adamiec, specjalista w Wydziale Oceny Skutków Regulacji (pkt IV, XI.5)
+dr hab. Tomasz Długosz, ekspert ds. legislacji (pkt V, XI.1)
+dr hab. Wojciech Zgliczyński, specjalista ds. społecznych (pkt Vl, XI.2)
+Mirosław Gwiazdowicz, specjalista ds. systemu gospodarczego (pkt VII, XI.3)
+Krzysztof Wołowicz, specjalista ds. finansów publicznych, dr Olga Olkowska,
+specjalista ds. systemu gospodarczego (pkt VIII, XI.4)
+Akceptowal:
+Wicedyrektor Biura Ekspertyz
+ipery trn Reguaç,
+Ziemowit Cieślik
+16
+Tłoczono z polecenia Marszałka Sejmu Rzeczypospolitej Polskiej	SEJM
+

@@ -1,0 +1,1023 @@
+--- page 1 ---
+WYDZIAL OBSLUCI PREZYDIUM SEINU	Do druku nr 864
+1. dz SPS- LP. 020. 259.8.2024
+...0.2. 12. 2024	BIURO EKSPERTYZI OCENY SKUTKÓW REGULACJI
+S E ]l MData wprywu.	KANCELARII SEJMU
+AZICZOFOSSOUTE, POISAI
+Warszawa, 29 listopada 2024 r.
+BEOS-WPNPEiMNOSR-2377/24
+Pan Minister
+DS: 1700: 126.2024
+Dariusz Salamończyk
+2.1.2: 2021
+Zastępca Szefa Kancelarii Sejmu
+Ocena skutków regulacji
+zawartej w poselskim projekcie ustawy
+o zmianie ustawy - Kodeks postępowania cywilnego
+oraz niektórych innych ustaw
+(przedstawiciel wnioskodawców: Michat Pyrzyk)
+I. Jaki problem jest rozwiązywany?
+Zdaniem wnioskodawców dochodzenie praw w ramach postępowania ogólnego
+przewidzianego w ustawie z dnia 17 listopada 1964 r. — Kodeks postępowania
+cywilnego ' jest procesem wieloletnim, co jest szczególnie problematyczne
+w przypadku naruszeń w Internecie, gdzie szybkość reakcji jest kluczowa.
+Przewlekłość postępowań o ochronę dóbr osobistych sprawia, że szkody i krzywda
+pogłębiają się. Osoby, których dobra osobiste zostały naruszone w Internecie, maja
+trudności z szybkim i skutecznym przeciwdziałaniem takim naruszeniom. W przypadku
+fałszywych informacji, zniesławienia czy naruszenia prywatności ofiary są narażone
+na długotrwałe szkody w życiu prywatnym i zawodowym, bez możliwości
+natychmiastowej ochrony swoich praw, a osoby prawne - na poważne skutki,
+nierzadko zagrażające ich funkcjonowaniu. Wnioskodawcy twierdzą, że bez
+dodatkowych mechanizmów osoby poszkodowane naruszeniem będą nadal miały
+trudności z identyfikacją sprawców, zwłaszcza w przypadkach, gdy osoby naruszające
+ich dobra korzystają z anonimowości w Internecie. Sytuacja ta może skutkować tym,
+że wielu sprawców uniknie odpowiedzialności, a ofiary pozostaną bez realnych
+' Dz. U. z 2024 r. poz. 1568; dalej: kodeks postępowania cywilnego lub k.p.c.
+u. Zapomna 3, 00. au: Warszowa • rel. (22) 694 27 62, 694 17 27, laks	694 18 65
+
+--- page 2 ---
+środków ochrony. Obecnie, osoby dopuszczające się naruszeń w Internecie,
+korzystające z możliwości ukrywania swojej tożsamości, czują się bezkarne. Brak
+szybkich i efektywnych mechanizmów prawnych będzie dalej sprzyjał takim
+działaniom, co może prowadzić do zwiększenia liczby naruszeń, jako że sprawcy nie
+obawiają się konsekwencji. Jeśli osoby poszkodowane będą dalej miały trudności
+z uzyskaniem ochrony swoich dóbr osobistych w Internecie, może to prowadzić do
+spadku zaufania do systemu prawnego. W erze cyfrowej oczekuje się, że prawo
+będzie w stanie nadążyć za dynamicznie zmieniającą się rzeczywistością, a jego
+nieskuteczność może zniechęcić ludzi do dochodzenia swoich praw.
+Brak reformy, według wnioskodawców, może prowadzić do dalszego wzrostu
+problemów związanych z naruszeniami dóbr osobistych w Internecie, osłabienia
+pozycji ofiar naruszeń i braku odpowiedzialności sprawców.
+Głównym celem proponowanych rozwiązań, zgodnie z twierdzeniem
+wnioskodawców, jest szybka i skuteczna ochrona osób poszkodowanych na skutek
+działań w przestrzeni cyfrowej, szczególnie na platformach internetowych.
+Il. Rekomendowane rozwiązanie (w tym planowane narzędzia interwencji)
+i oczekiwany efekt
+1. Uwagi ogólne
+Projekt ustawy zakłada nowelizację kodeksu postępowania cywilnego, ustawy
+z dnia 23 kwietnia 1964 r. - Kodeks cywilny', ustawy z dnia 27 lipca 2001 r. - Prawo
+o ustroju sadów powszechnych3	, ustawy z dnia 18 lipca 2002 r. o swiadczeniu usług
+drogą elektroniczną4 oraz ustawy z dnia 12 lipca 2024 r. — Prawo komunikacji
+elektronicznej°.
+Zmiany w kodeksie postępowania cywilnego polegają na ustaleniu, że do
+właściwości sądów okręgowych należeć będą sprawy o roszczenia wynikające
+z naruszenia obowiązków określonych w przepisach rozporządzenia Parlamentu
+Europejskiego i Rady (UE) 2022/2065 z dnia 19 października 2022 r. w sprawie
+jednolitego rynku usług cyfrowych oraz zmiany dyrektywy 2000/31/WE (akt o ustugach
+cyfrowych) ®	, a także na wprowadzeniu trzech nowych postępowań odrębnych
+w sprawach o naruszenia związane z rozpowszechnianiem nielegalnych treści w sieci
+2 Dz. U. z 2024 r. poz. 1061, ze zm.; dalej: kodeks cywilny lub k.c.
+3 Dz. U. z 2024 r. poz. 334, ze zm.; dalej: prawo o ustroju sądów powszechnych lub p.u.s.p
+4 Dz. U. z 2024 r. poz. 1513; dalej: ustawa o świadczeniu usług drogą elektroniczną lub u.ś.u.e.
+5 Dz. U. poz. 1221; dalej: prawo komunikacji elektronicznej lub p.k.e.
+6 Dz. Urz. UE L 277 z 27.10.2022, s. 1; dalej: rozporządzenie 2022/2065.
+2
+
+--- page 3 ---
+Internet: postępowania w sprawach o naruszenia związane z rozpowszechnianiem
+nielegalnych treści przeciwko osobom o znanej tożsamości, postępowania
+w sprawach o naruszenia związane z rozpowszechnianiem nielegalnych treści
+przeciwko osobom o nieustalonej tożsamości, postępowania w sprawach o naruszenia
+związane z rozpowszechnianiem nielegalnych treści przeciwko dostawcom usług
+pośrednich.
+Zmiany w kodeksie cywilnym polegają na dodaniu art. 4481	, zgodnie z którym
+w razie naruszenia dóbr osobistych przez odbiorców usług pośrednich w rozumieniu
+rozporządzenia 2022/2065, do którego doszło za posrednictwem sieci Internet,
+związanego z rozpowszechnianiem przez nich nielegalnych treści w rozumieniu art. 2
+pkt 2b ustawy o świadczeniu usług drogą elektroniczną, sąd, na żądanie tego, którego
+dobro osobiste zostało naruszone, będzie mógł przyznać odpowiednią sumę tytułem
+zadośćuczynienia pieniężnego za doznaną krzywdę albo zasądzić odpowiednią sumę
+pieniężną na wskazany przez niego cel społeczny, niezaleźnie od innych środków
+potrzebnych do usunięcia skutków naruszenia. Roszczenie to nie będzie mogło być
+zbyte, chyba że będzie już wymagalne i zostanie uznane na piśmie albo przyznane
+prawomocnym orzeczeniem (projektowane nowe brzmienie art. 449 k.c.).
+Zmiany w prawie o ustroju sądów powszechnych przewidują, że Minister
+Sprawiedliwości będzie wskazywał wydział sądu apelacyjnego rozpoznający środki
+odwoławcze w postępowaniach odrębnych dodawanych projektem ustawy w kodeksie
+postępowania cywilnego, a także przewidują możliwość przekazywania przez Ministra
+Sprawiedliwości jednemu sądowi okręgowemu spraw o naruszenia związane
+z rozpowszechnianiem nielegalnych treści w sieci Internet z właściwości innych sądów
+okręgowych lub jednemu sądowi apelacyjnemu rozpoznawania środków
+odwoławczych w tych sprawach spraw z właściwości innych sądów apelacyjnych.
+Zmiany w ustawie o świadczeniu usług drogą elektroniczną przewidują
+poszerzenie zakresu przedmiotowego ustawy o określenie właściwych organów
+w rozumieniu aktu o uslugach cyfrowych. Będą nimi Prezes Urzędu Ochrony
+Konkurencji i Konsumentów oraz Prezes Urzędu Komunikacji Elektronicznej - każdy
+w zakresie wskazanym w projekcie. Ponadto projekt ustawy przewiduje dodanie
+dwóch definicji: koordynatora do spraw usług cyfrowych oraz nielegalnych treści. Oba
+pojęcia mają być zdefiniowane przez odesłanie do właściwych przepisów aktu
+o ustugach cyfrowych. Projekt przewiduje również doprecyzowanie zakresu danych
+charakteryzujących sposób korzystania przez usługobiorcę z usługi świadczonej drogą
+
+--- page 4 ---
+elektroniczną (dane eksploatacyjne), które mogą być przetwarzane przez
+usługodawcę, a także określa zakres obowiązku usługodawcy polegającego na
+przechowywaniu danych usługobiorcy i danych eksploatacyjnych oraz obowiązek
+udostępniania - na żądanie sądu - tych danych, a także danych objętych tajemnica
+komunikacji elektronicznej.
+Zmiany w prawie komunikacji elektronicznej dotyczą doprecyzowania zakresu
+tajemnicy komunikacji elektronicznej przez określenie jakie dane użytkownika sa
+chronione, a także dotyczą, dodania art. 405a, zgodnie z którym przedsiębiorca
+telekomunikacyjny będzie zobowiązany udostępnić, na żądanie sądu w postępowaniu
+w sprawie o naruszenie związane z rozpowszechnianiem nielegalnych treści
+przeciwko osobom o znanej tożsamości oraz w postępowaniu w sprawie o naruszenie
+związane z rozpowszechnianiem nielegalnych treści przeciwko osobom o nieustalonej
+tożsamości (postępowania, które, zgodnie z projektem, mają zostać dodane do
+kodeksu postępowania cywilnego), dane osobowe użytkownika chronione tajemnica
+komunikacji elektronicznej.
+Projekt zawiera przepis przejściowy oraz dotyczący wejścia ustawy w życie.
+Oczekiwanym efektem projektowanej ustawy jest szybka i skuteczna ochrona
+osób poszkodowanych na skutek działań w przestrzeni cyfrowej, szczególnie na
+platformach internetowych.
+Projekt ustawy byt przedmiotem analizy Biura Ekspertyz i Oceny Skutków
+Regulacji Kancelarii Sejmu dotyczącej zgodności z prawem Unii Europejskiej'
+Omawiany projekt był także przedmiotem analizy BEOS w trybie art. 95a ust. 3
+regulaminu Sejmu®.
+2. Uwagi szczegółowe
+Przedłożony projekt nawiązuje do wnoszonych już wcześniej propozycji
+legislacyjnych°, dlatego zasadnym jest odwołanie się do zgłaszanych w związku
+z nimi uwag.
+" Opinia w sprawie zgodności z prawem Unii Europejskiej poselskiego projektu ustawy o zmianie ustawy
+- Kodeks postępowania cywilnego oraz niektórych innych ustaw (przedstawiciel wnioskodawców: poseł
+Michal Pyrzyk), opinia z 14 listopada 2024 r., BEOS-WPEiM-2375/24.
+8 Opinia w sprawie stwierdzenia, czy poselski projekt ustawy o zmianie ustawy - Kodeks postępowania
+cywilnego oraz niektórych innych ustaw (przedstawiciel wnioskodawców: poser Michar Pyrzyk) jest
+projektem ustawy wykonującej prawo Unii Europejskiej w rozumieniu art. 95a regulaminu Sejmu, opinia
+z 14 listopada 2024 г., BEOS-WPEiM-2376/24.
+9 Por. пр. poselski projekt ustawy o zmianie ustawy — Kodeks postępowania cywilnego oraz ustawy -
+Prawo telekomunikacyjne, druk sejmowy nr 1715/VIII kad.; poselski projekt ustawy o zmianie ustaw -
+Kodeks postępowania cywilnego oraz ustawy - Prawo telekomunikacyjne (projektowi ustawy nie został
+
+--- page 5 ---
+2.1. Przedmiotowy projekt przewiduje nowelizację kodeksu postępowania
+cywilnego.
+2.1.1. Proponowana nowelizacja zakłada wprowadzenie trzech nowych
+postępowań odrębnych w ramach trybu procesowego. Pojawia się w związku z tym
+pytanie o zasadność poszerzenia katalogu tych postępowań1°. Jak zauważa się
+w doktrynie postępowania cywilnego, w obecnym stanie prawnym postępowania
+odrębne nie funkcjonują już na zasadzie wyjątku od zwykłego postępowania
+procesowego, „lecz stały się równoległym a czasem nawet konkurującym z nim,
+rodzajem postępowania procesowego" 11	. Wiąże się to z tendencją	• do
+fragmentarycznego reformowania procedury cywilnej, która budzi zastrzeżenia nauki
+prawa. Wskazuje się mianowicie, iż kolejne postępowania odrębne wprowadzane sa
+jako wybiórcza reakcja ustawodawcy na roszczenia, które zyskują w danym czasie na
+znaczeniu społecznym, gospodarczym lub politycznym. Przy czym, dla zapewnienia
+owym roszczeniom - a także innym, nieznajdującym się w danym momencie
+w centrum uwagi prawodawcy - odpowiedniej ochrony należałoby przede wszystkim
+zadbać o sprawność postępowania procesowego prowadzonego na zasadach
+ogólnych 12. Zgodnie bowiem z aksjologią postępowania cywilnego postępowanie
+odrębne powinno zostać wprowadzone w sytuacji gdy dana kategoria spraw odznacza
+się tak swoistymi cechami, że rozpoznanie jej w postępowaniu zwykłym byłoby
+nieefektywne13
+Dodatkowo, jak się podkreśla, mnożenie postępowań odrębnych zagraża
+spójności systemowej prawa cywilnego procesowego prowadząc do trudności w jego
+stosowaniu, co przedkłada się na ograniczenie efektywności dochodzenia praw przed
+sądem'4.
+2.1.2. W ramach wspomnianych powyżej postępowań odrębnych (zob.
+projektowane art. 50540, art. 50556 § 1, art. 50562 k.p.c.) rozpatrywane maja być sprawy
+nadany numer druku sejmowego, znajduje się on w wykazie projektów wniesionych w IX kadencji.
+Numer w wykazie: EW-020-388/21) oraz poselski projekt ustawy o zmianie ustawy - Kodeks
+postępowania cywilnego oraz niektórych innych ustaw, druk sejmowy nr 728/X kad
+10 Por. D. Wybrańczyk, Ocena skutków prawych regulacji poselskiego projektu ustawy o zmianie ustaw
+— Kodeks postępowania cywilnego oraz ustawy - Prawo telekomunikacyjne, BAS-WAP-160/21, S. 7-8;
+Opinia Sądu Najwyższego do projektu ustawy o zmianie ustawy - Kodeks postępowania cywilnego oraz
+niektórych innych ustaw z 9 października 2024 r., znak: BSA I.021.34.2024, s. 2 - opinia dołączona do
+druku sejmowego nr 728 -
+https://orka.sejm.gov.pl/Druki10ka.nsf/0/F68187866461D7F5C1258BB7005D0834/%24File/728.pdf.
+Machnikowska [w:] System Postępowania Cywilnego, t. 6, Postępowania odrębne,
+red. A. Machnikowska, Warszawa 2022, s. 27 (nb 55).
+12 Tamże, s. 11 (nb 15).
+13 Por. np. tamże, s. 16 (nb 30).
+14 Por. Opinia Sądu Najwyższego..., S. 2.
+5
+
+--- page 6 ---
+• ochronę dóbr osobistych związane z rozpowszechnianiem „nielegalnych treści"
+w rozumieniu projektowanego art. 2 pkt 2b u.s.u.e. Zgodnie z ta regulacją „nielegalne
+treści" oznaczają „treści, o których mowa w art. 3 lit. h rozporządzenia 2022/2065".
+W konsekwencji projektowane przepisy kodeksu postępowania cywilnego
+wprowadzają odesłanie kaskadowe naruszając regułę wyrażoną w § 157 z.t.p. 15
+stanowiącą, że: „Nie odsyła się do przepisów, które już zawierają odesłania".
+Dodatkowo warto zasygnalizować, że wspomniany art. 3 lit. h rozporządzenia
+2022/2065 jako „nielegalne treści" określa „informacje, które same w sobie lub przez
+odniesienie do działania, w tym sprzedaży produktów lub świadczenia usług, nie są
+zgodne z prawem Unii lub z prawem jakiegokolwiek państwa członkowskiego, które
+jest zgodne z prawem Unii, niezależnie od konkretnego przedmiotu lub charakteru tego
+prawa". Przy czym, zgodnie z wyjaśnieniami do rozporządzenia 2022/2065
+opublikowanymi przez Komisje Europejską przedmiotowy akt prawny nie określa, jakie
+treści należy uznawać za nielegalne, odsyłając w tym zakresie do innych aktów
+prawnych, zarówno unijnych jak i krajowych16. Dlatego też w doktrynie podniesiono, iż
+przepis ten „nie spełnia podstawowych wymogów stawianych poprawnie
+skonstruowanym definicjom, ponieważ zarówno pojęcie definiowane, jak i sama
+definicja nie są znane (łac. ignotum per ignotum). Doprecyzowanie w definicji, że
+chodzi o treści niezgodne z krajowym lub europejskim porządkiem prawnym, niewiele
+w tym zakresie [pomaga]" 17	. W konsekwencji odwotanie się do tej regulacji
+w projektowanych przepisach rodzi ryzyko wystapienia trudności interpretacyjnych
+mogących rzutować negatywnie na sferę praw i wolności jednostki.
+2.1.3. W myśl przedłożonego projektu powód winien złożyć oświadczenie, że
+zarówno przed jak i po opublikowaniu treści, które w jego ocenie godzą w jego dobra
+osobiste, nie naruszył dóbr osobistych pozwanego, a także dołączyć wypowiedzi
+pozwanego jak i własne, które odnoszą się do treści objętych roszczeniem. Obowiązek
+ten obejmuje przy tym wypowiedzi zaistniałe tak przed, jak i po opublikowaniu treści
+uznanych przez powoda za naruszające jego dobra osobiste (zob. projektowany art.
+50546 § 2 pkt 2 i 4 k.p.c.).
+15 Załącznik do rozporządzenia Prezesa Rady Ministrów z dnia 20 czerwca 2002 r. w sprawie „Zasad
+techniki prawodawcze]", t.j. Dz. U. z 2016 r. poz. 283.
+16 Por. European Commission, Questions and Answers: on the Digital Services Act, Brusseis,
+23 February 2024, s. 2 -
+https://ec.europa.eu/commission/presscorner/api/files/document/print/en/qanda_20_2348/QANDA_20
+_2348_EN.pdf (dostęp: 14.11.2024 г.).
+17 P. Polański, Model odpowiedzialności za nielegalne treści na gruncie Aktu o Uslugach Cyfrowych,
+Monitor Prawniczy 2022, nr 20, s. 999.
+6
+
+--- page 7 ---
+W odniesieniu do analogicznych propozycji wyrażono wątpliwości, wskazując
+na fakt, iż w sytuacji, w której powód zobligowany jest do dołączenia do pozwu
+wypowiedzi własnych oraz pozwanego, dodatkowy obowiązek złożenia oświadczenia
+o braku wzajemnego naruszenia dóbr osobistych jawi się jako niecelowy18. Ponadto
+zauważono, iż nie jest jasnym, jak sad miałby ustalać, czy dołączone do pozwu
+wypowiedzi pozostają w związku z treściami mającymi naruszać dobra osobiste
+powoda oraz czy powód dołączył wszystkie relewantne wypowiedzi, a także jakie
+konsekwencje wiążą się z dołączaniem do pozwu jedynie niektórych wypowiedzi
+pozwanego lub powoda'9. Warto przy tym wspomnieć, iż w kontekście powództw
+wytaczanych przeciwko osobom o nieustalonej tożsamości podniesiono, że skoro
+powód nie jest w stanie określić tożsamości osoby, względem której wysuwa
+roszczenie procesowe, to wątpliwym jest, by mógł złożyć wymagane oświadczenie
+„W stosunku do tej konkretnej osoby (nie zaś wyłącznie podmiotu identyfikowanego
+loginem bądź nazwą użytkownika)"20.
+2.1.4. Zgodnie z projektowanym art. 50547 k.p.c. sąd dokonuje wstępnego
+badania sprawy i oddala powództwo jeżeli roszczenie jest oczywiście bezzasadne albo
+gdy dołączone do pozwu wypowiedzi powoda i pozwanego uprawdopodabniają tezę,
+że doszło do obustronnego naruszenia dóbr osobistych (§ 1 i 2).
+W tym kontekście zauważyć należy, że zgodnie z przeważającym, jak się
+wskazuje, poglądem przyjmowanym w orzecznictwie oraz doktrynie wzajemność
+naruszeń nie wyłącza ochrony dóbr osobistych 21. Gdyby jednak przyjąć, że
+proponowana regulacja oznacza opowiedzenie się przez projektodawców za
+poglądem przeciwnym, za problematyczne należałoby uznać zamieszczenie
+stosownej normy w ustawie procesowej i to w ramach przepisów dotyczących
+postępowań odrębnych, jako że prowadziłby to do wniosku, że regulacja ta nie
+znajduje zastosowania w ogólnym postępowaniu procesowym. W konsekwencji
+istotnemu zróżnicowaniu uległaby sytuacja stron procesowych w zależności od tego
+w ramach jakiego postępowania toczyłaby się sprawa o ochronę dóbr osobistych
+18 Por. D. Wybrańczyk, Ocena skutków prawych..., s. 7; Opinia Prokuratorii Generalnej
+Rzeczypospolitej Polskiej do poselskiego projektu ustawy o zmianie ustawy - Kodeks postępowania
+cywilnego oraz ustawy - Prawo telekomunikacyjne (druk nr 1715) z 28 lipca 2017 r., znak: KR-51-
+597/17/MSĘ, s. 10 -
+https://orka.sejm.gov.pl/Druki8ka.nsf/0/DDA724FDC4D2EB1FC125817100394523/%24File/1715-
+003.pdf (dostęp: 14.11. 2024 r.).
+19 Por. D. Wybrańczyk, Ocena skutków prawych..., S. 9.
+20 Por. Opinia Prokuratorii Generalnej..., s. 10.
+21 Por. M. Pazdan [w:] Kodeks cywilny. Komentarz, t. 1, Art. 1-4491°, red. K. Pietrzykowski, Warszawa
+2020, komentarz do art. 24, nb 3 (oraz wskazane tam piśmiennictwo i judykaturę).
+
+--- page 8 ---
+(ogólnego, czy odrębnego - przewidzianego dla roszczeń o naruszenie dóbr
+osobistych w Internecie). To zaś może budzić wątpliwości np. w kontekście
+konstytucyjnej zasady równości (art. 32 ust. 1 Konstytucji).
+Ponadto należy zwrócić uwagę na fakt, iż omawiana regulacja zakłada
+oddalenie powództwa - a więc wydanie orzeczenia merytorycznego?2 — w sytuacji gdy
+sąd uzna za uprawdopodobnione wystąpienie obustronnego naruszenia dóbr
+osobistych. Rozwiązanie to może budzić wątpliwości, choćby z uwagi na fakt, że, jak
+podkreśla się w doktrynie, instytucja uprawdopodobnienia znajduje zastosowanie
+w odniesieniu do kwestii formalnych, czy też wpadkowych, nie zaś rozstrzygnięć co do
+istoty sprawy (merytorycznych)23,
+2.1.5. Należy także zauważyć, iż na gruncie analizowanego projektu aktualność
+zachowują, podnoszone w kontekście analogicznych propozycji legisiacyjnych
+dotyczących instytucji „ślepego pozwu", wątpliwości co zgodności mechanizmu
+wstępnego badania sprawy z konstytucyjnie gwarantowanym prawem do sądu (art. 45
+ust. 1 Konstytucji) - w aspekcie uprawnienia do uruchomienia postępowania przed
+właściwym, niezależnym, bezstronnym i niezawisłym sądem, oraz uprawnienia do
+sprawiedliwego ukształtowania postępowania sądowego.
+W powyższym kontekscie zauważono, że: „Dokonywana w tym trybie ocena
+sądu będzie miała charakter merytoryczny, opierać się będzie wyłącznie na
+twierdzeniach przywołanych w pozwie i załączonych dokumentach, a przy tym
+odbywać się będzie bez udziału drugiej strony. [...] Wstępne badanie sprawy [...]
+polegać więc będzie na uznaniu przez sąd merytorycznej dopuszczalności twierdzeń
+przedstawionych przez powoda. Dopiero uzyskanie pozytywnej oceny sądu skutkować
+będzie obowiązkiem podjęcia - przez tenże sąd - dalszych działań w celu
+zidentyfikowania pozwanego [zob. projektowany art. 50559 § 1 i 4 k.p.c. - dop. aut.].
+Ten sam sąd będzie też odpowiedzialny za wiążące rozstrzygnięcie sporu, w ramach
+którego uprzednio wypowiedział się po stronie powoda oraz podjął w wyniku tego
+dalsze kroki zmierzające do ustalenia tożsamości pozwanego. Przedstawiona
+sekwencja wydarzeń podejmowanych na podstawie proponowanych w projekcie
+22 Por. np. H. Dolecki, Postępowanie cywilne. Zarys wykładu, Warszawa 2011, s. 231; P. Osowy [w:]
+System Postępowania Cywilnego, t. 3B, Postępowanie przed sądem pierwszej instancji w procesie
+cywilnym. Czynności i przebieg postępowania, red. K. Flaga-Gieruszyńska, P. Osowy, Warszawa 2024,
+s. 527 (nb 2).
+23 Por. пр. M. Jaślikowski [w:] Kodeks postępowania cywilnego. Komentarz, red. nacz. P. Rylski, red.
+cz. 3 A. Olaś, Warszawa 2024, komentarz do art. 243, nb 16, Legalis; v. Misztal-Konecka [w:] Kodeks
+postępowania cywilnego. Komentarz, t. 2, Art. 205'-42412, red. A. Marcianiak, Warszawa 2019,
+komentarz do art. 243, nb 10, 14.
+8
+
+--- page 9 ---
+rozwiązań w poważnym stopniu utrudnia możliwość późniejszego bezstronnego
+rozpatrzenia sprawy przez ten	sam sąd. Postępowanie, które zakłada
+przeprowadzenie merytorycznej analizy sprawy bez wyznaczenia strony pozwanej
+oraz bez moźliwości złożenia przez tę stronę odpowiedzi na pozew, budzi również
+poważne wątpliwości z punktu widzenia spełnienia wymogu sprawiedliwości
+proceduralnej"24
+2.1.6. Aktualność zachowuje także watpliwość co do zasadności posługiwania
+się określeniem „pozwany" w przypadku postępowania przeciwko osobie
+o nieustalonej tożsamości. Mowa bowiem o podmiocie identyfikowanym na etapie
+wnoszenia pozwu, co najwyżej, poprzez nazwę jakiej uzywa w Internecie (zob.
+projektowany art. 50546 § 2 pkt 3 k.p.c. in fine w zw. Z projektowanymi art. 50556 oraz
+art. 50557 k.p.c.), którego tożsamość ma dopiero zostać ustalona, dzięki czemu
+możliwe będzie doręczenie mu pozwu25
+Dodatkowo podkreślenia wymaga, że wspomnianego ustalenia, zgodnie
+z założeniami projektu, miałby dokonywać sąd, do którego wniesiono pozew (zob.
+projektowany art. 505°9 § 1 i 4 k.p.c.). W kontekście rozwiązań obligujących sąd do
+ustalenia tożsamości osoby, która stać się ma stroną pozwaną, podnosi się, iž godzą
+one w regułę konstrukcyjną, postępowania cywilnego wymagającą dla skuteczności
+wniesienia pozwu oznaczenia przez powoda stron postępowania 26	. Dodatkowo
+zauważa się, że reguła ta powiązana jest z zasadą dyspozycyjności zakładająca
+swobodę stron w korzystaniu z przysługujących im uprawnień oraz środków ochrony
+prawnej, co jak się podkreśla, wyłącza dopuszczalność nałożenia na sąd obowiązku
+wskazywania stron postępowania?'. Obowiązek ustalenia przez sąd danych osoby,
+przeciwko której skierowany ma zostać pozew, jak się także podnosi, budzi
+wątpliwości również w kontekście przyjętej w procedurze cywilnej zasady
+kontradyktoryjności2°, zgodnie z którą „przygotowanie, gromadzenie i dostarczenie
+materiału procesowego należy do stron procesowych, a do sądu należy jedynie ocena
+tego materiału i wydanie na jego podstawie rozstrzygnięcia"29
+Zauważa się także, iż nałożenie na sąd obowiązku ustalenia strony pozwanej
+w połączeniu z przyjętym w kodeksie cywilnym domniemaniem bezprawności
+24 Por. Opinia Prokuratorii Generalnej..., s. 6-7.
+25 Por. tamże, s. 9-10.
+26 Por. tamże, s. 5.
+27 Por. tamże oraz wskazane tam orzecznictwo.
+28 Por. D. Wybrańczyk, Ocena skutków prawych….., s. 11-12
+29 Tak W. Siedlecki [w:] Postępowanie cywilne. Zarys wykładu, W. Siedlecki, Z. Swieboda, Warszawa
+2004, s.56.
+9
+
+--- page 10 ---
+naruszenia dobra osobistego 30	, skutkującym koniecznością wykazania przez
+pozwanego, że jego zachowanie nie było bezprawne, prowadzi do sytuacji, w której
+powód może ograniczyć się jedynie do wniesienia pozwu31
+2.1.7. W kontekście „ślepego pozwu" sygnalizowano już także problem
+potencjalnego wykorzystania tej instytucji jako formy szykany wobec osoby, której
+zachowanie w istocie nie naruszyło dóbr osobistych powoda, czy też formułowania
+żądania celem obejścia przepisów o ochronie danych osobowych32. W takim bowiem
+przypadkach mogłoby dojsć do ujawnienia danych osobowych „bezpodstawnie
+i niepotrzebnie"33	. Problem takiego „bezpodstawnego i niepotrzebnego" ujawnienia
+danych osobowych nabiera dodatkowego znaczenia z uwagi na to, iž w świetle
+proponowanych regulacji wskazany ma zostać „odbiorca usługi pośredniej"
+(zob. projektowany art. 50556 k.p.c.), któremu dostarczony zostanie pozew. Nie musi
+być on jednak osobą, która zachowała się w sposób potencjalnie naruszający dobra
+osobiste powoda. Przykładowo, wpis, który powód uznał za naruszający jego dobre
+imię, mógł zostać zamieszczony przez pracownika osoby będącej „odbiorca"
+w powyższym rozumieniu, czy też jego domownika, gościa albo osobę mu nieznaną
+w przypadku braku zabezpieczenia sieci34. W tym kontekście zwraca się uwagę, iż
+błędne określenie tożsamości pozwanego przez sąd stanowić może podstawę do
+formułowania roszczeń odszkodowawczych względem Skarbu Państwa35. Powstaje
+także pytanie o konsekwencje wykazania przez osobę określoną jako pozwany, że to
+nie ona dopuściła się zachowania mającego naruszać dobra osobiste powoda36.
+2.1.8. Zauważa się również, że potencjalne naruszenie dóbr osobistych
+w Internecie zaistnieć może w związku z działalnością prasy. Pojawia się zatem
+kwestia relacji proponowanych rozwiązań normatywnych do regulacji ustawy z dnia 26
+stycznia 1984 r. - Prawo prasowe37	'. Ustawa ta statuuje m.in. prawo autora materiału
+prasowego do zachowania anonimowości oraz zakaz ujawniania przez dziennikarzy
+oraz pozostałych pracowników redakcji, wydawnictwa, czy też innej prasowej jednostki
+30 Por. пр. J. Panowicz-Lipska [w:] Kodeks cywilny. Komentarz, t. 1, Art. 1-352, red. M. Gutowski,
+Warszawa 2021, komentarz do art. 24, nb 7 oraz wskazaną tam literaturę i orzecznictwo.
+31 Por. D. Wybrańczyk, Ocena skutków prawych..., s. 12.
+32 Por. tamże, s. 10, 14.
+33 Tamże, s. 10.
+34 Por. np. tamże, s. 11; Opinia Prokuratorii Generalnej..., s. 8-9; O. Rudak, „Slepy pozew" jako ochrona
+przed anonimowym hejtem -https://czasopismo.legeartis.org/2017/06/slepy-pozew-ochrona-przed-
+anonimowym-hejtem/ (dostęp: 14.11.2024 r.).
+35 Opinia Prokuratorii Generalnej..., s. 9.
+36 Por. tamże.
+37 Dz. U. z 2018 r. poz.1914; dalej: pr. pras.
+10
+
+--- page 11 ---
+organizacyjnej: a) danych umożliwiających identyfikację autora materialu prasowego,
+listu do redakcji lub innego materiału o tym charakterze oraz danych innych osób
+udzielających informacji opublikowanych albo przekazanych do opublikowania, jeżeli
+osoby te zastrzegły nieujawnianie powyższych danych; b) wszelkich informacji,
+których ujawnienie mogłoby naruszać chronione prawem interesy osób trzecich (zob.
+art. 15 pr.pras.). Projektowane przepisy nie odnoszą się do tego zagadnienia3s
+2.1.9. Jako potencjalnie problematyczne wskazać należy także odwołanie się
+przez projektodawców do pojęcia „adres URL" (zob. projektowany art. 50546 § 2 pkt 3
+i 4 k.p.c.). Zwrot ten, jak zauważono w odniesieniu do analogicznych propozycji
+legislacyjnych, nie został zdefiniowany w kodeksie postępowania cywilnego, co może
+utrudniać stosowanie proponowanych regulacjiss.
+2.1.10. Wątpliwości wzbudza również zakreślenie stosunkowo krótkich
+terminów tak dla sądu, jak i innych podmiotów, np. siedmiodniowego terminu
+na wystapienie przez sąd o dane potrzebne do ustalenia tożsamości pozwanego oraz
+przekazanie tychże danych przez właściwe podmioty (zob. projektowany art. 50559 §
+1, 3, 4, 5 k.p.c.). Termin ten, jak się podkreśla, jest w zasadzie niemożliwy
+do dotrzymania przez sądy z uwagi na obciążenie rozpatrywanymi sprawami
+oraz problematyczny z punktu widzenia dostawcy usług elektronicznych, zwłaszcza
+gdy nie jest to duży podmiot gospodarczy4°.
+2.2. Analizowany projekt zakłada dodanie do kodeksu cywilnego art. 4481
+przewidującego moźliwość zasądzenia, na wniosek osoby, której dobra osobiste
+zostały naruszone w Internecie, sumy pieniężnej na rzecz tej osoby albo na wskazany
+przez nią cel społeczny. Celowość wprowadzenia wskazanej regulacji budzi
+watpliwości, jako że art. 448 k.c. stanowiąc ogólną podstawę do żądania
+zadoścuczynienia albo wpłaty na cel społeczny z tytułu naruszenia dóbr osobistych41
+obejmuje swoim zakresem normowania także naruszenia dóbr osobistych dokonane
+38 Por. D. Wybrańczyk, Ocena skutków prawych..., S. 10
+39 Por. D. Wybrańczyk, Ocena skutków prawych..., s. 7; Opinia Krajowej Rady Sądownictwa z dnia 27
+lipca 2017 r. w przedmiocie projektu ustawy o zmianie ustawy - Kodeks postępowania cywilnego
+oraz ustawy - Prawo telekomunikacyjne, znak: WO-020-71/17, s. 2 -
+https://orka.sejm.gov.pl/Druki8ka.nsf/0/50565BBD49140525C125817100403A8F/%24File/1715-
+004. pdf.
+40 Por. Opinia Sądu Najwyższego..., s. 7; P. Szymaniak, Koniec bezkarnego hejtu w sieci? Jest projekt
+o "ślepych" pozwach - https://www.rp.pl/dobra-osobiste/art41061011-koniec-bezkarnego-hejtu-w-sieci-
+jest-projekt-o-siepych-pozwach.
+41 Por. np. M. Romańska [w:] Dobra osobiste i ich ochrona, red. M. Romańska, Warszawa 2020, rozdz.
+VI § 4 pkt 2
+11
+
+--- page 12 ---
+w Internecie 2, Zatem zaproponowana regulacja jawi się jako zbędna, co rzutuje także
+na ocenę zasadności postulowanej modyfikacji treści art. 449 k.c. uwzględniającą
+dodanie projektowanego art. 448' k.c.
+2.3. Przedmiotowy projekt zakłada także nowelizację ustawy o świadczeniu
+ustug drogą elektroniczną.
+Wtym kontekście zauważyć trzeba, iż na mocy projektowanego art. 18b u.s.u.e.
+usługodawca zostaje zobowiązany do udostępnienia danych wskazanych w art. 18
+ust. 1 i 5 u.ś.u.e jak i danych, o których mowa w art. 386 ust. 1 pkt 1 p.k.e.
+(w projektowanym brzmieniu) na wezwanie sądu albo organu administracji publicznej
+na podstawie rozporządzenia 2022/2065. Przy czym, zgodnie z projektowanym art
+18a u.ś.u.e, dane wskazane w art. 18 ust. 1 i 5 tej ustawy, generowane lub
+przetwarzane w trakcie działalności prowadzonej na terytorium Rzeczypospolitej
+Polskiej, usługodawca miałby przechowywać na własny koszt przez 6 miesięcy - licząc
+od dnia wprowadzenia danych do systemu teleinformatycznego, do którego maja
+dostęp użytkownicy.
+W związku z tym należy zwrócić uwagę na kontrowersje co do statusu art. 18
+ust. 1 u.s.u.e. W piśmiennictwie wskazuje się, że w związku z wejściem w życie
+ogólnego rozporządzenia o ochronie danych43 oraz brakiem, pierwotnie zakładanego,
+uchylenia art. 18 ust. 1-4 u.ś.u.e. powstają „poważne watpliwości interpretacyjne
+w zakresie możliwości wskazywania adekwatnych podstaw prawnych przetwarzania
+danych usługobiorcy"44	. Formułowana jest także dalej idąca teza o derogacji art. 18
+ust. 1-4 u.ś.u.e. w miejsce których winien być stosowany art. 6 ust. 1 RODO45.
+Niejasnym jest także sformułowanie mówiące o wystosowanym przez sąd lub organ
+administracji publicznej wezwaniu do udostępnienia danych na podstawie
+rozporządzenia 2022/2065. Artykut 10 tego rozporządzenia odnosi się do nakazu
+udzielenia informacji na temat indywidualnego odbiorcy usługi, który jednak wydany
+ma zostać w oparciu o mające zastosowanie prawo Unii Europejskiej lub mające
+42 Por. np. P. F. Piesiewicz, O. M. Piaskowska, Ustalenie danych osobowych sprawcy naruszenia dóbr
+osobistych w Internecie celem dochodzenia ich ochrony w postępowaniu cywilnym, Zeszyty Naukowe
+Katolickiego Uniwersytetu Lubelskiego Jana Pawia Il 2018, t. 61, nr Z, S. 218.
+43 Rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 2016/679 z dnia 27 kwietnia 2016 r
+w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie
+swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie
+o ochronie danych), Dz. Urz. UE L 1119 z 4.5.2016, s. 1, ze zm.; dalej także: RODO.
+4 A. Krzyżak [w:] Ogólne rozporządzenie o ochronie danych osobowych. Ustawa o ochronie danych
+osobowych. Wybrane przepisy sektorowe. Komentarz, red. P. Litwiński, Warszawa 2021, komentarz do
+art. 18 ustawy o świadczeniu usług drogą elektroniczną, nb 1.
+45 Por. K. Chałubińska-Jentkiewicz, J. Taczkowska-Olszewska, Swiadczenie usług drogą elektroniczną.
+Komentarz, Warszawa 2019, komentarz do art. 18, nb 1.
+12
+
+--- page 13 ---
+zastosowanie prawo krajowe zgodne z prawem Unii. Regulacja ta, jak wskazuje się
+w doktrynie, nie statuuje „nowego typu nakazu, lecz harmonizuje elementy, jakie
+nakazy powinny posiadać, oraz nakłada związane z tym obowiązki informacyjne na
+usługodawców, organy wydające nakaz oraz koordynatorów ds. usług cyfrowych"46
+Wskazać także wypada, iż wobec zbliżonych propozycji legislacyjnych
+zakładających zobowiązanie usługodawcy do przechowywania podobnego zakresu
+danych użytkownika, przez, co do zasady, podobny okres, podnoszono zarzut
+naruszenia zasad wynikających z regulacji unijnych, np. zasady konieczności
+i proporcjonalności47
+2.4. Do zmian projektowanych w prawie komunikacji elektronicznej odnieść
+można mutatis mutandis uwagi dotyczące ustawy o swiadczeniu ustug drogą
+elektroniczną.
+III. Jak problem został rozwiązany w innych państwach, w szczególności
+państwach członkowskich OECD/UE?
+Prawna ochrona osób poszkodowanych na skutek działań w przestrzeni
+cyfrowej jest na gruncie prawa cywilnego różnie realizowana w poszczególnych
+państwach.
+W niektórych państwach naruszenia takie rozpatrywane są w ramach ogólnych
+przepisów procedury cywilnej. Na przykład w Danii 48	, Francji49	, Niemczech50 czy
+Słowenii1 w aktach prawnych regulujących postepowanie cywilne nie zidentyfikowano
+odrębnych przyśpieszonych postępowań procesowych dotyczących naruszeń dóbr
+osobistych w Internecie. Natomiast w Austrii w kodeksie postępowania cywilnego"2
+przewidziano odrębną procedurę znajdującą zastosowanie w przypadku poważnych
+naruszeń dóbr osobistych w przestrzeni cyfrowej. Zgodnie z § 549 kodeksu
+46 K. Garstka [w:] Akt o uslugach cyfrowych. Komentarz, red. J. Gołaczyński, R. Skibicki,
+Warszawa 2024, komentarz do art. 10, teza 1.
+47 Por. Stanowisko Konfederacji Lewiatan do poselskiego projektu ustawy o zmianie ustawy - Kodeks
+postępowania	cywilnego oraz niektórych innych ustaw (druk nr 728), S.	2-3. 6-8 -
+https://orka.sejm.gov.pl/Druki10ka.nsf/0/36BAC5B5764FE332C1258BCB003EB37E/%24File/728-
+001. pdf (dostęp: 14.11.2024 r.).
+48 Bekendtgørelse af lov om rettens pleje, LBK nr 1160 af 05/11/2024,
+https://www.retsinformation.dk/eli/lta/2024/1160.
+49 Code de procédure civile, https://www.legifrance.gouv.fr/codes/texte_|c/LEGITEXT000006070716/.
+50 Code of Civil Procedure (Zivilprozessordnung), https://www.gesetze-im-
+internet.de/englisch_zpo/index.html.
+51 Zakon o pravdnem postopku (ZPP), https://pisrs.si/pregledPredpisa?id=ZAKO1212.
+52 Zivilprozessordnung - ZPO,
+https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=100016
+13
+
+--- page 14 ---
+postępowania cywilnego w sporach prawnych dotyczących pozwów, w ktorych
+dochodzone są wyłącznie roszczenia o wydanie nakazu zaprzestania szkodliwych
+praktyk ze względu na istotne naruszenie dóbr osobistych w sieci łączności
+elektronicznej naruszające godność ludzką osoby fizycznej, sąd, na wniosek powoda,
+wydaje nakaz bez uprzedniego ustnego przesłuchania i bez wysłuchania pozwanego,
+jeżeli domniemane roszczenie można ostatecznie wywnioskować z informacji
+zawartych w pozwie. Do pozwu dołącza się dowody pochodzące z sieci łączności
+elektronicznej, wskazujące lub uwidaczniające treści naruszające prawo. Pozwany,
+jeśli kwestionuje dochodzone roszczenie, musi wnieść sprzeciw od nakazu w ciągu
+czternastu dni. Sąd może, na wniosek powoda, nadać tymczasową wykonalność
+nakazowi zaprzestania szkodliwych praktyk.
+W państwach z obszaru common law (m.in. w Irlandii, Wielkiej Brytanii
+i Kanadzie) osoby, które są ofiarami naruszeń swoich praw w związku z działalnościa
+anonimowych sprawców mogą w stosownych przypadkach liczyć na zastosowanie
+przez sąd środka, którym jest tzw. Norwich Pharmacal Order53	. Celem Norwich
+Pharmacal Order jest umożliwienie powodowi zidentyfikowania nieznanego wcześniej
+sprawcy 54 . Srodki te są często stosowane wobec dostawców mediów
+społecznościowych i ustug internetowych w przypadkach, gdy anonimowa osoba
+publikuje na stronie internetowej materiał, który stanowi naruszenie prawa, na przykład
+prawa do dobrego imieniass	. W Irlandii przy podejmowaniu decyzji o wydaniu Norwich
+Pharmacal Order sądy biorą pod uwagę następujące przesłanki: 1) czy istnieją
+uzasadnione podstawy do wierdzenia, że doszio do naruszenia prawa; 2) czy
+ujawnienie informacji lub dokumentów od osoby trzeciej jest wymagane w celu
+umożliwienia podjęcia działań przeciwko sprawcy; 3) czy pozwany jest na tyle
+zaangażowany w popełnienie czynu zabronionego, że mógł je ułatwić, nawet jeśli
+działał niewinnie, i jest w stanie dostarczyć wymaganych informacji; 4) czy nakaz jest
+konieczny w interesie wymiaru sprawiedliwości 6
+53 Koncepcja Norwich Pharmacal Order wywodzi się z ogólnych zasad określonych w decyzji Izby
+Lordów	W	sprawie Norwich Pharmacal Co V Customs and Excise Commissioners,
+http://www.bailii.org/uk/cases/UKHL/1973/6.html.
+54 D. Culleton, The Law relating to Norwich Pharmacal Orders, [2021] Irish Judicial Studies Journal, Vol
+5(1), https://www.ijsj.ie/assets/uploads/documents/pdfs/2021-Edition-1/2.%20David/20Culleton.pdf.
+55 Norwich Pharmacal Orders - Legal Consequences for "Anonymous" Online Users, https://hayes-
+solicitors ie/News/Norwich-Pharmacal-Orders--Legal-Consequences-for-Anonymous- Online-Users.
+Anonymous	Wrongdoer,
+https://www.mhc.ie/latest/insights/norwich-pharmacal-relief-uncovering-the-anonymous-wrongdoer.
+
+--- page 15 ---
+Z kolei rozwiązanie przewidujące możliwość wniesienia do sądu cywilnego
+pozwu bez określania podmiotu pozwanego zidentyfikowano w prawie procesowym
+Stanów Zjednoczonych57 , Konstrukcja John Doe lawsuit umożliwia wniesienie pozwu
+przeciwko osobie początkowo nieznanej co do tożsamości, której dane identytikujące
+- już po wniesieniu pozwu - zostają ustalone przez powoda przy pomocy sąduss
+Możliwość wniesienia John Doe lawsuit jest potwierdzona orzeczeniami
+precedensowymi, które w amerykańskim systemie prawnym mają charakter źródła
+prawa powszechnie obowiązującego 59. Samo wniesienie pozwu nie jest jeszcze
+wystarczające - powód musi od razu wskazać działania, które zamierza podjąć, aby
+ustalić tożsamość pozwanego (funkcją John Doe lawsuit nie jest bowiem umożliwienie
+prowadzenia i zakończenia procesu bez działania pozwanego, ale jedynie
+umożliwienie jego wszczęcia celem ustalenia tożsamości adresata żądania
+- i dalszego jego prowadzenia już z zachowaniem ogólnej regulacji) 60 .
+W precedensowej sprawie Dendrite International, Inc. v. Doe, No. 3 (2001) Wyższy
+Sąd New Jersey sformułował zasady dopuszczalności ujawnienia tożsamości autora
+wypowiedzi dokonanej w przestrzeni internetowej (m.in.: powód powinien wykazać, że
+podjął próbę powiadomienia anonimowego autora wypowiedzi o ewentualnym
+procesie oraz zapewnił mu moźliwość udzielenia odpowiedzi; próba ta może polegać
+na zawiadomieniu zamieszczonym na stronie internetowej, na której umieszczona była
+wypowiedź anonimowego autora)61. Wykluczony jest automatyzm w korzystaniu z tego
+narzędzia prawnego. Sąd waży interes powoda w ujawnieniu tożsamości pozwanego
+oraz interes pozwanego w zachowaniu anonimowości w ramach korzystania
+z wolności (także anonimowej) wypowiedzi.
+IV. Podmioty, na które oddzialuje projekt
+Proponowane rozwiązanie będzie oddziaływało na podmioty uczestniczące
+w utrzymywaniu i korzystaniu z ekosystemu cyfrowego62	„sieci Internet" w przypadku,
+57 Wystąpienie Rzecznika Praw Obywatelskich do Ministra Sprawiedliwości ws. zwalczania mowy
+17.05.2016,	3;
+https://bip.brpo.gov.plsites/defaut/iles/Wystapienie%20do%20Ministra%20Sprawiediwosci%20ws%
+20zwalczania%20mowy%20nienawisci%20w%20internecie%2017.05.2016.paf.
+58 M. Winczura, Anonimowość pozwanego - aktualnie dostępne środki prawne oraz postulat
+wprowadzenia ślepego pozwu do Kodeksu postępowania cywilnego, rozprawa doktorska M. Winczura,
+9.04.2024, s. 259, https://uwedupl.bip.gov.pl/doktoraty-udostepnione-na-stronie-bip-zgodnie-z-art-188-
+ust-1-i-2-ustawy-z-dnia-3-lipca-2018-r-prawo-o-szkolnictwie-wyzszym/mateusz-winczura.html.
+59 Ibidem, s. 225.
+60 Ibidem, s. 234.
+Wystapienie Rzecznika Praw Obywatelskich..., op.cit. s. €
+2 Pojęcie używane w rozporządzeniach unijnych, np. w motywie 28 i 2.
+
+--- page 16 ---
+gdy do tej sieci zostaną wprowadzone informacje uznawane za „nielegalne treści"
+dotyczące dóbr osobistych.
+Warto zwrócić uwagę na to, że projektodawcy używają sformułowania terminu
+„sieć Internet"63. W dokumentach unijnych, (na przykład w akcie o usługach cyfrowych)
+termin ten jest pisany małą literą. Problem pisowni wykracza poza kwestię poprawności
+językowej. „Internet" może oznaczać system łączności zapewnianej przez protokół IP
+albo szerzej - cyfrowe medium analogiczne do prasy czy telewizji wykorzystujące różne
+systemy łączności. Obecnie znaczenie innych systemów łączności jest znikome - ale
+warto odnotować, że projekt, jak się wydaje, pozostawia je poza zakresem regulacji4.
+Podmioty uczestniczące w utrzymywaniu i korzystaniu z ekosystemu cyfrowego „sieci
+Internet" to:
+- podmioty będące odbiorcami usług pośrednich (nadawcami oraz odbiorcami
+informacji), których liczba sukcesywnie wzrasta. Dane wynikające z corocznych badań
+GUS pozwalają zobrazować skalę i dynamikę tego wzrostu. Według najnowszych
+dostępnych danych, w 2023 r., w Polsce co najmniej raz w tygodniu korzystało
+z internetu 85,3% osób w wieku 16-74 lata. Odsetek osób, które łączyły się
+z internetem codziennie lub prawie codziennie wyniósł 92,0%, korzystanie
+z komunikatorów zadeklarowało 64,5%, a z serwisów społecznościowych 62,3%65.
+Infrastruktura zapewniająca	łączność sieciową również jest sukcesywnie
+rozbudowywana. Zasięg sieci o bardzo dużej przepustowości w Polsce obejmuje
+81,1 % gospodarstw domowych i jest wyższy niż średnia dla całej UE (78,8 %)66;
+- dostawcy usług pośrednich. Dostawcami usług pośrednich są podmioty, które
+prowadzą działalność polegającą na swiadczenia usług zwykłego przekazu, cachingu
+oraz hostingu®/	', w tym również podmioty zapewniające usługi techniczne i wspierające,
+63 Termin „sieć Internet" jest używane w 16 polskich ustawach, „Internet" pisany wielką literą w 74
+ustawach, pisany małą literą występuje w 5 ustawach. (stan na dzień sporządzania opinii).
+64 Kwestia ta byla podnoszona m.in. w Opinii Krajowej Rady Sądownictwa z dnia 27 lipca 2017 r.
+w przedmiocie projektu ustawy o zmianie ustawy - Kodeks postępowania cywilnego oraz ustawy -
+Prawo telekomunikacyjne, znak: WO-020-71/17, s. 2
+https://orka.sejm.gov.pl/Druki8ka.nsf/0/50565BBD49140525C125817100403A8F/%24File/1715-
+004.pdf., s. 2, (zob. pkt il Oceny Skutków Regulacji zawartej w poselskim projekcie ustawy o zmianie
+ustawy- Kodeks postępowania cywilnego oraz niektórych innych ustaw (przed nadaniem numeru druku
+BEOS-WPIWOSR-1900/24).
+65 GUS Spoleczeństwo informacyjne w Polsce w 2023 r., Warszawa-Szczecin, 2023, s. 119, 124
+https://stat.gov.pl/download/gfx/portalinformacyjny/pl/defaultaktualnosci/5497/1/17/1/spoleczenstwo_in
+formacyjne_w_polsce_w_2023.pdf.
+66 https://digital-strategy.ec.europa.eu/pl/factpages/poland-2024-digital-decade-country-report.
+67 Usługi pośrednie polegające na „zwykłym przekazie" obejmują kategorie usług, takie jak punkty
+wymiany ruchu internetowego, punkty dostępu bezprzewodowego, wirtualne sieci prywatne, uslugi
+i resolwery DNS, rejestry nazw domen najwyższego poziomu, rejestratorzy, organy certyfikacji
+wydające certyfikaty cyfrowe, telefonia internetowa i inne ustugi łączności interpersonalnej. Przykłady
+16
+
+--- page 17 ---
+w zakresie w jakim w jakim te usługi można zakwalifikować jako zwykły przekaz,
+caching lub hosting68	. Projekt dotyczyć będzie również wszystkich osób fizycznych,
+osób prawnych albo jednostek organizacyjnych nieposiadających osobowości prawnej,
+które prowadząc, chociażby ubocznie, działalność zarobkową lub zawodową świadcza
+usługi drogą elektroniczną (usługodawców świadczących usługi droga elektroniczna),
+przez zwiększenie liczby danych eksploatacyjnych do przetwarzania których są
+uprawnione oraz nałożenie obowiązku przechowywania tych danych, na własny koszt,
+przez okres 6 miesięcy, licząc od dnia wprowadzenia ich do systemu
+teleinformatycznego, do którego mają dostęp użytkownicy oraz udostępniania ich na
+wezwanie sądu lub organu administracji publicznej.
+W Polsce działalność sklasyfikowaną w Polskiej Klasyfikacji Działalności69	, w sekcji
+J - Informacja i Komunikacja, w dziale 63 - działalność usługowa w zakresie informacji
+prowadzi ponad 22 tysiące podmiotów70;
+- przedsiębiorcy telekomunikacyjni - dostawcy publicznej sieci telekomunikacyjnej
+przez nałożenie obowiązku gromadzenia wskazanych szczegółowo danych
+użytkowników sieci i udostępniania ich w postępowaniu przed sądem. Liczba
+operatorów sieci i dostawców usług telekomunikacyjnych w Polsce wynosi 366671.
+Według raportu UKE w 2023 r. ustugę stacjonarnego dostępu do internetu świadczyło
+ponad 2200 przedsiębiorców (dla 9,5 mln klientów, co stanowi 65,5% gospodarstw
+domowych), uslugę dostępu mobilnego ponad 100 przedsiębiorców (dla 8,9 mln
+klientów). Z usług wiązanych korzystało 14,2 mln użytkowników'2. Należy zauważyć,
+uslug pośrednich polegających na „cachingu" obejmują wyłącznie zapewnianie sieci dostarczania
+treści, odwrotnych serwerów proxy lub serwerów proxy adaptacji treści. Przykładowe „uslugi hostingu"
+obejmują kategorie uşług takie, jak przetwarzanie w chmurze, web hosting, odpłatne usługi odsyłania
+czy usługi umożliwiające wymianę informacji i treści online, w tym przechowywanie i udostępnianie
+plików. Usługi pośrednie mogą być świadczone oddzielnie, jako część innego rodzaju usługi pośredniej,
+lub równocześnie z innymi usługami pośrednimi. To, czy dana usługa jest usługą „zwykłego przekazu"
+„cachingu" czy „hostingu", zależy wyłącznie od jej funkcji technicznych, które mogą ewoluować
+w czasie. Zob. motyw 27 aktu o usługach cyfrowych.
+6в Przykładem usług technicznych і wspierających są usługi które umożliwiają, lokalizują lub ulepszają
+funkcje innych dostawców usług pośrednich, inne uslugi wykorzystywane na potrzeby lączności oraz
+techniczne środki ich świadczenia. Zob. motyw 28 aktu o usługach cyfrowych.
+69 Rozporządzenie Rady Ministrów z dnia 24 grudnia 2007 r. w sprawie Polskiej Klasyfikacji Działalności
+(PKD) (Dz.U. z 2007,nr 251, poz.1885 ze zm.).
+70 GUS, Miesięczna informacja o podmiotach gospodarki narodowej w rejestrze REGON, październik
+2024,
+tps://stat.gov.pl/obszary-tematyczne/podmioty-gospodarcze-wyniki-finansowe/zmiany-strukturalne-
+grup-podmiotow/miesieczna-informacja-o-podmiotach-gospodarki-narodowej-w-rejestrze-regon-
+pazdziernik-2024,4,90.html
+1https://bip.uke.gov.pl/rpt/, stan na dzień 31 pazdziernika 2024 r.
+12 UKE Raport o stanie rynku telekomunikacyjnego w 2023 roku, Warszawa 2024 r., s. 5-6 i 8, 11,
+26- 28 stan na dzień 31 grudnia 2023 r.
+https://www.uke.gov.pl/download/gfx/uke/pl/defaultaktualnosci/36/545/9/uke_raport_tele_2023_net_s
+mal_3 pof.
+17
+
+--- page 18 ---
+że działalność niegospodarczą z zakresu telekomunikacji prowadzą również jednostki
+samorządu terytorialnego (w szczególności polegającą na dostarczaniu sieci
+telekomunikacyjnej i świadczeniu usług telekomunikacyjnych z wykorzystaniem
+własnej sieci i infrastruktury) "3 - i one również powinny być objęte obowiązkiem
+udzielania informacji. Do rejestru prowadzonego przez Prezesa UKE wpisanych jest
+576 takich jednostek74;
+- sądy okręgowe w liczbie 47 lub jeden sąd okręgowy wskazany przez Ministra
+Sprawiedliwości przez przekazanie do ich właściwości wszystkich spraw o ochronę
+dóbr osobistych w przypadkach, gdy do naruszenia doszło „za pośrednictwem sieci
+Internet, przez nałożenie obowiązków organizacyjno-procesowych związanych
+z pozyskiwaniem informacji od ustugodawców i przedsiębiorców telekomunikacyjnych
+na potrzeby toczących się postępowań oraz przez nałożenie szczególnych obowiązków
+sprawozdawczych;
+- sądy apelacyjne w liczbie 16 lub jeden sąd apelacyjny właściwy w sprawach spraw
+o ochronę dóbr osobistych w przypadkach, gdy do naruszenia doszło „za
+pośrednictwem sieci Internet", wskazany przez Ministra Sprawiedliwości.
+Projekt będzie ponadto oddziaływać na:
+- Prezesa Urzędu Ochrony Konkurencji i Konsumentów przez wskazanie go jako
+organu egzekwującego akt o usługach cyfrowych i nadzorującego dostawców platform
+internetowych umożliwiających konsumentom zawieranie z przedsiębiorcami umów
+zawieranych na odległość;
+- Prezesa Urzędu Komunikacji Elektronicznej przez ustanowienie go koordynatorem
+do spraw usług cyfrowych oraz wskazanie go jako organu egzekwującego akt
+o usługach cyfrowych w zakresie spraw innych niż ochrona konsumentów;
+- Prezesa Rady Ministrów, przez wskazanie go jako organu rozstrzygający spory
+o właściwość między Prezesem UKE i Prezesem UOKIK;
+- Ministra Sprawiedliwości oraz ministra właściwego do spraw Informatyzacji przez
+nałożenie obowiązku wydania rozporządzenia wykonawczego.
+V. Informacje o zakresie, czasie trwania i wynikach konsultacji
+Projekt ustawy nie zawiera informacji na temat poddania go konsultacjom
+spotecznym.
+73 Art. 3 ust. 1 i art. 5 ustawy z dnia 7 maja 2010 r. o wspieraniu rozwoju usług i siec
+telekomunikacyjnych (Dz.U. z 2024, poz. 604 ze zm.)
+74 Zob. https://bip.uke.gov.pl/rjst, stan na dzień 31 października 2024 r.
+18
+
+--- page 19 ---
+Zgodnie z informacjami z Systemu Informacyjnego Sejmu, w dniu
+5 listopada 2024 r. Marszałek Sejmu skierował projekt do konsultacji (SN, PG, KRRP,
+NRA, KRS, PGRP, RMiSP, KIG, KRBR, UODO, KRK i RDS).
+VI. Wpływ na sektor finansów publicznych
+Według projektodawców budżet państwa będzie obciążony kwotą 50-70 mln zł,
+a budżet jednostek samorządu terytorialnego kwotą 20-30 mln z1. „Koszty szkoleniowe
+dla funkcjonariuszy" oraz kampanii informacyjnych ocenione są na 10-15 mln w roku
+wejścia w życie ustawy; „wdrożenie lokalnych programów edukacyjnych oraz
+szkolenia pracowników administracyjnych, nauczycieli w związku z nowymi
+przepisami" na 20-30 mln zł rocznie. Według projektodawców potencjalne dochody
+„z tytułu kar" mogą każdorocznie wynosić 5-10 mln zł.
+Projektodawcy (a) nie wskazali precyzyjnie powiązania poszczególnych
+rozwiązań z rodzajem kosztów, (b) nie przedstawili metodyk i założeń przyjętych do
+szacowania kosztów oraz (c) nie wskazali odwołań do opracowań zawierających dane
+źródłowe na podstawie których dokonali obliczeń co uniemożliwia ocenę adekwatności
+wyliczonych przez nich kwot.
+Oceniając skutki projektu dla sektora finansów publicznych należy wskazać, że
+projekt będzie generować koszty dla budżetu państwa w części 15 Sądy powszechne.
+Wedlug projektodawców sprawy o ochronę dóbr osobistych w przypadkach, gdy
+do naruszenia doszło „za pośrednictwem sieci Internet" będą należeć do właściwości
+sądów okręgowych lub jednego sądu okręgowego wskazanego przez Ministra
+Sprawiedliwości. Proponowane przepisy zwiększą obciążenie organizacyjne sądów
+okręgowych w skali, której nie da się oszacować.
+Wobecnym stanie prawnym w sprawach o naruszenie dóbr osobistych orzekają
+zarówno sądy rejonowe (w sprawach o roszczenia majątkowe) oraz sądy okręgowe
+(w sprawach o roszczenia niemajątkowe i łącznie z nimi dochodzone roszczenia
+majątkowe). Dostępne dane pozwalają zobrazować aktualną liczbę przypadków,
+w których osoby poszkodowane na podstawie obecnie obowiązujących przepisów
+decydują się na uruchomienie postępowania przed sądem. Postępowania cywilne
+w sprawie ochrony dóbr osobistych - bez wyszczególnienia, o jakie dobro i w jaki
+sposób zagrożone chodzi - są corocznie sprawozdawane, jednakże nie ma
+19
+
+--- page 20 ---
+dostępnych danych zbiorczych 75	•Przejrzenie kilkunastu sprawozdań za 2023 r.
+losowo wybranych sądów rejonowych (na sumaryczną liczbę wszystkich 319) oraz
+losowo wybranych sądów okręgowych (na sumaryczną liczbę wszystkich 47) prowadzi
+do wniosku, że w przypadku sądów rejonowych coroczna liczba takich postępowań
+wynosi od 0 do 10 w mniejszych ośrodkach miejskich, około 20-30 w większych
+ośrodkach, a w dużych około 50-70. W przypadku sądów okręgowych liczba
+postępowań wynosi odpowiednio około 10, 200 i ponad 500.
+Jeżeli - jedynie ilustracyjnie - przyjąć założenie, że w każdym sądzie (tj. w
+każdym z 319 rejonowych oraz w 47 okręgowych) pojawi się dodatkowo 10 spraw
+rocznie, oznaczać to będzie obciążenie jednego wyznaczonego sądu okręgowego
+sumaryczną liczbą ponad 3,6 tys. spraw, a w równomiernym rozłożeniu na 47 sądów
+- blisko 80 spraw w każdym sądzie okręgowym. W przypadku, gdyby pojawito się 100
+nowych spraw rocznie oznaczałoby to zwiększenie sumarycznej liczby do 36 tys.
+spraw w jednym wyznaczonym sądzie, a w równomiernym rozłożeniu na 47 sądów -
+byłoby to około 800 nowych spraw w każdym sądzie okręgowym. Zapewne będzie to
+oznaczać potrzebę zwiększenia obsady sędziowskiej i uwzględnienia kosztów
+wynagrodzeń oraz kosztów obsługi spraw.
+Według projektodawców pozwy i pisma procesowe w sprawach o ochronę dóbr
+osobistych, gdy do naruszenia doszło „za pośrednictwem sieci Internet" mają być
+wnoszone	na	urzędowych	formularzach	pośrednictwem systemu
+teleinformatycznego. Proponowane rozwiązanie wymagać będzie zapewnienia
+działania systemów teleinformatycznych o odpowiednich funkcjonalnościach we
+wszystkich sądach okręgowych lub w jednym wyznaczonym sądzie. Obecnie żaden
+sąd okręgowy nie udostępnia takiego systemu teleinformatycznego ?	. Informacje
+w BIP sądów najczęściej wprost wskazują, że „pisma procesowe nie mogą być
+wnoszone drogą elektroniczną, a ich wniesienie w taki sposób nie wywołuje skutków
+prawnych. Wyjątkiem jest elektroniczne postępowanie upominawcze, uregulowane
+odrębnymi przepisami"77
+75 Coroczne sprawozdania statystyczne dotyczące działalności sądu sporządzane w ramach programu
+badań statystycznych MS-S1r (sądy rejonowe) oraz MS-S1o (sądy okręgowe) dla Ministerstwa
+Sprawiedliwości umieszczane są w Biuletynach Informacji Publicznej poszczególnych sądów.
+76 Zgodnie z art. 125 § 21a. k.p.c. dokonanie wyboru wnoszenia pism procesowych za pośrednictwem
+systemu teleinformatycznego oraz dalsze wnoszenie tych pism za pośrednictwem tego systemu jest
+dopuszczalne, jeżeli z przyczyn technicznych, leżących po stronie sądu, jest to możliwe.
+7 34 sądy okręgowe wyraźnie informują o braku systemu teleinformatycznego obsługującego
+przyjmowanie pism procesowych, w 13 przypadkach brak takiej wyraźnej informacji, brak też dostępu
+do systemu. Przykład informacji: www.zielona-gora.so.gov.pl/?mod=131.
+20
+
+--- page 21 ---
+Wprowadzenie proponowanego przez projektodawców rozwiązania wymagać
+będzie poniesienia kosztów zaprojektowania, wdrożenia oraz utrzymywania jednego
+lub 47 systemów teleinformatycznych. Ilustracyjnie wskazać można, że koszt
+przygotowania i wdrożenia samej modernizacji systemu Elektronicznych Postępowań
+Upominawczych (EPU 3,0) według danych Ministerstwa Sprawiedliwości wynosi blisko
+30 mln z418, (system obsługuje około 2 mln spraw rocznie79). Według dostepnych
+dokumentów sposób wdrożenia tej modernizacji wraz z niezbędnymi działaniami
+towarzyszącymi zaplanowano na 24 miesiące. Przyjmując 14-dniowe vacatio legis nie
+uwzględniono zatem obciążeń oraz czasu koniecznego dla zapewnienia infrastruktury
+pozwalającej na składanie pozwów i innych pism procesowych w formie elektronicznej
+w projektowanym postępowanius0	, jak również kosztów które z powstaniem takiej
+infrastruktury się wiążą.
+Projekt zapewne będzie również generować koszty dla budżetu państwa
+w części 53 Urząd Ochrony Konkurencji i Konsumentów oraz w części 76 Urząd
+Komunikacji Elektronicznej z uwagi na zadania, które Prezes UOKIK oraz Prezes UKE
+- według projektu - będą wykonywać jako organy egzekwujące akt o usługach
+cyfrowych oraz zadania jakie będzie wykonywać Prezes UKE jako koordynator do
+spraw ustug cyfrowych81
+Jako źródła finansowania projektodawcy wskazują: ponoszenie przez strony
+procesu kosztów procesu zgodnie z ustawą o kosztach sądowych w sprawach
+cywilnych82 oraz wpływy z tytułu kar finansowych nakładanych na dostawców treści
+internetowych w wysokości 5-10 mln zł rocznie. Projektodawcy (a) nie przedstawili
+metodyk i założeń przyjętych do szacowania kosztów oraz (b) nie wskazali odwołań
+do opracowań zawierających dane źródłowe na podstawie których dokonali obliczeń
+co uniemożliwia ocenę adekwatności wyliczonych przez nich kwot.
+Można dodatkowo wskazać, że w przypadku niewywiązania się przez
+dostawców i przedsiębiorców telekomunikacyjnych z obowiązku udzielania informacji
+78 https://www.gov.pl/web/cppc/elektroniczne-postepowanie-upominawcze-epu-30.
+79	Wedlug	sprawozdań	MS-S1e	publikowanych	W	BIP:	https://www.lublin-
+zachod.sr.gov.pl/download/01-ms-s1e-sprawozdanie-w-sprawach-cywilnych--prawa-pracy-i-
+gospodarczych-w-elektronicznym-postepowaniu-upominawczym-2023-1709888202.pdf.
+80 Na realizację projektu przewidziano dwa lata: od 01-01-2023 do 31-12-2025, Zob. raporty z postępu
+prac:
+https://www.gov.pl/attachment/775a10f8-be21-4587-a4a8-feba1ace5c22,
+https://www.gov.pl/attachment/ee46db48-9e52-4d51-a5e0-ae725c35532e.
+81 Brak dostępu do danych pozwalających oszacować koszty wykonywania zadań
+82 Ustawa z dnia 28 lipca 2005 r. o kosztach sądowych w sprawach cywilnych (Dz. U. z 2024 r. poz. 959
+
+--- page 22 ---
+mogą być wymierzane kary grzywny. Tym samym rozwiązania potencjalnie moga
+zwiększyć dochody budżetu państwa klasyfikowane w paragrafach 0570 i 0580
+„wpływy z tytułu grzywien, mandatów i innych kar pieniężnych"83 w części 15 Sądy
+powszechne.
+VIl. Wpływ na konkurencyjność gospodarki i przedsiębiorczość oraz na rodzinę,
+obywateli i gospodarstwa domowe
+Projekt ustawy ze względu na swój charakter nie będzie miał wpływu na
+konkurencyjność gospodarki i przedsiębiorczość, ponieważ nie określa zasad
+podejmowania, wykonywania lub zakończenia działalności gospodarczej.
+Proponowana regulacja będzie jednak mieć wpływ na funkcjonowanie
+podmiotów prowadzących działalność usługową w przestrzeni cyfrowej przez
+wprowadzenie obowiązku przechowywania na własny koszt danych ułatwiających
+zidentyfikowanie osób korzystających z usług w powiązaniu z ich aktywnością przez
+okres 6 miesięcy. Koszt archiwizacji zależny będzie od skali działania,
+wykorzystywanych nośników pamięci oraz kosztów aplikacji obsługujących wykonanie
+obowiązku przechowywania danych. Podanie szacunkowych kosztów tego obciążenia
+nie jest możliwe z powodu wielości i rozmaitości rozwiązań dostępnych na rynku oraz
+różnych sposobów działania usługodawców. Należy również zauważyć, że krótki okres
+vacatio legis - 14 dni - może nie pozwolić na przygotowanie adekwatnych rozwiązań
+przez podmioty zobowiązane. Obciążeniem organizacyjnym wprowadzanym przez
+projektowaną ustawę jest również obowiązek udzielenia sądowi odpowiedzi przez
+podmioty wezwane (dostawcę	usług pośrednich i przez przedsiębiorcę
+telekomunikacyjnego) w terminie 7 dni od otrzymania wezwania84.
+Naruszanie dóbr osobistych w sieci jest zbadanym i dobrze udokumentowanym
+problemem społecznym85	, mającym negatywny wpływ na dobrostan psychiczny ludzi,
+83 Rozporządzenie Ministra Finansów z dnia 2 marca 2010 r. w sprawie szczegółowej klasyfikacji
+dochodów, wydatków, przychodów i rozchodów oraz środków pochodzących ze źródeł zagranicznych
+(Dz. U. z 2022 r. poz. 513, ze zm.).
+84 Termin ten jest oceniany jako zbyt krótki. Zob. np. opinię A. Wiercińskiej - https://www.rp.pl/dobra-
+osobiste/art41061011-koniec-bezkarnego-hejtu-w-sieci-jest-projekt-o-slepych-pozwach. Zob. również
+komentarz oraz źródła przywołane w pkt II Oceny Skutków Regulacji zawartej w poselskim projekcie
+ustawy o zmianie ustawy- Kodeks postępowania cywilnego oraz niektórych innych ustaw (przed
+nadaniem numeru druku BEOS-WP/WOSR-1900/24
+85 Zob. np.: Urząd Komunikacji Elektronicznej Analiza funkcjonowania rynku usług telekomunikacyjnych
+w Polsce oraz ocena preferencji konsumentów. 2022 rok. Badania dzieci i rodziców, Warszawa, 2022,
+ttps://cik.uke.gov.pl/gfx/cik/userfiles/_public/badania_dzieci_i_rodzicow_2022.pdf
+aństwowy Instytut Badawczy Nastolatki 3.0 Raport z ogólnopolskiego badania uczniów i rodziców
+Warszawa 2023 r.; Instytut Polska	Przyszłości	Raport z projektu ogarnij hejt, 2022,
+https://instytutlema.p//wp-content/uploads/2022/04/Raport-Ogarnij-Hejt-2022.pdf, S. Spurek, Raport.
+22
+
+--- page 23 ---
+w szczególności dzieci i młodzieży. Wprowadzenie szczególnego postępowania
+przeciwko osobom o nieustalonej tożsamości może mieć wpływ prewencyjny,
+powstrzymując od naruszania dóbr osobistych osób fizycznych, czy podmiotów,
+w szczególności gospodarczych, z obawy o dotkliwe konsekwencje finansowe (które
+nastąpią w wyniku orzeczenia sądu i obejmą koszty usuwania skutków naruszenia,
+wypłaty odszkodowania czy zadośćuczynienia na rzecz podmiotu, którego dobro
+naruszono). Projektowane rozwiązania procesowe ujawnią swój potencjał
+w ograniczeniu tego problemu dopiero w momencie zapewnienia sprawnej
+infrastruktury sprzętowej i organizacyjnej pozwalającej	korzystanie
+z cywilnoprawnej ochrony dóbr osobistych przez osoby poszkodowane.
+Należy podkreślić, że proponowane rozwiązanie nie we wszystkich wypadkach
+naruszenia dóbr osobistych w przestrzeni cyfrowej będzie efektywne. Projekt będzie
+oddziaływać wyłącznie na podmioty uczestniczące w przestrzeni cyfrowej prowadzące
+działalność usługową jak również tworzące i utrzymujące tę przestrzeń86, od których
+będzie można pozyskać dane. Natomiast sieć może być tworzona, utrzymywana
+i wykorzystywana przez podmioty również z takich państw, które nie są, związane
+umowami międzynarodowymi z Unią Europejską czy Rzeczpospolitą Polska
+pozwalającymi na pozyskiwanie potrzebnych danych87. Kolejnymi ograniczeniami
+efektywności są kwestie dowodowe (dane osobowe abonenta IP nie są automatycznie
+danymi sprawcy; konsekwencje używanego standardu IPv488), kwestie techniczne
+(precyzja ograniczona do „sekundy" nie będzie wystarczająca dla hostingu dużych
+ustugodawców89) oraz kompetencje osób naruszających dobra osobiste pozwalające
+Cyberprzemoc	wobec	kobiet	W	Polsce,	2024, https://sylwiaspurek.p//wp-
+content/uploads/2024/06/raport-cyberprzemoc-10-online.pdf.
+86 W przestrzeni cyfrowej granicami stają się fizyczne i logiczne punkty połączeń sieci operatorów
+infrastruktury łączności (zob. art. 2 pkt 36 ustawy z dnia 12 lipca 2024 r. Prawo komunikacji
+elektronicznej (Dz.U. z 2024, poz. 1221).
+87 Wyczerpujące omówienie rozporządzenia Parlamentu Europejskiego i Rady (UE) 2020/1784 z dnia
+25 listopada 2020 r. dotyczącego doręczania w państwach członkowskich dokumentów sądowych
+i pozasądowych w sprawach cywilnych lub handlowych (Dz.Urz.UE.L.2020.405.40), Konwencji
+o doręczaniu za granicą dokumentów sądowych i pozasądowych w sprawach cywilnych lub
+handlowych, sporządzonej w Hadze dnia 15 listopada 1965 r. (Dz. U. z 2000 r. Nr. 50, poz. 582) oraz
+umow międzynarodowych dwustronnych i wielostronnych których RP jest stroną: S. Jastrzemska,
+Praktyczny przewodnik w zakresie międzynarodowej pomocy prawnej w sprawach cywilnych, KSSIP,
+Lublin, 2023,
+https://www.kssip.gov.pl/sites/default/files/praktyczny_przewodnik_w_zakresie_miedzynarodowej_po
+mocy_prawnej_w_sprawach_cywilnych_-_sylwia_jastrzemska.pdf.
+88 |Pv4 (ang. Internet Protocol version 4) czwarta wersja protokolu komunikacyjnego IP dla internetu,
+mająca pojemność adresów ograniczoną do ok. 4 mld oraz jej niekompatybilność z pojemniejszą IPv6.
+89 Np. takich jak Cloudflare https://www.cloudflare.com/pl-pl/what-is-cloudilare.
+23
+
+--- page 24 ---
+na ukrycie tożsamości (używanie otwartych hotspotów, niezabezpieczonych routerów,
+VPN, TOR®).
+VIll. Zmiana obciążeń regulacyjnych (w tym obowiązków informacyjnych)
+wynikających z projektu
+Wejście w życie opiniowanego projektu skutkować będzie nałożeniem
+dodatkowych obowiązków na sądy, które zostaną zobligowane do podjęcia próby
+ustalenia, w przewidzianej projektem procedurze, danych anonimowej osoby, która
+w ocenie powoda naruszyła jego dobra osobiste w sieci Internet; dokonania czynności
+procesowych w określonym ustawowo czasie; a ponadto do przedkładania informacji
+o sprawach dotyczących naruszenia dóbr osobistych w Internecie wniesionych w roku
+poprzednim oraz o rozstrzygnięciach zapadłych w tych sprawach.
+Proponowane regulacje wpłyną także na obowiązki podmiotów świadczących
+usługi w zakresie komunikacji elektronicznej, które zobligowane zostaną do
+przechowywania oraz udostępniania organom państwa zwiększonej liczby danych
+o swoich usługobiorcach.
+IX. Wpływ na rynek pracy
+Projekt ustawy nie będzie miał wpływu na rynek pracy.
+X. Wpływ na pozostałe obszary
+Projekt ustawy nie będzie miat wpływu na pozostare obszary.
+XI. Planowane wykonanie przepisów aktu prawnego
+1. Zgodnie z art. T projektu ustawa wchodzi w życie po upływie 14 dni
+od dnia ogioszenia.
+Projektodawcy przyjęli zatem typową długość vacatio legis wskazaną w art. 4
+ust. 1 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych
+innych aktów prawnych 91. W tym kontekście zauważyć jednak trzeba, że ów
+czternastodniowy termin ma, co do zasady, charakter „standardu minimalnego"92,
+90 VPN (ang. Virtual Private Network) pol. Wirtualna Sieć Prywatna - technologia, która pozwala na
+stworzenie szyfrowanego tunelu pomiędzy urządzeniem użytkownika a siecią, dzięki czemu może on
+zabezpieczyć przesyłane dane oraz chronić swoją prywatność. TOR (ang.The Onion Router) -
+oprogramowanie, które pozwala na prawie anonimowe przeglądanie internetu i udostępnianie usług
+Zob. https://bezpiecznyvpn.pl/tor-vs-vpn.
+91 Dz. U. z 2019 r. poz. 1461.
+92 Por. np. wyrok TK z 10 grudnia 2002 r., sygn. akt K 27/02.
+24
+
+--- page 25 ---
+vacatio legis winna zaś być „odpowiednia", co może oznaczać konieczność nadania
+jej wymiaru czasowego przekraczającego czternaście dni®. Ta „odpowiedniość", jak
+wskazuje się w orzecznictwie konstytucyjnym, powinna być rozpatrywana w
+odniesieniu do możliwości pokierowania przez adresatów norm prawnych swoimi
+sprawami w sposób uwzględniający treść wprowadzanych regulacji4. Inaczej mówiąc,
+vacatio legis powinna zostać ustalona w taki sposób, by adresat normy prawnej
+dysponował czasem „na przystosowanie się do zmienionych regulacji i na bezpieczne
+podjęcie odpowiednich decyzji co do dalszego postępowania"'5
+Projektowane regulacje zakładają nałożenie nowych obowiązków na częsó
+przedsiębiorców działających w sektorze usług elektronicznych, jak i na sądy.
+Przykładowo, jak już wspomniano, przedsiębiorcy tacy będą musieli zapewnić
+techniczną moźliwość przechowywania wskazanych w przepisach projektowanej
+ustawy danych przez okres sześciu miesięcy oraz zdolność do przekazania ich sądowi
+w ciągu siedmiu dni. Analizowane propozycje legislacyjne wpłynęłyby takze na
+funkcjonowanie sądów powszechnych oraz innych organów państwowych, wiążąc się
+np. z koniecznością zatrudnienia nowych pracowników oraz odpowiedniego ich
+przeszkolenia - na co wskazują projektodawcy9. Co najmniej watpliwym jest przy tym
+założenie, iż podmioty te będą w stanie dokonać niezbędnych czynności w ciągu 14
+dni od dnia ogłoszenia ustawy. W konsekwencji przewidywany w projekcie okres
+pomiędzy ogłoszeniem ustawy a jej wejściem w życie, jako zbyt krótki, zdaje się godzić
+w zasadę odpowiedniej vacatio legis wywodzoną z zasady demokratycznego państwa
+prawnego (art. 2 Konstytucji)ª	', stawiając pod znakiem zapytania konstytucyjność
+analizowanej propozycji legislacyjnej.
+2. W świetle art. 6 projektu wprowadzane zmiany normatywne nie wpłyną na
+postępowania wszczęte przed dniem wejścia w życie projektowanej ustawy.
+XII. W jaki sposób i kiedy nastapi ewaluacja projektu oraz jakie mierniki zostana
+zastosowane?
+Projekt ustawy nie zawiera informacji na temat planowanej ewaluacji.
+93 Por. np. orzeczenie TK z 18 października 1994 г., sygn. akt K 2/94
+94 Por. np. wyrok TK z 2 grudnia 2014 r., sygn. akt P 29/13.
+95 Tak np. wyrok TK z 25 marca 2003 r., sygn. akt U 10/01.
+96 Por. dolączone do projektu Deklarowane Skutki Regulacji, s. 11, 12.
+97 Por. np. ww.wyrok TK o sygn. akt P 29/13.
+25
+
+--- page 26 ---
+Autorzy:
+(pkt l i Il.1)
+Bartosz Pawłowski (pkt I, IL.1)
+ekspert ds. legislacji
+w Biurze Ekspertyz
+i Oceny Skutków Regulacji
+(pkt II.2, V, VIII, XI, XII)
+dr Bartłomiej Oszkinis
+ekspert ds. legislacji
+w Biurze Ekspertyz
+i Oceny Skutków Regulacji
+(pkt III)
+dr Danuta Adamiec, Angelina Tazuszel
+specjaliści w Wydziale Oceny Skutków Regulacji
+w Biurze Ekspertyz
+i Oceny Skutków Regulacji
+(pkt IV, VI, VII, IX, X)
+dr Kamilla Kurczewska
+specjalista ds. systemu gospodarczego
+w Biurze Ekspertyz
+i Oceny Skutków Regulacji
+Akceptował:
+Wicedyrektor Biura Ekspertyz
+i Oceny Skutków Regulacji
+1.169
+Ziemowit Cieślik
+Tłoczono z polecenia Marszałka Sejmu Rzeczypospolitej Polskiej	SEJM
+26
+
