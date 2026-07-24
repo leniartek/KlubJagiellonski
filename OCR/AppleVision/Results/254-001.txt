@@ -1,0 +1,529 @@
+--- page 1 ---
+Do druku nr 254
+BIURO EKSPERTYZ I OCENY SKUTKÓW REGULACJI
+SEJM	KANCELARII SEJMU
+EZICTYFOSFOLBEL FOISEI
+Warszawa, dnia 2 kwietnia 2024 r.
+BEOS-WP/WOSR-572/24
+Oi *C*	CYSTAN*:	Pan Minister
+DS.1700.33.2021	Dariusz Salamończyk
+8.04.20211
+Zastępca Szefa Kancelarii Sejmu
+Ocena skutków regulacji
+zawartej w poselskim projekcie ustawy - Przepisy wprowadzające ustawę
+o Trybunale Konstytucyjnym (numer druku sejmowego 254)
+I. Jaki problem jest rozwiązywany?
+Celem projektu ustawy jest - zgodnie z uzasadnieniem projektodawcy -
+„likwidacja stanu dysfunkcjonalności systemu kontroli konstytucjonalności prawa" '.
+Tak określony cel legislacyjny projektodawca chce osiągnąć poprzez uchwalenie
+dwóch skorelowanych ze sobą ustaw. Podstawę pierwszej z nich stanowić ma poselski
+projekt ustawy o Trybunale Konstytucyjnym?, obejmujący przepisy dotyczące ustroju,
+organizacji i postępowania przed Trybunałem Konstytucyjnym (TK) oraz statusu jego
+sędziów. Druga z tych ustaw ma zostać oparta właśnie o niniejszy projekt ustawy i ma
+dostosować podstawę prawną funkcjonowania TK „do potrzeb nowej ustawy
+o Trybunale Konstytucyjnym'"3
+Problemy związane z działalnością TK rozpoczęły się u schyłku VII kadencji
+Sejmu, gdy ówczesna większość polityczna chciała zapewnić sobie możliwość
+dokonania wyboru pięciu sędziów TK. Kwestia ta została rozstrzygnięta w wyrokach
+WYDZIAK OBSŁUGI PREZYDIUM SEJMU
+1 Uzasadnienie do projektu ustawy, s. 9.
+2 Druk X.253, dalej: projektowana nowa ustawa o TK.	L.dz SPS-WP 020 87.8.2024
+3 Uzasadnienie do projektu ustawy, s. 9.	Datamptyvu. 08.04.244.
+ul Zagórna 3, 00 411 Warszewa • tel. (22) 694 27 62, 694 17 27, faks (22) 694 18 65
+
+--- page 2 ---
+TK z 3 grudnia 2015 r. (sygn. akt K 34/15) i 6 grudnia 2015 r. (sygn. akt K 35/15). Po
+wyborach parlamentarnych 2015 r. nowa większość polityczna dokonała ponownego
+wyboru pięciu sędziów TK. Z czasem tzw. kryzys konstytucyjny pogłębiał się. Zaczęło
+pojawiać się pytanie o właściwą obsadę składów orzekających TK w związku
+z sukcesywnym włączaniem do nich osób, które zostały wybrane przez Sejm VIII
+kadencji (kad. w latach 2015-2019) na miejsca sędziowskie obsadzone przez Sejm
+VII kadencji (kad. w latach 2011-2015). „W konsekwencji powstały też watpliwości co
+do tego, czy — po pierwsze — orzeczeniom TK wydanym w takich warunkach
+przysługują przymioty ostateczności i mocy powszechnie obowiązującej w rozumieniu
+art. 190 ust. 1 Konstytucji4, oraz — po drugie — czy nie zachodzą przesłanki
+nieważności orzeczeń TK ze względu na to, że zapadały one w nieprawidłowym
+składzie sędziowskim"5
+W ocenie projektodawcy zmiany, które zostały wprowadzone do ustawy z dnia
+25 czerwca 2015 r. o Trybunale Konstytucyjnym 6 pod koniec 2015 r.?, a także
+„praktyka ich stosowania w następnych latach, zdeformowały Trybunał, co skutkowało
+utratą przez ten organ zdolności do realizacji konstytucyjnej funkcji strażnika
+nadrzędności	Konstytucji, zasad demokratycznego państwa	prawnego,
+a w konsekwencji również organu stojącego na straży ochrony wolności i praw
+jednostki" 8	. Projektodawca prezentuje pogląd, że takie wnioskowanie „znajduje
+4 Konstytucja Rzeczypospolitej Polskiej z dnia 2 kwietnia 1997 r., Dz. U. Nr 78, poz. 483 ze zm., dalej:
+Konstytucja.
+5 „Opinia prawna w sprawie zgodności z Konstytucją projektu ustawy — Przepisy wprowadzające
+ustawę o Trybunale Konstytucyjnym" z dnia 14 marca 2024 r., BEOS-579/24A, s. 11.
+6 Ustawa z dnia 25 czerwca 2015 r. o Trybunale Konstytucyjnym, Dz. U. z 2015 r. poz. 1064 ze zm.,
+dalej: ustawa o TK z 2015 r.
+? Sejm VIll kadencji uchwalił trzy nowelizacje ustawy o TK z 2015 r. (ustawa z dnia 19 listopada 2015.
+o zmianie ustawy o Trybunale Konstytucyjnym, Dz.U. z 2015 r. poz. 1928; ustawy z dnia 22 grudnia
+2015 r. o zmianie ustawy o Trybunale Konstytucyjnym, Dz.U. z 2015 r. poz. 2217; ustawa z dnia 28
+stycznia 2016 r. Przepisy wprowadzające ustawę - Prawo o prokuraturze, Dz.U. z 2016 r. poz. 178).
+a konstytucyjność jej przepisów TK zakwestionował w trzech wyrokach (odpowiednio: K 34/15, K 35/15
+i K 47/15). Kolejna ustawa o Trybunale Konstytucyjnym została uchwalona dnia 22 lipca 2016 r. (Dz.U
+z 2016 r. poz. 1157), a jej konstytucyjność została podważona przez TK w wyroku z 11 sierpnia 2016 r.
+(K 39/16). Dnia 30 listopada 2016 r. Sejm uchwalił nową regulację dotyczącą tego organu w postaci
+dwóch ustaw: o organizacji i trybie postępowania przed Trybunałem Konstytucyjnym (Dz.U. z 2019 r.
+poz. 2393, ze zm.) oraz o statusie sędziów Trybunalu Konstytucyjnego (Dz.U: z 2018 r. poz. 1422, ze
+zm.).
+8 Uzasadnienie do projektu ustawy, s. 7. Inne stanowisko zostało zaprezentowane w „Opinii prawnej
+w sprawie zgodności z Konstytucją projektu ustawy — Przepisy wprowadzające ustawę o Trybunale
+Konstytucyjnym" z dnia 14 marca 2024 r., BEOS-579/24A, gdzie stwierdza się, że „należy odrzucić
+stanowisko, że Trybunał Konstytucyjny istnieje tylko faktycznie, nie istnieje zaś w sensie prawnym (...).
+Niezależnie od oceny działalności TK od 2017 r. i nawet najbardziej surowej recenzji jego dorobku, nie
+można abstrahować od faktów instytucjonalnych, w szczególności brać w nawias wyroków TK
+2
+
+--- page 3 ---
+oparcie w wyrokach TK: z 9 grudnia 2015 r. (sygn. akt K 35/15) oraz 9 marca 2016 r.
+(sygn. akt K 47/15), jak również w wyroku Europejskiego Trybunału Praw Człowieka
+(...) Z 7 maja 2021 r. w sprawie Xero Flor przeciwko Polsce (sygn. akt 4907/18)
+wskazującym, że obecność w składzie Trybunału osób nieuprawnionych do orzekania
+narusza art. 6 Europejskiej Konwencji Praw Człowieka"®
+Według opinii projektodawców „w obecnym składzie Trybunału
+Konstytucyjnego zasiadają osoby nieuprawnione do orzekania, ponieważ ich wybór do
+Trybunału nastapił z naruszeniem postanowień Konstytucji, w efekcie czego „szereg
+orzeczeń wydanych przez Trybunał pod rządami aktualnie obowiązujących przepisów
+ustawowych nie wywiera skutków prawnych okreslonych w art. 190 ust. 1 i 3
+Konstytucji"'°. Projektodawcy twierdzą też, że „stan chaosu ustrojowego wywołany
+wprowadzonymi regulacjami spotęgowany został niezgodnym z Konstytucją (...)
+powołaniem Prezesa i Wiceprezesa"' . W ocenie autorów projektu ustawy „z uwagi na
+jednoznacznie polityczne zaangażowanie większości sędziów wybranych do
+Trybunału po wyborach parlamentarnych z 2015 r., nie wyłączając osób wykonujących
+opublikowanych w Dzienniku Ustaw i dokonanych na ich podstawie przekształceń systemu prawa. Teza
+• „zaintekowaniu" calego TK jest tylko figurą retoryczną, z ktorej nie mozna zrobic użytku, projektując
+ustawy. Nie odpowiada ona na dylematy konstytucyjne (...)', s. 15
+9 Uzasadnienie do projektu ustawy, s. 7. Inne stanowisko zostało zaprezentowane W „Opinii prawnej
+w sprawie zgodności z Konstytucją projektu ustawy — Przepisy wprowadzające ustawę o Trybunale
+Konstytucyjnym" z dnia 14 marca 2024 r., BEOS-579/24A, gdzie stwierdza się, że „Wbrew temu, co się
+dość powszechnie uważa i co zostało przyjęte także w art. 7 ust. 1 projektu ustawy, TK nigdy nie orzekł
+o legalności czy poprawności przebiegu jakichkolwiek procedur sejmowych, których celem był wybór
+sędziego TK (ewentualnie stwierdzenie braku mocy prawnej tego wyboru), ani o zgodności
+z Konstytucją uchwał sejmowych będących rezultatem tych procedur. W sprawie o sygn. K 34/15
+zagadnienia te TK podjął tylko wpadkowo, w zakresie niezbędnym do ustalenia, czy art. 137 ustawy
+o TK z 2015 r. nadal obowiązuje i może zostać poddany kontroli konstytucyjności (...). Należy
+stwierdzić, że wyrok o sygn. K 34/15 (i tym bardziej wyrok o sygn. K 35/15, który potwierdzit
+wcześniejsze stanowisko TK i jego skutki), nie odnosił się do statusu prawnego osób wybranych przez
+Sejm VIII kadencji na trzy skutecznie i definitywnie obsadzone miejsca w TK przez Sejm VII kadencji.
+Na podstawie uzasadnienia wyroku o sygn. K 34/15 można oczywiście budować różne teoretyczne
+interpretacje statusu sędziowskiego wspomnianych osób, niemniej formuła zastosowana w art. 7 ust. 1
+projektu ustawy, ktora odwołuje się wprost do wyroków TK jako „naruszonych" w związku
+z czynnosciami sejmu VIll kadenci, jest uproszczeniem"
+1º Uzasadnienie do projektu ustawy, s. 7. Inne stanowisko zostało zaprezentowane w „Opinii prawnej w
+sprawie zgodności z Konstytucją projektu ustawy - Przepisy wprowadzające ustawę o Trybunale
+Konstytucyjnym" z dnia 14 marca 2024 r., BEOS-579/24A, gdzie stwierdza się, że „Nieprawidłowe
+obsadzenie składu orzekającego TK w konkretnej sprawie, nawet przy uwzględnieniu kwalifikowanej
+postaci tych nieprawidłowości, nie jest równoznaczne z zakwestionowaniem ważności orzeczenia TK
+wydanego w takich warunkach, tj. nie musi pociągać za sobą skutku wzruszalności, nieważności bądź
+nieistnienia orzeczenia. Wywiedziony z prawdziwych przesłanek wniosek jest w tym przypadku błędny
+Dotyczy to zwłaszcza sytuacji, która została przewidziana w art. 7 projektu ustawy, to znaczy gdy
+nieważność orzeczenia TK jednocześnie podważa jego ostateczny charakter", s. 14.
+11 Uzasadnienie do projektu ustawy, s. 8.
+3
+
+--- page 4 ---
+odpowiednio funkcje Prezesa i Wiceprezesa tego organu, Trybunał Konstytucyjny
+w obecnym składzie personalnym i praktyce działania stał się (...) instytucją polityczną
+(...). W efekcie Trybunał w obecnym składzie nie tylko nie realizuje standardu
+niezależności, ale również nie spełnia wymogu bezstronności w orzekaniu
+w konkretnych sprawach"12
+II. Rekomendowane rozwiązanie (w tym planowane narzędzia interwencji)
+i oczekiwany efekt
+Projekt ustawy określa termin wejścia w życie projektowanej nowej ustawy
+o TK (art. 1), reguluje zagadnienia przejściowe i dostosowujące do tej ustawy (art. 7—
+art. 15) oraz uchyla wcześniejsze rozwiązania prawne na ten temat (art. 6). Projekt
+ustawy przewiduje także zmiany w obowiązujących przepisach, będące systemową
+konsekwencją uchwalenia projektowanej nowej ustawy o TK (art. 2—art. 5).
+Szczególna uwaga powinna zostać zwrócona na przepisy przejściowe
+i dostosowujące projektu ustawy, a wśród nich na art. 7 ust. 1, w myśl którego wyroki
+TK wydane w składzie orzekającym, w którym zasiadała osoba powołana na
+stanowisko sędziego TK z naruszeniem ustawy o TK z 2015 r. oraz wyroków TK z 3
+grudnia 2015 r. o sygn. akt K 34/15 i z 9 grudnia 2015 r. o sygn. akt K 35/15, a także
+osoba powołana na jej miejsce, są „nieważne i nie wywołują skutków okreslonych
+w art. 190 ust. 1 i ust. 3 Konstytucji". Projektodawca uznaje zatem, że orzeczeniom
+tym nie przysługuje przymiot ostateczności i mocy powszechnie obowiązującej oraz
+— jak sugeruje odwołanie do art. 190 ust. 3 Konstytucji — w ogóle nie weszły one
+w życie. W odniesieniu do skarg konstytucyjnych i pytań prawnych projekt przewiduje,
+że nieważność wyroku TK nie pociąga za sobą skutków dla ważności wydanych w jego
+następstwie rozstrzygnięć w sprawach indywidualnych. Projektodawca nie rozciąga
+zatem skutku nieważności orzeczeń TK na sferę stosowania prawa. Artykuł 7 ust. 4
+projektu ustawy wprowadza bowiem zastrzeżenie, że orzeczenia sądowe i ostateczne
+decyzje administracyjne, prawomocne w chwili wejścia w życie projektu ustawy,
+wydane w sprawach indywidualnych na podstawie stanu prawnego ukształtowanego
+takim wyrokiem, pozostają w mocy.
+12 Uzasadnienie do projektu ustawy, s. 8.
+4
+
+--- page 5 ---
+Analogicznie projekt ustawy klasyfikuje postanowienia TK wydane w sprawach
+dotyczących sporów kompetencyjnych. W art. 7 ust. 2 projektu ustawy stwierdza się,
+że postanowienia w sprawach rozstrzygania sporów kompetencyjnych pomiędzy
+centralnymi konstytucyjnymi organami państwa wydane w składzie orzekającym,
+w którym zasiadała osoba powołana na stanowisko sędziego TK z naruszeniem
+ustawy o TK z 2015 r. oraz wyroków TK z 3 grudnia 2015 r. o sygn. akt K 34/15 i z 9
+grudnia 2015 r. o sygn. akt K 35/15, a także osoba powołana na jej miejsce, sa
+nieważne i nie wywołują skutków prawnych.
+Projekt ustawy przesądza ponadto, że wszelkie czynności procesowe
+dokonane w postępowaniach przed TK, zakończonych wyrokami lub postanowieniami
+dotyczącymi sporu kompetencyjnego, wymagają powtórzenia, jesli zostały wydane
+w nieprawidłowym składzie orzekającym w rozumieniu przyjętym w projekcie ustawy
+(art. 7 ust. 3 projektu ustawy). W terminie miesiąca od dnia wejścia w życie
+projektowanej nowej ustawy TK „sporządza i podaje do wiadomości publicznej" listę
+nieważnych wyroków i postanowień. Lista ma być opublikowana w Dzienniku
+Urzędowym „Monitor Polski" (art. 7 ust. 5 projektu ustawy).
+Odmiennie natomiast projektodawca traktuje postanowienia TK wydane
+w tzw. kwestiach formalnych, które zostały podjęte w nieprawidłowym składzie
+orzekającym w rozumieniu przyjętym w projekcie ustawy. W myśl art. 8 ust. 1 projektu
+ustawy, wydawane na posiedzeniu niejawnym postanowienia o umorzeniu
+postępowania na skutek cofnięcia wniosku, skargi konstytucyjnej lub pytania
+prawnego, jeżeli wydanie orzeczenia jest niedopuszczalne albo zbędne, jeżeli
+zaskarżony akt normatywny utracił moc obowiązującą przed wydaniem orzeczenia
+bądź w przypadku zakończenia kadencji Sejmu i Senatu i objęcia wniosku grupy
+posłów lub senatorów zasadą dyskontynuacji prac parlamentu — „pozostają w mocy".
+W mocy pozostają także postanowienia TK wydane w ramach wstępnego rozpoznania
+wniosku podmiotu o ograniczonej legitymacji do wystąpienia do sądu konstytucyjnego
+(organy stanowiące jednostek samorządu terytorialnego, ogólnokrajowe organy
+związków zawodowych oraz ogólnokrajowe władze organizacji pracodawców
+i organizacji zawodowych, kościoly i inne związki wyznaniowe) oraz skargi
+konstytucyjnej (art. 8 ust.	1 projektu ustawy). Jednak jeśli takie postanowienie
+5
+
+--- page 6 ---
+dotyczyło sprawy wszczętej skargą konstytucyjną, skarżący może ponownie wnieść
+skargę konstytucyjną w terminie 3 miesięcy od dnia wejścia w życie projektu ustawy.
+Projekt ustawy zawiera przepisy intertemporalne, które wprowadzają dwa
+reżimy prawne w sprawach zawisłych przed TK. Do postępowań przed TK wszczętych
+i niezakończonych przed wejściem w życie projektowanej nowej ustawy o TK,
+w których składzie orzekającym zasiadała osoba powołana na stanowisko sędziego
+TK z naruszeniem ustawy o TK z 2015 r. oraz wyroków TK z 3 grudnia 2015 r. o sygn.
+akt K 34/15 i 9 grudnia 2015 r. o sygn. akt K 35/15, a także osoba powołana na jej
+miejsce, stosowane mają być przepisy projektu ustawy. Czynności procesowe
+dokonane w tych postępowaniach wymagają powtórzenia. Natomiast w pozostałych
+postępowaniach wszczętych i niezakończonych przed wejściem w życie projektowanej
+nowej ustawy o TK stosowane mają być przepisy dotychczasowe.
+Projekt ustawy zawiera także organizacyjno-techniczne przepisy dotyczące:
+1) rozstrzygnięć intertemporalnych odnośnie czynów dyscyplinarnych sędziów TK
+i kar dyscyplinarnych (art. 10),
+2) wskazania sędziego TK o najdłuższym stażu pracy w TK jako wykonującego
+obowiązki Prezesa TK od dnia wejścia w życie projektowanej nowej ustawy o TK
+(art. 11 ust. 1),
+3) zainicjowania procedury wyboru Prezesa i Wiceprezesa TK (projektodawcy
+zakładają, że w sensie prawnym żaden sędzia nie pełni obecnie funkcji Prezesa
+TK, dlatego nie zostały przewidziane przepisy o skróceniu kadencji osoby
+piastującej faktycznie tę funkcję) (art. 11 ust. 2),
+4) moźliwości przejścia w stan spoczynku sędziego TK w związku z wprowadzeniem
+w trakcie jego kadencji „nowych zasad realizacji obowiązków sędziego
+Trybunału", z wyłączeniem osób nieuprawnionych w rozumieniu projektu ustawy
+(art. 12),
+5) likwidacji Kancelarii TK i Biura Służby Prawnej TK (art. 13),
+6) spraw pracowniczych osób zatrudnionych w Kancelarii TK i Biurze Służby
+Prawnej TK (art. 14),
+7) uchwalenia regulaminu TK i Statutu Kancelarii TK przez Zgromadzenie Ogólne
+Sędziów TK (art. 15).
+6
+
+--- page 7 ---
+Efektem spodziewanym przez projektodawcę, wyrażonym w uzasadnieniu
+projektu, będzie „likwidacja stanu dysfunkcjonalności systemu kontroli
+konstytucjonalności prawa", „przywrócenie właściwego miejsca i rangi Trybunału
+w demokratycznym systemie organów państwa"'3, a osiągnięcie tego celu ma nastapić
+poprzez:
+1) uchylenie obecnie obowiązujących podstaw prawnych funkcjonowania TK14
+2) wprowadzenie w życie projektowanej nowej ustawy o TK obejmującej swym
+przedmiotem całosć podstaw prawnych funkcjonowania TK,
+3) unieważnienie i pozbawienie skutków prawnych części wyroków TK
+i postanowień TK wydanych w skiadzie orzekającym, w którym zasiadała osoba
+nieuprawniona w rozumieniu projektu ustawy lub osoba powołana na jej miejsce.
+W Biurze Ekspertyz i Oceny Skutków Regulacji powstała opinia w kwestii
+zgodności projektu ustawy z prawem UE15, a także opinia w sprawie stwierdzenia, czy
+projekt ustawy jest projektem wykonującym prawo UE16.
+IlI. Jak problem został rozwiązany w innych krajach, w szczególności krajach
+członkowskich UE/OECD?
+Projektowana ustawa ma rozwiązać problem niewystępujący w tożsamym
+kształcie w innych państwach członkowskich UE/OECD. Celem ustawy jest - zgodnie
+z uzasadnieniem wnioskodawcy - „likwidacja stanu dysfunkcjonalności systemu
+kontroli konstytucjonalności prawa", a projektowana ustawa ma dostosować podstawę
+prawną funkcjonowania TK „do potrzeb nowej ustawy o Trybunale Konstytucyjnym".
+Odstapiono od analizy prawnoporównawczej z uregulowaniami obowiązującymi
+13 Uzasadnienie do projektu ustawy, s. 9.
+14 Tj. ustawa z dnia 16 grudnia 2016 r. o statusie sędziów Trybunalu Konstytucyjnego, ustawa z dnia 16
+grudnia 2016 r. o organizacji i trybie postępowania przed Trybunałem Konstytucyjnym, ustawa z dnia
+16 grudnia 2016 r. - Przepisy wprowadzające ustawę o organizacji i trybie postępowania przed
+Trybunałem Konstytucyjnym (Dz.U. z 2019 r. poz. 2393).
+15 Zob. „Opinia w sprawie zgodności z prawem Unii Europejskiej poselskiego projektu ustawy - Przepisy
+wprowadzające ustawę o Trybunale Konstytucyjnym (przedstawiciele wnioskodawców: posel Bartosz
+Romowicz, posel Grzegorz Rusiecki, poseł Katarzyna Ueberhan, poseł Mirosław Adam Orliński)" z dnia
+18 marca 2024 r., BEOS-WPEiM-570/24.
+16 Zob. „Opinia w sprawie stwierdzenia, czy poselski projekt ustawy - Przepisy wprowadzające ustawę
+• Trybunale Konstytucyjnym (przedstawiciele wnioskodawców: poseł Bartosz Romowicz, poseł
+Grzegorz Rusiecki, poseł Katarzyna Ueberhan, posel Mirosław Adam Orliński) jest projektem ustawy
+wykonującej prawo Unii Europejskiej w rozumieniu art. 95a regulaminu Sejmu" z dnia 18 marca 2024
+r., BEOS-WPEiM-571/24
+7
+
+--- page 8 ---
+w innych państwach, gdyż projektowana ustawa wprowadza szczególne rozwiązania
+wynikające z uwarunkowań o charakterze wewnątrzkrajowym.
+IV. Podmioty, na które oddziałuje projekt
+Proponowane rozwiązania będą oddziaływać na:
+1) Trybunat Konstytucyjny:
+a) unieważnienie i pozbawienie skutków prawnych części orzeczeń TK, tj.
+• wyroki TK wydane w składzie orzekającym, w którym zasiadała osoba powołana
+na stanowisko sędziego TK z naruszeniem ustawy o TK z 2015 r. oraz wyroków
+TK z 3 grudnia 2015 r. o sygn. akt K 34/15 i z 9 grudnia 2015 r. o sygn. akt
+K 35/15, a także osoba powołana na jej miejsce - są nieważne i nie wywołuja
+skutków prawnych, z zastrzeżeniem, że orzeczenia sądowe i ostateczne decyzje
+administracyjne, prawomocne w chwili wejścia projektu ustawy, wydane
+w sprawach indywidualnych na podstawie stanu prawnego ukształtowanego
+takim wyrokiem, pozostają w mocy,
+• postanowienia w	sprawach rozstrzygania sporów kompetencyjnych pomiędzy
+centralnymi konstytucyjnymi organami państwa wydane w składzie orzekającym,
+w którym zasiadała osoba powołana na stanowisko sędziego TK z naruszeniem
+ustawy o TK z 2015 r. oraz wyroków TK z 3 grudnia 2015 r. o sygn. akt K 34/15
+i z 9 grudnia 2015 r. o sygn. akt K 35/15, a także osoba powołana na jej miejsce
+- są nieważne i nie wywołują skutków prawnych;
+b) konieczność powtórzenia całości lub części czynności procesowych dokonanych
+w niektórych postępowaniach przez TK, tj.
+• wszelkie czynności procesowe dokonane w postępowaniach przez TK
+zakończone ww. unieważnionymi orzeczeniami będą wymagały powtórzenia,
+• postanowienia o umorzeniu postępowania, o których mowa w art. 59 ustawy
+z dnia 30 listopada 2016 r. o organizacji i trybie postępowania przed Trybunałem
+Konstytucyjnym oraz postanowienia o nadaniu lub odmowie nadania dalszego
+biegu, o których mowa w art. 61 ww. ustawy, wydane w składzie, w którym
+zasiadała osoba powołana na stanowisko sędziego TK z naruszeniem ustawy
+o TK z 2015 r. oraz wyroków TK z 3 grudnia 2015 r. o sygn. akt K 34/15
+i z 9 grudnia 2015 r. o sygn. akt K 35/15, a także osoba powołana na jej miejsce,
+8
+
+--- page 9 ---
+pozostają w mocy. Jednak jeśli takie postanowienie dotyczyło sprawy wszczętej
+skargą konstytucyjną, skarżący może ponownie wnieść skargę konstytucyjną
+w terminie 3 miesięcy od dnia wejścia w życie projektu ustawy,
+• do postępowań przed TK wszczętych i niezakończonych przed wejsciem w życie
+projektowanej nowej ustawy o TK, w których składzie orzekającym zasiadała
+osoba powołana na stanowisko sędziego TK z naruszeniem ustawy o TK z 2015
+r. oraz wyroków TK z 3 grudnia 2015 r. o sygn. akt K 34/15 i 9 grudnia 2015 r.
+o sygn. akt K 35/15, a także osoba powołana na jej miejsce, stosowane mają być
+przepisy projektu ustawy. Czynności procesowe dokonane w tych
+postępowaniach	wymagaja	powtorzenia.	Natomiast	pozostałych
+postępowaniach wszczętych i niezakończonych przed wejściem w życie projektu
+ustawy o TK stosowane mają być przepisy dotychczasowe;
+c) obowiązek sporządzenia i podania do publicznej wiadomości listy nieważnych
+wyroków i postanowień TK;
+2) sędziów TK, których kadencja rozpoczęła się przed wejściem w życie
+projektowanej nowej ustawy o TK:
+a) możliwość złożenia przez sędziego, w określonym terminie, Prezesowi TK
+oświadczenia, że w związku z wprowadzeniem w trakcie trwania jego kadencji
+nowych zasad realizacji obowiązkow sędziego TK, przechodzi w stan spoczynku,
+z zastrzeżeniem, że prawo przejścia w stan spoczynku z ww. przyczyny nie
+przystuguje osobie powołanej na stanowisko sędziego TK z naruszeniem ustawy
+o TK z 2015 r. oraz wyroków TK z 3 grudnia 2015 r. o sygn. akt K 34/15
+i z 9 grudnia 2015 r. o sygn. akt K 35/15, a także osobie powołanej na jej miejsce,
+b) możliwość obciążenia dodatkowymi zadaniami spowodowanymi koniecznością
+powtórzenia całości lub części czynności procesowych dokonanych w niektórych
+postępowaniach przez TK;
+3) sędziów TK oraz sędziów TK w stanie spoczynku:
+• w zakresie dotyczącym czynów dyscyplinarnych popelnionych przed wejściem
+w życie projektowanej nowej ustawy o TK, a także orzekanych za te czyny kar
+dyscyplinarnych, stosuje się przepisy dotychczasowe;
+4) Zgromadzenie Ogólne Sędziów TK:
+9
+
+--- page 10 ---
+a) przedstawienie Prezydentowi RP kandydatów na stanowisko Prezesa TK
+i Wiceprezesa TK w terminie 6 miesięcy od dnia wejścia w życie projektowanej
+nowej ustawy o TK,
+b) powołanie, w określonym terminie, Szefa Kancelarii TK i powierzenie mu
+obowiązków związanych z likwidacją Biura Służby Prawnej TK oraz
+dotychczasowej Kancelarii TK oraz obowiązków związanych z organizacją nowo
+tworzonej Kancelarii TK, a także określenie zakresu jego obowiązków
+i wynagrodzenia,
+c) uchwalenie, w określonym terminie, Regulaminu TK oraz Statutu Kancelarii TK;
+5) Biuro Służby Prawnej TK:
+• likwidacja tej jednostki organizacyjnej z dniem następującym po upływie 18
+miesięcy od wejściem w życie projektowanej nowej ustawy o TK;
+6) Kancelarię TK:
+• reorganizacja struktury i zasad funkcjonowania tej jednostki z dniem
+następującym po upływie 18 miesięcy od wejścia w życie projektowanej nowej
+ustawy o TK;
+7) Dyrektora TK oraz Dyrektora Biura Służby Prawnej TK:
+• likwidacja tych stanowisk z dniem powołania Szefa Kancelarii TK;
+8) pracowników dotychczasowej Kancelarii TK oraz pracowników Biura Służby
+Prawnej TK
+a) wygaśnięcie stosunku pracy z dniem następującym po upływie 18 miesięcy od
+wejścia w życie projektowanej nowej ustawy o TK, chyba, że zostaną im
+zaproponowane	nowe warunki	pracy i płacy w związku z likwidacją
+dotychczasowej Kancelarii TK i Biura Służby Prawnej TK oraz pracownicy ci
+zaakceptują te warunki,
+b) możliwość utraty pracy z powodu wcześniejszego rozwiązania umowy o pracę za
+wypowiedzeniem,
+c) prawo do odprawy pieniężnej w przypadku wygaśnięcia lub rozwiązania stosunku
+pracy,
+d) zwłaszcza w okresie 18 miesięcy od wejścia w życie projektowanej nowej ustawy
+o TK, możliwość obciążenia dodatkowymi zadaniami związanymi z reorganizacją
+10
+
+--- page 11 ---
+struktury i zasad funkcjonowania Kancelarii TK oraz obsługą administracyjną przy
+czynnościach procesowych, które będą musiały zostać powtórzone,
+e) uzyskanie statusu urzędników państwowych (obecnie posiadają	status
+pracownicy sądów i trybunałów);
+9) Prezesa TK:
+• wprowadzenie obowiązku składania Pierwszemu Prezesowi Sądu Najwyższego
+oswiadczenia o działalności gospodarczej prowadzonej przez małżonka - przed
+powołaniem na stanowisko, a także o zamiarze podjęcia takiej działalności lub
+zmianie jej charakteru - w trakcie pełnienia funkcji.
+V. Informacje o zakresie, czasie trwania i wynikach konsultacji
+Zgodnie z informacją zawartą w uzasadnieniu do projektu ustawy „idea
+przywrócenia rudymentów państwa	prawa w zakresie dotyczącym Trybunału
+Konstytucyjnego" została sformułowana w konkluzjach konferencji naukowej, pt. „Jak
+przywrócić państwo prawa?", zorganizowanej dnia 14 i 15 stycznia 2019 r. przez forum
+Idei Fundacji im. Stefana Batorego", a projekt ustawy stanowi efekt prac Zespolu
+Ekspertów Prawnych Fundacji im. Stefana Batorego.
+W 2022 r. projekt ustawy przedstawiony został opinii publicznej.
+W uzasadnieniu tego projektu jedynie ogólnie stwierdza się, że projekt poddano
+konsultacjom ze specjalistami z zakresu	prawa	konstytucyjnego, a także
+z organizacjami skupiającymi osoby wykonujące zawody prawnicze i podejmującymi
+działania na rzecz ochrony państwa prawa 18	• Wskazuje się też, że „w toku
+prowadzonego w ten sposób dialogu społecznego zgłoszono wiele uwag i sugestii,
+które uwzględnione zostały w ostatecznej wersji projektów" 19	• Poparcie dla
+przygotowanych rozwiązań zadeklarowały liczne organizacje, m.in. Stowarzyszenie
+Sędziów Polskich „lustitia"	", Stowarzyszenie Sędziów „Themis", Fundacja Wolne Sądy,
+Stowarzyszenie Prokuratorów „Lex Super Omnia", Helsińska Fundacja Praw
+Człowieka, Sieć Obywatelska Watchdog Polska.
+17 Zob. https://www.batory.org.pl/wp-content/uploads/2020/02/Jak-przywrocic-panstwo-
+prawa_Interaktywna.pdf [dostep: 26.03.2024 г.].
+18 Podobnie ogólne stwierdzenie zostało zawarte w przywoływanym w uzasadnieniu projektu ustawy
+artykule: S. Patyra, T. Zalasiński, Trybunal Konstytucyjny jako strażnik Konstytucji - stan obecny i
+wnioski de lege ferenda, „Przeglad Konstytucyjny" z 2023 r. nr 2, s. 35-51
+19 Ibidem, s. 43. Podobnie uzasadnienie do projektu ustawy, s. 14.
+11
+
+--- page 12 ---
+VI. Wpływ na sektor finansów publicznych
+Chociaż projektodawca wskazuje, że projekt ustawy nie pociąga za soba
+obciążeń dla budżetu państwa 20	, proponowane regulacje mogą okresowo
+spowodować dodatkowe koszty działalności TK. Koszty te mogą wynikać z:
+(1) ewentualnych odpraw pieniężnych w przypadku wygaśnięcia lub rozwiązania
+stosunku pracy z częścią, pracowników Kancelarii TK i Biura Służby Prawnej TK;
+(2) ewentualnych odpraw dla sędziów TK, którzy skorzystają z prawa wcześniejszego
+przejścia w stan spoczynku; (3) większego obciążenia pracą TK spowodowanego
+koniecznością powtórzenia całości lub części czynności procesowych dokonanych
+w niektórych postępowaniach przez TK, ponownym	wszczynaniem
+i przeprowadzeniem postępowań przed TK w sprawach objętych materia
+unieważnionych orzeczeń; (4) przeprowadzenia reorganizacji struktury i zasad
+funkcjonowania Kancelarii TK. W konsekwencji nie można wykluczyć, że projekt
+spowoduje zwiększenia wydatków budżetu państwa w części 06: Trybunał
+Konstytucyjny, zwłaszcza w okresie 18 miesięcy od wejścia w życie projektowanej
+nowej ustawy o TK. Wyliczenie wielkości tych kosztów jest bardzo trudne, ponieważ
+będzie to zależało w dużej części od indywidualnych decyzji sędziów TK, pracownikow
+Kancelarii TK lub Biura Służby Prawnej TK, kierownictwa TK, które może
+zaproponować (lub nie) nowe warunki pracy i płacy pracownikom Kancelarii TK i Biura
+Służby Prawnej TK, ilości ponownie wnoszonych spraw objętych materia
+unieważnionych orzeczeń.
+Projekt nie będzie wywoływać skutków finansowych dla budżetów jednostek
+samorządu terytorialnego.
+VIl. Wpływ na konkurencyjność gospodarki i przedsiębiorczość oraz na rodzinę,
+obywateli i gospodarstwa domowe
+Projekt ustawy nie będzie miał bezpośredniego wpływu na konkurencyjnośó
+gospodarki i przedsiębiorczość, w tym na funkcjonowanie przedsiębiorstw.
+W szczególności projekt ustawy nie określa zasad podejmowania, wykonywania lub
+zakończenia działalności gospodarczej. Projektowane regulacje również nie będa
+20 Uzasadnienie do projektu ustawy, s. 15.
+12
+
+--- page 13 ---
+miały wpływu na rozwój regionalny. Co do zasady projekt ustawy nie powinien
+w sposób bezpośredni oddziaływać na rodzinę, obywateli oraz gospodarstwa
+domowe. Jako zasadę przewiduje się bowiem, że orzeczenia sądowe i ostateczne
+decyzje administracyjne, prawomocne w chwili wejscia projektu ustawy, wydane
+w sprawach indywidualnych na podstawie stanu prawnego ukształtowane wyrokami,
+które mają zostać uznane za nieważne, pozostają w mocy. Jednak np. skarżący,
+którzy wnieśli skargę konstytucyjną w sprawie, w której zostało wydane postanowienie
+o umorzeniu postępowania lub postanowienie o odmowie nadania sprawie dalszego
+biegu w składzie, w którym zasiadała osoba powołana na stanowisko sędziego TK
+z naruszeniem ustawy o TK z 2015 oraz wyroków TK z 3 grudnia 2015 r. o sygn. akt
+K 34/15 i z 9 grudnia 2015 r. o sygn. akt K 35/15, a także osoba powołana na jej
+miejsce - będą mogli ponownie wnieść skargę konstytucyjną. Co więcej, konieczność
+powtórzenia całości lub części czynności procesowych dokonanych w niektórych
+postępowaniach przez TK, może spowodować dodatkowe obciążenie pracą sędziów
+TK i wydłużyć termin oczekiwania na orzeczenie TK w bieżących sprawach
+zainicjowanych przez obywateli, w tym przedsiębiorców.
+VIII. Zmiana obciążeń regulacyjnych (w tym obowiązków informacyjnych)
+wynikających z projektu
+Skutkiem przyjęcia projektu ustawy będą dodatkowe obowiązki:
+(1) TK (sporządzenie i podanie do publicznej wiadomości listy nieważnych wyroków
+i postanowień TK); (2) TK i sędziów TK (konieczność powtórzenia całości lub części
+czynności procesowych dokonanych w niektórych postępowaniach przez TK),
+(3) Prezesa TK (składanie oświadczenia o działalności gospodarczej prowadzonej
+przez małżonka), (4) Zgromadzenia Ogólnego Sędziów TK (przedstawienie
+kandydatów na stanowisko Prezesa TK i Wiceprezesa TK; powołanie Szefa Kancelarii
+TK i powierzenie mu obowiązków związanych z likwidacją Biura Służby Prawnej TK
+oraz dotychczasowej Kancelarii TK oraz obowiązków związanych z organizacją nowo
+tworzonej Kancelarii TK, a także określenie zakresu jego obowiązków
+i wynagrodzenia; uchwalenie, w określonym terminie, Regulaminu TK oraz Statutu
+Kancelarii TK).
+13
+
+--- page 14 ---
+IX. Wpływ na rynek pracy
+Projekt ustawy nie będzie oddziaływać na rynek pracy w szerszej skali. Projekt
+ustawy może skutkować utratą pracy przez niektórych pracowników Kancelarii TK
+i Biura Służby Prawnej TK z powodu wcześniejszego rozwiązania umowy o pracę za
+wypowiedzeniem lub wygaśnięciem stosunku pracy (na skutek nieprzedstawienia
+przez pracodawcę nowych warunków pracy i płacy lub odmowy przyjęcia tych
+warunków przez pracownika).
+X. Wpływ na pozostale obszary
+Efektem unieważnienia części wyroków i postanowień TK może być pogłębienie
+istniejącego już dzisiaj chaosu instytucjonalnego w sądowym wymiarze
+sprawiedliwości21.
+Unieważnienie części wyroków TK może skutkować wnoszeniem spraw
+objętych materią tych wyroków. Podobnie np. skarżący, którzy uzyskali postanowienia
+• umorzeniu postępowania wydanego w składzie, w którym zasiadała osoba
+nieuprawniona w rozumieniu projektu ustawy - będą mogli ponownie wnieść skargę
+konstytucyjną i żądać rozpoznania ich sprawy. Tzw. osoby nieuprawnione
+uczestniczyły w wydaniu kilkuset wyroków<2.
+Niejednoznaczne są skutki art. 7 ust. 3 projektu, który przewiduje obowiązek
+powtórzenia czynności procesowych zakończonych orzeczeniami, które mają zostac
+uznane za nieważne. Powtórzenie czynności jest jednak możliwe jedynie wówczas,
+gdy postępowanie przed TK (w którym to czynności należy powtórzyć) nie zostało
+jeszcze zakończone. W rozważanym przypadku chodzi jednak o postępowania, które
+zostały zakończone (sprawa nie jest już zawisła przed TK, a co więcej orzeczenie
+uznawane za nieważne wywołało de facto określone skutki prawne np. w postaci
+rozstrzygnięcia sądu powszechnego, który zadał pytanie prawne inicjujące
+postępowanie przed TK). Określenie skutków społecznych tej niejednoznacznej
+regulacji jest zatem niezwykle trudne i zależy od nadania jej okresinego sensu
+normatywnego.
+„Opinia prawna w sprawie zgodności z Konstytucją projektu ustawy — Przepisy wprowadzające
+ustawę o Trybunale Konstytucyjnym" z dnia 14 marca 2024 r., BEOS-579/24A, s. 14.
+22 Uzasadnienie do projektowanej nowej ustawy o TK, s. 35.
+14
+
+--- page 15 ---
+XI. Planowane wykonanie przepisów aktu prawnego
+Ustawa będąca przedmiotem projektu, z wyjątkiem art. 2, ma wejść w życie po
+upływie 30 dni od dnia ogłoszenia. Artykuł 2 projektu ustawy ma wejść w życie z dniem
+następującym po uplywie 18 miesięcy od dnia wejścia w życie projektowanej nowej
+ustawy o TK.
+XII. W jaki sposób i kiedy nastąpi ewaluacja projektu oraz jakie mierniki zostaną
+zastosowane?
+W przypadku przedmiotowego projektu ustawy nie przewidziano ewaluacji.
+Autorzy:
+dr Kamila Sobieraj (pkt I, II, IV, V, VI, VII, VIII, IX, X, XI, XII, XIII)
+specjalista ds. systemu gospodarczego
+w Biurze Ekspertyz i Oceny Skutków Regulacji
+Łukasz Zołądek (pkt III)
+specjalista w Wydziale Oceny Skutków Regulacji
+w Biurze Ekspertyz i Oceny Skutków Regulacji
+Akceptowała:
+Dyrektor Biura Ekspertyz
+i Oceny Skutków Regulacji
+Marzena Laskowska
+Deskryptory bazy REX: sądownictwo, Trybunat Konstytucyjny, konstytucja, sędziowie
+Weryfikacja: Wojciech Odrowąż-Sypniewski (pkt |, II, V, VIII, XI, XII, XIII), dr Dobromir Dziewulak (pkt
+III), Mirosław Sobolewski (pkt IV, VI, VII, IX, X).
+Tłoczono z polecenia Marszałka Sejmu Rzeczypospolitej Polskiej	SEJM
+15
+

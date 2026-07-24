@@ -1,0 +1,1628 @@
+--- page 1 ---
+Do druku nr 2527
+SEI	M	KANCELARIA SEJMU
+BIURO EKSPERTYZ I OCENY SKUTKÓW REGULACJI
+RZECIYPOSPOLITE, POLSKIE,
+BEOS-925/26	Warszawa, 12 maja 2026 r.
+WYDZIAŁ OBSŁUGI PREZYDIUM SEJMU	Pan
+L.0z. SPS-11.020.123,18.2026	Włodzimierz Czarzasty
+Data wplywu 12,05,26r	Marszałek Sejmu
+Rzeczypospolitej Polskiej
+Opinia w sprawie oceny skutków regulacji poselskiego projektu ustawy
+o rynku kryptoaktywow
+(druk sejmowy nr 2527)
+Na podstawie art. 34 ust. 9a uchwały Sejmu Rzeczypospolitej Polskiej z dnia 30 lipca 1992 r.
+- Regulamin Sejmu Rzeczypospolitej Polskiej (Monitor Polski z 2022 r. poz. 990, ze zm.)
+sporządza się następującą opinię
+I. Problem, ktöry zamierzają rozwiązać Wnioskodawcy
+Na podstawie uzasadnienia i deklarowanych skutków regulacji (DSR) można
+przyjąć, że Wnioskodawcy zamierzają rozwiązać problem wynikający z konieczności
+zapewnienia stosowania rozporządzenia Parlamentu Europejskiego i Rady
+2023/1113 z dnia 31 maja 2023 r. w sprawie informacji towarzyszących transferom
+środków pieniężnych i niektórych kryptoaktywów oraz zmiany dyrektywy (UE)
+2015/849 1 (ang. Transfer of Funds Regulation, dalej: ToFR) oraz rozporządzenia
+Parlamentu Europejskiego i Rady 2023/1114 z dnia 31 maja 2023 r. w sprawie
+rynków kryptoaktywów oraz zmiany rozporządzeń (UE) nr 1093/2010 i (UE) nr
+1095/2010 oraz dyrektyw 2013/36/UE i (UE) 2019/19372 (ang. Markets in Crypto-
+Assets Regulation; dalej: MiCA). Oba rozporządzenia zobowiązują państwa
+członkowskie Unii Europejskiej do przyjęcia przepisów wdrażających
+i uzupelniających ich postanowienia.
+Zdaniem Wnioskodawców kryptoaktywa stanowią rodzaj aktywów cyfrowych,
+które zależą głównie od kryptografii i technologii rozproszonego rejestru (Distributed
+Ledger Technology - DLT). Niektóre kryptoaktywa można zaklasyfikowac jako
+instrumenty finansowe lub jako pieniądz elektroniczny zgodnie z dyrektywami
+Parlamentu Europejskiego i Rady implementowanymi do prawa krajowego.
+Większość z nich nie wchodzi jednak w zakres istniejących unijnych przepisów
+' Dz. Urz. UE L 150 z 9.6.2023, s. 1, ELI: http://data.europa.eu/elireg/2023/1113/oi [wszystkie Źródła
+internetowe cytowane w niniejszej opinii zostały sprawdzone 11 v 2026 г.)-
+2 Dz. Urz. UE L 150 z 9.6.2023, s. 40, ze zm., ELI: http://data.europa.eu/eli/reg/2023/1114/2024-01-09
+Kancelaria Sejmu, ul Wiejska 4/6/8, 00-902 Warszawa tel (22) 69427 62, 59417 27, emai: sekretariat.beos @sejm.gov.p
+
+--- page 2 ---
+regulujących sektor finansowy. Stan, w ktorym nie obowiązują ogolne ramy
+regulacyjne dotyczące rynków kryptoaktywów, a przede wszystkim dotyczące
+świadczenia uslug związanych z nieuregulowanymi kryptoaktywami, w tym
+funkcjonowania platform obrotu, wymiany kryptoaktywów na środki pieniężne lub
+inne kryptoaktywa	oraz zapewniania przechowywania kryptoaktywów
+i administrowania nimi w imieniu klientów, naraża posiadaczy tych kryptoaktywów
+na ryzyko, w szczególności w obszarach nieobjętych przepisami dotyczącymi
+ochrony konsumentów. Brak takich przepisów może również powodować znaczne
+zagrożenie nadużyciami na rynku finansowym i przestępstwami finansowymi.
+I. Rozwiązanie rekomendowane przez Wnioskodawców
+Projekt określa: 1) szczegółowe zasady prowadzenia działalności w zakresie
+kryptoaktywów; 2) zasady odpowiedzialności cywilnej związanej z dokumentem
+informacyjnym dotyczącym kryptoaktywa oraz zmienionym dokumentem
+informacyjnym dotyczącym kryptoaktywa; 3) organizację i zasady wykonywania
+y nadzoru nad rynkiem kryptoaktywów (art. 1 projektu).
+Zgodnie z przypisem 1 do tytułu projektu ustawa ma służyć stosowaniu
+rozporządzenia 2023/1114 i rozporządzenia 2023/1113. Projekt tworzy krajowe
+ramy instytucjonalne wykonywania tych rozporządzeń.
+W szczególności projekt:
+• określa zasady zachowania tajemnicy zawodowej i udostępniania
+informacji (rozdział 2 projektu);
+• określa obowiązki informacyjne emitentów oraz dostawców usług
+w zakresie kryptoaktywów, w tym zasady sporządzania, publikacji
+i aktualizacji dokumentów informacyjnych (rozdział 3 projektu);
+• wprowadza regulacje dotyczące planów naprawy oraz planów wykupu,
+w tym obowiązki ich sporządzania i stosowania (rozdział 4 projektu);
+• określa zasady postępowania w sprawach zatwierdzania planów, o których
+mowa w przepisach rozporządzenia 2023/1114 (rozdział 5 projektu);
+wprowadza zasady odpowiedzialności cywilnej za informacje zawarte
+w dokumentach informacyjnych dotyczących kryptoaktywów (rozdział 6
+projektu);
+• wyznacza Komisję Nadzoru Finansowego (KNF) jako właściwy organ
+w rozumieniu art. 93 ust. 1 rozporządzenia 2023/1114 (art. 56 projektu);
+• ustanawia krajowy system nadzoru nad rynkiem kryptoaktywów:
+obejmujący uczestników ryku oraz określa środki nadzorcze i sankcje
+administracyjne, a także przewiduje szczególne środki ingerujące
+w środowisko cyfrowe, w tym prowadzenie rejestru domen internetowych
+oraz obowiązki podmiotów pośredniczących (rozdział 7 projektu, w tym art.
+56 i n. oraz oddziały dotyczące środków technicznych);
+• określa strukturę instytucjonalną nadzoru, w tym przewiduje utworzenie
+Rady do spraw kryptoaktywów oraz technologii finansowych jako organu
+wyższego stopnia w stosunku do KNF (oddzial 6 rozdziału 7 projektu, art.
+117-124);
+2
+
+--- page 3 ---
+• określa odpowiedzialność karną za najpoważniejsze naruszenia przepisów
+regulujących rynek kryptoaktywów (rozdziat 8 projektu);
+• wprowadza zmiany w obowiązujących ustawach sektorowych (rozdziat 9
+projektu);
+• określa przepisy przejściowe i dostosowujące (rozaziat 10 projektu).
+Projektowana ustawa ma wejść w życie po upływie 14 dni od dnia ogloszenia,
+z wyjątkiem art. 70, który wszediby w życie po upływie 4 miesięcy od dnia ogłoszenia
+(art. 176 projektu).
+III. Inne rozwiązania rozważane przez Wnioskodawców
+Wnioskodawcy nie rozważali alteratywnych rozwiązań. Cel, który ma być
+osiągnięty za pomoca proponowanej regulacji, nie może być zdaniem
+Wnioskodawców zrealizowany za pomocą innych środków niż zaproponowane
+w projekcie.
+IV. Rozwiązania przyjmowane w innych państwach, w szczególności
+państwach członkowskich OECDIUE
+W poszczególnych państwach członkowskich UE przyjęto przepisy
+umożliwiające stosowanie rozporządzenia 2023/1114 i rozporządzenia 2023/1113,
+wtym uznające kryptoaktywa za część rynku finansowego oraz wskazujące organy
+nadzoru. W większości paristw UE pryjęto odrębne ustawy regulujące rynek
+kryptoaktywów (np. Chorwacja, Czechy, Estonia, Finlandia, Litwa, Kotwa, Stowacja,
+Szwecja, Węgry), jednak w części państw przepisy umozliwiające stosowanie
+regulacji UE w zakresie kryptoaktywów zawarto w ustawach sektorowych
+dotyczących rynku finansowego - w szczególności przepisach regulujących
+działalność instytucji finansowych, nadzór finansowy, przeciwdziałanie praniu
+pieniędzy oraz finansowaniu terroryzmu - a także kompetencji krajowych organów
+nadzoru (np. Dania, Francja, Hispania). W niektórych państwach obowiązują
+rozwiązania pośrednie, oparte na odrębnych aktach wykonawczych do unijnych
+przepisów z równoczesnymi nowelizacjami istniejących ustaw sektorowych rynku
+finansowego (Belgia, Niemcy, Włochy).
+W państwach członkowskich UE przyjęto dwa zasadnicze modele w zakresie
+organu nadzoru nad rynkiem kryptoaktywów 3	. Model scentralizowany - Z jedna
+instytucją wyznaczoną jako organ nadzoru - występuje m.in. w Austri, Danii, Estonii,
+Finlandii, Niemczech, Szwecji, gdzie organem nadzoru są instytucje nadzoru nad
+rynkiem finansowym oraz m.in. w Czechach, na Litwie, Lotwie i Wegrzech, gazie
+organem nadzoru są banki centralne pelniące jednocześnie funkcję organu nadzoru
+finansowego. Model dualny - nadzór podzielony pomiędzy dwa organy, zazwyczaj
+bank centralny oraz instytucję nadzoru nad rynkiem finansowym - występuje m.in.
+3 List of competent authorities designated under Article 93 of Regulation (EU) 2023/1114 on Markets
+in Crypto-Assets	Regulation	(MiCA),	European	Securities	and	markets	Authority.
+https://www.esma.europa.eu/sites/defauft/files/2024-
+12/List_of Competent Authorities notified_to_ESMA under_MiCA.pdf
+3
+
+--- page 4 ---
+w Bulgari, Francji, Hiszpani, Holandit, Stowenii, Wioszech. Należy zwrocić uwage,
+że przypisanie kompetencji organu nadzorczego nad rynkiem kryptoaktywów danej
+instytucji wynika w poszczególnych państwach członkowskich z obowiązującego
+modelu ustrojowego nadzoru finansowego.
+Po wejsciu wiżycie rozporządzeń unijnych w obszarze rynku kryptoaktywow,
+róžnice w regulacji tego rynku w poszczególnych państwach członkowskich VE
+dotyczą, m.in. wysokości i struktury oplat administracyinych oraz nadzorczych,
+środków ingerencyjnych oraz reżimów sankcyjnych.
+Jeśli chodzi o oplaty administracyjne i nadzorcze, to państwa członkowskie
+przyjęły zróżnicowane rozwiązania pod względem wysokości, ale także struktury
+optat. Na przykład w Czechach przewidziano oplatę pobierana w momencie
+składania wniosku o zezwolenie dla działalności dostawcy uslug w zakresie
+kryptoaktywów (Crypto-Asset Service Provider, CASP), która wynosi 20 000 koron
+czerskich (ok. 800 euro*) oraz optatę pobieraną w momencie składania wniosku
+a zezwolenie dia działalności emitenta tokenów powiązanych z aktywami
+w wysokości 50 000 koron czeskich (ok. 2 000 euro)?. Z kolei we Francji obowiązuje
+ryczaltowa opłata uiszczana w momencie uzyskania zezwolenia przez dostawcę
+uslug w zakresie kryptoaktywów (Crypto-Asset Service Provider, CASP)
+wwysokości 10 000 euro. Oplata za zgłoszenie dokumentu informacyjnego
+(w przypadku kryptoaktywów innych niż tokeny powiązane z aktywami i tokeny
+będące pieniądzem elektronicznym) wynosi 3 000 euro. Opłata roczna za nadzór
+to 10 000 euro. W przypadku dostawców uslug w zakresie przechowywania
+i administrowania kryptoaktywami w imieniu klientów oplata za nadzór dodatkowo
+obejmuje kwotę w wysokości 0,0094%o Sumy aktywów przechowywanych w imieniu
+klientów (min. 1 500 euro)®. V Holandii z kolei opłata za udzielenie zezwolenia dla
+CASP jest kalkulowana według rzeczywistego nakladu pracy organu udzielającego
+zezwolenie. Rozpatrzenie wniosku o udzielenie zezwolenia na prowadzenie
+działalności CASP podlega optacie w wysokości 200 euro za godzinę pracy organu,
+nie więcej jednak niż 100 000 euro. W ramach procedury udzielenia zezwolenia
+Holenderski Urząd ds. Rynków Finansowych (Autorteit Financiële Markten, AFM)
+przeprowadza również ocenę „odpowiedniości" (odpowiednia wiedza, umiejetności
+i doświadczenie) i reputacji członków organu zarządzającego CASP, za ktora
+pobierana jest optata 700 euro za ocene reputacji oraz 2900 euro za ocenę
+„odpowiedniości"?. Z kolei czynności dotyczące dokumentu informacyinego nie sa
+obciążone oplatami ®	… Oplaty za nadzór są określane corocznie przez Ministra
+* Wedlug kursu referencyjnego Europejskiego Banku Centrainego na dzien 27 I|| 2026.
+5 Zäkon č. 634/2004 Sb.Zákon o správnich poplatcich, tekst w j. czeskim,
+https://www.zakonyprolidi.cz/cs/2004-634#f5768875; Licencing of Crypto-Asset Providers in Czechia,
+CEE Legal Matters, https://ceelegalmatters.com/isk/29004-licencing-of-crypto-asset-providers-in-
+• Fees and contributions due to the AMF. January 2025, https://www.amf-
+france.org/sites/institutionne/files/private/2025-12/2025-quide-des-contributions-en clean.pdi.
+" Informacje na stronie internetowej Holenderskiego Urzędu ds. Rynków Finansowych,
+https://www.atm.ni/en/sector/cryptopartjen/vereisten-en-vergunningen/kosten
+& Informacje na stronie internetowej Holenderskiego Urzędu ds. Rynków Finansowych,
+https://www.afm.n//en/sector/cryptopartjen/toezicht/white-papers
+
+--- page 5 ---
+Finansów9 i obejmują kwotę stałą (2 000 euro) plus określoną kwotę w EUR od
+1 000 euro przychodu, uzależnioną od wysokości rocznego przychodu (np.
+31,83 euro za kazde 1 000 euro przychodu dla przychodów rocznych ponizej
+1 mln euro). Przy wyższych progach przychodu stawka za 1 000 euro maleje1*	. We
+Włoszech obowiązuje opłata nakladana na CASP w momencie składania wniosku
+o uzyskanie zezwolenia w wysokości 20 000 euro. Ponadto, system optat
+związanych z ynkiem kryptoaktywów obejmuje opłaty jednorazowe związane
+z procedurami administracyjnymi, jak i rozbudowany system rocznych skladek
+nadzorczych ". Opłaty te stanowią element systemu finansowania działalności
+regulacyjnej i nadzorczej organów właściwych, w szczególności włoskiego organu
+nadzoru finansowego (Commissione Nazionale per le Società e la Borsa,
+CONSOB). Finansowanie CONSOB jest zarządzane zarówno poprzez specjalną
+alokację z budżetu centralnego, jak i częściowo poprzez opłaty pobierane
+bezpośrednio od uczestników rynku. CONSOB ustala rodzaje i wysokości opłat
+w uchwałach, które wchodzą w życie na mocy dekretu podpisanego przez
+przewodniczącego Rady Ministrów po konsultacji z ministrem gospodarki12
+Państwa członkowskie UE stosują odmienne modele wykonywania uprawnień
+ingerencyjnych. Przykładowo, w zakresie blokowania stron internetowych, we
+Włoszech CONSOB jest uprawniony do blokowania stron internetowych
+pośredników finansowych dopuszczających się nadużyć (w tym na rynku
+kryptowalut) 13	. We Francji natomiast konieczna jest decyzja sądu. Zgodnie
+z art. L.621-13-5 kodeksu monetarnego i finansowego"4	: przewodniczący Urzędu
+ds. Rynków Finansowych (Autorité des marchés financiers, AlF) może wystąpic
+do sądu o zastosowanie środków wobec dostawców usług internetowych w celu
+uniemożliwienia dostępu do strony oferującej nieautoryzowane usługi finansowe
+(usunięcie lub przeniesienie domen na rzecz właściwego organu).
+W zakresie sankcji część państw zdecydowała się, poza karami o charakterze
+administracyjnym, na wprowadzenie sankcji karnych w aktach prawnych
+umoziwiających stosowanie rozporządzenia 2023/1114. Na przyklad w Holandii
+odpowiedzialność kama za naruszenia MICA została wprowadzona poprzez
+włączenie wybranych naruszeń rozporządzenia do reżimu ustawy o przestępstwach
+gospodarczych15 (pozbawienie wolności do 6 lat albo kara grzywny). W Niemczech,
+• Informacje na stronie internetowej Holenderskiego Urzędu ds. Rynków Finansowych,
+https://www.afm.nl/en/over-de-afm/kosten
+10 Regeling bekostiging financieel toezicht 2025, tekst w j. holenderskim,
+https://wetten.overheid.n//BWBR0051095/2025-12-032g=2026-01-018z=2026-02-22
+11 Resolution No. 23799 of 17/12/2025. Determination of the contribution due for the 2026 financial
+year, pursuant to art. 40 of Law no. 724/1994, tekst w j. angielskim:
+https://www.consob.it/documents/d/asset-library-1912910/d23799 en-1
+12 Informacje na stronie internetowej włoskiego organu nadzoru finansowego,
+https://www.consob.it/web/consob-and-its-activities/contnbution-system.
+13 Informacje ze strony internetowej CONSOB, https://www.consob.it/web/consob-and-its-activitiesi-
+Iconsob-warning-of-2025-12-15-blackout-websites-
+14 Code monétaire et financier,
+https://www.legifrance.gouv.fr/codes/texte_Ic/LEGITEXT000006072026/.
+15 Wet op de economische delicten, tekst w j. holenderskim,
+https://wetten.overheid.n//BWBR0002063/2026-01-01.
+
+--- page 6 ---
+zgodnie z ustawą o nadzorze nad rynkami kryptoaktywów'®, kto świadczy uslugi
+w zakresie kryptoaktywów bez wymaganego zezwolenia podlega karze pozbawienia
+wolności do lat 5 lub karze grzywny. Odpowiedzialność ta obejmuje także pewne
+inne umyśine naruszenia przepisów MiCA4. We Włoszech, zgodnie z dekretem
+legislacyjnym w sprawie dostosowania przepisów krajowych do MiCA'7, m.in. kto
+swiadczy usługi w zakresie kryptoaktywów bez wymaganego zezwolenia na
+prowadzenie działalności jako CASP lub emituje tokeny pieniądza elektronicznego
+z naruszeniem obowiązku zapewnienia pelnego pokrycia w srodkach rezerwowych,
+podiega karze pozbawienia wolności od sześciu miesięcy do 4 lat oraz karze
+grzywny w wysokości od 2 066 euro do 10 329 euro.
+W większości państw członkowskich UE kontrola decyzji organów nadzoru
+odbywa się w ramach ogólnego modelu postępowania administracyjnego i sądowo-
+administracyjnego. Przykladowo w Holandii, na Litwie i w Niemczech przepisy
+nie przewidują odrębnego trybu odwoławczego dla rynku kryptoaktywów. Kontrola
+decyzji organów nadzoru odbywa się na podstawie ogólnych przepisów prawa
+administracyjnego. W Holandii kontrola jest sprawowana przez wyspecjalizowany
+sąd administracyjny właściwy w sprawach gospodarczych i regulacyjnych'®. W Danii
+skargi dotyczące decyzji podejmowanych m.in. przez Duński Urząd Nadzoru
+Finansowego rozpatruje Rada	Odwolawcza	ds. Gospodarczych
+(Erhversankenævnet).	Rada składa sięlza e przewodniczącego
+i wiceprzewodniczącego oraz członków eksperckich posiadających wiedzę
+zzakresu spraw gospodarczych, w tym rynków kapitałowych. Członkowie
+powoływani są przez ministra gospodarki "9	. Kompetencja Rady jest ograniczona
+do skarg na decyzje wydane przez właściwy organ administracji, ale nie obejmuje
+пр. sposobu prowadzenia postępowania przez urzad, w tym czasu trwania
+postępowania ani standardu działania organu, chyba że sposób prowadzenia
+postępowania	stanowi element oceny decyzji zaskarżonej do organu
+odwoławczego20	. Decyzję Rady można zaskarżyć do sądu21	i. W Irlandii kontroli
+decyzji irlandzkiego banku centralnego, pelniącego funkcję organu nadzoru
+nad rynkiem finansowym, w tym rynkiem kryptoaktywów w reżimie MiCA, dokonuje
+18 Gesetz zur Aufsicht über Märkte für Kryptowerte (Kryptomärkteaufsichtsgesetz - KMAG), BGBI.
+2024 | Nr. 438, S. 2 ze zm.. tekst w j. niemieckim, https://www.gesetze-im-
+internet.de/kmag BuNK1b00B0024.htm
+17 Decreto legislativo 5 settembre 2024. n. 129. Adequamento della normativa nazionale al regolamento
+(UE) 2023/1114 del Parlamento europeo e del Consiglio, del 31 maggio 2023, relativo ai mercati delle
+cripto-attività e che modifica i regolamenti (UE) n. 1093/2010 e (UE) n. 1095/2010 e le direttive
+2013/36/UE e (UE) 2019/1937, GU n.215 del 13-09-2024, tekst w j. włoskim,
+https://www.normattiva.it/uri-res/N2Ls?um.nir.stato:decreto.legislativo:2024-09-05;129.
+18 Informacje z portalu Bird&Bird, https://www.twobirds.com/en/insiahts/2025/germany/deutschlands-
+erste-entscheidung-zur-micar-das-vg-frankfurt-zu-ethena, informacje ze strony internetowej
+holenderskiego banku centralnego, https://www.dnb.ni/en/general-news/enforcement-measures-
+2026/fine-for-crypto-service-provider-for-offering-crypto-services-in-the-netherlands-without-the-
+legallv-required registration/; informacje ze strony internetowej litewskiego banku centralnego,
+https://www.ib.It/en/enforcement-measures-1.
+18 Informacje ze strony internetowej Duńskiego Urzędu ds. Organów Odwoławczych (Nævnenes Hus),
+https://naevneneshus.dk/naevnsoversigt/erhvervsankenaevnet/om-naevnet/
+20 Informacje ze strony internetowej Duńskiego Urzędu ds. Organów Odwoławczych (Nævnenes Hus),
+https://naevneneshus.dk/naevnsoversigt/erhvervsankenaevnet/erhvervsankennaevnets-kompetence/
+21 Informacje ze strony internetowej Duńskiego Urzędu ds. Organów Odwofawczych (Nævnenes Hus),
+https://naevneneshus.dk/naevnsoversigt/erhvervsankenaevnet/vejledning/
+
+--- page 7 ---
+wyspecjalizowany trybunal odwoławczy (Irish Financial Services Appeals Tribunal,
+IFSAT) IFSAT rozpatruje odwołania od określonych decyzji banku centralnego
+dotyczących sektora finansowego 22	. Trybunat składa się z przewodniczącego,
+wiceprzewodniczącego i od jednego do pięciu członków, mianowanych przez
+prezydenta na wniosek rządu. Osoba może zostać mianowana na stanowisko
+przewodniczącego lub wiceprzewodniczącego tylko wtedy, gdy jest byłym sędzią
+Sadu Najwyższego lub Wysokiego Trybunalu, lub wykonuje zawód adwokata lub
+radcy prawnego przez co najmniej 7 lat. Osoba kwalifikuje się do mianowania
+na członka spoza środowiska prawniczego tylko wtedy, gdy Prezydent uzna,
+że osoba ta posiada specjalistyczną wiedzę lub umiejętności w zakresie
+świadczenia uslug finansowych. Strona	postępowania odwoławczego
+rozpatrywanego przez IFSAT może wnieść odwołanie do Wysokiego Trybunałuzs
+V. Skutki prawne projektowanej ustawy
+Regulacja rynku kryptoaktywów jest niezbędna, ponieważ warunkuje
+stworzenie „infrastruktury prawnej" umożliwiającej zintegrowanie kryptoaktywów
+z istniejącym systemem finansowym w Polsce oraz zapewnienie skutecznego
+stosowania prawa Unii Europejskiej w tym obszarze. Chodzi przede wszystkim
+o: rozporządzenie 2023/1114 (MiCA), rozporządzenie 2023/1113 (ToFR), a takze
+o dyrektywę (UE) 2015/849 z dnia 20 maja 2015 r. w sprawie zapobiegania
+wykorzystywaniu systemu finansowego do prania pieniędzy lub finansowania
+terroryzmu24 (dalej: dyrektywa AML), w brzmieniu zmienionym rozporządzeniem
+TOFR
+Przepisy MiCA i ToFR weszły już w życie. Od stycznia 2025 r. powinny być
+stosowane w państwach członkowskich w pelnym zakresie. Brak zapewnienia
+skuteczności prawa UE może prowadzić do wszczęcia wobec państwa
+członkowskiego postępowania naruszeniowego przez Komisję Europejską na
+podstawie art. 258 i 260 TFUE25
+MiCA przewiduje przepisy przejściowe umożliwiające czasowe kontynuowanie
+działalności przez podmioty funkcjonujące wcześniej na podstawie prawa
+krajowego. Dostawcy uslug, którzy prowadzili działalnosć zgodnie z prawem
+krajowym przed dniem 30 grudnia 2024 r., mogą kontynuować świadczenie usług
+na dotychczasowych zasadach do czasu uzyskania nowego zezwolenia albo
+odmowy jego udzielenia, nie dłužej jednak niž do dnia 1 lipca 2026 r. (art. 143 ust. 3
+22 Strona intemetowa Irlandzkiego Trybunału Odwoławczego do spraw Usług Finansowych,
+https://www.ifsat.ie/
+23 Central Bank and Financia! Services Authority of reland Act 2003, tekst w j. angielskim:
+https://revisedacts.lawreform.ie/elt2003/act/12/revised/en/html
+4 Dyrektywa Parlamentu Europejskiego i Rady (UE) 2015/849 z dnia 20 maja 2015 r. w sprawie
+zapobiegania wykorzystywaniu systemu finansowego do prania pieniędzy lub tinansowania terroryzmu,
+zmieniająca rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 648/2012 i uchylająca dyrektywe
+Parlamentu Europejskiego i Rady 2005/60/WE oraz dyrektywę Komisji 2006/70/WE. Dz. Urz. UE L 141
+z 5.6.2015, s. 73. ze zm.
+25 Traktat o funkcjonowaniu Unü Europejskiej, wersja skonsolidowana, Dz. Urz. UE C 202 z 7.6.2016,
+s. 47.
+7
+
+--- page 8 ---
+MICA). Możliwość korzystania z tego reżimu przejsciowego przez dostawców usług
+w zakresie kryptoaktywów wygaśnie zatem z dniem 1 lipca 2026 г.
+Dodać należy, że w związku z nowym režimem regulacyjnym wynikającym
+z prawa UE od dnia 30 grudnia 2024 r. nie jest już możliwe dokonywanie nowych
+wpisów do rejestru działalności w zakresie walut wirtualnych26
+W związku z powyższym wymaga podkreślenia, że projekt nie ma charakteru
+aktu samoistnie i kompleksowo regulującego rynek kryptoaktywów. Pelni on funkcję
+wykonawczą i uzupelniającą wobec MiCA i ToFR. Zasadniczo niedopuszczalne jest
+powtarzanie w prawie krajowym przepisów rozporządzeń unijnych, które co do
+zasady mają skutek bezpośredni 21	. Mogą z nich również wynikać podstawy
+kompetencyjne do działania organów państw członkowskich, Rozporządzenia unyne
+mogą jednak również zawierać upoważnienia dia państw członkowskich do
+przyjmowania dalszych regulacji albo wymagać ustanowienia przepisów krajowych
+zapewniających ich skuteczne stosowanie2. Przykładowo taki charakter ma art. 94
+ust. 1 MiCA, który wyraźnie wymaga wyposażenia właściwych organów, na
+podstawie prawa krajowego, w określone uprawnienia nadzorcze i dochodzeniowe.
+Bezpośredni skutek przepisów rozporządzeń zależy też od tego, czy sa one
+wystarczająco precyzyjne i bezwarunkowe oraz czy nie wymagają przyjęcia środków
+wykonawczych. Zagadnienie rodzaju i zakresu obowiązków oraz praw jednostek,
+jakie wynikają z norm rozporządzeń, nie jest wbrew pozorom proste, i wymaga
+gruntownej analizy treści danego rozporządzenia unijnego 29	. W związku z tym
+należałoby najpierw szczegółowo przeanalizować MiCA i ToFR, m.in. w jakim
+zakresie kompetencje krajowego organu nadzoru wynikają bezpośrednio z tego
+aktu, a w jakim wymagają regulacji krajowej. Dopiero na tej podstawie možna
+przystąpić do ksztaltowania podstaw kompetencyjnych organów krajowych
+wzwiązku z tymi rozporządzeniami.
+Ogólnie można stwierdzić, że bez przyjęcia przepisów krajowych nie jest
+możliwe pelne i skuteczne stosowanie MiCA i ToFR. Konieczne jest w szczególności
+wskazanie organów właściwych do nadzoru nad rynkiem kryptoaktywów, określenie
+- tam, gdzie jest to niezbędne, ponieważ przepisy tych rozporządzeń mogą też
+zawierać wystarczające podstawy kompetencyjne - zakresu i sposobu
+wykonywania kompetencji nadzorczych i dochodzeniowych, wskazanie
+proceduralnych ram działania krajowych organów oraz ustanowienie rezimu
+sankcyjnego. Konieczna jest również transpozycja zmian wprowadzonych
+w powiązanych dyrektywach, w szczególności w dyrektywie AML, przez
+rozszerzenie zakresu podmiotów obowiązanych do stosowania wymogów
+przeciwdziałania praniu pieniędzy oraz finansowaniu terroryzmu o dostawców usług
+w zakresie kryptoaktywów (art. 38 pkt 2 lit. a ToFR), a także w dyrektywie
+28 Komunikat dotyczący rejestru działalności w zakresie walut wirtualnych, dostepny na stronie:
+https://www.gov.pi/web/ias-katowice/komunikat-dotyczacy-rejestru-dzialainosci-w-zakresie-walut-
+wirtualnych
+27 Wyroki Trybunalu Sprawiedliwości: z 24 VI 2004 r., Handlbauer, C-278/02 (EU:C:2004:386, pkt 26):
+a także z 28 X 2010 r., SGS Belgium i in., C-367/09 (EU:C:2010:648, pkt 33).
+28 Wyrok Trybunału Sprawiedliwości z 24 VI 2004 r., Hand/bauer, C-278/02, op.cit., pkt 27
+28 S. Biernat [w:] J. Barcz (red.), Prawo Unii Europejskiej. Zagadnienia systemowe, Warszawa 2006.
+s. 1-280
+8
+
+--- page 9 ---
+2013/36/UE dotyczącej nadzoru nad instytucjami kredytowymi*" (art. 146 i art. 148
+ust. 1 MiCA) oraz w dyrektywie 2019/1937 dotyczącej ochrony sygnalistów31 (art.
+116 i art. 147 MiCA).
+Merytorycznie projekt w stosunkowo niewielkim stopniu różni się od ustawy
+z dnia 7 listopada 2025 r. o rynku kryptoaktywów, której podpisania odmówił
+Prezydent RP32	, oraz od poselskiego projektu ustawy o rynku kryptoaktywów
+zawartego w druku sejmowym nr 2363, w odniesieniu do którego Biuro Ekspertyz
+i Oceny Skutków Regulacji Kancelarii Sejmu sporządziło opinię z dnia 27 stycznia
+2026 r.33 Różnice sprowadzają się do kilkunastu zmian w obszernym tekście
+normatywnym, z których najistotniejsza dotyczy dodania przepisów oddzialu 6
+rozdziału 7 (art. 117-124 projektu), regulujących Radę do spraw Kryptoaktywow oraz
+Technologii Finansowej.
+Wzwiązku z powyższym większość uwag zgłoszonych we wskazanej powyżej
+opinii BEOS z dnia 27 stycznia 2026 r. pozostaje aktualnych w odniesieniu
+do opiniowanego projektu. Także obecnie należy stwierdzić, że projekt zastępuje
+dotychczasowy, relatywnie łagodny model rejestracji działalności w zakresie walut
+wirtualnych nowym, znacznie bardziej restrykcyjnym systemem zezwoleń
+dla dostawców usług w zakresie kryptoaktywów, opartym na MiCA. Prowadzi to do
+istotnego zwiększenia stopnia reglamentacji publicznoprawnej oraz obciążeń
+administracyjnych po stronie zarówno przedsiębiorców, jak i administracji publicznej.
+Projekt koncentruje się przede wszystkim na publicznoprawnych aspektach
+funkcjonowania rynku kryptoaktywów, pozostawiając kwestie prywatnoprawne
+zasadniczo poza zakresem regulacji. Stanowi to konsekwencję szerokiej definicji
+kryptoaktywa przyjętej w MiCA oraz uzupelniającego względem prawa UE
+charakteru projektowanej ustawy. Projekt zawiera też incydentalne regulacje
+prywatnoprawne, пр. dotyczące zabezpieczeń na kryptoaktywach (art. 11 projektu).
+Material normatywny zawarty w projekcie jest bardzo obszerny. Projekt
+zmierza do szczegółowego uregulowania kompetencji organów nadzoru, co z jednej
+strony może zostać ocenione pozytywnie, z drugiej jednak rodzi ryzyko powielenia
+norm rozporządzeń unijnych oraz wprowadzenia regulacji nadmiarowych,
+a w związku z tym wystąpienia zjawiska „gold-platingu" 34	.Z kolei nadregulacja
+w stosunku do wymagań prawa UE może sklaniać przedsiębiorców do prowadzenia
+działalności w reżimach nadzorczych innych państw członkowskich. Ryzyko to jest
+istotne zwłaszcza wobec przewidzianego w MiCA tzw. paszportu europejskiego;
+czyli mechanizmu, w ramach którego zezwolenie udzielone w jednym panstwie
+30 Dyrektywa Parlamentu Europejskiego i Rady 2013/36/UE z dnia 26 czerwca 2013 r. w sprawie
+warunków dopuszczenia instytucji	kredytowych do działalności oraz nadzoru ostrożnościowego
+nad instytucjami kredytowymi, zmieniająca dyrektywę 2002/87/WE i uchylająca dyrektywy 2006/48/WE
+oraz 2006/49/WE, Dz. Urz. UE L 176 z 27.6.2013, s. 338, ze zm.
+Dyrektywa Parlamentu Europejskiego i Rady (UE) 2019/1937 z dnia 23 pazdziemika 2019 1
+w sprawie ochrony osób zgłaszających naruszenia prawa Unii, Dz. Urz. UE L 305 z 26.11.2019, s. 17
+32 Wniosek Prezydenta Rzeczypospolitej Polskiej w sprawie ustawy o rynku kryptoaktywów z dnia 1
+grudnia 2025	10-11: dostępny na	https://www.prezydent.pl/prawo/ustawv-
+zawetowane/weto-do-ustawy-o-rynku-kryptoaktywow,111337.
+33 Opinia w sprawie oceny skutków regulacji poselskiego projektu ustawy o rynku kryptoaktywow (przeo
+nadaniem numeru druku), opinia BEOS z 27 | 2026 г., BEOS-2726/25.
+„Gold plating" to potoczna nazwa praktyki wprowadzania do prawa krajowego dodatkowych wymogów
+lub regulacji wykraczających poza minimalne wymagania prawa unijnego.
+
+--- page 10 ---
+członkowskim umoźliwia dostawcy usług w zakresie kryptoaktywów prowadzenie
+działalności na terytorium calej Unii Europejskiej (zob. art. 59 ust. 7 MiCA) 35
+Dodatkowo trzeba mieć na uwadze, że zgodnie z art. 67 pkt 4 ustawy z dnia 6 marca
+2018 r. - Prawo przedsiębiorców 36	, przy implementacji prawa UE i prawa
+międzynarodowego należy dąžyć do nakladania wyłącznie takich obowiązków
+administracyjnych, które są niezbędne do osiagnięcia celów implementowanych
+przepisów. Problem nadregulacji, trudności w regulowaniu dynamicznego rynku
+kryptoaktywów oraz ryzyka podniesienia progu wejścia na ten rynek dostrzeżono
+również w konsultacjach społecznych37
+W związku z powyższym można wskazać przykładowo, że znaczna część
+regulacji zawartej w art. 4 projektu, dotyczącej doradztwa oraz informacji o usługach
+w zakresie kryptoaktywów (ust. 1-6), wydaje się nadmiarowa wobec rozbudowanej
+regulacji art. 81 MICA. O ile niektóre kwestie powinny zostać uregulowane w prawie
+krajowym, zwłaszcza w zakresie wynikającym z art. 81 ust. 7 MiCA, o tyle art. 4
+projektu sprawia wrażenie zbyt szczegółowego. Kolejny przykład może stanowic art
+4 ust. 7 projektu, zgodnie z którym, przyznając zezwolenie, organ nadzoru sprawdza
+w szczególności, czy osoby kierujące działalnością przedsiębiorcy posiadaja
+odpowiednią wiedzę i doświadczenie związane ze świadczeniem usług w zakresie
+kryptoaktywów. Tymczasem art. 62 ust. 2 lit. g MiCA uzależnia uzyskanie
+zezwolenia szerzej od posiadania wiedzy, umiejętności i doswiadczenia
+potrzebnych do zarządzania dostawcą uslug, a nie wyłącznie od wiedzy
+i doświadczenia branżowego. Wątpliwości budzi bardzo rozbudowana regulacja
+obowiązków informacyjnych rozdziale 3 projektu (art. 23 i n. projektu)
+w zestawieniu z przepisami MiCA, np. art. 23 i art. 88, które bezpośrednio określaja
+obowiązki informacyjne uczestników rynku kryptoaktywów. Z kolet art. 26 ust. 2
+projektu powtarza w istocie treść art. 23 ust. 4 MiCA. Kompetencja Komisji Nadzoru
+Finansowego, o której mowa w art. 86 ust. 1 projektu, wynika juž z art. 47 ust. 1
+MiCA. Niepotrzebny wydaje się także art. 61 projektu. Podobnie art. 111 i art. 113
+projektu, które jedynie odsyłają do przepisów MICA
+Projekt wyposaża organ nadzoru, tj. KNF, w bardzo rozlegiy zakres
+kompetencji, w tym wykonywanych w znacznym stopniu dyskrecjonalnie
+(na uznaniowość organu nadzoru zwrócono uwagę w konsultacjach spolecznych38).
+Obejmują one m.in. blokowanie rachunków kryptoaktywów i rachunków pieniężnych,
+wstrzymywanie transakcji oraz blokowanie i usuwanie domen internetowych, często
+przy jednoczesnym nadaniu decyzjom rygoru natychmiastowej wykonalności
+i ograniczeniu gwarancji proceduralnych. Tak szerokie ukształtowanie kompetencji
+nadzorczych znajduje co do zasady oparcie w prawie UE, w szczególności w art. 94
+35 Wtym kontekście mówi się o ryzyku tzw. arbitrażu regulacyjnego, rozumianego jako sytuacja, w której
+podmioty gospodarcze wykorzystuja różnice między systemami prawnymi poszczegölnych panst
+lub luki w przepisach vr celu prowadzenia działalności w jurysdykcjach, w kłórych wymogi regulacyjne
+są najłagodniejsze, a koszty nadzoru najniźsze. Warto zauważyć, że ryzyko arbitrażu regulacyjnego
+stanowiło jedną z przesłanek przyjęcia rozporządzeń MiCA oraz ToFR. Zob. motyw 5 rozporządzenia
+MICA. Szerzej na ten temat K	Kryptoakływa jako papiery wartościowe. Perspektywa
+prywatnoprawna regulacyjna, 2025, rozdz. Il Status kryptoaktywów w MCA, § 1, ak. 4
+3 Dz. U. z 2025 r. poz. 1480, ze zm
+3T ID ankiety: 158733, 160254.
+38 ID ankiety: 160254.
+10
+
+--- page 11 ---
+MiCA. Konkretne rozwiązania przyjęte w projekcie budzą jednak zastrzeżenia
+z punktu widzenia ochrony praw i interesów jednostki. Przykładowo art. 85 ust. 1
+oraz art. 87 ust. 1 projektu przewidują, że w określonych postępowaniach
+związanych ze stosowaniem MICA možliwe jest odstapienie od zasady czynnego
+udzialu strony w postępowaniu administracyjnym, a decyzje Komisji wydawane
+w tych sprawach podlegają natychmiastowemu wykonaniu (art. 85 ust. 2 oraz art
+87 ust. 2 projektu). Można mieć watpliwości, czy w każdym przypadku działań
+podejmowanych na podstawie art. 46 ust. 3 oraz art. 47 ust. 1 MiCA konieczne jest
+nadawanie decyzjom rygoru natychmiastowej wykonalności z mocy prawa, bez
+względu na stan faktyczny sprawy. Również art. 10 § 2 k.p.a.3º przewiduje juž
+możliwość odstapienia od zasady czynnego udziału strony w postępowaniu
+w sytuacjach szczególnych. Powstaje pytanie, dlaczego projekt nie poprzestaje na
+rozwiązaniach ogólnych albo przynajmniej nie dookresla	szczególnych_
+materialnoprawnych przesłanek odstępstwa od ogólnych zasad postepowania
+administracyjnego. Podobny problem występuje w innych przepisach projektu, ktore
+przewidują, że decyzje dotyczące środków nadzorczych lub administracyjnych kar
+pieniężnych podlegają z mocy prawa natychmiastowemu wykonaniu (por. art. 96
+ust. 9 oraz art. 114 ust. 2 projektu). MiCA odwoluje się do takiego rozwiązania
+znacznie ostrożniej (por. art. 94 ust. 1 lit. h oraz lit. u MiCA). Daleko idące
+uproszczenia proceduralne i odstępstwa od ogólnych zasad postępowania wywołują
+watpliwości, czy są one niezbędne dla skutecznego nadzoru nad podmiotami rynku
+kryptoaktywów.
+W stosunku do ustawy z dnia 7 listopada 2025 r. o rynku kryptoaktywów, której
+podpisania odmówit Prezydent RP, w projekcie wprowadzono istotne zmiany
+w art. 67 oraz art. 71 ust. 1 projektu. Do art. 67 dodano pkt 3, natomiast art. 71 ust. 1
+rozszerzono przez objęcie prawem sprzeciwu wszystkich przypadków wpisania
+domeny internetowej do rejestru. W art. 67 pkt 3 projektu utrzymano wprawdzie
+przeslankę wpisu do rejestru domen internetowych w postaci „ryzyka wyrządzenia
+poważnych sżkód klientom lub posiadaczom kryptoaktywów", która została
+zakwestionowana przez Prezydenta przy odmowie podpisania ustawy z dnia 7
+listopada 2025 r., jednak wpis dokonany na tej podstawie nie wiąże się już
+z usunięciem albo wyłączeniem interfejsu internetowego lub usunięciem nazwy
+domeny internetowej, lecz wywołuje znacznie łagodniejszy skutek określony
+w art. 70 ust. 5 projektu. Zmiana art. 67 umożliwia realizację celu ochronnego przez
+informowanie uczestników rynku o ryzyku, pozostając jednocześnie zgodna z art. 94
+ust. 1 lit. z tiret pierwsze MiCA
+Również rozszerzenie prawa sprzeciwu przewidziane w art. 71 ust. 1 projektu
+należy ocenić pozytywnie. Zgodnie z art. 113 ust. 1 MiCA państwa członkowskie są
+zobowiązane zapewnić, aby decyzje organów nadzoru byly należycie uzasadnione
+oraz podlegały prawu do odwołania przed sądem. Pomimo tego treść art. 67 pkt 3
+projektu budzi zastrzeżenia z tego względu, iż art. 94 ust. 1 lit. aa MiCA przewiduje
+środki ingerujące w interfejs internetowy, hosting i domenę jako instrumenty
+stosowane w warunkach wyznaczonych przez rozporządzenie, w szczególności
+39 Ustawa z dnia 14 czerwca 1960 r. - Kodeks postępowania administracyjnego, Dz. U. z 2025 r.
+poz. 1691.
+11
+
+--- page 12 ---
+przy braku innych skutecznych środków, a projekt nie zaklada, że przedmiotowy
+środek będzie stosowany w ostateczności.
+Odmawiając podpisania ustawy z dnia 7 listopada 2025 r. o rynku
+kryptoaktywów, Prezydent RP zgłosił również zastrzeżenia dotyczące konstrukcji
+blokady rachunku kryptoaktywów lub rachunku pieniężnego oraz wstrzymania
+transakcji, wskazując, że organ administracji publicznej nie powinien być
+wyposażony w tak daleko idące, samoistne kompetencje, pozbawione efektywnej
+kontroli. Regulacje o tożsamej treści zostały zawarte w art. 63-65 projektu. Przepisy
+te przewidują możliwość blokowania rachunku kryptoaktywów lub rachunku
+pieniężnego oraz wstrzymywania określonych transakcji na żądanie
+Przewodniczącego KNF. Przewodniczący KNF został uprawniony do ustanowienia
+blokady rachunku na okres 96 godzin, Z możliwością żądania jej dalszego
+przedłużenia na czas do sześciu miesięcy, a także do ządania wstrzymania
+określonej transakcji na czas oznaczony, nie dłuższy niż sześć miesięcy (art. 63
+ust. 7 projektu). Żądania te podlegają natychmiastowemu wykonaniu. Co więcej,
+z treści art. 63 projektu wynika możliwość ponawiania takich żadań, co powoduje,
+że przewidziane ograniczenie czasowe może mieć w praktyce charakter iluzoryczny.
+MICA rzeczywiście wymaga przyznania właściwym organom (organom
+nadzoru) rozległych kompetencji nadzorczych i dochodzeniowych. Obejmują one
+m.in. możliwość zawieszenia świadczenia uslug przez dostawcę uslug w zakresie
+kryptoaktywów lub zobowiązania go do zawieszenia świadczenia tych usług na
+okres kazdorazowo nie dluższy niż 30 kolejnych dni roboczych w przypadku
+uzasadnionego podejrzenia naruszenia rozporządzenia (art. 94 ust. 1 lit. b i nast.),
+zakazania świadczenia uslug w razie stwierdzenia naruszenia rozporządzenia (art.
+94 ust. 1 lit. c), a także zawieszenia świadczenia usług, jeżeli obrót kryptoaktywami
+bylby szkodliwy dia interesów ich posiadaczy, zwłaszcza detalicznych (art. 94 ust. 1
+lit. t). Wzwiązku z regulacjami dotyczącymi zakazu nadużyć na rynku kryptoaktywów
+MICA przewiduje również uprawnienia do żądania zamrożenia lub zajęcia aktywów
+albo zastosowania obu tych srodków (art. 94 ust. 3 lit. f). Z drugiej strony zakłada się
+w MICA proporcjonalne traktowanie emitentów kryptoaktywów i dostawców usług
+w zakresie kryptoaktywów (motyw 6 rozporządzenia).
+Art. 63 ust. 7 projektu przyznaje Przewodniczącemu KNF kompetencje
+do natychmiastowego wstrzymywania określonych transakcji na okres do sześciu
+miesięcy wyłącznie ze względu na potrzebę ,zapewnienia bezpieczenstwa obrotu
+na platformie obrotu kryptoaktywami" lub „zagrożenie interesów posiadaczy
+kryptoaktywów". Przesłanki te są wysoce niedookreślone i w przeciwieństwie
+do art. 63 ust. 1 projektu, przesłanki te nie zostały powiązane z naruszeniem
+' konkretnych przepisów MiCA. Dodatkowo żądaniu wstrzymania transakcji nie
+towarzyszy obowiązek wszczęcia postępowania administracyjnego przez Komisję.
+Z art. 64 ust. 2 projektu wynika jedynie możliwość wszczęcia takiego postępowania
+Projekt przewiduje wprawdzie możliwość zaskarżania rozstrzygnięć organu nadzoru
+do sądu administracyjnego (art. 63 ust. 8 oraz art. 65 ust. 3 projektu), lecz z art. 64
+ust. 2 projektu wynika, że wszczęcie postępowania administracyjnego powoduje
+Z mocy prawa przedlużenie blokady rachunku lub wstrzymanie transakcji i dopiero
+decyzja kończąca postępowanie w sprawie będzie podlegać zaskarżeniu.
+12
+
+--- page 13 ---
+Wzwiązku z powyższym można zasygnalizować pewne wątpliwości dotyczące
+modelu sądowej kontroli decyzji organu nadzoru przyjętego w projekcie. Projekt
+przewiduje możliwość zaskarżania rozstrzygnięć KNF do sądu adminıstracyjnego
+(np. art. 63 ust. 8 i art. 65 ust. 3 projektu). Wynika to również z ogólnej regulacji
+obejmującej rozstrzygnięcia KNF kontrolą sądów administracyjnych (art. 11 ust. 6
+ustawy z dnia 21 lipca 2006 r. o nadzorze nad rynkiem finansowym 40). MICA
+wymaga, aby decyzje właściwych organów nadzoru były uzasadnione i podlegały
+prawu do odwołania przed sądem (art. 113 MiCA). Nie oznacza to, że prawo unijne
+bezwzględnie wymaga klasycznej kontroli merytorycznej, polegającej na zastąpieniu
+organu przez sąd i wydaniu rozstrzygnięcia co do istoty sprawy, i że w związku z tym
+obowiązujący w Polsce	model kontroli sądowoadministracyjnej jest
+niewystarczający. Prawo unijne wymaga jednak, aby kontrola sądowa była realna,
+skuteczna oraz obejmowała wszystkie istotne kwestie prawne i faktyczne. Jeżeli
+zatem w sprawach prowadzonych na podstawie projektowanej ustawy sądy
+administracyjne ograniczałyby zakres kontroli decyzji nadzorczych, czemu może
+sprzyjać model kontroli legalności wynikający z art. 1 § 2 ustawy z dnia 25 lipca 2002
+r. — Prawo o ustroju sądów administracyjnych*1	, mogłoby powstać ryzyko naruszenia
+prawa Unii Europejskiej42
+W projekcie zaproponowano powołanie Rady do spraw kryptoaktywów oraz
+technologii finansowych (art. 117-124 projektu). Rada ma być „organem wyższego
+stopnia w sprawach określonych w ustawie, rozstrzyganych w drodze decyzji przez
+Komisję"	",a do jej kompetencji ma należeć w szczególności rozpatrywanie odwołań
+od decyzji Komisji oraz ponagleńi w sprawach prowadzonych przez Komisję (art. 117
+ust. 2 pkt 1-2 projektu). W jej skład mają wchodzić m.in. trzej przedstawiciele branży
+kryptoaktywów wybrani w wyborach (art. 118 ust. 1 pkt 5 projektu). Można dostrzec
+potencjalne zalety takiego rozwiązania. Powierzenie rozpoznawania odwołan
+nowemu organowi o odrębnym składzie może zwiększać pluralizm oceny spraw oraz
+ograniczać koncentrację funkcji nadzorczych w ramach KNF. Udział przedstawicieli
+branžy może także sprzyjać uwzględnianiu praktycznych uwarunkowań rynku
+kryptoaktywów i perspektywy jego uczestników. Mimo to jednak przedmiotową
+propozycję należy ocenic krytycznie.
+Po pierwsze, brzmienie art. 117 ust. 2 projektu nie przesądza jednoznacznie,
+czy Rada ma być wyłącznie organem odwoławczym w rozumieniu k.p.a., czy też
+organem o ustrojowo wyższej pozycji wobec KNF w sprawach rynku kryptoaktywów.
+Wątpliwość tę wzmacnia użycie zwrotu „w szczególności" oraz przyznanie Radzie
+kompetencji do przedstawiania Sejmowi informacji obejmującej ocenę działań
+nadzorczych KNF (art. 117 ust. 2 pkt 3 projektu). Jeżeli intencją Wnioskodawców
+jest ustanowienie szczególnego organu odwoławczego od decyzji KNF, przepis
+powinien wskazywać, że Rada jest organem wyższego stopnia w rozumieniu
+Kodeksu postępowania administracyjnego albo organem odwoławczym
+40 Dz. U. z 2025 r. poz. 640, ze zm.
+41 Dz. U. z 2024 r. poz. 1267.
+42 Nie jest to zagadnienie nierealne; zostało ono podniesione na gruncie art. 70 § 6 pkt 1 ustawy -
+Ordynacja podatkowa. Zob. D. Dominik-Ogińska, Czy sąd administracyjny może odstapić od kontroli
+nadużycia prawa popełnionego przez organy skarbowe? Uwagi na tle wyroku Naczelnego Sądu
+Administracyjnego z 24.11.2016 r.. 1 FSK 759/15, Kwartalnik Prawa Podatkowego 2018, nr 4, s. 39 i n.
+
+--- page 14 ---
+w rozumieniu art. 127 § 2 k.p.a. Obecna redakcja może sugerować, że Rada pelni
+dalej idącą funkcję niž tylko rozpatrywanie odwołańi od decyzji KNF i ponagleń
+w sprawach tego organu.
+Po drugie, projektowane art. 117-124 wprowadzają istotne odstępstwo
+od systemowego modelu zaskarżania decyzji KNF. Zgodnie z art. 11 ust. 6 ustawy
+z dnia 21 lipca 2006 r. o nadzorze nad rynkiem finansowym 43	(dalej: u.n.r.t.)
+do decyzji KNF stosuje się odpowiednio art. 127 § 3 k.p.a., chyba że przepisy
+szczególne stanowią inaczej. Zasadą jest więc wniosek o ponowne rozpatrzenie
+sprawy, a nie odwotanie do odrębnego organu administracji publicznej. Samo
+ustanowienie szczególnego organu odwoławczego jest formalnie dopuszczalne,
+jednak nie jest jasne, dlaczego właśnie w sprawach rynku kryptoaktywów należy
+odejść od modelu przyjętego dla pozostałych segmentów rynku finansowego
+nadzorowanych przez KNF. Rynek kryptoaktywów zostaje wyróżniony bez wyraźnej
+racji systemowej.
+Po trzecie, tak daleko idący wyjątek od ogólnego modelu zaskarżania decyzji
+KNF powinien zostać ujęty w sposób jednoznaczny i ściśle zakreślony. Tymczasem
+art. 117 ust. 2 projektu postuguje się formułą generalną obejmująca „sprawy
+określone w ustawie, rozstrzygane w drodze decyzji przez Komisje"	r, a dodatkowo
+używa zwrotu „w szczególności", który otwiera katalog kompetencji Rady.
+W konsekwencji	nie jest jasne, czy Rada ma być organem odwoławczym
+we wszystkich sprawach decyzyjnych KNF przewidzianych w projekcie, czy tylko
+w okreslonych kategoriach spraw. Ma to istotne znaczenie procesowe, ponieważ
+odwołanie podlega co do zasady wyczerpaniu przed wniesieniem skargi do sadu
+administracyjnego, podczas gdy wniosek o ponowne rozpatrzenie sprawy moze
+zostać pominięty przy kierowaniu skargi do sądu (art. 52 § 1-3 ustawy z dnia 30
+sierpnia 2002 r. - Prawo o postępowaniu przed sądami administracyjnymi4; dalej:
+p.p.s.a.).
+Projekt jest ponadto niekonsekwentny w omawianym zakresie. Z jednej strony
+ustanawia Radę jako organ rozpatrujący odwołania od decyzji Komisji (art. 117 ust. 2
+pkt 1 projektu), z drugiej zaś zachowuje w innych przepisach konstrukcję „wniosku
+o ponowne rozpatrzenie sprawy" od decyzji Komisji (art. 85 ust. 4, art. 87 ust. 4,
+art. 114 ust. 2 projektu).
+Bardzo problematyczny jest udział przedstawicieli branży kryptoaktywów
+w składzie	Rady. Zakaz członkostwa obejmuje wprawdzie osoby będące
+wspolnikami, udziałowcami, akcjonariuszami albo osobami zatrudnionymi przez
+podmiot posiadający albo ubiegający się o zezwolenie (art. 118 ust. 3 projektu),
+nie usuwa jednak zasadniczego problemu: członkowie ci nadal mają być
+przedstawicielami Środowiska bezpośrednio zainteresowanego kierunkiem
+rozstrzygnięć nadzorczych albo być powiązani z tym środowiskiem własnymi
+interesami. Taka konstrukcja oslabia gwarancję bezstronności organu i zwiększa
+ryzyko „regulatory capture"	, czyli przejmowania wpływu na organ nadzorczy przez
+sektor regulowany (przedsiębiorców, których działalność jest regulowana). Moze
+również generować ryzyka konkurencyjne, jeżeli przedstawiciele branży uzyskają
+43 Dz. U. z 2025 r. poz. 640, ze zm.
+44 Dz. U. z 2026 r. poz. 143, ze zm.
+14
+
+--- page 15 ---
+dostęp do informacji dotyczących innych uczestników rynku, w szczególności ich
+modeli biznesowych, procedur compliance, sytuacji finansowej lub problemów
+nadzorczych.
+Zastrzeżenia budzi brak wyraźnego określenia quorum Rady. Projekt stanowi
+jedynie, że decyzje Rady zapadają zwykłą większością głosów, a przy równej liczbie
+głosów rozstrzyga głos Przewodniczącego (art. 122 projektu). Wprawdzie projekt
+przewiduje odpowiednie stosowanie do działalności Rady przepisów dotyczących
+Komisji (art. 124 projektu), a w odniesieniu do KNF quorum zostało określone
+jednoznacznie (art. 11 ust. u.n.r.f.), jednak przedmiotowe odesłanie zawarte
+w projekcie nie jest jednoznaczne i może wywoływać watpliwości.
+W projekcie zastrzeżenia budzą również zmiany dotyczące tzw. działalności
+na rzecz spółek lub trustów, stanowiącej działalność regulowaną w rozumieniu
+ustawy z dnia 6 marca	, 2018 r. - Prawo przedsiębiorców, uregulowaną
+w rozdziale 11a ustawy z dnia 1 marca 2018 r. o przeciwdziałaniu praniu pieniędzy
+oraz finansowaniu terroryzmu4s (dalej jako: ustawa AML) (art. 164 pkt 13 projektu).
+Watpliwości wywoluje zmiana art. 129b ust. 1 pkt 1 i 2 ustawy AML, polegająca
+na dodaniu wymogu wpisu odpowiednio do CEIDG albo rejestru przedsiębiorców
+KRS. Jeżeli działalność na rzecz spółek lub trustów stanowi działalność regulowaną
+w rozumieniu Prawa przedsiębiorców, to nie powinno budzić watpliwości, że ma ona
+charakter dzialalności gospodarczej. Wpis do rejestru działalności regulowanej
+nie zwalnia przedsiębiorcy będącego osobą fizyczną z obowiązku wpisu do CEIDG
+ani osób prawnych lub jednostek organizacyjnych z obowiązku wpisu do rejestru
+przedsiębiorców KRS. Trudno zatem ustalić cel wprowadzenia dodatkowego
+wymogu wykonywania działalności. Nadano mu przy tym istotną doniosłość
+normatywną, skoro zgodnie z art. 167 ust. 1 projektu jego niespelnienie w terminie
+30 dni od wejścia w życie ustawy skutkuje obligatoryjnym wykreśleniem z rejestru
+działalności regulowanej. Przedmiotowa zmiana može też powodować dalsze
+problemy, np. mogą pojawić się watpliwości co do możliwości wykonywania
+działalności na rzecz spółek lub trustów przez osoby prawne niepodiegające
+wpisowi do rejestru przedsiębiorców KRS.
+Zastrzeżenia budzi również rozszerzenie katalogu przesłanek obligatoryjnego
+wykreślenia podmiotu z rejestru działalności na rzecz spółek i trustów przewidziane
+w art. 129k ust. 1 pkt 3 ustawy AML (art. 164 pkt 17 projektu). Dotyczy to zwłaszcza
+przesłanki wykreślenia podmiotu z rejestru w przypadku stwierdzenia „niespelniania
+przez podmiot warunków wymaganych prawem do wykonywania działalności
+na rzecz spółek lub trustów" (art. 129k ust. 1 pkt 3 lit. a). Co do zasady, w przypadku
+stwierdzenia naruszeń przedsiębiorca powinien zostać najpierw wezwany do ich
+usunięcia, a dopiero rażące lub uporczywe naruszenie prawa mogłoby uzasadniać
+wykreślenie z rejestru bez uprzedniego wezwania. Podobne zastrzeżenia dotycza
+wykreślenia podmiotu z rejestru w przypadku odmowy przyjęcia albo niepodjęcia
+zawiadomienia o zamiarze wszczęcia kontroli (art. 129k ust. 1 pkt 3 lit. d). Zgodnie
+z art. 44 § 4 k.p.a. niepodjęcie przesyłki wywołuje skutek doręczenia zastępczego,
+a po skutecznym doręczeniu zawiadomienia możliwe jest przeprowadzenie kontroli
+(art. 48 ust. 2 ustawy - Prawo przedsiębiorców). Należy przy tym zauważyć,
+45 Dz. U. z 2025 r. poz. 644.
+15
+
+--- page 16 ---
+że wykreślenie z rejestru ma w tym przypadku charakter sankcyiny, ponieważ
+powoduje czasową niemożność ponownego ubiegania się o wpis (art. 129k ust. 4
+projektu).
+Zastrzeżenia można też sformułować wobec art. 1291 ust. 3 ustawy AML,
+przewidującego obowiązek zgłaszania zmian dotyczących beneficjenta
+rzeczywistego do ministra właściwego do spraw finansów publicznych jako organu
+prowadzącego rejestr działalności na rzecz spółek lub trustów. Tożsamy minister
+prowadzi jednak już Centralny Rejestr Beneficjentów Rzeczywistych,
+a na podmiotach ciąży obowiązek aktualizacji danych ujawnionych w tym rejestrze
+(art. 56 oraz art. 60 ust. 1a ustawy AML). Rozwiązanie to prowadzi więc
+do częściowego dublowania obowiązków informacyjnych.
+Należy przypomnieć, że przy projektowaniu przepisów określających zasady
+podejmowania, wykonywania lub zakończenia działalności gospodarczej trzeba
+kierować się zasadami proporcjonalności, adekwatności i równoważenia
+obowiązków administracyjnych. Nowe obowiązki administracyjne i informacyjne
+powinny być nakladane wyłącznie w zakresie koniecznym do osiagnięcia celu
+regulacji (art. 67 Prawa przedsiębiorców).
+W projekcie można dostrzec również drobniejsze uchybienia redakcyjne.
+Przykładowo art. 31 ust. 2 pkt 1 projektu został zredagowany w sposób sugerujący:
+że obowiązek złożenia powiadomienia dotyczy każdego zastawnika i užytkownika
+udziału lub akcji uprawnionego do wykonywania prawa głosu, a nie wyłącznie
+podmiotu, z którym wiąże się uzyskanie statusu jednostki dominującej względem
+emitenta kryptoaktywów. Zastrzeżenia budzi redakcja art. 63 ust. 7 projektu;
+w ktörym możliwość wstrzymania transakcji została ujęta niejako incydentalnie, przy
+okazji regulacji dotyczącej przedlużania blokady rachunków. Zgodnie z § 55 Zasad
+techniki prawodawczej*® (dalej: ZTP) każdą samodzielną myśl ujmuje się w odrębny
+artykuł. Należałoby zatem unikać łączenia w jednym ustępie dwóch odrębnych
+Srodków ingerencj..
+Na zakończenie należy zwrócić uwagę na częste posługiwanie się w projekcie
+formuła „odpowiedniego stosowania" przepisów, m.in. w art. 6 ust. 7, art. 31 ust. 4,
+art. 38 ust. 2 oraz art. 63 ust. 7 projektu. Formuła ta powinna być odczytywana jako
+nakaz uwzględnienia szczególnych okoliczności związanych z przystosowaniem
+treści wskazanego fragmentu tekstu do treści zdania, w ktorym zawarty jest zwrot
+odsyłający 4'	. Problem polega jednak na tym, że w doktrynie i orzecznictwie
+przyjmuje się szerokie rozumienie odpowiedniego stosowania prawa, Iž organ może
+nie tylko zdecydować o zastosowaniu przepisu, do którego następuje odeslanie,
+wprost lub ze zmianami, ale nawet odstapić od jego zastosowania, jeżeli uzna to
+za uzasadnione specyfiką nowej sytuacji4s. Ten sposób rozumienia tej formuły
+generuje daleko idącą niepewność co do sposobu obowiązywania prawa, więc
+powinno się z niej korzystać w ostateczności. Należy kierować się zasadami
+48 Załacznik do rozporzadzenia Prezesa Rady Ministrów z dnia 20 czerwca 2002 r. w sprawie „Zasad
+techniki prawodawczej". Dz. U. z 2026 r. poz. 300.
+47 A. Malinowski, Redagowanie tekstu prawnego. Wybrane wskazania logiczno-językowe, Warszawa
+2008. s. 182
+4 Wyrok SA w Warszawie z 25 VI 2015 r., sygn. akt III AUa 991/14, LEX nr 1827166; wyrok NSA
+z 26 | 2012 г., sygn. akt II OSK 2144/10, LEX nr 1138087; wyrok NSA z 25 IV 2024 r., sygn. akt I GSK
+89/21, LEX nr 3724779.
+16
+
+--- page 17 ---
+wynikającymi z § 156 ust. 1-3 ZTP, zgodnie z ktörymi odesłania powinny stużyć
+skrotowości tekstu albo zapewnieniu spojności regulowanych instytucji prawnych
+oraz jednoznacznie wskazywać przepisy, do których następuje odestanie.
+Projekt jest przedmiotem odrębnej opinii BEOS dotyczącej zgodności
+Z prawem UE49	. W opinii stwierdzono, że projekt jest objęty zakresem regulacji
+prawa UE oraz że zawiera przepisy, które mogą zostać uznane za niezgodne z tym
+prawem. Dotyczy to art. 23 projektu, art. 24 ust. 2 projektu w związku z art. 22 ust.
+1 i art. 58 ust. 3 MiCA, art. 70 ust. 1 i 3 projektu w związku z art. 67 pkt 1 i 2 projektu
+oraz art. 94 ust. 1 lit. aa MiCA. Wskazano również, że w zakresie, w jakim projekt
+nie reguluje jednolicie prawa do zaskarżania decyzi, może on być uznany
+za niezgodny z art. 113 ust. 1 MiCA, jak również że projekt nie zapewnia pelnego
+stosowania art. 111 ust. 1 MiCA.
+Projekt jest takze przedmiotem odrębnej opinii dotyczącej tego, czy stanowi
+projekt ustawy wykonującej prawo Unii Europejskiej w rozumieniu art. 95a
+Regulaminu Sejmu 50	. W opinii stwierdzono, że projekt ustawy o rynku
+kryptoaktywów może zostać uznany za projekt ustawy wykonującej prawo UE w tym
+rozumienIu
+VI. Skutki spoleczne projektowanej ustawy
+A. Podmioty, na ktöre wpływa projekt
+Projekt wpływa na następujące podmioty:
+1. osoby inwestujące w Polsce w krypoaktywa - szacunki odnośnie do liczby
+tych osób wahają się od 1,2 mln do 5,5 min osób 51	,najbardziej
+prawdopodobna wydaje się liczba 1,2-1,7 mln osób5z;
+2. Narodowy Bank Polski;
+3. Komisja Nadzoru Finansowego;
+4. Generalny Inspektor Informacji Finansowej;
+5. Inspektor Nadzoru Wewnętrznego;
+6. Rzecznik Finansowy;
+7. banki: 25 banków komercyjnych, 488 banków spółdzielczych53;
+8. spóldzielcze kasy oszczędnościowo-kredytowe: 17 podmiotów54;
+49 Opinia w sprawie zgodności z prawem Unii Europejskiej poselskiego projektu ustawy o rynku
+kryptoaktywów (przedstawiciel wnioskodawców: posel Janusz Kowalski), opinia BEOS z 24 IV 2026 r.;
+BEOS-WPEiM-900/26
+50 Opinia w sprawie stwierdzenia, czy poselski projekt ustawy o rynku kryptoaktywów (przedstawicier
+wnioskodawców: poset Janusz Kowalski] jest projektem ustawy wykonującej prawo Unm Europejskiej
+w rozumieniu art. 95а Regulaminu Sejmu, opinia BEOS z 24 IV 2026 г., BEOS-WPEiM-901/26.
+51 Opracowanie na podstawie: K. Łukasik, J. Witczak, Polski Instytut Ekonomiczny, Populamość
+kryptowalut	Warszawa	2023.	https://pie.net.pi/wp-content/uploads/2023/09/PIE-
+Raport kryptowaluty_2023 pdf, R. Kowalski, Bitcoin i aktywa krypto w Polsce, Towarzystwo
+Ekonomistów Polskich, https://tep.orq.plbitcoin-+-aktywa-krypto-w-polsce-toq-31-2025/
+52 Raport PKO Banku Polskiego i Maison&Partners, Portret Finansowy Polaków: Raport z badania
+Mościowego,	T..
+https://businessinsider.ocdn.eu/static/portretFinansowyPolakow2025.pdf/dlapi npa=0&dlapi aid=144
+6f5517 abc26cad067b0ea158010dc&dapi_lu=202409271132233167107244, s. 30.
+63 Bankowy Fundusz Gwarancyjny, Podmioty objęte gwarancjami, hüps://bfg pl/owarantowanie-
+depozytow/podmioty-objete-gwarancjami/
+54 Ibidem.
+17
+
+--- page 18 ---
+9. krajowe instytucje pieniądza elektronicznego: 1 podmiot5»;
+10. Krajowe instytucje platnicze: 47 podmiotówe-
+11. male instytucje platnicze: 154 podmioty :
+12. firmy inwestycyjne, w tym domy maklerskie i biura maklerskie: 21
+podmiotów58
+13. podmioty infrastruktury rynku kapitalowego (spółki prowadzące rynek
+regulowany i instytucje powiązane): GPW S. A., TGE S. A., BondSpot S.
+A., Krajowy Depozyt Papierów Wartościowych S. A., KDPW CCP S. A.59
+14. towarzystwa funduszy inwestycyjnych: 64 podmioty6o;
+15. Izba Administracji Skarbowej w Katowicach61;
+16. przedsiębiorcy wpisani do rejestru działalności w zakresie walut
+wirtualnych: 1189 podmiotów62
+17. Polska Agencja Nadzoru Audytowego;
+18. firmy audytorskie: 1 15363-
+19. biegli rewidenci: 2 536 osóbö4;
+20. sądy administracyjne: 17, w tym Naczelny Sąd Administracyjny i 16
+Wojewódzkich Sądów Administracyjnych;
+21. sądy powszechne: 377 (w tym: 317 sądów rejonowych, 47 sądów
+okręgowych, 11 sądów apelacyjnych)";
+22. podmioty świadczące uslugę bezgotówkowej wymiany walut (tzw. kantory
+internetowe).
+23. Centraine Biuro Antykorupcyjne;
+24. Policja;
+55 Obecnie w rejestrze figuruje wyłącznie Stabillon spółka z ograniczoną odpowiedzialnościa (d. Billon
+Solutions	spółka	ograniczoną	odpowiedzialnościa)
+https://www.knf.gov.p//podmioty/podmioty_rynku_uslug_platniczych/rejestr_ krajowych instytucji pieni
+adza elektronicznego
+56 System ERUP KNF v 2.0 podaje 55 podmiotów, z czego 8 o statusie "wykreślone": https:/le-
+rup.knt.gov.pl/?type=PSD P.
+si System ERUP KNF v 2.0 podaje 288 podmiotów, z czego 134 o statusie "wykreślone": https://e
+rup.knf.gov.pi/?type=PSD EPI@MIP
+58
+https://www.knf.gov.p/podmioty/Podmioty rynku_ kapitalowego/Finny inwestycyine i Agenci firm in
+westycyinych/domy maklerskie.
+https://www.knf.gov.p/podmiotv/Podmioty_rvnku_ kapitalowego/Podmioty_infrastruktury rynku kapital
+OWB90.
+80	KNF	Wykaz	towarzystv	funduszy	inwestycyjnych,
+https://www.knf.gov.pl/podmioty/Podmioty_rynku_kapitalowego/Fundusze_Inwestycyine/TFl i Fl.
+ö1 Ze względu na prowadzenie rejestru działalności w zakresie walut wirtualnych.
+82 Rejestr działalności w zakresie walut wirtualnych na dzien 6 maja 2026 r. zawiera 1 841 wpisów,
+652 podmiotów wykreślonych, https://www.gov.p//web/ias-katowice/rejestr-dzialalnosci-W-
+zakresie-walut-wirtualnych.
+prowadzony	Polską Agencję Nadzoru Audytowego,
+https://streta.pana.gov.pl/wyszukiwarkal
+„Na dzień 31 grudnia 2024 r. w rejestrze biegłych rewidentów znajdowało się 4 854 osoby (decyzje
+prawomocne), w tym 3 082 kobiety i 1 772 mężczyzn. Spośród ww. ogółu bieglych rewidentów 2 536
+deklarowało wykonywanie zawodu, a średnia wieku biegiego rewidenta wynosiła 52,31 lata." -
+Sprawozdanie	Krajowej Rady	Bieglych Rewidentów za	2024 r., https:/pana.gov.p/wp-
+content/uploads/2025/04/Sprawozdanie-KRBR-za-2024-r.pdf, s. 24.
+65 Rozporządzenie Ministra Sprawiedliwości z dnia 28 grudnia 2018 r. w sprawie ustalenia siedzib
+i obszarów właściwości sadów apelacyjnych, sądów okręgowych i sądów rejonowych oraz zakresu
+rozpoznawanych przez nie spraw (Dz. U. z 2025 r. poz. 925).
+18
+
+--- page 19 ---
+25. Straż Graniczna;
+26. Zandarmeria Wojskowa;
+27. Agencja Bezpieczeństwa Wewnętrznego;
+28. Agencja Wywiadu;
+29. minister właściwy do spraw wewnętrznych;
+30. Fundusz Edukacji Finansowej;
+31. Krajowa Administracja Skarbowa.
+Ustalenie dokładnej liczby osób inwestujących w Polsce w kryptowaluty jest
+trudne. W 2023 r. Polski Instytut Ekonomiczny (PIE) podal, za raportem Triple A,
+liczbę 1,1 mln osób w Polsce posiadających kryptowaluty. Nowszy (z 2024 г.) raport
+Triple A wskazuje już liczbę 1,2 mln posiadaczy kryptoaktywów w naszym kraju ø
+Jednocześnie inne źródła podają daleko wyższe liczby - raport z badania
+ankietowego PIE wspomina o tym, że 11,7% Polaków zadeklarowało posiadanie
+kryptowalut7. Najwyższą, wartość podaje natomiast UCE Group Ltd 68
+B. Wplyw na spoleczenstwo
+Precyzyjne określenie skali oddziaływania projektu na spoleczeństwo jest
+niezwykle trudne, z uwagi na brak możliwości jednoznacznego ustalenia ile osób
+posiada kryptoaktywa w Polsce. Uzyskane w badaniach wartości znacząco się od
+siebie różnią. Za najbardziej wiarygodne można uznać wyniki badań PKO Banku
+Polskiego i Maison & Partners®9	, a to z uwagi na największą probę (ponad 12 tysięcy
+osób) i opisany mechanizm jej ważenia oraz nieodległy termin realizacji badania
+(w pierwszym kwartale 2025 roku). Uzyskane dane wskazują, że spośród 79%
+doroslych Polaków deklarujących posiadanie oszczędności, 7% wybiera
+„alternatywne formy inwestowania (np. kryptowaluty, start-upy itp.)" To	. Sposrod
+wszystkich dorosłych Polaków (których jest ok. 30,7 mln7') 5,5% deklaruje, że
+wybiera inwestycje alternatywne (zapewne znacznie częściej są to łatwo dostępne
+kryptowaluty niż udziały w start-upach)72
+Co istotne: posiadane przez Polaków oszczędności zgromadzone
+w kryptoaktywach są stosunkowo niewielkie - ich mediana wynosi około 1 000 zł.
+Do tego „37 proc. [posiadaczy kryptoaktywów] deklaruje, że stanowiły one mniej niz
+1 proc. wszystkich posiadanych aktywów finansowych. Dla 90 proc. posiadaczy
+kryptowaluty nie stanowiły więcej niz 25 proc. aktywów finansowych"73 Pokazuje to,
+że dia ponad 1/3 inwestujących w kryptoaktywa stanowiły one znikomą część ich
+5 Triple A. Digital Currency Ownership	Data, https://www.triple-a.io/cryptocurrency-owmership-
+datatreport
+6 K. Łukasik, J. Witczak, Polski Instytut Ekonomiczny, Popularność kryptowalut..., op.cit., s. 4.
+e8 Zespół Prasowy UCE, Raport rynkowy, Już prawie co piąty dorosly Polak inwestuje w kryptowaluty.
+https://uce-pl.com/news/co-piaty-dorosly-polak-inwestuje-w-kryptowaluty
+89 Raport PKO Banku Polskiego i Maison & Partners.... op. cit.
+70 Ibidem, s. 32.
+71 Główny Urząd Statystyczny, Struktura Ludności, Zbiór tablic: Stan i struktura ludności wedlug wieku
+tatach	1989-2024
+https://stat.gov.p/download/gfx/portalinformacyjny/pl/defaultaktualnosci/5468/16/1/1/tablica_1.x/s.
+i2 Nabywanie udziałów w spółkach, które nie są publicznie notowane jest trudno dostępnym sposobem
+inwestowania. Badanie uwzględniało akcje oraz fundusze inwestycyjne jako oddzielną kategorię.
+73 K. Łukasik, J. Witczak, Polski Instytut Ekonomiczny, Populamość kryptowalut..., op. cit., s. 37.
+19
+
+--- page 20 ---
+oszczędności. Jedynie niewielka częśc (10%) spośród osób inwestujących
+w kryptoakływa lokowała w nich istotną część swojego majątku.
+Poglądy Polaków na temat regulacji kryptowalut cechują się widoczną
+niespójnością pomiędzy deklaracjami, a praktykami. Z jednej strony Polacy
+posiadający kryptowaluty mają odmienne niż ogót spoleczeństwa podejécie do
+państwa i prawa. W mniejszym stopniu reprezentuja postawę propaństwowa, co
+przejawia się m.in. niższym zaufaniem do instytucji państwowych, częstszym
+wyrażaniem opinii, że „podatki w Polsce są zbyt wysokie" oraz deklarowaniem
+przekonania o nadmiernej roli państwa i sektora bankowego w kontrolowaniu
+przepływu pieniędzy?4
+Z drugiej strony, te same osoby, nabywając kryptowaluty, korzystają przede
+wszystkim ze scentralizowanych pośredników będących jednocześnie bankami czy
+innymi zarejestrowanymi (i nadzorowanymi) instytucjami finansowymi. Bardzo
+rzadko sięgają natomiast po bezpośrednie nabywanie czy tzw. „wykopywanie" (ang.
+mining) kryptoaktywów 75	. Z uwagi na ten stan rzeczy, poddanie nadzorowi
+finansowemu tej galęzi działalności gospodarczej powinno zwiększyć zaufanie do
+kryptoaktywów, a w rezultacie sprzyjać popularyzacji tej formy tezauryzacji
+i inwestowania
+Wrażliwość branzy kryptoaktywów na różnego rodzaju oszustwa i manipulacje
+wynika m.in. z braku dostatecznych regulacji76. W kwietniu br. wszczęto śledztwo
+w sprawie Zondacrypto?	?. Rzecznik Prokuratury Regionalnej w Katowicach Michal
+Binkiewicz potwierdził informację o ok. 700 poszkodowanych osobach i tącznej
+stracie, która jest "na pewno większa niż wskazana pierwotnie kwota 350 milionów
+złotych"78. Choć jest to najgłośniejszy taki przypadek w Polsce, to upadki dużych
+giełd kryptowalut nie są zdarzeniem wyjątkowym?9	. Lokowanie srodków u dużych,
+rozpoznawalnych pośredników nie jest gwarancją bezpieczerstwa i pokazuje
+konieczność regulowania tego rynkuso	. Warto przy tym zauważyć, że pryjęcie
+przepisów w tym obszarze będzie się więc wiązało z koniecznością ich
+dostosowywania do ewentualnych zmian technologicznych lub spolecznych. Tym
+niemniej, projekt odpowiada w dużym stopniu na rosnące oczekiwania spoteczne
+związane z poprawą bezpieczeństwa środków ulokowanych w kryptoaktywach.
+Omawiając skutki spoleczne uregulowania kwestii kryptowalut warto
+nadmienić, że środki te mogą być wykorzystywane do prania brudnych pieniędzy
+74 Ibider, s. 38-39.
+75 Ibidem.
+76 Komisja Nadzoru Finansowego, Kryptoaktywa — czy wiążą się z wyższym ryzykiem, Oszustwa
+i manipulacje.
+https://www.knf.gov.pl/dla_rynku/kryptoaktywa czy wiaza sie z_ wyzszym ryzykiem/oszustwa i man
+77 Prokuratura Regionalna w Katowicach, Sledztwo w sprawie Zondacrypto, https://www.gov.pl/web/pr-
+katowice/siedztwo-w-sprawie-zondacrypto	Prokuratura:	700 poszkodowanych	przez Zondacrypto,
+Ciepielewski,
+https://tvn24.pl/biznes/z-kraju/zondacrypto-prokuratura-okregowa-w-katowicach-wszystkie-watki-w-
+§prawie-zondacrypto-beda-badane trwaja-przeszukania-s19019023
+Winfrey.	bankruptcy. https://www.ebsco.com/research-starters/law/ftx-
+bankruptcytoverview
+80 Por. KPMG, The collapse of FTX. Lessons and implications for stakeholders in the crypto industry.
+http://assets.kpmq.com/content/dam/kpmgsites/cn/pdf/en/2022/11/the-collapse-of
+fbx.pdf.coredownload.inline.pdf.
+
+--- page 21 ---
+czy finansowania przestępczości (często zorganizowanej): „rozpowszechnienie się
+aktywów opartych na blockchain zwiększa możliwości prania pieniędzy, jak i tworzy
+nowe, bezpieczniejsze dla przestępców metody zdobywania kapitału" 81	. Skala
+powiązanej z kryptoaktywami przestępczości jest trudna do ustalenia. Zapobieganie
+tym	niepożądanym zjawiskom społecznym poprzez regulowanie rynku
+kryptoaktywów może być bardzo trudne, także ze względu na to, że techniczna
+struktura niektórych kryptowalut sprawia, że wprowadzanie dodatkowych regulacji
+nie będzie znacząco ograniczać możliwości ich wykorzystywania w związku
+z działalnością przestępczą®2. Pomimo tego, zasadnym jest postulat „nadążania"
+ustawodawstwa i innych działań władz publicznych za nowymi zjawiskami z obszaru
+kryptoaktywów. Jak sugerują eksperci: „Jednym z rozwiązań tego problemu mogłoby
+być zwiększenie režimu regulacyjnego oraz szerzenie wiedzy o cyberprzestępczości
+wśród pracowników instytucji finansowych odpowiedzialnych za przeciwdziałanie
+praniu pieniędzy"83
+Zagadnienie	kryptoaktywów ma	rosnące znaczenie	dla polskiego
+spoteczeństwa, co možna dostrzec zarówno na płaszczyźnie samego ich
+nabywania, jak również dyskursu medialnego dotyczącego kryptowalut i prób ich
+regulowania. O kwestii tej pisały zarówno główne ogólnopolskie media®	4, jak i te
+o charakterze branzowym®s	. Ilość doniesień medialnych w ostatnich miesiącach &6
+wynikała po części z faktu, że kryptoaktywa byly przedmiotem kolejnych projektów
+ustaw: trzech rządowych, prezydenckiego oraz trzech poselskich (jeden byl
+opiniowany przez BEOS w styczniu br.87	,aw przypadku dwóch kolejnych trwaja
+prace legislacyjne - jednego z nich dotyczy niniejsza opinia). Gwaltowne nasilenie
+przekazów medialnych dotyczących kryptowalut w ostatnich tygodniach ma związek
+81 J. Wróblewski, C. B. Martysz, Kryptowaluty a finansowanie przestępczości i pranie pieniędzy, Studia
+i prace Kolegium Zarządzania i Finansów, Zeszyt Naukowy 193/2023, S. 220
+_Wymuszenie (na przykład poprzez regulacje ustawowe lub też zapisy umowne) powiązania
+tożsamości cyfrowej kont kryptowalutowych z tożsamością deklarowanych posiadaczy niewiele wnosi
+jako przeciwdziałanie niepożądanym zjawiskom w obrocie kryptowalutami.	* - Zob. M. Kutylowski, E
+Lewańska, P. Błaśkiewicz, Kryptowaluty wybrane kluczowe aspekty, Raport przygotowany na zlecenie
+Fundacji Warszawski Instytut Bankowości, Warszawa, kwiecien 2023, s. 40.
+83 J. Wróblewski, C. B. Martysz, Kryptowaluty a finansowanie przestępczości.., op. cit., s. 220.
+84 M.in. M. Baczyński, Diaczego Karol Nawrocki zawetował ustawę o kryptowalutach? "Jedna rzecz
+ustawe-o-kryptowalutach-jedno-budzi-watpliwosci7y9q7le, czy TVN24, Kryptowaluty w politycznym
+klinczu. Sejm wrócił do zawetowanej ustawy, https://tvn24.pl/biznes/prawo/kryptowaluty-w-politycznym-
+klinczu-sejm-wrocil-do-zawetowanej-ustawy-st8807063
+85 Ł. Zalewski, Co dalej z kryptoaktywami. Burza w Sejmie. Prawnicy tłumaczą skutki, na chtodno,
+https://businessinsider.com.pl/prawo/kryptoaktvwa-polska-opoznia-wdrozenie-eksperci-ostrzeqaja-i
+tlumacza-skutki/pb4phjw, P. Gospodarczyk, Sejm zaglosował ws. kryptoaktywów. Prezydent już raz
+https://www.money.p//gospodarka/sejm-zaglosowal-ws-kryptoaktywów-
+prezydent-juz-raz-zawetowal-ten-projekt-7233730214214144a.html
+88 Nie bez znaczenia dla natężenia medialnych przekazów pozostaje istotna, tożsamościowa rola
+kryptoaktywów dia części osóbw nie inwestujących (w szczególności dia młodych mężczyzn) — Zob. D.
+Cassino, Bitcoin Bros: Masculinity, Cryptocurrency, and the Future of Men, 2026.
+8т Opinia w sprawie oceny skutków regulacji poselskiego projektu ustawy o rynku kryptoaktywów,
+BEOS-2726/25.
+https://orka.sejm.gov.pl/Druki10ka.nst/0/4B551997E6595E64C1258DBE00498AEF/%24File/2363.pdf,
+221-262.
+21
+
+--- page 22 ---
+z tzw. afera Zondacrypto, szczegółowo relacjonowaną przez większość
+ogólnopolskich i branżowych mediówss
+C. Konsultacje społeczne
+W toku przeprowadzonych konsultacji społecznych projektu złożono jedynie
+4 ankiety, uczestnicy konsultacji zamieścili 17 komentarzy. Przyspieszenie prac
+legislacyjnych nad ustawą może tłumaczyć tak niskie zainteresowanie konsultacjami
+społecznymi, ale jedynie częściowo. Obywatele mieli możliwość zamieszczania
+komentarzy od 17 kwietnia, zatem przez ponad trzy tygodnie (warto przy tym
+zaznaczyć, że nierzadko istotna część ankiet wypełniana jest w ostatnich dniach
+konsultacji). Niskie zainteresowanie tematem może też częściowo tłumaczyć
+wspominana wyżej duża liczba projektów ustaw. Można założyć, že częśĆ
+komentujących zdążyła już wyrazić swoje stanowisko w poprzednio konsultowanych
+projektach. Komentujący krytykowali ocenę skutków regulacji dołączoną do projektu
+i przedstawiali liczne uwagi dotyczące szczegółów regulacji8g
+Vil. Skutki gospodarcze projektowanej ustawy
+Wnioskodawcy wskazują w DSR, że objęcie rynku kryptoaktywów
+proponowanymi ramami prawnymi wygeneruje złożone skutki gospodarcze. PO |
+pierwsze, przyczyni się do zwiększenia liczby procedur związanych
+Z wprowadzeniem nadzoru, co w konsekwencji wygeneruje dodatkowe koszty
+dostosowawcze. Następstwem objęcia tego sektora kontrolą instytucjonalną będzie
+więc nałożenie na podmioty aktywne na tym rynku szeregu obowiązków
+sprawozdawczych, informacyjnych, technicznych, a także ostrożnościowych
+i organizacyjnych. Komisja Nadzoru Finansowego, jako organ właściwy do
+sprawowania nadzoru nad rynkiem kryptoaktywów, będzie wykonywać swoje
+zadania ustawowe w oparciu o analizę nadzorczą, obejmującą procesy licencyjne,
+analityczne oraz działania kontrolne. Wodniesieniu do kosztów zgodności
+podnoszona jest argumentacja, wedle której ich ostateczny pułap pozostanie
+uzalezniony od skali i intensywności operacji prowadzonych przez poszczególne
+podmioty
+Wnioskodawcy podkreślaja: że przejście na model działalności
+reglamentowanej wymusi zmianę dotychczasowej logiki funkcjonowania
+przedsiębiorstw, wynikająca głównie z konieczności dostosowania się do
+dodatkowych warunków prawnych. Przedlużający się stan niepewności regulacyjnej
+prowadzić może jednak do utrudnienia w prowadzeniu działalności gospodarczej f
+w branży kryptowalut"	. Tylko biezącym roku z rejestru działalności w zakresie walut
+wirtualnych wykreślone zostało ponad sto podmiotów91, a od 30 grudnia 2024 r. nie
+88 M.in. Onet.pl, Tvn24, TV Republika, Forbes, Money.pl. OKO.press, Rzeczpospolita, Wprost,
+wPolityce.
+89 W szczególności komentarze zamieszczone przez Oleha Rokitę (ID ankiety: 160254) zawierały liczne
+uwagi dotyczące szczegółowych uregulowan
+90 Zob. T. Ciechonski, Przepisy o kryptoaktywach - ochrona klienta, obowiązki dla fim,
+https://www.prawo.pl/biznes/projekt-ustawy-o-kryptoaktvwach-i-rozporzadzenie-mica.532147.html.
+91 Rejestr działalności w zakresie walut wirtualnych.., op.cit.
+22
+
+--- page 23 ---
+są_ dokonywane nowe wpisy w tym rejestrze 92	. Jednocześnie Wnioskodawcy .
+zwracają uwagę na pozytywny wymiar nowej regulacji, wskazując, iž analizowana
+ustawa stworzy fundamenty pozwalające na zwiększenie skali działalności
+podmiotów poprzez umożliwienie prowadzenia działalności operacyjnej na
+terytorium wszystkich państw członkowskich UE. Wnioskodawcy podkreślają także
+w DSR, że kontrola instytucjonalna ma z jednej strony zapewnić sprawne
+rozpoznawanie spraw, a z drugiej umożliwić podmiotom operującym na rynku
+kryptoaktywów skorzystanie z efektywnego środka odwoławczego.
+W zakresie skutków gospodarczych w DSR podkreślono również znaczenie
+bardziej szczegółowych instytucji analizowanej ustawy, np. fakt, że jej projekt
+ogranicza możliwość stosowania blokady stron internetowych przez KNF do
+konkretnych sytuacji, a także doprecyzowuje zasady obliczania całkowitych
+przychodów dostawców uslug w obszarze kryptoaktywów, co bezpośrednio
+determinuje wysokość rocznej opłaty uiszczanej na pokrycie kosztów nadzoru nad
+tym rynkiem. Regulacja ustanawia górny limit tej oplaty na poziomie 10 000 euro
+Wprowadzenie maksymalnego pułapu ma zapobiegać sytuacjom, w których opłata
+kalkulowana wylącznie w oparciu o przychód bylaby niewspólmiernie wysoka, co
+w konsekwencji stawiałoby przedsiębiorstwa w niekonkurencyjnej pozycji
+europejskim rynku kryptoaktywów.
+Kolejnym szczegółowym rozwiązaniem wymienionym w obszarze skutków
+gospodarczych w DSR jest pierwotna emisja kryptoaktywów, która w swoim
+założeniu ma zachęcać podatników do inwestowania. Srodki pieniężne lub
+kryptoaktywa uzyskane w zamian za przeprowadzenie pierwotnej emisji
+kryptoaktywów nie będą kwalifikowane jako przychód. Jednocześnie wprowadzono
+ograniczenie, zgodnie z którym zgromadzone w ten sposób środki nie będą mogly
+zostać wypiacone wspólnikom lub akcjonariuszom przez okres trzech lat.
+Wnioskodawcy podkreślają również, że projektowana regulacja zakłada redukcję
+z poziomu 0,5% do 0,1% stawki bazowej uwzględnianej w procesie wyliczania
+wpłaty, jaką emitenci tokenów powiązanych z aktywami lub tokenów o charakterze
+e-pieniądza uiszczają w celu pokrycia kosztów sprawowania nadzoru nad sektorem
+kryptoaktywów.
+Proponowany projekt wygeneruje także szereg skutków gospodarczych innych
+niz te wymienione w DSR, których analizę należy przeprowadzić w celu
+zasygnalizowania pozytywnych i negatywnych scenariuszy związanych z jej
+wplywem na rynek kryptoaktywów93
+Kluczową rolę w nowo tworzonym systemie nadzoru nad rynkiem będzie
+odgrywała Komisja Nadzoru Finansowego dysponująca szeregiem uprawnien
+w wielu obszarach funkcjonowania podmiotów na rynku kryptoaktywów. W zakresie
+a2 Izba Administracji Skarbowej w Katowicach, Komunikat dotyczący rejestru działałności w zakresie
+walut	wirtualnych, https://www.gov.pl/web/ias-katowice/komunikat-dotyczacy-rejestru-dzialalnosci-w-
+zakresie-walut-wirtualnych
+93 W ramach prowadzonych konsultacji społecznych podnoszono również kwestię wykraczającą poza
+analizowaną regulację, mianowicie problem niedostatecznej wiedzy ekonomicznej inwestorów. Nawet
+w sytuacji, gdy rynek kryptoaktywów zostanie objety nadzorem KNF, to w dalszym ciągu jest to sektor
+relatywnie wysokiego ryzyka inwestycyjnego, dużej zmiennościi niekiedy nieprecyzyjnej granicy mięczy
+inwestycją a spekulacją, diatego zwracano uwagę na konieczność edukacji ekonomicznej inwestorów
+detalicznych i uwzględnienie kosztów braku takiej edukacji (ID ankiety: 158733).
+
+--- page 24 ---
+dostępu do informacji KNF może np. kontrolować działalność emitentów, dostawców
+ustug, osób ubiegających się o dopuszczenie kryptoaktywów do obrotu pod katem
+sytuacji finansowej i zgodności ich dzialalności z prawem (art. 58 ust. 1 i 2),
+przedstawiciele KNF uzyskują prawo dostępu do informacji poufnych, danych
+osobowych oraz informacji stanowiących tajemnice zawodową (art. 59), KNF może '
+żądać ustnych lub pisemnych informacji lub wyjaśnień oraz kopii dokumentów na
+koszt podmiotu (art. 38), a w razie watpliwości dotyczących sprawozdań
+finansowych KNF może zlecić ich kontrolę wskazanej firmie audytorskiej na koszt
+nadzorowanego (art. 39).
+KNF dysponuje również uprawnieniami ingerującymi w obrót i możliwościami
+zabezpieczenia środków94. Na przykład, przewodniczący KNF może w określonych
+przypadkach zażądać zablokowania rachunku kryptoaktywów lub rachunku i
+pieniężnego na okres do 96 godzin (art. 63 ust. 1 projektu), a w przypadku
+zagrożenia obrotu lub interesu posiadaczy kryptoaktywów może przedłużyć blokadę
+lub wstrzymać określoną transakcję na czas do 6 miesięcy. Na żądanie, o ktörym
+mowa dostawcy uslug w zakresie kryptoaktywów ma służyć skarga do sądu
+administracyjnego. Co więcej, KNF będzie mógł po wystapieniu określonych
+przesłanek zawiesić obrót kryptoaktywami (na ustalony termin), wstrzymać ich
+dopuszczenie do obrotu do 30 dni, a w sytuacji istotnego zagrożenia - calkowicie
+wykluczyć kryptoaktywa z platformy (art. 95 projektu).
+Jednym z ważniejszych uprawnień Komisji Nadzoru Finansowego będa l
+możliwości działania w obszarze stron i domen internetowych. KNF ma prowadzic
+rejestr domen internetowych wykorzystywanych do prowadzenia działalności
+naruszającej przepisy powszechnie obowiązujące i decydować o wpisach do niego
+(art. 66 i 67 projektu). Po wpisie, KNF będzie mógt żadać od dostawców uslug
+hostingowych usunięcia, wyłączenia danego interfejsu interetowego lub
+przekierowania połączen odwołujących się do nazwy domeny internetowej wpisanej
+do rejestru do strony internetowej prowadzonej przez Komisję, zawierającej
+komunikat skierowany do odbiorców usługi dostępu do sieci internet (art. 70
+projektu). KNF będzie mógł także nakladać surowe kary pieniężne m.in. za
+utrudnianie lub uniemożliwianie przeprowadzenia kontroli (art. 102 projektu),
+niewykonanie nakazów i żądań KNF (art. 103 projektu) oraz za inne naruszenia
+przepisów ustawy i rozporządzenia MICA. To tylka kilka przykładów kompetencji '
+nadzorczych będących w dyspozycji KNF na mocy analizowanej regulacji.
+Wymienione powyżej możliwości kontroli i narzędzia nadzorcze będące
+w dyspozycji KNF mogą ograniczyć ryzyko oszustw, manipulacji rynkowych,
+swobodę funkcjonowania nierzetelnych podmiotów i oferowania kryptoaktywów bez
+odpowiedniej informacji o ryzyku. Ten złożony system narzędzi może działać jak
+mechanizm eliminujący z rynku kryptoaktywów podmioty nieuczciwe, stabo
+skapitalizowane albo działające wyłącznie na arbitrażu regulacyjnym 95	. Dla
+konsumenta oznacza to potencjalnie mniejsze ryzyko inwestycyjne i mniejsze
+g4 Jednym z ryzyk, na które zwracano uwagę w konsultacjach społecznych jest duże obciążenie KNF
+iw związku z tym możliwe trudności w efektywnym realizowaniu nadzoru nad rynkiem kryptoakływów
+{D ankiety: 160294 1 150/331.
+05 R. Kurek, Arbitraż nadzorczy na rynku usług finansowych — identyfikacja zjawiska, „Prace Naukowe
+Uniwersytetu Ekonomicznego We Wrocławiu", 2014, s. 132-139
+
+--- page 25 ---
+prawdopodobieństwo utraty zainwestowanych środków oraz większy poziom
+zaufania do nadzorowanego sektora9s
+Silniejszy nadzór może więc zwiększyć wiarygodność rynku kryptoakływów
+w Polsce. Jeżeli uczestnicy rynku będą mieli świadomość, że działalność podlega
+realnym wymogom informacyjnym, kontrolnym i kapitałowo-organizacyjnym, to
+może to sprzyjać większemu zaufaniu inwestorów, międzynarodowych i krajowych
+instytucji finansowych, partnerów technologicznych i innych podmiotów
+zainteresowanych funkcjonowaniem na nadzorowanym i przewidywalnym rynku
+kryptoaktywów.
+Jednak szerokie kompetencje nadzorcze przyznane KNF mogą w istotny
+sposób wpłynąć na wzrost nakładów finansowych związanych z bieżącym
+funkcjonowaniem przedsiębiorstw. Podmioty nadzorowane zostaną obarczone
+koniecznością finansowania procedur Z zakresu zgodności	regulacyjnej,
+profesjonalnej obslugi prawnej,	szkoleniowej, technologicznej oraz
+systematycznego raportowania 97	• Dodatkowe	obciążenia obejmą także
+sporządzanie dokumentacji informacyjnej, poddawanie się procesom audytowym,
+a także opracowywanie planów naprawy i wykupu oraz utrzymywanie stałej
+komunikacji z organem nadzorczym. Powyższe uwarunkowania mogą okazać się
+bardziej dotkliwe dia małych i średnich przedsiębiorstw, start-upów, podmiotów
+wywodzących się z środowiska akademickiego oraz podmiotów o charakterze stricte
+innowacyjnym, ktöre zazwyczaj nie posiadają rozbudowanych struktur typu
+. compliance®. W konsekwencji projektowane regulacje moga pelnić funkcję bariery
+wejścia na rynek99	. Choć ich formalnym celem jest zapewnienie ochrony obrotu
+gospodarczego, w praktyce mogą one prowadzić do uprzywilejowania największych
+uczestników rynku dysponujących odpowiednimi zasobami	do obslugi
+wymagających wymogów regulacyjnych 100
+Wymagania związane z nadzorem nad rynkiem kryptoaktywów i ich
+bezpośredni wpływ na wysokość kosztów transakcyjnych po stronie
+przedsiębiorców są determinowane przede wszystkim przez zakres niepewności co
+do praktyki stosowania narzędzi owego nadzoru. W przypadku, gdy decyzje KNF
+będą wydawane w sposób relatywnie sprawny, proporcjonalny oraz poparte
+rzetelnym uzasadnieniem merytorycznym, ostateczny efekt rynkowy może miec
+96 Charakterystyka rnku kryptoaktywów z perspektywy konsumenta: W. Mincewicz, Użytkownicy
+kryptowalut w Polsce- wybrane charakterystyki, „Acta Universitatis Lodziensis. Folia Sociologica" 2024
+nr 91, s. 47-67; zob. także: „Obawiam się scenarusza, w którym kryptowaluty trafiają pod strzechy".
+Szef KNF nie zamierza ufatwiać życia spekulantom, https://www.forbes.pi/finanse/kryptowaluty-w-
+polsce-obawiam-sie-scenariusza-w-ktorym-kryptowaluty-trafiaja-pod/them5s	• K. Łukasik, J. Witczak,
+Popularność kryptowalut w Polsce, Polski Instytut Ekonomiczny, Warszawa 2023
+эт Konieczność ponoszenia wysokich kosztów w zakresie obsługi IT, zgodności czy kosztów związanych
+z koniecznością spelnienia innych wymogów wybrzmiewały w konsultacjach społecznych (ID ankiety:
+98 Zob. m.in. Kryptoaktywa: Polska opóżnia wdrożenie. Eksperci ostrzegają i tłumaczą skutki, „Business
+https:#/businessinsider.com.pl/prawo/kryptoaktywa-polska-opoznia-wdrozenie-
+eksperci-ostrzegaja-i-tlumacza-skutki/pb4phjw
+2 W konsultacjach społecznych zwrócono uwagę, že oprócz pozytywnych skutków regulacji należy
+zwrócić uwagę na możliwe skutki negatywne, takie jak wysokie koszty dostosowania dia małych
+podmiotów, ryzyko koncentracji rynku, możliwą migrację przedsiębiorstw do innych państw (ID ankiety:
+160254)-
+100 M. Hviid, M. Olczak, Raising Rivals' Fixed Costs, International Joural of the Economics of Business",
+2016, vol. 23, nr 1, s. 19-36.
+25
+
+--- page 26 ---
+charakter pozytywny i stabilizujący. Taka praktyka pozwoli podmiotom na bardziej
+precyzyjne przewidywanie skutków podejmowanych działań oraz minimalizację
+ryzyka regulacyjnego w ramach obowiązującego porządku prawnego. Jeżeli jednak
+uczestnicy rynku będą postrzegac działania nadzorcze jako arbitralne
+i nieprzewidywalne, doprowadzi to do istotnego wzrostu trudności w prowadzeniu
+działalności gospodarczej na terenie Polski. Brak transparentności i stabilności
+w stosowaniu przepisów może stać się impulsem dla przedsiębiorców do
+poszukiwania bardziej przyjaznych jurysdykcji 101 w innych państwach
+członkowskich Unii Europejskiej.
+Zgodnie z analizowanym projektem kluczowym czynnikiem warunkującym
+aktywność podmiotów na rynku kryptoaktywów jest konieczność ponoszenia
+określonych oplat. Opłaty te można podzielić na dwie główne kategorie, obejmujące
+jednorazowe należności za konkretne czynności urzędowe oraz oplaty roczne
+przeznaczone na pokrycie kosztów nadzoru sprawowanego przez KNF.
+Wysokość opłat jednorazowych została określona jako konkretne kwoty (1000
+lub 3000 euro) bądź ograniczona górnym limitem do równowartości 4500 euro, co
+stanowi bezpośredni koszt wejścia na rynek i sfinansowania odpowiednich
+czynności autoryzacyjnych (art. 77 projektu).
+Z kolei wymiar rocznych oplat nadzorczych ma być zróżnicowany i uzależniony
+od charakteru działalności prowadzonej przez dany podmiot (art. 78 i 79
+projektu). Art. 78 pkt. 1 wskazuje, że dostawcy usług w zakresie kryptoaktywów
+wnosiliby roczną oplatę na pokrycie kosztów nadzoru nad rynkiem kryptoaktywów
+ustalaną na podstawie średniej wartości przychodów ogólem w okresie ostatnich 3
+lat obrotowych poprzedzających rok, za który wplata jest należna, w wysokości nie
+większej niż 0,4% tej średniej, jednak nie mniejszej niż równowartość w złotych
+kwoty 500 euro i nie większej niż równowartość w złotych kwoty 10 000 euro.
+Z kolei emitenci tokenów powiązanych z aktywami (ART) oraz tokenów
+będących e-pieniądzem (EMT) uiszczaliby roczną oplatę wyliczaną jako iloczyn
+średniej arytmetycznej sum zobowiązań finansowych z tytułu wyemitowanych
+tokenów (liczonej na koniec każdego dnia z ostatnich 12 miesięcy) i stawki
+nieprzekraczającej 0,1%. Dla tej grupy minimalna wpłata również wynosiłaby
+równowartość 500 euro (art. 79 pkt 1. projektu).
+Taka struktura kosztów ma na celu zapewnienie finansowania mechanizmów
+nadzorczych państwa, przy jednoczesnym dostosowaniu obciążeń do specyfiki
+i skali ryzyka ponoszonego przez poszczególne typy uczestników na гупки
+kryptoakływów. Wprowadzenie systemu oplat za	wydawanie zezwoleń,
+zatwierdzanie dokumentów informacyjnych i zgłoszenia, a także wprowadzenie
+cyklicznych opłat może przyczynić się do podniesienia poziomu profesjonalizacji
+гупки.
+Podmioty aspirujące do roli dostawców uslug w zakresie kryptoaktywów bądź |
+emitentów tokenów zostaną zobligowane do udowodnienia zdolności do pokrywania
+nie tylko nakładów technologicznych i operacyjnych, ale również kosztów
+101 Dynamiczny rynek kryptoaktywów, rozwijający się szybciej niż systemy prawne, może mieć trudności
+w rozwijaniu innowacji technologicznych w režimie rygorystycznego nadzoru, co może doprowadzić do
+poszukiwania bardziej przviaznych regulacji prawnych w innych państwach członkowskich (ID ankiety:
+158733).
+26
+
+--- page 27 ---
+zapewnienia pelnej zgodności regulacyjnej. Z perspektywy struktury rynku
+rozwiązanie to może pelnić funkcję kolejnego mechanizmu selekcyjnego.
+Przedsiębiorstwa bez odpowiednich zasobów organizacyjnych, niedostatecznie
+skapitalizowane lub zorientowane na krótkotrwałą obecność w obrocie napotkają
+istotne bariery wejścia i funkcjonowania. Może to prowadzić do podniesienia
+standardów bezpieczeństwa klientów oraz uwiarygodnienia firm prowadzących
+działalność zgodnie z obowiązującym porządkiem prawnym.
+Istotne jest zasygnalizowanie potencjalnych efektów drugiego rzędu, które
+mogą wynikać z implementacji projektowanego systemu oplat. Nałożenie na
+przedsiębiorców nowych obciążeń finansowych oraz rygorystycznych wymogów
+ostrožnościowych i organizacyjnych spowoduje, że prog wejscia na licencjonowany
+rynek kryptoaktywów ulegnie drastycznemu podwyższeniu. Jednostkowe oplaty nie
+muszą stanowić bariery dla dużych podmiotów finansowych. Jednak dla mniejszych
+przedsiębiorstw, start-upów oraz innowacyjnych projektow znajdujących się na
+wczesnym etapie rozwoju mogą one stanowić odczuwalne obciążenie kapitałowe.
+Jeszcze większym wyzwaniem dla uczestników rynku mogą okazać się koszty
+pośrednie, obejmujące profesjonalną obsługę prawną, utrzymanie systemów
+teleinformatycznych,	zapewnienie	bezpieczeństwa danych,	a także
+przeprowadzanie obligatoryjnych audytów. Katalog ten uzupełniają wydatki na
+szkolenia pracowników, archiwizację dokumentacji, bieżącą obsługę kontroli
+prowadzonych przez organ nadzoru oraz realizację obowiązków raportowych.
+Efektem takiej struktury kosztów może być ograniczenie liczby nowych podmiotów
+wchodzących na rynek, osłabienie konkurencji oraz uprzywilejowanie większych
+graczy rynkowych, dysponujących zasobami niezbędnymi do utrzymywania
+rozbudowanych struktur prawnych oraz działów compliance i bezpieczeństwa.
+Z kolei zaproponowane reżimy odpowiedzialności karnej oraz cywilnej mogą
+wywoływać pośrednie skutki gospodarcze. Do pozytywnych następstw należy
+zaliczyć zwiększenie poziomu bezpieczeństwa uczestników obrotu oraz
+ograniczenie zjawiska selekcji negatywnej. Surowe sankcje przewidziane m.in za
+sporządzanie nierzetelnych dokumentów informacyjnych eliminują z rynku podmioty
+nieuczciwe, co służy stabilności sektora i budowania zaufania do niego w długim
+terminie. W rezultacie prowadzi to do redukcji asymetrii informacyjnej oraz
+wzmocnienia zaufania inwestorów do podmiotów działających zgodnie z prawem.
+Z kolei do potencjalnych skutków negatywnych można ewentualnie zaliczyć
+zjawisko tzw. over-compliance. Perspektywa wysokich kar finansowych lub kary
+pozbawienia wolności za naruszenie przepisów zawierających np. pojęcia nieostre
+generuje u przedsiębiorców silną awersję do ryzyka. Może to prowadzić do
+spowolnienia postępu innowacyjnego, przejawiającego się rezygnacją z wdrazania
+nowatorskich uslug w obawie przed biędną interpretacją regulacji przez organ
+nadzoru.
+Zgodnie z analizowanym projektem, status formalnoprawny doradców
+w sektorze kryptoaktywów został	ściśle	określony, a porady dotyczące
+kryptoaktywów oraz powiązanych z nimi uslug będą mogły być udzielane wyłącznie
+przez osoby fizyczne powiązane z dostawcą uslug stosunkiem pracy, umową
+zlecenia lub innym stosunkiem prawnym o podobnym charakterze, co wynika
+bezpośrednio z art. 4 ust. 1 projektu. Fundamentalną zasadą będzie wymóg
+27
+
+--- page 28 ---
+posiadania przez te osoby wiedzy i kompetencji w zakresie rynku finansowego, ktore
+są niezbędne do prawidłowego wykonywania powierzonych zadań102
+Wdrożenie obowiązku posiadania udokumentowanej wiedzy pozwala na
+wyeliminowanie Z obrotu osób nieposiadających	stosownych kompetencji
+merytorycznych, co ogranicza asymetrię informacji i chroni klientów przed
+korzystaniem z porad podmiotów nieprzygotowanych zawodowo. Mechanizm ten
+służy oczyszczeniu rynku z podmiotów działających nieuczciwie, co przyczynia się
+do zwiększenia bezpieczeństwa obrotu gospodarczego, dednocześnie przymus
+formalizacji współpracy między osobą fizyczną a dostawcą ustug sprawia, że za
+blędy personelu odpowiedzialność ponosi podmiot nadzorowany (art.4 pkt 3
+projektu), a nie anonimowy podmiot działający poza strukturami regulowanymi. Taka
+internalizacja ryzyka zmusza firmy do nadzorowania jakości świadczonych uslug,
+ponieważ ewentualne odszkodowania obciążają bezpośrednio wynik finansowy
+przedsiębiorstwa.
+Z drugiej strony rygorystyczne wymogi szkoleniowe i nadzorcze generuja ,
+znaczące koszty zgodności regulacyjnej, które przedsiębiorcy prawdopodobnie i
+przeniosą na użytkowników końcowych w formie wyższych prowizji oraz opłat za
+korzystanie z platform. Może to też prowadzić do koncentracji rynkowej, w wyniku
+której na rynku pozostaną jedynie największe podmioty, co zazwyczaj skutkuje
+ograniczeniem wyboru oraz potencjalnym obniżeniem jakości usług dostępnych dla
+konsumentów.
+VIll. Skutki projektowanej ustawy dla sektora finansów publicznych
+Projekt może wywoływać skutki finansowe dla budżetu państwa i sektora
+finansów publicznych oraz wpływać na wzrost ryzyka fiskalnego. Proponowane
+przez Wnioskodawców powołanie Rady ds. kryptoaktywów oraz technologii
+finansowych i konieczności jej obsługi finansowej będzie wywoływało coroczne
+obciążenie dla budżetu państwa. Zgodnie z zaproponowanym rozwiązaniem w skład
+Rady ma wchodzić łącznie siedem osób, które powinny otrzymać wynagrodzenia.
+Wnioskodawcy proponują, aby koszty działania Rady, wtym wynagrodzenia jej
+członków oraz obsluga administracyjno-biurowa, pokrywane byly z budżetu państwa
+w części, której dysponentem jest Szef Kancelarii Prezesa Rady Ministrów. W tym
+miejscu należy zwrócić uwagę, iż w Polsce funkcjonują juž rady o charakterze
+opiniodawczo-doradczym w obszarze nowych technologii, ti. Rada ds. Cyfryzacji
+wspierająca Ministerstwo Cyfryzacji oraz Komitet do spraw Cyfryzacji, a takze
+Krajowa Rada do spraw Usług Cyfrowych, której obecnym koordynatorem jest
+Prezes Urzędu Komunikacji Elektronicznej. Ze względu na brak w projekcie
+szczegöłowych wytycznych, dotyczących zasad naliczania wynagrodzeń członków
+proponowanej Rady ds. kryptoaktywów oraz technologii finansowych, należy
+wskazać, iż zgodnie z rozporządzeniem Ministra Administracji i Cytryzacji
+102 W konsultacjach społecznych podnoszono, że wymogi dotyczące polityk szkoleniowych,
+zapewnienia odpowiedniej wiedzy osobom fizycznym działającym w powiązaniu z aktywnymi
+podmiotami	na rynku kryptoaktywów będą znacznie fatwiejsze do poniesienia przez duże
+przedsiębiorstwa niż małe start-upy lub firmy z sektora MSP (ID ankiety: 158733).
+
+--- page 29 ---
+jednorazowe wynagrodzenia członków Rady Cyfryzacji za udział w posiedzeniach
+wynosi 400 zł dia Przewodniczącego i jego zastępcy oraz 350 zł dla pozostalych |
+członków103	. Jednak w związku z brakiem propozycji Wnioskodawców, dotyczącej
+zasad organizacji proponowanej Rady, obecnie nie jest możliwe wskazanie rocznych
+łącznych wydatków budżetowych związanych z powołaniem tego organu. Stąd nie
+można także zweryfikować szacunku przedstawionego przez Wnioskodawców,
+zgodnie z którym koszty działania Rady, na które skladają się koszty obsługi Rady
+oraz wynagrodzenie członków Rady miałyby wynosić około 1,2 mln zł
+Ze względu na to, iž Wnioskodawcy proponują uregulowanie rynku
+kryptoaklywów jako nowego segmentu rynku finansowego podleglego bezpośrednio
+nadzorowi Komisji Nadzoru Finansowego, należy zwrócić uwagę, iž zakładane
+rozwiązania mogą oddziaływać na Skarb Państwa i sektor finansów publicznych
+dwoma ważnymi kanałami.
+Po pierwsze, prawo do nakladania przez KNF administracyjnych kar
+pieniężnych może oddziaływać w przyszłości na dochody publiczne. Zgodnie
+bowiem z dotychczasowymi regulacjami oraz praktyką, KNF przekazuje środki
+z nakładanych kar pieniężnych do budżetu państwa, Funduszu Edukacji Finansowej
+lub Bankowego Funduszu Gwarancyjnego. Należy więc zakładać możliwy wzrost
+dochodów sektora finansów publicznych z tego tytulu, w tym także dochodów
+sektora instytucji rządowych i samorządowych (zgodnie z klasyfikacją unijna).
+Kwestia ta wydaje się istotna ze względu na relatywnie wysoki poziom
+maksymalnych proponowanych kar pieniężnych.
+Po drugie, należy też zauważyć, iž wprowadzenie niniejszą ustawą rynku
+kryptoaktywów pod nadzór KNF może spowodować zwiększenie odpowiedzialności
+odszkodowawczej Skarbu Państwa, co może przyczyniać się do wzrostu ryzyka
+fiskalnego związanego z potencjalnymi przyszłymi nieplanowanymi wydatkami
+budżetowymi z tytułu zasądzonych przez podmioty tego rynku decyzji krajowego
+organu nadzorczego podjętych z naruszeniem prawa (np. w zakresie blokady
+rachunków lub wstrzymania działalności albo l	wykonania	transakcji
+Z wykorzystaniem kryptoaktywów)
+W trakcie przeprowadzonych konsultacji społecznych nie wskazano istotnych
+informacji dotyczących skutków finansowych projektowanych przepisów dla sektora
+finansów publicznych.
+IX. Inne skutki projektowanej ustawy
+Nie zidentyfikowano innych skutków wejścia w życie projektowanej ustawy.
+X. Zmiana obciążeń administracyjnych
+Projekt	wprowadza	znaczące nowe obciążenia	administracyjne
+dla administracji publicznej. Wynika to przede wszystkim z przejścia
+103 Rozporządzenie Ministra Administracji i Cyfryzacji z dnia 20 czerwca 2014 r. w sprawie wysokości
+wynagrodzenia członków Rady do Sprawe Cyfryzaçji (Dz. U. poz. 819).
+
+--- page 30 ---
+od dotychczasowego, relatywnie ograniczonego modelu rejestracji działalności
+w zakresie walut wirtualnych do systemu zezwoleń, nadzoru i sankcji opartego
+па MICA I TOFR
+Dla administracji publicznej, w szczególności dla KNF, oznacza to konieczność
+sprawowania pelnego nadzoru nad emitentami tokenów powiązanych z aktywami,
+emitentami tokenów będących e-pieniądzem oraz dostawcami uslug w zakresie
+kryptoaktywów. Nowe zadania obejmują m.in. prowadzenie postępowań
+zezwoleniowych, wykonywanie kontroli, stosowanie środków nadzorczych,
+nakładanie kar administracyjnych, zatwierdzanie planów naprawy i wykupu,
+prowadzenie rejestru domen internetowych oraz współpracę z organami innych
+państw członkowskich.
+Dla przedsiębiorców projekt oznacza istotne zwiększenie zakresu obowiązków
+compliance, czyli konieczność zapewniania zgodności z wymogami regulacyjnymi.
+Emitenci i dostawcy usług w zakresie kryptoaktywów będą obciążeni obowiązkiem
+uzyskiwania zezwoleń, ponoszenia opłat nadzorczych, przekazywania informacji
+organowi nadzoru, przechowywania dokumentacji, wdrożenia procedur
+wewnętrznych oraz przestrzegania wymogów tajemnicy zawodowej. Dodatkowe
+obciążenia wynikają z ToFR i przepisów AML: dostawcy uslug w zakresie
+kryptoaktywów będą musieli wykonywać obowiązki związane z identyfikowalnością
+transferów kryptoaktywów, w tym gromadzeniem, przekazywaniem
+i weryfikowaniem.
+Projekt oddziałuje także na przedsiębiorców spoza właściwego rynku
+kryptoaktywów. Przedsiębiorcy telekomunikacyjni, dostawcy ustug hostingowych,
+rejestry domen i rejestratorzy domen zostaną wlączeni w mechanizm
+przeciwdziałania nielegalnej działalności w internecie. Będą zobowiązani
+do wykonywania żądań związanych z blokowaniem dostępu do domen,
+przekierowywaniem połączeń, ograniczaniem dostępu do interfejsów internetowych
+albo usuwaniem treści lub nazw domen. Witym zakresie projekt rozszerza ciężar
+regulacyjny poza podmioty bezpośrednio prowadzące działalność na гупки
+kryptoaktywów. Ten pozabranżowy skutek regulacji, obejmujący koszty
+dostosowania oraz nowe ryzyka regulacyjne dla podmiotów, które nie są
+uczestnikami rynku kryptoaktywów, dostrzeżono w konsultacjach społecznych104
+Wejście w życie projektu spowoduje konieczność dostosowania się instytucji
+finansowych i nadzorczych i ich pracowników do stosowania nowych regulacji.
+Wdrożenie projektowanych przepisów wygeneruje również po stronie podmiotów
+rynkowych wymierne obciążenia administracyjne, wynikające z konieczności
+sprostania rozbudowanym obowiązkom informacyjnym, przygotowania planów
+prewencyjnych na wypadek konieczności zarządzania kryzysowego, dostosowania
+wewnętrznych procedur, systemów informatycznych, procesów sprawozdawczych
+oraz obciążeń wynikających z konieczności zabezpieczenia i archiwizacji informacji
+dotyczącej prowadzonej działalności. Konieczność bieżącej obslugi nałożonych
+obowiązków wymusi zaangażowanie dodatkowych zasobów kadrowych oraz
+doradczych, trwale zwiększając koszty stałe prowadzenia działalności.
+10* ID ankiet: 158733, 160254.
+30
+
+--- page 31 ---
+Dodatkowe obciążenia administracyjne w ramach rozpatrywanego projektu
+będą dotyczyć przede wszystkim Kancelarii Prezesa Rady Ministrów w zakresie
+obsługi Rady ds. kryptoaktywów oraz technologii finansowych, a także Komisji
+Nadzoru Finansowego z tytułu nadzoru nad rynkiem kryptoaktywów. Wnioskodawcy
+zakładają, iż koszty obsługi wyżej wskazanej Rady zostaną pokryte z wydatków
+budżetu państwa w ramach właściwej części budżetowej (część 16 - Kancelaria
+Prezesa Rady Ministrów), z kolei wpływy z tytufu opłat nadzorczych, stanowiące
+przychód KNF, powinny pokryć koszty związane z działalnością nadzorczą w tym
+zakresie.
+XI. Konkluzje
+1. Skutki prawne: Regulacja rynku kryptoaktywów jest konieczna jako krajowe
+wykonanie rozporządzenia 2023/1114 (MiCA), rozporządzenia 2023/1113 (ToFR)
+oraz zmian w dyrektywach powiązanych. Bez wskazania organów właściwych,
+procedur, kompetencji nadzorczych i dochodzeniowych oraz sankcji nie jest możliwe
+pelne stosowanie prawa UE dotyczącego kryptoaktywów. Projekt powinien mieć
+jednak charakter uzupelniający, a nie kompleksowy: powinien regulować te kwestie,
+których rozporządzenia unijne nie rozstrzygają bezpośrednio albo które wymagają
+krajowej podstawy kompetencyjnej.
+Projekt zasadniczo powtarza rozwiązania ustawy z dnia 7 listopada 2025 г.,
+której podpisania odmówil Prezydent RP, oraz wcześniejszego projektu poselskiego
+zawartego w druku sejmowym nr 2363
+Projekt wprowadza bardziej restrykcyjny model zezwoleń, nadzoru i sankcji
+dotyczący kryptoaktywów w miejsce dotychczasowego, łagodniejszego reżimu
+reglamentacyjnego opartego na przepisach ustawy z dnia 1 marca 2018 r.
+o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu (ustawy AMIL)
+Oznacza to istotny wzrost reglamentacji publicznoprawnej, kosztów compliance oraz
+obciążeń administracyjnych po stronie KNF, przedsiębiorców rynku kryptoaktywów
+i części podmiotów spoza tego rynku, zwłaszcza dostawców hostingu, rejestrów
+domen, rejestratorów domen i przedsiębiorców telekomunikacyjnych.
+Watpliwości dotyczą ryzyka nadregulacji względem MiCA i ToFR. Część
+projektowanych przepisów powtarza albo nadmiernie uszczegóławia regulacje
+unijne, zwłaszcza w zakresie doradztwa, obowiązków informacyjnych, przesłanek
+zezwolenia oraz kompetencji KNF. Może to prowadzić do „gold-platingu"
+podniesienia progu wejścia na rynek kryptoaktywów i przenoszenia działalności
+do innych państw członkowskich, tym bardziej że MICA przewiduje taką możliwość
+Projekt przyznaje KNF bardzo szerokie kompetencje ingerencyjne, w tym
+blokowanie rachunków, wstrzymywanie transakcji oraz środki dotyczące domen
+i interfejsów internetowych. Choć kierunkowo znajduje to podstawę w MICA, niektóre
+rozwiązania są zbyt daleko idące: przewidują natychmiastową wykonalność decyzji
+z mocy prawa, ograniczają udział strony w postępowaniu i opierają niektóre środki
+na niedookreślonych przesłankach. Szczególnie problematyczne są art. 63-65
+projektu, ponieważ umożliwiają daleko idącą blokadę rachunków i transakcji bez
+dostatecznie precyzyjnych gwarancji proceduralnych.
+31
+
+--- page 32 ---
+Pozytywnie można ocenić złagodzenie skutków wpisu domeny do rejestru oraz
+rozszerzenie prawa sprzeciwu w stosunku do wcześniejszych projektów, jednak
+regulacja art. 67 projektu nadal nie traktuje przedmiotowego srodka interwencji jako
+Srodka ostatecznego, co zakłada art. 94 ust. 1 lit. aa MICA.
+Powołanie Rady ds. kryptoaktywów oraz technologii finansowych stanowi
+jednącz najistotniejszych zmian względem wcześniejszych projektów ustaw
+o kryptoaktywach. Projekt zakłada, że Rada będzie organem wyższego stopnia
+w sprawach określonych w ustawie, rozstrzyganych w drodze decyzji przez KNF,
+a do jej zadań należeć będzie w szczególności rozpatrywanie odwołań od decyzji
+KNF oraz ponagleń w sprawach prowadzonych przez KNF. Sama Rada może
+zwiększać pluralizm kontroli, ale jej pozycja ustrojowa, zakres kompetencji, udział
+przedstawicieli branzy i brak jednoznacznego quorum budzą zasadnicze
+watpliwości. Projekt nie przesądza jednoznacznie, czy Rada ma być wyłącznie
+szczególnym organem odwoławczym w rozumieniu Kodeksu postępowania
+administracyjnego, czy też organem o szerszej pozycji ustrojowej wobec KNF
+w sprawach rynku kryptoaktywów Projekt wprowadza również wyjątek
+od systemowego modelu kontroli decyzji KNF. Zasadą w sprawach rozstrzyganych
+przez KNF jest odpowiednie stosowanie art. 127 § 3 kp.a., a więc wniosek
+o ponowne rozpatrzenie sprawy, a nie odwołanie do odrębnego organu. Utworzenie
+takiego organu jest formalnie dopuszczalne, jednak wymaga przekonującego
+uzasadnienia systemowego. Projekt nie wyjaśnia, dlaczego właśnie rynek
+kryptoaktywów ma zostać wyodrębniony z ogólnego modelu nadzoru nad rynkiem
+finansowym i objęty odmienną ścieżką zaskarżania decyzji KNF. Niejasny pozostaje
+także zakres spraw przekazanych Radzie. Formuła obejmująca „sprawy okreslone
+w ustawie, rozstrzygane w drodze decyzji przez Komisję" może oznaczać wszystkie
+sprawy decyzyjne KNF przewidziane w projekcie albo tylko niektóre ich kategorie.
+Poza tym model kontroli decyzji KNF pozostaje niespójny: projekt łączy wniosek
+o ponowne rozpatrzenie sprawy oraz odwołanie do nowej Rady ds. kryptoaktywów
+i technologii finansowych.
+Bardzo problematyczny jest udział przedstawicieli branży kryptoaktywów
+w składzie Rady. Wyłączenie osób bezpośrednio powiązanych z uczestnikami rynku
+kryptoaktywów nie eliminuje ryzyka konfliktu interesów, ponieważ przedstawiciele
+branży mogą pozostawać związani z branżą kryptoaktywów interesem osobistym,
+zawodowym czy gospodarczym. Może to osłabiać zaufanie do bezstronności Rady,
+a także rodzi ryzyko przejmowania wpływu na organ nadzorczy przez sektor
+regulowany.
+Dodatkowe zastrzeżenia dotyczą zmian w ustawie AML w zakresie działalności
+na rzecz spółek lub trustów. Projekt wprowadza obowiązki o niejasnym celu oraz
+przewiduje zbyt rygorystyczne podstawy wykreślenia z rejestru działalności
+regulowanej, o którym mowa w art. 129a ustawy AML.
+Projekt jest przedmiotem odrębnej opinii dotyczącej zgodności z prawem UE.
+Wskazano w niej, że niektóre przepisy projektu mogą zostac uznane za niezgodne
+z MiCA. Projekt jest także przedmiotem odrębnej opinii dotyczącej tego, czy stanowi
+projekt ustawy wykonującej prawo UE w rozumieniu art. 95a Regulaminu Sejmu.
+Stwierdzono, że projekt może zostać uznany za projekt ustawy wykonującej prawo
+UE w tym rozumieniu.
+32
+
+--- page 33 ---
+Reasumując, projekt jest potrzebny i może zostać uznany za ustawę
+wykonującą prawo UE, lecz wymaga dopracowania. Konieczne jest ograniczenie
+regulacji powtarzających przepisy MiCA i ToFR, redukcja zbędnych obowiązków
+administracyjnych w celu przeciwdziałania nadregulacji, wzmocnienie gwarancji
+proceduralnych, ponowne rozważenie koncepcji Rady do spraw kryptoaktywów oraz
+technologii finansowych, ujednolicenie modelu zaskarżania decyzji oraz usunięcie
+niejasności redakcyjnych.
+2. Skutki społeczne: Zakres oddziaływania regulacji jest trudny do precyzyjnego
+określenia, jednak najbardziej wiarygodne Zrödła wskazują na ok. 1,2-1,7 min osob
+w Polsce posiadających kryptoaktywa. Najistotniejszym skutkiem wejścia w życie
+regulacji będzie zwiększenie poczucia bezpieczeństwa inwestowania w tego rodzaju
+aktywa, a w konsekwencji wzrost ich popularności.
+Uregulowanie rynku kryptoaktywów powinno także przeciwdziałać powiązanej
+z tymi aktywami przestępczości. Będzie to wymagać zaangażowania licznych
+instytucji, zarówno nadzorczych, jak i świadczących usługi finansowe.
+3. Skutki gospodarcze: Projekt ustanawia ramy regulacyjne zapewniające stabilne
+warunki funkcjonowania dia podmiotów aktualnie operujących w sektorze lub
+planujących rozpoczęcie takiej działalności, niemniej generuje przy tym koszty
+adaptacji do nowych wymogów prawnych. Obciążenia te mogą skutkować |
+podwyższeniem barier wejścia, co faworyzuje większe podmioty o wystarczających
+zasobach kapitałowych oraz kadrowych i w efekcie może prowadzić do postępującej
+konsolidacji rynku. Jednocześnie przyjęty ksztalt regulacji i wymagań nadzorczych
+ma na celu ochronę uczestników, zapewnienie bezpieczeństwa obrotu oraz
+zwiększenie stabilności otoczenia instytucjonalnego. Działania te, pod warunkiem
+ich skutecznego i proporcjonalnego wdrożenia, mogą przyczynić się do budowy
+dlugofalowego zaufania do rynku kryptoaktywów.
+Warto również wskazać, że zaproponowany mechanizm opłat nadzorczych,
+katalog wymagań regulacyjnych oraz sformalizowane wymogi szkoleniowe dla
+doradców stanowią, relatywnie większe obciążenie dla mniejszych podmiotów
+technologicznych, podczas gdy duże organizacje mogą efektywniej absorbować te
+koszty stałe dzięki wykorzystaniu korzyści skali. Ponadto wysoki wymiar sankcji oraz
+szerokie uprawnienia KNF mogą skłaniać uczestników rynku do przyjmowania
+postaw zachowawczych charakteryzujących się awersją do ryzyka. Może to
+wywoływać zjawisko over-compliance oraz zachęcać do poszukiwania mniej
+rygorystycznych reżimów prawnych w ramach arbitrażu regulacyjnego.
+4. Skutki finansowe: Projekt będzie oddziaływał na sektor finansów publicznych
+głównie w zakresie zwiększenia obciążenia budżetu państwa w części stanowiącej
+źródło finansowania proponowanej Rady ds. kryptoaktywów oraz technologii
+finansowych.
+Ponadto ze względu na propozycję uregulowania nowego segmentu rynku i
+finansowego oraz zwiększenia nadzoru w tym zakresie, z projektem może wiązać
+sIę	niepewność fiskalna	w szczególności w ramach przyszłych kar
+administracyjnych KNF (nieplanowane dochody), ale także przyszłych zasądzonych
+33
+
+--- page 34 ---
+odszkodowań za decyzje nadzorcze podjęte z naruszeniem prawa (nieplanowane
+wydatki budżetu panstwa).
+5. Rozwiązania zagraniczne: W większości państw UE przyjęto odrębne ustawy
+regulujące rynek kryptoaktywów (np. Chorwacja, Czechy, Estonia, Finlandia, Litwa,
+kotwa, Słowacja, Szwecja, Węgry). W części państw przepisy umožliwiające
+stosowanie regulacji UE w zakresie kryptoaktywów zawarto w ustawach
+sektorowych dotyczących rynku finansowego (np. Dania, Francja, Hiszpania) lub
+przyjęto rozwiązania oparte na odrębnych aktach wykonawczych do unijnych
+przepisów z równoczesnymi nowelizacjami istniejących ustaw sektorowych rynku
+finansowego (Belgia, Niemcy, Włochy).
+W państwach członkowskich UE przyjęto dwa zasadnicze modele w zakresie
+organu nadzoru nad rynkiem kryptoaktywów, wynikające z obowiązującego modelu
+ustrojowego nadzoru finansowego: model scentralizowany (Austria, Dania, Estonia,
+Finlandia, Niemcy, Szwecja, Czechy, Litwa, Łotwa i Węgry) oraz model dualny
+(Bulgaria, Francja, Hiszpania, Holandia, Słowenia, Włochy). Państwa członkowskie,
+przyjęły zróżnicowane rozwiązania pod względem wysokości, ale także struktury
+opłat. W zakresie sankcji część państw zdecydowała się poza karamı o charakterze
+administracyjnym, na wprowadzenie sankcji karnych (Holandia, Niemcy, Włochy).
+W większości państw członkowskich UE kontrola decyzji organów nadzoru
+odbywa się w ramach ogólnego modelu postępowania administracyjnego i sądowo-
+administracyjnego. Odrębne wyspecjalizowane organy rozpatrujące odwołania od
+decyzji organów nadzoru rynku finansowego, w tym rynku kryptoaktywów,
+funkcjonują m.in. w Danii i Irlandii.
+Autorzy:
+Marcin Fryźlewicz, Bartosz Pawłowski, eksperci ds. legislacji (pkt 1-III)
+dr Danuta Adamiec, specjalistka ds. komparatystycznych (pkt IV, XI.5)
+dr hab. Tomasz Długosz, ekspert ds. legislacji (pkt V, X, XI.1)
+Marcin Wrobel, specjalista ds. społecznych (pkt. VI, X, XI.2)
+dr Radosław Zyzik, specjalista ds. systemu gospodarczego (pkt. VII, X, XI.3)
+dr hab. Kamilla Marchewka-Bartkowiak, specjalistka ds. finansów publicznych (pkt.
+VIII, X, XI.4)
+Akceptowal:
+Wicedyrektor Biura Ekspertyz
+i Oceny Skutków Regulacji
+Ziemowit Cieślik
+podpisano elektroniczniel
+Tłoczono z polecenia Marszałka Sejmu Rzeczypospolitej Polskiej	S E ] M
+RZECZYPOSPOLITEJ POLSKIE)
+34
+
