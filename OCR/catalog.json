@@ -7,12 +7,16 @@
     "pdf": "63-004.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/63-004/63-004.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 10,
+    "chars": 19653,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "72-010",
@@ -22,12 +26,16 @@
     "pdf": "72-010.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/72-010/72-010.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 31,
+    "chars": 68932,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "72-A-005",
@@ -37,12 +45,16 @@
     "pdf": "72-A-005.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/72-A-005/72-A-005.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 31,
+    "chars": 68932,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "75-001",
@@ -52,12 +64,16 @@
     "pdf": "75-001.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/75-001/75-001.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 16,
+    "chars": 35086,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "92-003",
@@ -67,12 +83,16 @@
     "pdf": "92-003.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/92-003/92-003.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 8,
+    "chars": 15578,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "123-003",
@@ -82,12 +102,16 @@
     "pdf": "123-003.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/123-003/123-003.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 6,
+    "chars": 12332,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "141-005",
@@ -97,12 +121,16 @@
     "pdf": "141-005.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/141-005/141-005.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 6,
+    "chars": 9462,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "141-A-001",
@@ -112,12 +140,16 @@
     "pdf": "141-A-001.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/141-A-001/141-A-001.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 5,
+    "chars": 7473,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "142-003",
@@ -127,12 +159,16 @@
     "pdf": "142-003.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/142-003/142-003.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 17,
+    "chars": 41613,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "156-002",
@@ -142,12 +178,16 @@
     "pdf": "156-002.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/156-002/156-002.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 22,
+    "chars": 53051,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "171-002",
@@ -157,12 +197,16 @@
     "pdf": "171-002.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/171-002/171-002.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 12,
+    "chars": 29926,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "185-001",
@@ -172,12 +216,16 @@
     "pdf": "185-001.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/185-001/185-001.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 14,
+    "chars": 32070,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "187-002",
@@ -187,12 +235,16 @@
     "pdf": "187-002.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/187-002/187-002.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 14,
+    "chars": 30669,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "188-006",
@@ -202,12 +254,16 @@
     "pdf": "188-006.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/188-006/188-006.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 8,
+    "chars": 17817,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "201-001",
@@ -217,12 +273,16 @@
     "pdf": "201-001.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/201-001/201-001.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 14,
+    "chars": 26365,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "204-001",
@@ -232,12 +292,16 @@
     "pdf": "204-001.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/204-001/204-001.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 6,
+    "chars": 11729,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "208-001",
@@ -247,12 +311,16 @@
     "pdf": "208-001.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/208-001/208-001.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 6,
+    "chars": 8097,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "210-001",
@@ -262,12 +330,16 @@
     "pdf": "210-001.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/210-001/210-001.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 8,
+    "chars": 16240,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "211-001",
@@ -277,12 +349,16 @@
     "pdf": "211-001.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/211-001/211-001.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 8,
+    "chars": 12612,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "219-002",
@@ -292,12 +368,16 @@
     "pdf": "219-002.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/219-002/219-002.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 21,
+    "chars": 47098,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "223-002",
@@ -307,12 +387,16 @@
     "pdf": "223-002.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/223-002/223-002.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 17,
+    "chars": 41767,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "244-003",
@@ -322,12 +406,16 @@
     "pdf": "244-003.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/244-003/244-003.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 17,
+    "chars": 39264,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "253-002",
@@ -337,12 +425,16 @@
     "pdf": "253-002.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/253-002/253-002.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 38,
+    "chars": 89198,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "254-001",
@@ -352,12 +444,16 @@
     "pdf": "254-001.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/254-001/254-001.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 15,
+    "chars": 33966,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "257-001",
@@ -367,12 +463,16 @@
     "pdf": "257-001.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/257-001/257-001.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 14,
+    "chars": 30560,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "261-001",
@@ -382,12 +482,16 @@
     "pdf": "261-001.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/261-001/261-001.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 31,
+    "chars": 75479,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "409-001",
@@ -397,12 +501,16 @@
     "pdf": "409-001.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/409-001/409-001.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 15,
+    "chars": 34616,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "410-002",
@@ -412,12 +520,16 @@
     "pdf": "410-002.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/410-002/410-002.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 25,
+    "chars": 63413,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "494-003",
@@ -427,12 +539,16 @@
     "pdf": "494-003.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/494-003/494-003.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 28,
+    "chars": 71444,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "526-001",
@@ -442,12 +558,16 @@
     "pdf": "526-001.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/526-001/526-001.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 15,
+    "chars": 34506,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "526-A-001",
@@ -457,12 +577,16 @@
     "pdf": "526-A-001.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/526-A-001/526-A-001.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 16,
+    "chars": 35757,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "528-001",
@@ -472,12 +596,16 @@
     "pdf": "528-001.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/528-001/528-001.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 21,
+    "chars": 51505,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "573-004",
@@ -487,12 +615,16 @@
     "pdf": "573-004.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/573-004/573-004.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 16,
+    "chars": 39455,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "603-002",
@@ -502,12 +634,16 @@
     "pdf": "603-002.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/603-002/603-002.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 15,
+    "chars": 38156,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "613-001",
@@ -517,12 +653,16 @@
     "pdf": "613-001.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/613-001/613-001.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 8,
+    "chars": 18095,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "643-002",
@@ -532,12 +672,16 @@
     "pdf": "643-002.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/643-002/643-002.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 18,
+    "chars": 38452,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "660-002",
@@ -547,12 +691,16 @@
     "pdf": "660-002.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/660-002/660-002.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 19,
+    "chars": 44970,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "669-005",
@@ -562,12 +710,16 @@
     "pdf": "669-005.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/669-005/669-005.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 22,
+    "chars": 51014,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "671-007",
@@ -577,12 +729,16 @@
     "pdf": "671-007.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/671-007/671-007.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 35,
+    "chars": 89102,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "698-003",
@@ -592,12 +748,16 @@
     "pdf": "698-003.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/698-003/698-003.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 12,
+    "chars": 27156,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "699-006",
@@ -607,12 +767,16 @@
     "pdf": "699-006.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/699-006/699-006.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 18,
+    "chars": 41982,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "700-004",
@@ -622,12 +786,16 @@
     "pdf": "700-004.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/700-004/700-004.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 54,
+    "chars": 129183,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "748-001",
@@ -637,12 +805,16 @@
     "pdf": "748-001.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/748-001/748-001.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 18,
+    "chars": 42748,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "777-009",
@@ -652,12 +824,16 @@
     "pdf": "777-009.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/777-009/777-009.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 14,
+    "chars": 31188,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "828-001",
@@ -667,12 +843,16 @@
     "pdf": "828-001.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/828-001/828-001.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 11,
+    "chars": 24967,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "829-001",
@@ -682,12 +862,16 @@
     "pdf": "829-001.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/829-001/829-001.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 10,
+    "chars": 21593,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "830-002",
@@ -697,12 +881,16 @@
     "pdf": "830-002.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/830-002/830-002.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 30,
+    "chars": 73739,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "836-001",
@@ -712,12 +900,16 @@
     "pdf": "836-001.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/836-001/836-001.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 20,
+    "chars": 48324,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "837-004",
@@ -727,12 +919,16 @@
     "pdf": "837-004.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/837-004/837-004.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 19,
+    "chars": 46387,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "864-001",
@@ -742,12 +938,16 @@
     "pdf": "864-001.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/864-001/864-001.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 26,
+    "chars": 68132,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "865-003",
@@ -757,12 +957,16 @@
     "pdf": "865-003.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/865-003/865-003.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 35,
+    "chars": 104713,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "866-002",
@@ -772,12 +976,16 @@
     "pdf": "866-002.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/866-002/866-002.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 26,
+    "chars": 76607,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "867-002",
@@ -787,12 +995,16 @@
     "pdf": "867-002.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/867-002/867-002.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 25,
+    "chars": 75500,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "880-003",
@@ -802,12 +1014,16 @@
     "pdf": "880-003.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/880-003/880-003.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 24,
+    "chars": 69707,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "907-003",
@@ -817,12 +1033,16 @@
     "pdf": "907-003.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/907-003/907-003.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 47,
+    "chars": 144457,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "908-002",
@@ -832,12 +1052,16 @@
     "pdf": "908-002.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/908-002/908-002.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 17,
+    "chars": 51602,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "909-005",
@@ -847,12 +1071,16 @@
     "pdf": "909-005.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/909-005/909-005.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 15,
+    "chars": 40918,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "923-002",
@@ -862,12 +1090,16 @@
     "pdf": "923-002.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/923-002/923-002.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 14,
+    "chars": 42429,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "925-001",
@@ -877,12 +1109,16 @@
     "pdf": "925-001.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/925-001/925-001.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 10,
+    "chars": 27863,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "926-001",
@@ -892,12 +1128,16 @@
     "pdf": "926-001.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/926-001/926-001.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 23,
+    "chars": 68002,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "934-002",
@@ -922,12 +1162,16 @@
     "pdf": "935-002.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/935-002/935-002.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 40,
+    "chars": 123967,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "954-004",
@@ -937,12 +1181,16 @@
     "pdf": "954-004.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/954-004/954-004.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 15,
+    "chars": 42673,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "962-003",
@@ -952,12 +1200,16 @@
     "pdf": "962-003.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/962-003/962-003.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 51,
+    "chars": 141150,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "965-003",
@@ -967,12 +1219,16 @@
     "pdf": "965-003.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/965-003/965-003.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 30,
+    "chars": 96463,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "966-002",
@@ -982,12 +1238,16 @@
     "pdf": "966-002.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/966-002/966-002.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 21,
+    "chars": 63693,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "995-002",
@@ -997,12 +1257,16 @@
     "pdf": "995-002.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/995-002/995-002.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 14,
+    "chars": 39690,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "997-003",
@@ -1012,12 +1276,16 @@
     "pdf": "997-003.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/997-003/997-003.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 17,
+    "chars": 45678,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "998-003",
@@ -1027,12 +1295,16 @@
     "pdf": "998-003.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/998-003/998-003.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 17,
+    "chars": 52817,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "999-001",
@@ -1042,12 +1314,16 @@
     "pdf": "999-001.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/999-001/999-001.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 16,
+    "chars": 48177,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "1000-001",
@@ -1095,12 +1371,16 @@
     "pdf": "1035-001.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/1035-001/1035-001.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 25,
+    "chars": 70919,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "1036-001",
@@ -1110,12 +1390,16 @@
     "pdf": "1036-001.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/1036-001/1036-001.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 23,
+    "chars": 60451,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "1037-001",
@@ -1125,12 +1409,16 @@
     "pdf": "1037-001.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/1037-001/1037-001.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 27,
+    "chars": 77397,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "1038-002",
@@ -1140,12 +1428,16 @@
     "pdf": "1038-002.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/1038-002/1038-002.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 21,
+    "chars": 59171,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "1039-001",
@@ -1155,12 +1447,16 @@
     "pdf": "1039-001.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/1039-001/1039-001.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 30,
+    "chars": 94110,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "1040-001",
@@ -1170,12 +1466,16 @@
     "pdf": "1040-001.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/1040-001/1040-001.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 27,
+    "chars": 81221,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "1076-003",
@@ -1185,12 +1485,16 @@
     "pdf": "1076-003.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/1076-003/1076-003.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 14,
+    "chars": 39246,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "1077-003",
@@ -1200,12 +1504,16 @@
     "pdf": "1077-003.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/1077-003/1077-003.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 17,
+    "chars": 58634,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "1078-003",
@@ -1215,12 +1523,16 @@
     "pdf": "1078-003.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/1078-003/1078-003.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 19,
+    "chars": 53414,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "1079-002",
@@ -1230,12 +1542,16 @@
     "pdf": "1079-002.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/1079-002/1079-002.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 22,
+    "chars": 62590,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "1080-001",
@@ -1245,12 +1561,16 @@
     "pdf": "1080-001.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/1080-001/1080-001.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 41,
+    "chars": 123730,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "1106-003",
@@ -1260,12 +1580,16 @@
     "pdf": "1106-003.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/1106-003/1106-003.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 32,
+    "chars": 101876,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "1109-003",
@@ -1275,12 +1599,16 @@
     "pdf": "1109-003.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/1109-003/1109-003.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 14,
+    "chars": 40453,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "1110-003",
@@ -1290,12 +1618,16 @@
     "pdf": "1110-003.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/1110-003/1110-003.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 12,
+    "chars": 36760,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "1112-004",
@@ -1305,12 +1637,16 @@
     "pdf": "1112-004.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/1112-004/1112-004.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 18,
+    "chars": 49361,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "1113-003",
@@ -1320,12 +1656,16 @@
     "pdf": "1113-003.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/1113-003/1113-003.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 26,
+    "chars": 78406,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "1114-001",
@@ -1335,12 +1675,16 @@
     "pdf": "1114-001.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/1114-001/1114-001.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 21,
+    "chars": 64167,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "1131-002",
@@ -1350,12 +1694,16 @@
     "pdf": "1131-002.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/1131-002/1131-002.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 27,
+    "chars": 83435,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "1141-003",
@@ -1365,12 +1713,16 @@
     "pdf": "1141-003.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/1141-003/1141-003.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 16,
+    "chars": 45570,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "1142-003",
@@ -1380,12 +1732,16 @@
     "pdf": "1142-003.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/1142-003/1142-003.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 12,
+    "chars": 32787,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "1148-003",
@@ -1395,12 +1751,16 @@
     "pdf": "1148-003.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/1148-003/1148-003.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 15,
+    "chars": 46252,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "1185-001",
@@ -1410,12 +1770,16 @@
     "pdf": "1185-001.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/1185-001/1185-001.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 15,
+    "chars": 44344,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "1186-002",
@@ -1425,12 +1789,16 @@
     "pdf": "1186-002.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/1186-002/1186-002.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 31,
+    "chars": 97054,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "1187-003",
@@ -1440,12 +1808,16 @@
     "pdf": "1187-003.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/1187-003/1187-003.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 15,
+    "chars": 42354,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "1204-002",
@@ -1455,12 +1827,16 @@
     "pdf": "1204-002.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/1204-002/1204-002.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 16,
+    "chars": 48333,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "1205-001",
@@ -1470,12 +1846,16 @@
     "pdf": "1205-001.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/1205-001/1205-001.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 21,
+    "chars": 64906,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "1237-001",
@@ -1485,12 +1865,16 @@
     "pdf": "1237-001.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/1237-001/1237-001.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 12,
+    "chars": 33776,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "1271-003",
@@ -1500,12 +1884,16 @@
     "pdf": "1271-003.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/1271-003/1271-003.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 10,
+    "chars": 25771,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "1272-005",
@@ -1515,12 +1903,16 @@
     "pdf": "1272-005.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/1272-005/1272-005.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 12,
+    "chars": 30518,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "1273-001",
@@ -1530,12 +1922,16 @@
     "pdf": "1273-001.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/1273-001/1273-001.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 30,
+    "chars": 94420,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "1316-001",
@@ -1545,12 +1941,16 @@
     "pdf": "1316-001.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/1316-001/1316-001.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 27,
+    "chars": 85117,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "1317-003",
@@ -1560,12 +1960,16 @@
     "pdf": "1317-003.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/1317-003/1317-003.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 16,
+    "chars": 43532,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "1318-006",
@@ -1575,12 +1979,16 @@
     "pdf": "1318-006.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/1318-006/1318-006.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 20,
+    "chars": 62811,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "1319-001",
@@ -1590,12 +1998,16 @@
     "pdf": "1319-001.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/1319-001/1319-001.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 25,
+    "chars": 77471,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "1320-005",
@@ -1605,12 +2017,16 @@
     "pdf": "1320-005.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/1320-005/1320-005.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 26,
+    "chars": 80785,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "1345-003",
@@ -1620,12 +2036,16 @@
     "pdf": "1345-003.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/1345-003/1345-003.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 30,
+    "chars": 91619,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "1347-002",
@@ -1635,12 +2055,16 @@
     "pdf": "1347-002.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/1347-002/1347-002.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 16,
+    "chars": 45785,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "1348-001",
@@ -1650,12 +2074,16 @@
     "pdf": "1348-001.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/1348-001/1348-001.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 10,
+    "chars": 26277,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "1387-002",
@@ -1665,12 +2093,16 @@
     "pdf": "1387-002.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/1387-002/1387-002.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 19,
+    "chars": 58334,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "1388-001",
@@ -1680,12 +2112,16 @@
     "pdf": "1388-001.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/1388-001/1388-001.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 25,
+    "chars": 77234,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "1389-005",
@@ -1695,12 +2131,16 @@
     "pdf": "1389-005.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/1389-005/1389-005.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 24,
+    "chars": 77483,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "1390-001",
@@ -1710,12 +2150,16 @@
     "pdf": "1390-001.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/1390-001/1390-001.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 19,
+    "chars": 57268,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "1404-005",
@@ -1725,12 +2169,16 @@
     "pdf": "1404-005.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/1404-005/1404-005.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 24,
+    "chars": 70790,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "1456-001",
@@ -1740,12 +2188,16 @@
     "pdf": "1456-001.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/1456-001/1456-001.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 3,
+    "chars": 5605,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "1456-003",
@@ -1755,12 +2207,16 @@
     "pdf": "1456-003.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/1456-003/1456-003.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 19,
+    "chars": 57991,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "1457-011",
@@ -1770,12 +2226,16 @@
     "pdf": "1457-011.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/1457-011/1457-011.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 42,
+    "chars": 125923,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "1458-011",
@@ -1785,12 +2245,16 @@
     "pdf": "1458-011.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/1458-011/1458-011.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 44,
+    "chars": 131767,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "1459-001",
@@ -1800,12 +2264,16 @@
     "pdf": "1459-001.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/1459-001/1459-001.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 11,
+    "chars": 31795,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "1488-003",
@@ -1815,12 +2283,16 @@
     "pdf": "1488-003.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/1488-003/1488-003.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 33,
+    "chars": 102301,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "1525-003",
@@ -1830,12 +2302,16 @@
     "pdf": "1525-003.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/1525-003/1525-003.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 17,
+    "chars": 48976,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "1526-004",
@@ -1845,12 +2321,16 @@
     "pdf": "1526-004.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/1526-004/1526-004.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 29,
+    "chars": 87479,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "1527-004",
@@ -1860,12 +2340,16 @@
     "pdf": "1527-004.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/1527-004/1527-004.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 26,
+    "chars": 80262,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "1528-004",
@@ -1875,12 +2359,16 @@
     "pdf": "1528-004.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/1528-004/1528-004.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 23,
+    "chars": 70094,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "1529-007",
@@ -1890,12 +2378,16 @@
     "pdf": "1529-007.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/1529-007/1529-007.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 26,
+    "chars": 76987,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "1603-008",
@@ -1905,12 +2397,16 @@
     "pdf": "1603-008.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/1603-008/1603-008.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 29,
+    "chars": 94995,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "1613-003",
@@ -1920,12 +2416,16 @@
     "pdf": "1613-003.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/1613-003/1613-003.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 26,
+    "chars": 84453,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "1631-005",
@@ -1935,12 +2435,16 @@
     "pdf": "1631-005.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/1631-005/1631-005.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 39,
+    "chars": 112572,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "1632-003",
@@ -1950,12 +2454,16 @@
     "pdf": "1632-003.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/1632-003/1632-003.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 26,
+    "chars": 75686,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "1633-002",
@@ -1965,12 +2473,16 @@
     "pdf": "1633-002.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/1633-002/1633-002.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 24,
+    "chars": 74129,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "1649-001",
@@ -1980,12 +2492,16 @@
     "pdf": "1649-001.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/1649-001/1649-001.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 8,
+    "chars": 20262,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "1650-001",
@@ -1995,12 +2511,16 @@
     "pdf": "1650-001.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/1650-001/1650-001.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 14,
+    "chars": 39546,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "1651-003",
@@ -2010,12 +2530,16 @@
     "pdf": "1651-003.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/1651-003/1651-003.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 14,
+    "chars": 45216,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "1652-001",
@@ -2025,12 +2549,16 @@
     "pdf": "1652-001.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/1652-001/1652-001.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 15,
+    "chars": 41033,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "1654-001",
@@ -2040,12 +2568,16 @@
     "pdf": "1654-001.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/1654-001/1654-001.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 16,
+    "chars": 46519,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "1726-002",
@@ -2055,12 +2587,16 @@
     "pdf": "1726-002.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/1726-002/1726-002.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 31,
+    "chars": 92376,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "1730-001",
@@ -2070,12 +2606,16 @@
     "pdf": "1730-001.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/1730-001/1730-001.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 9,
+    "chars": 23950,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "1731-002",
@@ -2085,12 +2625,16 @@
     "pdf": "1731-002.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/1731-002/1731-002.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 11,
+    "chars": 31525,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "1732-003",
@@ -2100,12 +2644,16 @@
     "pdf": "1732-003.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/1732-003/1732-003.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 11,
+    "chars": 29467,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "1759-003",
@@ -2115,12 +2663,16 @@
     "pdf": "1759-003.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/1759-003/1759-003.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 21,
+    "chars": 67054,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "1760-003",
@@ -2130,12 +2682,16 @@
     "pdf": "1760-003.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/1760-003/1760-003.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 20,
+    "chars": 61883,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "1763-001",
@@ -2145,12 +2701,16 @@
     "pdf": "1763-001.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/1763-001/1763-001.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 10,
+    "chars": 27459,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "1765-004",
@@ -2160,12 +2720,16 @@
     "pdf": "1765-004.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/1765-004/1765-004.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 18,
+    "chars": 49429,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "1767-003",
@@ -2175,12 +2739,16 @@
     "pdf": "1767-003.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/1767-003/1767-003.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 15,
+    "chars": 44839,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "1808-002",
@@ -2190,12 +2758,16 @@
     "pdf": "1808-002.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/1808-002/1808-002.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 9,
+    "chars": 24530,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "1810-003",
@@ -2205,12 +2777,16 @@
     "pdf": "1810-003.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/1810-003/1810-003.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 10,
+    "chars": 28726,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "1811-004",
@@ -2220,12 +2796,16 @@
     "pdf": "1811-004.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/1811-004/1811-004.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 22,
+    "chars": 70466,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "1813-002",
@@ -2235,12 +2815,16 @@
     "pdf": "1813-002.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/1813-002/1813-002.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 13,
+    "chars": 35954,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "1814-001",
@@ -2250,12 +2834,16 @@
     "pdf": "1814-001.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/1814-001/1814-001.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 13,
+    "chars": 37554,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "1816-002",
@@ -2265,12 +2853,16 @@
     "pdf": "1816-002.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/1816-002/1816-002.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 13,
+    "chars": 37532,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "1839-005",
@@ -2280,12 +2872,16 @@
     "pdf": "1839-005.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/1839-005/1839-005.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 17,
+    "chars": 49115,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "1849-006",
@@ -2295,12 +2891,16 @@
     "pdf": "1849-006.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/1849-006/1849-006.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 30,
+    "chars": 91296,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "1850-003",
@@ -2310,12 +2910,16 @@
     "pdf": "1850-003.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/1850-003/1850-003.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 21,
+    "chars": 67862,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "1888-002",
@@ -2325,12 +2929,16 @@
     "pdf": "1888-002.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/1888-002/1888-002.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 28,
+    "chars": 90164,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "1889-004",
@@ -2340,12 +2948,16 @@
     "pdf": "1889-004.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/1889-004/1889-004.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 20,
+    "chars": 59931,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "1890-004",
@@ -2355,12 +2967,16 @@
     "pdf": "1890-004.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/1890-004/1890-004.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 11,
+    "chars": 33280,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "1891-001",
@@ -2370,12 +2986,16 @@
     "pdf": "1891-001.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/1891-001/1891-001.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 16,
+    "chars": 42377,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "1892-005",
@@ -2385,12 +3005,16 @@
     "pdf": "1892-005.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/1892-005/1892-005.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 18,
+    "chars": 54514,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "1893-003",
@@ -2400,12 +3024,16 @@
     "pdf": "1893-003.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/1893-003/1893-003.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 11,
+    "chars": 31425,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "1894-001",
@@ -2415,12 +3043,16 @@
     "pdf": "1894-001.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/1894-001/1894-001.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 18,
+    "chars": 49230,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "1898-001",
@@ -2430,12 +3062,16 @@
     "pdf": "1898-001.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/1898-001/1898-001.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 47,
+    "chars": 142973,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "1899-003",
@@ -2445,12 +3081,16 @@
     "pdf": "1899-003.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/1899-003/1899-003.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 12,
+    "chars": 35100,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "1931-001",
@@ -2460,12 +3100,16 @@
     "pdf": "1931-001.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/1931-001/1931-001.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 25,
+    "chars": 77353,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "1933-008",
@@ -2475,12 +3119,16 @@
     "pdf": "1933-008.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/1933-008/1933-008.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 31,
+    "chars": 80728,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "1939-001",
@@ -2490,12 +3138,16 @@
     "pdf": "1939-001.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/1939-001/1939-001.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 11,
+    "chars": 31725,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "1940-003",
@@ -2505,12 +3157,16 @@
     "pdf": "1940-003.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/1940-003/1940-003.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 12,
+    "chars": 31433,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "1941-004",
@@ -2520,12 +3176,16 @@
     "pdf": "1941-004.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/1941-004/1941-004.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 11,
+    "chars": 31365,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "1942-001",
@@ -2535,12 +3195,16 @@
     "pdf": "1942-001.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/1942-001/1942-001.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 17,
+    "chars": 54222,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "1945-001",
@@ -2550,12 +3214,16 @@
     "pdf": "1945-001.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/1945-001/1945-001.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 21,
+    "chars": 65370,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "1956-006",
@@ -2565,12 +3233,16 @@
     "pdf": "1956-006.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/1956-006/1956-006.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 19,
+    "chars": 53717,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "1962-004",
@@ -2580,12 +3252,16 @@
     "pdf": "1962-004.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/1962-004/1962-004.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 21,
+    "chars": 60542,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "1963-005",
@@ -2595,12 +3271,16 @@
     "pdf": "1963-005.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/1963-005/1963-005.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 10,
+    "chars": 24656,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "1964-004",
@@ -2610,12 +3290,16 @@
     "pdf": "1964-004.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/1964-004/1964-004.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 21,
+    "chars": 63301,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "2002-001",
@@ -2625,12 +3309,16 @@
     "pdf": "2002-001.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/2002-001/2002-001.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 13,
+    "chars": 36588,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "2003-002",
@@ -2640,12 +3328,16 @@
     "pdf": "2003-002.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/2003-002/2003-002.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 7,
+    "chars": 18329,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "2004-002",
@@ -2655,12 +3347,16 @@
     "pdf": "2004-002.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/2004-002/2004-002.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 13,
+    "chars": 35392,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "2005-009",
@@ -2670,12 +3366,16 @@
     "pdf": "2005-009.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/2005-009/2005-009.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 19,
+    "chars": 57486,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "2006-003",
@@ -2685,12 +3385,16 @@
     "pdf": "2006-003.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/2006-003/2006-003.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 17,
+    "chars": 51527,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "2007-001",
@@ -2700,12 +3404,16 @@
     "pdf": "2007-001.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/2007-001/2007-001.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 27,
+    "chars": 75028,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "2010-002",
@@ -2715,12 +3423,16 @@
     "pdf": "2010-002.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/2010-002/2010-002.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 27,
+    "chars": 77813,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "2029-001",
@@ -2730,12 +3442,16 @@
     "pdf": "2029-001.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/2029-001/2029-001.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 8,
+    "chars": 21749,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "2030-001",
@@ -2745,12 +3461,16 @@
     "pdf": "2030-001.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/2030-001/2030-001.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 19,
+    "chars": 57237,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "2031-003",
@@ -2760,12 +3480,16 @@
     "pdf": "2031-003.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/2031-003/2031-003.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 10,
+    "chars": 27209,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "2032-005",
@@ -2775,12 +3499,16 @@
     "pdf": "2032-005.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/2032-005/2032-005.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 14,
+    "chars": 41150,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "2033-002",
@@ -2790,12 +3518,16 @@
     "pdf": "2033-002.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/2033-002/2033-002.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 19,
+    "chars": 55594,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "2034-001",
@@ -2805,12 +3537,16 @@
     "pdf": "2034-001.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/2034-001/2034-001.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 19,
+    "chars": 55012,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "2063-003",
@@ -2820,12 +3556,16 @@
     "pdf": "2063-003.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/2063-003/2063-003.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 26,
+    "chars": 79761,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "2080-001",
@@ -2835,12 +3575,16 @@
     "pdf": "2080-001.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/2080-001/2080-001.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 20,
+    "chars": 57338,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "2082-002",
@@ -2850,12 +3594,16 @@
     "pdf": "2082-002.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/2082-002/2082-002.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 24,
+    "chars": 74450,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "2102-001",
@@ -2865,12 +3613,16 @@
     "pdf": "2102-001.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/2102-001/2102-001.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 20,
+    "chars": 51917,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "2126-001",
@@ -2880,12 +3632,16 @@
     "pdf": "2126-001.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/2126-001/2126-001.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 6,
+    "chars": 13138,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "2127-003",
@@ -2895,12 +3651,16 @@
     "pdf": "2127-003.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/2127-003/2127-003.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 22,
+    "chars": 63596,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "2128-001",
@@ -2910,12 +3670,16 @@
     "pdf": "2128-001.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/2128-001/2128-001.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 17,
+    "chars": 51133,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "2129-002",
@@ -2925,12 +3689,16 @@
     "pdf": "2129-002.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/2129-002/2129-002.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 22,
+    "chars": 66859,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "2130-001",
@@ -2940,12 +3708,16 @@
     "pdf": "2130-001.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/2130-001/2130-001.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 19,
+    "chars": 52521,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "2144-002",
@@ -2955,12 +3727,16 @@
     "pdf": "2144-002.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/2144-002/2144-002.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 16,
+    "chars": 48966,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "2165-007",
@@ -2970,12 +3746,16 @@
     "pdf": "2165-007.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/2165-007/2165-007.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 24,
+    "chars": 64925,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "2196-001",
@@ -2985,12 +3765,16 @@
     "pdf": "2196-001.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/2196-001/2196-001.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 21,
+    "chars": 61894,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "2197-003",
@@ -3000,12 +3784,16 @@
     "pdf": "2197-003.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/2197-003/2197-003.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 11,
+    "chars": 31843,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "2198-002",
@@ -3015,12 +3803,16 @@
     "pdf": "2198-002.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/2198-002/2198-002.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 21,
+    "chars": 61516,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "2208-005",
@@ -3030,12 +3822,16 @@
     "pdf": "2208-005.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/2208-005/2208-005.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 24,
+    "chars": 74619,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "2210-003",
@@ -3045,12 +3841,16 @@
     "pdf": "2210-003.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/2210-003/2210-003.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 24,
+    "chars": 66904,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "2211-001",
@@ -3060,12 +3860,16 @@
     "pdf": "2211-001.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/2211-001/2211-001.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 13,
+    "chars": 36008,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "2212-001",
@@ -3075,12 +3879,16 @@
     "pdf": "2212-001.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/2212-001/2212-001.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 25,
+    "chars": 79668,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "2223-002",
@@ -3090,12 +3898,16 @@
     "pdf": "2223-002.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/2223-002/2223-002.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 15,
+    "chars": 44572,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "2245-001",
@@ -3105,12 +3917,16 @@
     "pdf": "2245-001.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/2245-001/2245-001.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 7,
+    "chars": 18505,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "2270-001",
@@ -3120,12 +3936,16 @@
     "pdf": "2270-001.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/2270-001/2270-001.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 19,
+    "chars": 57225,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "2274-001",
@@ -3135,12 +3955,16 @@
     "pdf": "2274-001.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/2274-001/2274-001.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 21,
+    "chars": 65442,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "2320-007",
@@ -3150,12 +3974,16 @@
     "pdf": "2320-007.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/2320-007/2320-007.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 15,
+    "chars": 43631,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "2321-004",
@@ -3165,12 +3993,16 @@
     "pdf": "2321-004.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/2321-004/2321-004.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 13,
+    "chars": 39842,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "2322-001",
@@ -3180,12 +4012,16 @@
     "pdf": "2322-001.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/2322-001/2322-001.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 19,
+    "chars": 53404,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "2353-002",
@@ -3195,12 +4031,16 @@
     "pdf": "2353-002.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/2353-002/2353-002.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 29,
+    "chars": 88726,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "2353-A-002",
@@ -3210,12 +4050,16 @@
     "pdf": "2353-A-002.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/2353-A-002/2353-A-002.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 29,
+    "chars": 88585,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "2358-001",
@@ -3225,12 +4069,16 @@
     "pdf": "2358-001.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/2358-001/2358-001.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 20,
+    "chars": 60253,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "2359-004",
@@ -3259,12 +4107,16 @@
     "pdf": "2360-001.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/2360-001/2360-001.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 14,
+    "chars": 41407,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "2373-001",
@@ -3274,12 +4126,16 @@
     "pdf": "2373-001.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/2373-001/2373-001.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 13,
+    "chars": 37883,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "2374-001",
@@ -3289,12 +4145,16 @@
     "pdf": "2374-001.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/2374-001/2374-001.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 12,
+    "chars": 29792,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "2393-001",
@@ -3304,12 +4164,16 @@
     "pdf": "2393-001.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/2393-001/2393-001.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 29,
+    "chars": 77564,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "2394-001",
@@ -3319,12 +4183,16 @@
     "pdf": "2394-001.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/2394-001/2394-001.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 23,
+    "chars": 70107,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "2396-006",
@@ -3334,12 +4202,16 @@
     "pdf": "2396-006.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/2396-006/2396-006.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 19,
+    "chars": 54442,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "2412-001",
@@ -3349,12 +4221,16 @@
     "pdf": "2412-001.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/2412-001/2412-001.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 17,
+    "chars": 51219,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "2413-002",
@@ -3364,12 +4240,16 @@
     "pdf": "2413-002.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/2413-002/2413-002.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 15,
+    "chars": 42283,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "2415-001",
@@ -3379,12 +4259,16 @@
     "pdf": "2415-001.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/2415-001/2415-001.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 9,
+    "chars": 22981,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "2416-001",
@@ -3394,12 +4278,16 @@
     "pdf": "2416-001.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/2416-001/2416-001.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 17,
+    "chars": 50035,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "2447-002",
@@ -3409,12 +4297,16 @@
     "pdf": "2447-002.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/2447-002/2447-002.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 25,
+    "chars": 71408,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "2452-003",
@@ -3424,12 +4316,16 @@
     "pdf": "2452-003.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/2452-003/2452-003.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 20,
+    "chars": 61205,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "2468-006",
@@ -3439,12 +4335,16 @@
     "pdf": "2468-006.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/2468-006/2468-006.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 12,
+    "chars": 31853,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "2527-008",
@@ -3454,12 +4354,16 @@
     "pdf": "2527-008.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/2527-008/2527-008.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 34,
+    "chars": 109717,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "2530-002",
@@ -3469,12 +4373,16 @@
     "pdf": "2530-002.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/2530-002/2530-002.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 29,
+    "chars": 83978,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "2551-001",
@@ -3484,12 +4392,16 @@
     "pdf": "2551-001.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/2551-001/2551-001.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 16,
+    "chars": 46187,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "2552-001",
@@ -3499,12 +4411,16 @@
     "pdf": "2552-001.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/2552-001/2552-001.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 17,
+    "chars": 47773,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "2553-001",
@@ -3514,12 +4430,16 @@
     "pdf": "2553-001.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/2553-001/2553-001.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 22,
+    "chars": 68707,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "2600-001",
@@ -3529,12 +4449,16 @@
     "pdf": "2600-001.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/2600-001/2600-001.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 17,
+    "chars": 46901,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "2601-004",
@@ -3544,27 +4468,35 @@
     "pdf": "2601-004.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/2601-004/2601-004.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 18,
+    "chars": 51971,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
-    "id": "2601-001",
+    "id": "2602-001",
     "druk": "2602",
     "druk_title": "Obywatelski projekt ustawy o ochronie bezpieczeństwa wewnętrznego w związku z realizacją polityki migracyjnej Unii Europejskiej.",
     "delivery_date": "2026-06-23",
     "pdf": "2602-001.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/2601-001/2602-001.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 18,
+    "chars": 49591,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "2603-001",
@@ -3574,12 +4506,16 @@
     "pdf": "2603-001.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/2603-001/2603-001.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 21,
+    "chars": 64723,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "2621-002",
@@ -3589,12 +4525,16 @@
     "pdf": "2621-002.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/2621-002/2621-002.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 17,
+    "chars": 51820,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "2622-002",
@@ -3604,12 +4544,16 @@
     "pdf": "2622-002.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/2622-002/2622-002.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 17,
+    "chars": 52242,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "2647-002",
@@ -3619,12 +4563,16 @@
     "pdf": "2647-002.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/2647-002/2647-002.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 15,
+    "chars": 41399,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "2648-002",
@@ -3634,12 +4582,16 @@
     "pdf": "2648-002.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/2648-002/2648-002.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 20,
+    "chars": 57552,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "2649-004",
@@ -3649,12 +4601,16 @@
     "pdf": "2649-004.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/2649-004/2649-004.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 17,
+    "chars": 47651,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "2669-003",
@@ -3664,12 +4620,16 @@
     "pdf": "2669-003.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/2669-003/2669-003.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 13,
+    "chars": 34810,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "2670-004",
@@ -3679,12 +4639,16 @@
     "pdf": "2670-004.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/2670-004/2670-004.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 20,
+    "chars": 60573,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "2671-001",
@@ -3694,12 +4658,16 @@
     "pdf": "2671-001.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/2671-001/2671-001.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 14,
+    "chars": 38412,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "2672-001",
@@ -3709,12 +4677,16 @@
     "pdf": "2672-001.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/2672-001/2672-001.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 28,
+    "chars": 90215,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "2673-001",
@@ -3724,12 +4696,16 @@
     "pdf": "2673-001.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/2673-001/2673-001.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 34,
+    "chars": 94974,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "2674-002",
@@ -3739,12 +4715,16 @@
     "pdf": "2674-002.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/2674-002/2674-002.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 28,
+    "chars": 80625,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "2701-001",
@@ -3754,12 +4734,16 @@
     "pdf": "2701-001.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/2701-001/2701-001.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 11,
+    "chars": 27611,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "2702-002",
@@ -3769,12 +4753,16 @@
     "pdf": "2702-002.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/2702-002/2702-002.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 15,
+    "chars": 41301,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "2704-002",
@@ -3784,12 +4772,16 @@
     "pdf": "2704-002.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/2704-002/2704-002.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 18,
+    "chars": 51414,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "2705-002",
@@ -3799,12 +4791,16 @@
     "pdf": "2705-002.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/2705-002/2705-002.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 14,
+    "chars": 37937,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "2706-001",
@@ -3814,12 +4810,16 @@
     "pdf": "2706-001.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/2706-001/2706-001.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 15,
+    "chars": 42344,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "2721-002",
@@ -3829,12 +4829,16 @@
     "pdf": "2721-002.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/2721-002/2721-002.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 20,
+    "chars": 60292,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "2722-002",
@@ -3844,12 +4848,16 @@
     "pdf": "2722-002.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/2722-002/2722-002.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 18,
+    "chars": 51940,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "2723-004",
@@ -3859,12 +4867,16 @@
     "pdf": "2723-004.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/2723-004/2723-004.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 20,
+    "chars": 58511,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "2724-001",
@@ -3874,12 +4886,16 @@
     "pdf": "2724-001.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/2724-001/2724-001.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 17,
+    "chars": 48515,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "2745-002",
@@ -3889,12 +4905,16 @@
     "pdf": "2745-002.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/2745-002/2745-002.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 14,
+    "chars": 39797,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "2746-001",
@@ -3904,12 +4924,16 @@
     "pdf": "2746-001.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/2746-001/2746-001.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 49,
+    "chars": 159505,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "2749-001",
@@ -3919,12 +4943,16 @@
     "pdf": "2749-001.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/2749-001/2749-001.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 21,
+    "chars": 64329,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "2750-001",
@@ -3934,12 +4962,16 @@
     "pdf": "2750-001.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/2750-001/2750-001.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 16,
+    "chars": 47023,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "2769-001",
@@ -3949,12 +4981,16 @@
     "pdf": "2769-001.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/2769-001/2769-001.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 14,
+    "chars": 38245,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "2772-001",
@@ -3964,12 +5000,16 @@
     "pdf": "2772-001.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/2772-001/2772-001.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 12,
+    "chars": 34371,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   },
   {
     "id": "2804-001",
@@ -3979,11 +5019,15 @@
     "pdf": "2804-001.pdf",
     "url": "https://api.sejm.gov.pl/sejm/term10/prints/2804-001/2804-001.pdf",
     "ocr": {
-      "applevision": false,
+      "applevision": true,
       "deepseek": false,
-      "canonical": false
+      "canonical": true
     },
-    "pages": null,
-    "chars": null
+    "pages": 11,
+    "chars": 31176,
+    "merge_stats": {
+      "vision_only_runs": 0,
+      "garbage_dropped": 0
+    }
   }
 ]

@@ -28,8 +28,22 @@ AV_DIR = os.path.join(ROOT, "OCR", "AppleVision", "Results")
 DS_DIR = os.path.join(ROOT, "OCR", "DeepSeekOCR", "Results")
 CANON_DIR = os.path.join(ROOT, "OCR", "Canonical")
 PAGE_RE = re.compile(r"^--- page (\d+) ---\s*$", re.M)
-# section headers of the BEOS template, e.g. "## II. Rozwiązanie ..." / "IV. Rozwiązania ..."
-SECTION_RE = re.compile(r"^#{0,4}\s*\**([IVX]{1,6})\s*\.\s+(.+?)\**\s*$", re.M)
+# section headers, e.g. "## II. Rozwiązanie ..." / "IV. Rozwiązania ..."; lowercase
+# 'l' allowed because Apple Vision misreads II/III/VII as Il/Ill/VIl
+SECTION_RE = re.compile(r"^#{0,4}\s*\**([IVXl]{1,6})\s*\.\s+(.+?)\**\s*$", re.M)
+ROMAN = {"I": 1, "V": 5, "X": 10}
+
+
+def roman_to_int(tok):
+    """Value of a roman numeral, or None if malformed."""
+    total, prev = 0, 0
+    for ch in reversed(tok):
+        v = ROMAN.get(ch)
+        if v is None:
+            return None
+        total += v if v >= prev else -v
+        prev = max(prev, v)
+    return total if total > 0 else None
 WORDLIKE_RE = re.compile(r"^[0-9A-Za-zĄĆĘŁŃÓŚŹŻąćęłńóśźż][0-9A-Za-zĄĆĘŁŃÓŚŹŻąćęłńóśźż.,;:()/–-]*$")
 
 
@@ -106,7 +120,7 @@ def build_canonical(doc_id):
 def extract_sections(canonical_text):
     """Split canonical text into BEOS sections; page tracked via markers."""
     sections, current = [], {"section": "0", "section_title": "Nagłówek/adresat", "pages": [], "lines": []}
-    page = None
+    page, last_val = None, 0
     for line in canonical_text.splitlines():
         m_page = PAGE_RE.match(line)
         if m_page:
@@ -114,10 +128,17 @@ def extract_sections(canonical_text):
             continue
         m_sec = SECTION_RE.match(line)
         if m_sec and len(m_sec.group(2).split()) >= 2:  # avoid "II." list stubs
-            sections.append(current)
-            current = {"section": m_sec.group(1), "section_title": m_sec.group(2).strip(),
-                       "pages": [page] if page else [], "lines": []}
-            continue
+            tok = m_sec.group(1).replace("l", "I")  # Vision glyph fix: Il -> II
+            val = roman_to_int(tok)
+            # sections must advance monotonically; quoted headers ("I. Problem"
+            # cited later in the text) and OCR misreads would otherwise split
+            # the document at the wrong places
+            if val is not None and val > last_val:
+                last_val = val
+                sections.append(current)
+                current = {"section": tok, "section_title": m_sec.group(2).strip(),
+                           "pages": [page] if page else [], "lines": []}
+                continue
         if page and (not current["pages"] or current["pages"][-1] != page):
             current["pages"].append(page)
         current["lines"].append(line)
@@ -135,7 +156,9 @@ def main():
     catalog, corpus_records = [], []
     n_canon = 0
     for entry in manifest:
-        doc_id = entry["number"]
+        # key by filename, not API number: for druk 2602 the API registers the
+        # attachment as 2601-001 but the file (and content) is 2602-001.pdf
+        doc_id = os.path.splitext(entry["file"])[0]
         pdf_exists = os.path.exists(os.path.join(ROOT, "SkutkiRegulacji", entry["file"]))
         has_av = os.path.exists(os.path.join(AV_DIR, f"{doc_id}.txt"))
         has_ds = os.path.exists(os.path.join(DS_DIR, f"{doc_id}.md"))
