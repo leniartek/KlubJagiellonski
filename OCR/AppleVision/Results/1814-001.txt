@@ -1,0 +1,573 @@
+--- page 1 ---
+BIURO EKSPERTYZI OCENY SKUTKOW REGULACJ
+SEI	M	KANCELARII SEIMU
+BEOS-2008/25	Warszawa, 26 listopada 2025 r.
+Do druku nr 1814
+WYDZIAŁ GR3ŁU8I PREZYDIUM SEJMU	Pan
+L.Gz...	SPS-III 020.293,9. 2025	Włodzimierz Czarzasty
+Data woleniu s:	27.11.2025	Marszałek Sejmu
+Rzeczypospolitej Polskiej
+Opinia w sprawie oceny skutków regulacji poselskiego projektu ustawy
+o zmianie ustawy o Polskiej Agencji Zeglugi Powietrznej
+(druk sejmowy nr 1814)
+Na podstawie art. 34 ust. 9a uchwały Sejmu Rzeczypospolitej Polskiej z dnia 30 lipca 1992 r.
+- Regulamin Sejmu Rzeczypospolitej Polskiej (Monitor Polski z 2022 r. poz. 990, ze zm.)
+sporządza się następującą opinię
+I. Problem, który zamierzają rozwiązać Wnioskodawcy
+Z uzasadnienia projektu i deklarowanych skutków regulacji (DSR) wynika, że
+problemem, którego rozwiązaniu ma służyć proponowana regulacja, jest zagrożenie
+dla bezpieczeństwa państwa powodowane przez bezzałogowe statki powietrzne.
+Zdaniem Wnioskodawców ich użycie w działaniach o charakterze hybrydowym,
+zarówno do celów rozpoznawczych, jak i bojowych, stwarza ryzyko dla integralności
+przestrzeni	powietrznej Rzeczypospolitej Polskiej oraz bezpieczeństwa
+infrastruktury krytycznej. Wnioskodawcy twierdzą, że wprowadzenie
+proponowanego rozwiązania pozwoli na bardziej skuteczne zwalczanie ataków
+hybrydowych w polskiej przestrzeni powietrznej, w szczególności poprzez
+wykrywanie bezzałogowych statków powietrznych. Wedlug Wnioskodawców
+proponowane rozwiązanie powinno usprawnić wspólpracę w tym obszarze między
+Polską Agencją Żeglugi Powietrznej (PAŹP) a Siłami Zbrojnymi.
+Il. Rozwiązanie rekomendowane przez Wnioskodawców
+Wnioskodawcy proponują znowelizowanie art. 6 ustawy z dnia 8 grudnia
+2006 r. o Polskiej Agencji Żeglugi Powietrznej ' (dalej: ustawa). Zgodnie
+z proponowanym art. 6 ust. 5 ustawy na wniosek Prezesa PAZP minister właściwy
+do spraw transportu ma powoływać nie więcej niż trzech, a nie jak obecnie - nie
+1 Dz. U. z 2025 r. poz. 179.
+1
+
+--- page 2 ---
+więcej niż dwóch, zastępców Prezesa PAŹP. W przepisie tym określono także
+wymagania, jakie muszą spełniać zastępcy Prezesa PAŹP. Zgodnie
+z proponowanym art. 6 ust. 5a ustawy do zastępców Prezesa PAŻP mają być
+stosowane odpowiednio przepisy art. 6 ust. 4 pkt 1-4 i 7 ustawy.
+Proponowana ustawa ma wejść w życie po upływie 14 dni od dnia ogloszenia.
+Ill. Inne rozwiązania rozważane przez Wnioskodawców
+ZDSR wynika, że Wnioskodawcy nie rozważali alternatywnych rozwiązań.
+IV. Rozwiązania przyjmowane w innych państwach, w szczególności
+państwach członkowskich OECD/UE
+Analiza porównawcza modeli zarządzania cywilnymi dostawcami służb żeglugi
+powietrznej (Air Navigation Service Provider - ANSP) koncentruje się na wybranych
+państwach członkowskich Unii Europejskiej i OECD, których struktury stanowią
+reprezentatywny przekrój europejskich rozwiązań w zakresie wspólpracy cywilno-
+wojskowej. Ze względu na natężenie ruchu lotniczego lub znaczenie strategiczne na
+europejskim rynku usług nawigacyjnych do analizy porównawczej wybrano Belgię,
+Francję, Hiszpanię, Niemcy oraz Wielką Brytanię.
+W Belgii głównym dostawcą słuźb żeglugi powietrznej jest spółka Skeyes?
+działająca jako podmiot cywilny. Zarząd Skeyes pozostaje w pełni cywilny, bez
+obowiązkowego udziału wojskowych. Integracja z siłami zbrojnymi realizowana jest
+wyłącznie na poziomie operacyjnym, zgodnie ze standardami koncepcji
+Elastycznego Wykorzystania Przestrzeni Powietrznej (Flexible Use of Airspace -
+FUA). W jej ramach funkcjonuje wspólna komórka zarządzania przestrzenia
+powietrzną (Airspace Management Cell - AMC), odpowiedzialna za bieżące
+planowanie, koordynację i uzgadnianie cywilno-wojskowego użytkowania
+przestrzeni. Tego typu komórki działają powszechnie w państwach europejskich jako
+mechanizm operacyjnej integracji. W Belgii wojskowi kontrolerzy ruchu
+powietrznego są przydzielani bezpośrednio do centrum kontroli obszaru, co
+umożliwia sprawną koordynację operacyjną przy zachowaniu cywilnego charakteru
+najwyższego kierownictwa. Skeyes rozwija również rozwiązania technologiczne
+w obszarze zarządzania ruchem dronów (Unmanned Traffic Management - UTM)
+poprzez spóikę SkeyDrone oraz aplikację Drones & Aerial Activities (DAA), co
+dodatkowo podkreśla techniczny i cywilny profil integracji.
+We Francji odpowiednikiem polskiej Agencji Żeglugi Powietrznej (PAŻP) jest
+Dyrekcja Służb Zeglugi Powietrznej (Direction des Services de la Navigation
+Aérienne - DSNA3), która utrzymuje model cywilny zarządzania ANSP. Zgodnie
+2 Skeyes: https://www.skeyes.be/en/[wszystkie źródła internetowe cytowane w niniejszej opinii zostały
+sprawdzone 26 X| 2025 г.)-
+3 Direction des services de la navigation aérienne (DSNA):
+https://lannuaire.service-public.gouv.fr/gouvernement/9324d58a-91e9-4661-ba42-a4448610fc00.
+2
+
+--- page 3 ---
+z zarządzeniem z 28 grudnia 2021 r.4, francuska struktura oddziela zarządzanie
+cywilnym ruchem lotniczym od zadań z zakresu obrony, realizowanych przez Sity
+Zbrojne. W dokumentach regulacyjnych nie przewidziano stanowisk o charakterze
+wojskowym ani wymogu, aby dyrektor lub członkowie kierownictwa posiadali status
+żołnierza zawodowego. Funkcje związane z bezpieczeństwem, jakością,
+bezpieczeństwem fizycznym oraz cyberbezpieczeństwem przypisane są cywilnej
+dyrekcji ds. bezpieczeństwa (Direction de la sécurité).
+W Niemczech głównym dostawcą, służb żeglugi powietrznej i funkcjonalnym
+odpowiednikiem PAZP jest Niemiecka Kontrola Ruchu Lotniczego (Deutsche
+Flugsicherung GmbH - DFS5). W DFS nie przewidziano obligatoryjnej obecności
+przedstawiciela sił zbrojnych w zarządzie. Spółka jest w 100% wlasnością państwa
+i utrzymuje jednoznacznie cywilny model zarządzania oraz działalności operacyjnej.
+Działalność operacyjna DFS regulowana jest przez cywilne prawo lotnicze
+(Luftverkehrsgesetz). Współpraca z siłami zbrojnymi odbywa się na poziomie
+operacyjnym i proceduralnym, m.in. w zakresie koordynacji przestrzeni powietrznej
+w ramach zasad elastycznego użytkowania przestrzeni (FUA), nie wpływając na
+cywilny charakter kierownictwa.
+W Hispanii i Wielkiej Brytanii model integracji wojskowej różni się od
+rozwiązań przyjmowanych w większości państw europejskich, ponieważ udział
+przedstawicieli wojska występuje na poziomie nadzoru strategicznego, ale nie
+obejmuje kierownictwa wykonawczego agencji żeglugi powietrznej. W Hiszpanii
+ENAIRE (Entidad Pública Empresarial de Navegación Aérea)6	6, państwowa agencja
+cywilna odpowiedzialna za zarządzanie przestrzenią powietrzną, utrzymuje w pełni
+cywilny zarząd wykonawczy. Koordynacja cywilno-wojskowa realizowana jest
+poprzez Dyrekcję Koordynacji Cywilno-Militarnej oraz mechanizmy elastycznego
+wykorzystania przestrzeni powietrznej (FUA). Strategiczny nadzór nad integracja
+wojskową zapewnia udział przedstawicieli Ministerstwa Obrony w Radzie Prezesów
+(Consejo Rector), co formalnie włącza wojsko w proces nadzorczy, ale bez
+obecności czynnych oficerów w strukturze zarządu wykonawczego.
+Podobnie w Wielkiej Brytanii NATS (National Air Traffic Services) dziata jako
+spółka publiczno-prywatna	z cywilnym zarządem wykonawczym. Zarząd
+wykonawczy NATS pozostaje w pelni cywilny, bez obowiązkowego udzialu
+wojskowych. Integracja wojskowa realizowana jest głównie na poziomie
+strategicznego nadzoru poprzez członków Rady Nadzorczej (Board of Directors),
+gdzie mogą występować byli oficerowie RAF w roli dyrektorów niewykonawczych
+(non-executive directors), uczestniczących w nadzorze i podejmowaniu decyzji
+strategicznych, ale bez wpływu na codzienne zarządzanie operacyjne. Procedury
+wspólpracy cywilno-wojskowej obejmują m.in. koordynację przestrzeni powietrznej,
+jednak nie zmieniają cywilnego charakteru zarządu wykonawczego spotki.
+W obu przypadkach włączenie wojska dotyczy organu nadzorczego, a nie
+kierownictwa wykonawczego podmiotu świadczącego usługi żeglugi powietrznej.
+4 Arrêté du 28 décembre 2021 portant organisation de la direction des services de la navigation aérienne
+(direction générale de l'aviation civile, direction des services de la navigation aérienne), tekst w j.
+francuskim: https://www.legifrance.gouv.fr/loda/id/JORFTEXT000044616504.
+5 Deutsche Flugsicherung GmbH : https://www.dfs.de/homepage/de/.
+6 ENAIRE: https://www.enaire.es/about enaire/organisation/enaire organisation chart.
+3
+
+--- page 4 ---
+V. Skutki prawne projektowanej ustawy
+Projekt zmierza do zmiany przepisów ustawy regulujących zasady
+powoływania zastępców Prezesa PAŻP, poprzez nowelizację art. 6 ust. 5 ustawy
+oraz dodanie do art. 6 nowego ust. Sa. W obecnym stanie prawnym, »In]a wniosek
+Prezesa minister właściwy do spraw transportu powoluje nie więcej niż dwóch
+zastępców Prezesa. Jeden z zastępców Prezesa powinien posiadać wiedzę
+i umiejętności w zakresie służby żeglugi powietrznej i co najmniej trzyletnie
+doświadczenie zawodowe na stanowisku kierowniczym w instytucji zapewniającej
+służby żeglugi powietrznej. Przepisy ust. 4 pkt 1-4 i 7 stosuje się odpowiednio".
+Wnioskodawcy proponują zwiększenie maksymalnej liczby zastępców
+Prezesa PAZP z dwóch do trzech przy jednoczesnym określeniu wymagań, jakie
+powinny spelniać osoby powoływane na tę funkcję. Obok zastępcy posiadającego
+wiedzę i umiejętności w zakresie służb żeglugi powietrznej oraz co najmniej
+trzyletnie doświadczenie zawodowe na stanowisku kierowniczym w instytucji
+zapewniającej służby żeglugi powietrznej (zgodnie z obecnym stanem prawnym),
+projekt przewiduje możliwość powołania zastępcy Prezesa, który:
+a) posiada wiedzę i umiejętności w zakresie:
+- zarządzania przestrzenią powietrzną w warunkach współdziałania
+lotnictwa cywilnego i państwowego,
+- zasad organizacji i prowadzenia ćwiczeń oraz operacji bojowych
+lotnictwa państwowego,
+- zasad zarządzania ruchem lotniczym,
+- pełnienia funkcji lub wykonywania zadań w strukturach lotnictwa Sit
+Zbrojnych Rzeczypospolitej Polskiej lub w strukturach Organizacji
+Traktatu Pólnocnoatlantyckiego (NATO) odpowiedzialnych za
+planowanie, dowodzenie lub koordynację działań w przestrzeni
+powietrznej Polski i Państw-Stron Traktatu Północnoatlantyckiego,
+b) jest żołnierzem zawodowym w czynnej służbie wojskowej w stopniu co
+najmniej podpułkownika	przez okres co najmniej trzech lat
+poprzedzających powolanie.
+Projektowana zmiana ustawy, polegająca na wprowadzeniu możliwości
+powołania trzeciego zastępcy Prezesa, ma na celu, jak wskazano w uzasadnieniu,
+„równoległe wzmacnianie zdolności obronnych w wymiarze militarnym i cywilnym",
+co umożliwi całościowe spojrzenie na bezpieczeństwo infrastruktury krytycznej,
+obejmującej zarówno lotnictwo cywilne, jak i komponenty wojskowe". Wskazano, że
+PAŹP „stanowi element infrastruktury krytycznej państwa, którego funkcjonowanie
+wprost wpływa na zdolność do obrony i zapewnienia bezpieczeństwa narodowego"
+W uzasadnieniu projektu podkreslono także, że zadaniem nowego zastępcy
+będzie „realizacja obowiązków wynikających z potrzeb obronności państwa,
+zapewniająca integralność działań w ramach współpracy cywilno-wojskowej".
+Osoba powołana na to stanowisko „musi dawać gwarancję zdolności przygotowania
+Agencji do włączenia w system obrony powietrznej kraju oraz do przejęcia przez Siły
+4
+
+--- page 5 ---
+Zbrojne roli zarządzającego częścią infrastruktury krytycznej w okresie stanu
+nadzwyczajnego lub wojny". Wprowadzenie tej funkcji stanowić ma „krok w kierunku
+stworzenia pelnej gotowości do przejścia Agencji w podporządkowanie MON
+w przypadku wystąpienia zagrożeń wewnętrznych lub utraty personelu kluczowego
+do zapewnienia ciągłości działania".
+Projektowana zmiana wydaje się więc być komplementarna do art. 3 ust. 4 i 5
+ustawy, zgodnie z którymi PAZP współdziała z odpowiednimi służbami i organami
+wojskowymi oraz innymi służbami i organami państwowymi, a w czasie wojny i stanu
+wojennego staje się ona częścią systemu obrony powietrznej kraju i podlega
+Ministrowi Obrony Narodowej. Należy jednak zwrócić uwagę na fakt, iž obecne
+przepisy określają tę wspólpracę w sposób ogólny, bez precyzyjnego wskazania
+zakresu działań Agencji powiązanych z obronnością w czasie pokoju. W tym
+kontekście ustanowienie zastępcy Prezesa do spraw obronnych mogłoby stanowić
+krok w kierunku pelniejszego uregulowania roli PAZP w procesach planowania
+i realizacji zadań w obszarze cywilno-wojskowym, w tym w szczególności w zakresie
+ochrony przestrzeni powietrznej oraz reagowania na zagrożenia o charakterze
+hybrydowym.
+W toku konsultacji społecznych nad projektem wskazywano m.in.,
+iż wnioskodawcy powinni „rozszerzyć kompetencje już istniejących zastępców lub
+zostawić temat w kompetencjach samego ministra. Ewentualnie rozszerzyć
+kompetencje innej osoby z zespołu bez mianowania nowego zastępcy szczególnie
+drogą ustawy"". Podniesiono również, że w projekcie „nie zostały jasno określone
+obowiązki nowego zastępcy"
+Projekt byt przedmiotem analiz Biura Ekspertyz i Oceny Skutków Regulacji
+Kancelarii Sejmu (BEOS) dotyczących zgodności z prawem Unii Europejskiej°.
+Omawiany projekt byt także przedmiotem analizy BEOS w trybie art. 95a ust. 3
+Regulaminu Sejmu1°
+Proponowana w projekcie regulacja dotyczy nadania nowego brzmienia art. 6
+ust. 5 ustawy, który odnosi się do zasad (kryteriów) powoływania zastępców Prezesa
+Agencji. Zmiana ta nie dotyczy praw i wolności unormowanych w Konwencji
+o ochronie praw człowieka i podstawowych wolności (ЕКРС).
+7 ID ankiety: 57210.
+& Ibidem.
+• Opinia w sprawie zgodności z prawem Unii Europejskiej poselskiego projektu ustawy o zmianie
+ustawy o Polskiej Agencji Żeglugi Powietrznej (przedstawiciel wnioskodawców: poset Jerzy Polaczek),
+opinia BEOS z 10 X 2025 r., BEOS-WPEIM-2005/25.
+10 Opinia w sprawie stwierdzenia, czy poselski projekt ustawy o zmianie ustawy o Polskiej Agencji
+Żeglugi Powietrznej (przedstawiciel wnioskodawców: poset Jerzy Polaczek) jest projektem ustawy
+wykonującej prawo Unii Europejskiej w rozumieniu art. 95a regulaminu Sejmu, opinia BEOS z 10 X
+2025 г., BEOS-WAPEIM-2006/25.
+5
+
+--- page 6 ---
+VI. Skutki społeczne projektowanej ustawy
+A. Podmioty, na które wpływa projekt
+Projekt wpłynie na następujące podmioty:
+1. Polska Agencja Żeglugi Powietrznej, w tym prezes i jego zastępcy;
+2. podmioty koordynujące działania lotnictwa wojskowego i wspólpracujące z
+PAZP, w tym w szczególności Szefostwo Służby Ruchu Lotniczego Sit
+Zbrojnych RP (SSRL SZ RP), ale także poszczególne jednostki w ramach
+Dowództwa Operacyjnego Rodzajów Sił Zbrojnych (DO RSZ) i Dowództwa
+Generalnego Rodzajów Sił Zbrojnych (DG RSZ);
+3. Minister Obrony Narodowej;
+4. minister właściwy do spraw transportu (obecnie Minister Infrastruktury).
+B. Wpływ na społeczeństwo
+Projektowane powołanie zastępcy prezesa PAŹP ds. obronnych nie będzie
+niosło bezpośrednich skutków społecznych. Pośrednio regulacja ta może w pewnym
+stopniu wpłynąć pozytywnie na integrację planowania i wymiany informacji między
+podmiotami cywilnymi i wojskowymi prowadzącymi działania prewencyjne i obronne
+w polskiej przestrzeni	powietrznej i w dłuższej perspektywie zwiększać
+bezpieczeństwo państwa. Trzeba jednak podkreślić, że koordynacja w tym zakresie
+jest już aktywnie prowadzona. Szczególnie intensywnie PAZP wspólpracuje
+z Szefostwem Służby Ruchu Lotniczego Sit Zbrojnych RP11, które jest centralnym
+organem sprawującym specjalistyczny nadzór nad działalnością służby ruchu
+lotniczego w Siłach Zbrojnych RP. Współpraca ta oparta jest o kilka rozporządzeń12
+jednak są one na tyle ogólnikowe, że oprócz tego zawarto również szereg
+porozumień dwustronnych dotyczących m.in. zarządzania przestrzenią powietrzną,
+zasad funkcjonowania wspólnej cywilno-wojskowej	komórki zarządzania
+przestrzenią powietrzną czy zasad współpracy w celu realizacji i zabezpieczenia
+ruchu lotniczego OAT (Operational Air Traffic - operacyjny ruch lotniczy). PAZP
+podpisał także porozumienia z poszczególnymi Bazami Lotniczymi w zakresie służb
+ruchu lotniczego (porozumienia te są uzgadniane z Szefostwem jako organem
+merytorycznie sprawującym nadzór nad wojskowymi organami ruchu lotniczego).
+Wnioskodawcy podkreślają, że nowy zastępca prezesa PAZP będący
+żołnierzem zawodowym w czynnej służbie wojskowej może wzmocnić
+współdziałanie i koordynację współpracy Agencji z Dowództwem Operacyjnym
+11 Wnioskodawcy nie wspomnieli w uzasadnieniu projektu o tym podmiocie, postulując jedynie
+zacieśnienie współpracy z Dowództwem Operacyjnym Rodzajów Sił Zbrojnych w zakresie zarządzania
+przestrzenią powietrzną oraz integracji i nadzoru nad ruchem bezzałogowych statków powietrznych.
+12 Rozporządzenie Rady Ministrów z dnia 31 października 2007 r. w sprawie wykonywania funkcji
+wynikających ze zwierzchnictwa w polskiej przestrzeni powietrznej oraz umacniania obronnosci na czas
+pokoju (Dz. U. z 2015 r., poz. 100); Rozporządzenie Ministra Obrony Narodowej z dnia 13 czerwca 2008
+sposobu współdziałania instytucji zapewniającej służby ruchu lotniczego z Siłami
+Powietrznymi Ził Zbrojnych RP (Dz. U. z 2008 r., poz. 117); Rozporządzenie Ministra Infrastruktury z
+dnia 27 grudnia 2018r. w sprawie struktury polskiej przestrzeni powietrznej oraz szczegółowych
+warunków i sposobu korzystania z tej przestrzeni (Dz. U. z 2019 r., poz. 619).
+6
+
+--- page 7 ---
+Rodzajów Sit Zbrojnych 13 w zakresie zarządzania przestrzenią powietrzną oraz
+integracji i nadzoru nad ruchem bezzałogowych statków powietrznych, co w efekcie
+wpłynie na podniesienie odporności państwa i zapewnienie skutecznej ochrony
+przestrzeni powietrznej RP w obliczu współczesnych zagrożeń hybrydowych.
+Tymczasem, jak wskazuje w swoim stanowisku na temat projektu Dowództwo
+Operacyjne, PAŹP jest już częścią systemu militarnego i podlega kontroli stanu
+przygotowania militaryzacji (na podstawie ustawy o obronie Ojczyzny z dnia 11
+marca 2022 r.14), a bieżąca koordynacja i współpraca pomiędzy DO RSZ a PAZP
+pozwala na efektywną realizację potrzeb Sit Zbrojnych w zakresie użytkowania
+przestrzeni powietrznej'5.
+W uzasadnieniu	projektu nie wspomniano o koordynacji działań
+z Dowództwem Generalnym Rodzajów Sit Zbrojnych, które również współpracuje
+z PAZP. Za przykład takiej współpracy może posłużyć porozumienie podpisane
+w czerwcu 2024 r. dotyczące współpracy w sprawie realizacji wzajemnych kontroli
+z powietrza lotniczych urządzeń naziemnych (na lotniskach cywilnych
+i wojskowych). Dokument określit wzajemne zobowiązania stron w zakresie
+wykonywania oblotów oraz sprzętu wykorzystywanego do ich realizacji16
+Należy również wspomnieć o innym forum współpracy instytucjonalnej między
+podmiotami cywilnymi i wojskowymi w postaci Komitetu Zarządzania Przestrzenią
+Powietrzną, który jest wspólnym cywilno-wojskowym organem doradczym ministra
+właściwego do spraw transportu (obecnie Ministra Infrastruktury), Ministra Obrony
+Narodowej oraz ministra właściwego do spraw wewnętrznych, odpowiedzialnym za
+kształtowanie zasad zarządzania i wykorzystania przestrzeni powietrznej przez
+wszystkich jej użytkowników. W skład Komitetu oprócz przedstawicieli wyżej
+wymienionych ministerstw wchodzą, również przedstawiciele PAZP, Urzędu
+Lotnictwa Cywilnego oraz DG RSZ. Komitet spotyka się regularnie i przygotowuje
+opinie i oceny w ramach wskazanych w rozporządzeniu'7 zadań.
+Trudno jest określić na ile możliwa do zrealizowania jest zakładana przez
+Wnioskodawców szersza koordynacja działań w polskiej przestrzeni powietrznej,
+szczegolnie, że projekt nie doprecyzowuje zakresu zadań nowego zastępcy
+prezesa. Nie jest również jasne, w jakim stopniu zachowany byłby cywilny charakter
+Agencji. Wątpliwości w tym zakresie mogą powodować: wymagane wojskowe
+doświadczenie osoby mającej pełnić funkcję zastępcy, planowana ścisła wspołpraca
+13 DO RSZ wykonuje zadania Ministra Obrony Narodowej w zakresie ochrony granicy państwowej
+w przestrzeni powietrznej RP. Dowodzi w tym zakresie poprzez Centrum Operacji Powietrznych -
+Dowództwo Komponentu Powietrznego, które w czasie pokoju zapewnia ciągłość dowodzenia siłami
+wydzielonymi przez Siły Powietrzne. Centrum w ramach realizacji szkolenia lotniczego, wspólpracuje z
+Dowodcą Generalnym Rodzajów Sit Zbrojnych, a w szczególności z Inspektorem Sit Powietrznych, który
+wydziela siły i środki do dyżurów bojowych w polskiej przestrzeni powietrznej - https://www.wojsko.
+polskie.pl/dorsz/cop-dkpl.Zob. także https://www.wojsko-polskie.pl/dgrsz/ISP/.
+14 Dz. U. z 2022 r. poz. 655.
+15 Pismo nr 23207/2025 z dn. 30.10. 2025 r. przesłane przez Dowództwo Operacyjne Rodzajów Sit
+Zbrojnych RP w odpowiedzi na zapytanie mailowe BEOS.
+16 Porozumienie weszło w życie 19 czerwca 2024 r. — Polska Agencja Żeglugi Powietrznej i Dowództwo
+Sit Zbrojnych	zacieśniają	wspótpracę,
+https://dlapilota.pi/wiadomosci/polska/polska-agencja-zeglugi-powietrznel-i-dowodztwo-generalne-
+rodzajow-sil-zbroinych,
+17 Rozporządzenie Ministra Infrastruktury z dnia 12 września 2008 r. w sprawie Komitetu Zarządzania
+Przestrzenią Powietrzną oraz ustalenia zakresu jego działania (Dz. U. z 2014 r., poz. 1173).
+7
+
+--- page 8 ---
+z DO RSZ (nie uwzględniając przy tym innych podmiotów wojskowych i cywilnych
+działających w tym obszarze) i potencjalne włączenie PAZP (w określonych
+warunkach) w system obrony powietrznej18.
+Proponowane rozwiązanie może natomiast wprowadzić chaos kompetencyjny
+między podmiotami pełniącymi zadania cywilne i wojskowe w zakresie ochrony
+polskiego nieba. Wprowadzenie nowego zastępcy prezesa będącego czynnym
+oficerem niesie pytania o podległość służbową na tym stanowisku (PAZP jest
+państwową osobą prawną, natomiast oficer jest zolnierzem zawodowym slużącym
+zgodnie z ustawą o obronie Ojczyzny) 19	. Agencja podlega obecnie ministrowi
+właściwemu do spraw transportu, a zgodnie z założeniami projektu mogłaby
+w sytuacjach kryzysowych przechodzić w zarząd Ministra Obrony Narodowej.
+W sytuacji pokoju, mimo planowanego zacieśnienia współpracy PAZP z podmiotami
+wojskowymi, MON nie miałby więc formalnego wpływu na działania Agencji w tym
+zakresie. Kwestię tę poruszono w konsultacjach społecznych projektu. Podkreślano
+w nich słuszność idei zwiększenia integracji cywilno-wojskowej w zarządzaniu
+przestrzenią powietrzną, zwłaszcza wobec zagrożeń dronowych i cyberataków,
+wskazując jednak, że projekt zbyt mocno ingeruje w cywilny charakter PAZP i tworzy
+konflikt kompetencji między Ministrem Infrastruktury a MON 20	. Proponowano
+również alternatywy dla tego rozwiązania: „1. Stały pelnomocnik MON przy PAZP.
+Zamiast powoływać wojskowego zastępcę prezesa, można ustanowić pełnomocnika
+MON akredytowanego przy PAZP - z prawem udziału w posiedzeniach, ale bez
+formalnego udziału w kierownictwie. 2. Centrum Koordynacji Cywilno-Wojskowej.
+Utworzenie wspólnego ośrodka PAZP-MON (np. na wzór Airspace Management Cell
+w Belgii), który operacyjnie wspólpracuje przy planowaniu lotów, bez zmiany
+struktury zarządu"21	'. W ramach konsultacji wskazano też propozycję polegającą na
+rozszerzeniu zakresu obowiązków jednego z dwóch obecnych zastępców prezesa
+PAZP o zadania z zakresu współpracy cywilno-wojskowej, bez konieczności
+mianowania zastępcy wojskowego?2.
+C. Konsultacje społeczne
+Konsultacje społeczne projektu nie cieszyły się dużym zainteresowaniem
+obywateli. Większość komentujących negatywnie ocenita projekt, zarzucając
+Wnioskodawcom nieuzasadnione tworzenie nowych stanowisk będących
+18 Wnioskodawcy podkreślają, że PAŻP stanowi element infrastruktury krytycznej państwa, a powołanie
+zastępcy ds. obronnych ma zapewnić płynność przejęcia Agencji w zarząd Sił Zbrojnych i włączenia w
+system obrony powietrznej kraju w przypadku stanu nadzwyczajnego lub wojny. Wspomniane jest także,
+że w przypadku wystąpienia zagrożeń wewnętrznych lub utraty personelu kluczowego do zapewnienia
+ciągłości działania Agencja będzie sprawniej mogła przejść w podporządkowanie MON - Zob.
+uzasadnienie projektu.
+19 W tej sprawie wypowiedziało się również Dowództwo Operacyjne Rodzajów Sit Zbrojnych: „(...)
+negatywnie ocenia [się] powierzenie żołnierzowi zawodowemu, będącemu w podporządkowaniu
+Ministra Obrony Narodowej funkcji zarządczej, w strukturach instytucji będącej pod nadzorem ministra
+właściwego dla spraw transportu. Powyższe może stanowić źródło sporów kompetencyjnych i konflikt
+interesów pomiędzy dwoma resortami." — Pismo nr 23207/2025..., op. cit.
+20 ID ankiety: 76742.
+21 Ibidem.
+22 lbidem.
+8
+
+--- page 9 ---
+obciążeniem dla podatników23 i proponując w zamian rozszerzenie kompetencji
+obecnych zasobów kadrowych Agencji24.
+Pojawiały się także głosy o konieczności modyfikacji proponowanej regulacji:
+»n)iezbędne jest wprowadzenie mechanizmu uzgadniania przez ministra
+właściwego do spraw transportu z Ministrem Obrony Narodowej zarówno powołania,
+jak i odwołania zastępcy Prezesa Agencji. Rozwiązanie to, analogiczne do zasad
+delegowania funkcjonariuszy ABW, zapewni spójność działań cywilno-wojskowych
+oraz ciągłość funkcjonowania służb o strategicznym znaczeniu"25
+W konsultacjach pojawił się zaledwie	jeden komentarz wyrazający
+bezpośrednie poparcie dla projektu: „(z)miana ta jest niezbędna do zapewnienia
+ciągłości służb żeglugi powietrznej w Polsce"26. Wskazywano w nim braki rozwiązań
+proceduralnych dotyczących roli PAZP w przypadku wystapienia potencjalnego
+zagrożenia związanego z aktami terroru, działaniami hybrydowymi, działaniami
+o charakterze sabotażowym, stanem wojennym czy wojną?!
+VII. Skutki gospodarcze projektowanej ustawy
+Zdaniem Wnioskodawców projektowane rozwiązanie nie wywoła skutków
+gospodarczych. Można kierunkowo zgodzić się z tą oceną. Stworzenie miejsca
+pracy dla trzeciego zastępcy prezesa PAZP nie wpłynie na rynek pracy ani sektor
+gospodarstw domowych. Nie można jednak przewidzieć, czy i w jaki sposób
+zwiększenie liczby członków najwyższego kierownictwa wpłynie na efektywność
+funkcjonowania PAŻP, gdyż będzie to w największym stopniu zależało od
+kompetencji osób, które będą pracowały na tym nowo utworzonym stanowisku. Nie
+można zatem wykluczyć, że może to mieć również negatywne skutki dla
+przedsiębiorstw współpracujących z PAŹP.
+W konsultacjach społecznych wskazano, że przyjęcie projektu może
+generować dodatkowe ryzyka organizacyjne i decyzyjne2 oraz wywoływać konflikty
+wewnętrzne29. Zwrócono także uwagę, że może to wpłynąć negatywnie na usługi
+nawigacyjne świadczone przez PAZP z uwagi ryzyko wydłużenia procesów
+23 ID ankiety: 69829, 74117, 59863.
+24 ID ankiety: 57210, 59770.
+25 „Kryzys z 2022 roku ujawnił słabość państwa — pokazał, że pod presją wąskiej, lecz kluczowej grupy
+zawodowej interes publiczny może zostać podporządkowany interesom środowiskowym. Brak
+systemowych mechanizmów współdziałania z wojskiem i alternatywy kadrowej doprowadził do sytuacji,
+w której państwo ugięło się pod presją kontrolerów, by uniknąć paraliżu przestrzeni powietrznej. Samo
+szkolenie nowych kontrolerów cywilnych nie gwarantuje ciągłości ani odporności systemu
+bezpieczeństwa państwa" - ID ankiety: 87021.
+26 ID ankiety: 72418.
+27 „Nie określona jest rola Prezesa PAŹP, rola pracowników operacyjnych, w tym przede wszystkim
+kontrolerów ruchu lotniczego. Do tej pory tj. w 18 letniej historii PAZP nie zostały przeprowadzone żadne
+ćwiczenia sprawdzające procedury i gotowość PAŹP do przejścia pod zwierzchnictwo MON oraz
+procedury działania i współpracy z podmiotami wojskowymi w przypadku wystąpienia ataków
+hybrydowych mających na celu przerwanie zapewniania ciągłości działania słuzo zeglugi powietrznej w
+Polsce" - Ibidem.
+28 ID ankiet: 89071 i 89094
+29 ID ankiet m.in. 88564, 88612, 89080 i 89127.
+9
+
+--- page 10 ---
+decyzyjnych3°, a koszty utworzenia nowego, wysoko wynagradzanego stanowiska
+mogą zostać przerzucone na linie lotnicze31
+VIll. Skutki projektowanej ustawy dla sektora finansów publicznych
+Wnioskodawcy projektu w DSR wskazują, że na skutek wprowadzanych zmian
+zwiększeniu ulegnie budżet PAŹP w związku z nowym etatem zastępcy prezesa
+PAZP. Zgodnie z art. 6 ust. 9 ustawy Prezes Rady Ministrów ustala wysokość
+wynagrodzenia Prezesa i jego zastępców zgodnie z ustawą z dnia 3 marca 2000 r.
+o wynagradzaniu osób kierujących niektórymi podmiotami prawnymi32, W ocenie
+Wnioskodawców, tym samym wynagrodzenie zastępcy prezesa nie może
+przekroczyć sześciokrotności przeciętnego miesięcznego wynagrodzenia
+w sektorze przedsiębiorstw, które w 2025 r. oscyluje ok. kwoty 9 tys. brutto. Stad
+wynagrodzenie zastępcy prezesa nie może przekroczyć kwoty ok. 53 tys. zł brutto
+miesięcznie, co daje w skali roku ok. 650 tys. zł. Koszty dla roku wejścia w życie
+proponowanych przepisów będą niższe, ale będzie to zależne od rzeczywistej daty
+wejścia w życie proponowanych rozwiązań.
+Ponadto Wnioskodawcy wskazują, że projekt nie wpływa na budżet jednostek
+samorządu terytorialnego. W ich ocenie projekt nie wymaga dofinansowania
+z budżetu państwa, gdyż 99% wpływów PAZP pochodzi z opłat nawigacyjnych
+przewoźników lotniczych. Kwota tych wpływów to około 1 mld zł rocznie.
+Można uznać, że Wnioskodawcy w zasadzie prawidłowo rozpoznali skutki
+finansowe projektu w odniesieniu do sektora finansów publicznych. PAŹP jest
+państwową osobą prawną pełniącą funkcję instytucji zapewniającej służby żeglugi
+powietrznej. PAŹP prowadzi samodzielną gospodarkę finansową, z budżetu
+państwa otrzymuje przede wszystkim dotację celową na sfinansowanie wydatków
+związanych z zapewnieniem służb nawigacyjnych w przypadku lotów zwolnionych
+z tych opłat, jak również dotację związaną z wydzieleniem stref geograficznych oraz
+dotację na utrzymanie efektów Programu Operacyjnego Polska Cyfrowa.
+Zważywszy na fakt, że PAŹP jest państwową osobą prawną działającą jako
+agencja, to mają do niej zastosowanie przepisy ustawy o wynagradzaniu osób
+kierujących niektórymi podmiotami prawnymi. Na mocy tych przepisów, maksymalna
+wysokość wynagrodzenia miesięcznego dla osób zatrudnionych w agencjach
+państwowych, bez względu na ich formę organizacyjno-prawną, utworzonych lub
+nadzorowanych przez ministra lub centralny organ administracji rządowej nie może
+przekroczyć sześciokrotności przeciętnego miesięcznego wynagrodzenia
+w sektorze przedsiębiorstw bez wypłat nagród z zysku w czwartym kwartale roku
+poprzedniego, ogloszonego przez Prezesa Głównego Urzędu Statystycznego.
+Zgodnie z najnowszym obwieszczeniem Prezesa Głównego Urzędu Statystycznego
+przeciętne miesięczne wynagrodzenie w sektorze przedsiębiorstw bez wypłat
+30 ID ankiety: 88730
+31 ID ankiety: 88767.
+32 Dz. U. z 2019 r. poz. 2136.
+10
+
+--- page 11 ---
+nagród z zysku w trzecim kwartale 2025 r. wyniosło 8 851,42 z133	3. Z kolei zgodnie
+z podstawowymi wskaźnikami makroekonomicznymi w latach 2024-2029 34
+przeciętne wynagrodzenie w gospodarce narodowej w sektorze przedsiębiorstw
+w 2026 r. planowane jest w wysokości 9 519 zł. Stąd przy określaniu wynagrodzenia
+dodatkowego zastępcy Prezesa PAŹP dopuszczalne jest przyjęcie za podstawę
+ustalenia wynagrodzenia w wysokości ok. 9 000 zł, co oznacza że maksymalna
+wysokość wynagrodzenia miesięcznego dla tego zastępcy nie powinna przekroczyć
+kwoty 650 000 zł w warunkach roku 2026.
+Wg planu na rok 2026 na zaplanowany stan na początek roku PAZP składaja
+się środki obrotowe w kwocie 1 378 701 tys. zł (w tym środki pieniężne zaplanowane
+na kwotę 395 707 tys. zł, należności krótkoterminowe w kwocie 368 159 tys. zł
+i zapasy w kwocie 65 tys. zł), należności długoterminowe w kwocie 235 tys. zi
+i zobowiązania w kwocie 1 806637 tys. zł (w tym zobowiązania z tytułu
+zaciągniętych pożyczek i kredytów w kwocie 752 661 tys. zl). Przychody PAZP
+zaplanowano w 2026 r. w wysokości 1 749 457 tys. zł, przy tym w ogólnej kwocie
+przychodów największą wartość stanowią przychody z prowadzonej działalności,
+głównie ze sprzedaży usług nawigacyjnych i pozanawigacyjnych. Pozostałe
+przychody zaplanowano w wysokości 117 281 tys. zł, a dotacje z budżetu państwa
+ujęto na poziomie 68 128 tys. zł. Koszty PAZP zostały określone na rok 2026 na
+kwotę 1 715 742 tys. zł, w tym koszty osobowe w wysokości 797 200 tys. zł. Kwota
+ta uwzględnia systemowe zwiększenie funduszu wynagrodzeń o 3,0% w stosunku
+do wielkości ujętych w planie finansowym na rok 2025, a także jest wynikiem
+aktualizacji planów zatrudnienia. W 2026 r. PAŹP zaplanowała wynik finansowy
+w wysokości 33 715 tys. zł. Na zaplanowany stan na koniec roku jednostki składają
+się środki obrotowe w wysokości 1 154 475 tys. zł (w tym środki pieniężne
+zaplanowane na kwotę 599 600 tys. zł, należności krótkoterminowe w wysokości
+410 973 tys. zt i zapasy w wysokości 65 tys. zł), należności długoterminowe
+w wysokości 235 tys. zł i zobowiązania w wysokości 1 633 347 tys. zł (w tym
+zobowiązania z tytułu zaciągniętych pożyczek i kredytów zaplanowane na kwotę
+661 744 tys. Z1)35
+Na tle powyższych danych można stwierdzić, że PAZP będzie w stanie
+sfinansować wzrost kosztów z tytulu wynagrodzenia dla dodatkowego zastępcy
+Prezesa PAŹP z przychodów z prowadzonej działalności.
+W toku konsultacji społecznych ich uczestnicy zauważali m.in., że koszt
+samego etatu wydaje się relatywnie niewielki wobec budżetu Agencji, jednak projekt
+33 Zob. Obwieszczenie Prezesa Głównego Urzędu Statystycznego z dnia 20 października 2025 г.
+w sprawie przeciętnego miesięcznego wynagrodzenia w sektorze przedsiębiorstw, włącznie
+z wypłatami z zysku, w trzecim kwartale 2025 r., https://stat.gov.pl/sygnalne/komunikaty-i-
+obwieszczenia/lista-komunikatow-i-obwieszczen/obwieszczenie-w-sprawie-przecietnego-
+miesiecznego-wynagrodzenia-w-sektorze-przedsiebiorstw-wlacznie-z-wyplatami-z-zysku-w-trzecim-
+kwartale-2025-r-,58,48.html#.
+34 Zob. Projekt ustawy budżetowej na rok 2026 (druk sejmowy nr 1749), Uzasadnienie, s. 22.
+35 Zob. tamże, Uzasadnienie, s. 283-285 oraz tabela 36 w załączniku nr 14, plany finansowe osób
+prawnych, o których mowa w art. 9 pkt 8 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych,
+oraz państwowych osób prawnych, o których mowa w art. 9 pkt 14 tej ustawy, s. 14/149.
+11
+
+--- page 12 ---
+nie uwzględnia kosztów pośrednich związanych z tworzeniem zaplecza
+administracyjnego dla nowej funkcji36.
+IX. Inne skutki projektowanej ustawy
+Nie zidentyfikowano innych skutków wejścia w życie projektowanej ustawy.
+X. Zmiana obciążeń administracyjnych
+Projekt nie wprowadza nowych obciążeń administracyjnych w zakresie
+skutków społecznych, dla przedsiębiorców ani dla jednostek sektora finansów
+publicznych.
+XI Konkluzje
+1. Skutki prawne: Projekt przewiduje zmianę art. 6 ustawy o Polskiej Agencji Zeglugi
+Powietrznej poprzez zwiększenie maksymalnej liczby zastępców Prezesa tej Agencji
+z dwóch do trzech oraz określenie wymagań dla nowego zastępcy
+odpowiedzialnego za kwestie obronne. Zmiana ma charakter organizacyjny i nie
+wiąże się z rozszerzeniem katalogu zadań PAŹP.
+Projekt ustawy nie nasuwa wątpliwości co do zgodności z EKPC.
+2. Skutki społeczne: Opiniowana zmiana nie spowoduje bezpośrednich skutków
+społecznych. Projektowane powołanie zastępcy prezesa PAŹP ds. obronnych ma
+w założeniu zwiększyć koordynację działań podmiotów cywilnych i wojskowych
+operujących w polskiej przestrzeni powietrznej i w efekcie zwiększyć
+bezpieczeństwo państwa. Trudno jest jednak prognozować, czy to rozwiązanie
+realnie wpłynie na zacieśnienie współpracy między tymi podmiotami, biorąc pod
+uwagę, że jest ona już aktywnie prowadzona w różnych formach. Trzeba przy tym
+zaznaczyć, że proponowana regulacja może zaburzyć podział kompetencji między
+poszczególnymi podmiotami pelniącymi zadania cywilne i wojskowe zakresie
+ochrony polskiego nieba i podać w wątpliwość cywilny charakter Agencji.
+3. Skutki gospodarcze: Projekt może wpływać na działalność przedsiębiorstw
+z sektora lotnictwa cywilnego współpracujących z PAZP. Nie będzie natomiast
+wpływał na konsumentów ani na rynek pracy.
+4. Skutki finansowe: Projekt nie wpływa na budżet państwa. Zwiększone koszty
+osobowe PAZP wynikające z proponowanej regulacji powinny zostać sfinansowane
+z przychodów z prowadzonej działalności.
+36 Zob. ID ankiety: 57210, 88630, 88891.
+12
+
+--- page 13 ---
+5. Rozwiązania zagraniczne: Analiza rozwiązań zagranicznych pokazuje, že
+w Belgii, Hiszpanii, Niemczech i Wielkiej Brytanii integracja wojskowa w agencjach
+żeglugi powietrznej odbywa się na poziomie operacyjnym lub strategicznego
+nadzoru, bez włączania czynnych oficerów do zarządu wykonawczego. W Belgii
+Skeyes pozostaje w pelni cywilny, a współpraca z wojskiem odbywa się operacyjnie
+w ramach Airspace Management Cell, wspólnego ośrodka zarządzania przestrzenią
+powietrzną, w którym cywilni i wojskowi kontrolerzy współpracują przy planowaniu
+i kontroli lotów, bez ingerencji w kierownictwo wykonawcze agencji. Niemiecka DFS
+utrzymuje cywilny zarząd, współpracując z wojskiem wyłącznie w działaniach
+operacyjnych. Hiszpańska ENAIRE umożliwia strategiczną reprezentację
+Ministerstwa Obrony w Radzie Zarządzającej, przy zachowaniu cywilnego zarządu
+wykonawczego, a koordynację działań cywilno-wojskowych prowadzi Dyrekcja
+Koordynacji Cywilno-Militarnej, odpowiedzialna za realizację mechanizmów FUA.
+W Wielkiej Brytanii NATS integruje wojsko na poziomie Rady Nadzorczej, nie
+w zarządzie wykonawczym. W porównaniu z tymi modelami polska propozycja,
+przewidująca udział czynnego oficera w zarządzie wykonawczym PAŹP, jest
+niestandardowa, choć cel funkcjonalny tzn. formalne włączenie wojska do
+najwyższego kierownictwa ANSP pozostaje podobny.
+Autorzy:
+Tomasz Jaroszyński, naczelnik wydziału (pkt I-III)
+Natalia Firlej, specjalistka w Wydziale Oceny Skutków Regulacji (pkt IV, XI.5)
+dr Krzysztof Niewęgłowski, ekspert ds. legislacji (pkt V.1, X, XI.1.1)
+prof. Cezary Mik, ekspert ds. legislacji (pkt V.2, XI.1.2)
+dr Izabela Bień, specjalistka ds. społecznych (pkt. VI, X, XI.2)
+dr Adrian Grycuk, specjalista ds. systemu gospodarczego (pkt. VII, X, XI.3)
+Monika Korolewska, specjalistka ds. finansów publicznych (pkt. VIII, X, XI.4)
+Akceptowal:
+Wicedyrektor Biura Ekspertyz
+i Oceny Skutków Regulacji
+Ziemowit Cieślik
+podpisano elektronicznie/
+Tłoczono z polecenia Marszałka Sejmu Rzeczypospolitej Polskiej	SEJM
+RILEYPOSPOLTEL POIS S
+13
+

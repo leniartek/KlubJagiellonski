@@ -1,0 +1,979 @@
+--- page 1 ---
+Do druku nr 1079
+BIURO EKSPERTYZ I OCENY SKUTKÓW REGULACJI
+SEL	M	KANCELARII SEJMU
+BEOS-342/25	Warszawa, 1 kwietnia 2025 r.
+WYDZIAŁ OBSŁUGI PREZYDIUM SEJMU
+Pan
+L.dz. S.P3:11.020.40.10.2025
+Szymon Hołownia
+Data wptywu.0.1. 04. 2025
+Marszałek Sejmu
+Rzeczypospolitej Polskiej
+Opinia w sprawie oceny skutków regulacji poselskiego projektu ustawy
+o zmianie ustawy - Prawo o ruchu drogowym
+(druk sejmowy nr 1079)
+Na podstawie art. 34 ust. 9a uchwały Sejmu Rzeczypospolitej Polskiej z dnia 30 lipca 1992 r.
+- Regulamin Sejmu Rzeczypospolitej Polskiej (Monitor Polski z 2022 r. poz. 990, ze zm.)
+sporządza się następującą opinię:
+I. Problem, który zamierzają rozwiązać Wnioskodawcy
+Zgodnie z uzasadnieniem projektu i deklarowanymi skutkami regulacji (DSR)
+proponowana ustawa służy rozwiązaniu problemu, jakim jest nieadekwatność
+ogólnego zakazu pozostawiania pracującego silnika podczas postoju na obszarze
+zabudowanym, przewidzianego w art. 60 ust. 2 pkt 3 ustawy z dnia 20 czerwca
+1997 r. - Prawo o ruchu drogowym ' (dalej: Prawo o ruchu drogowym),
+w odniesieniu do kierującego autobusem. W myśl art. 2 pkt 30 Prawa o ruchu
+drogowym użyte w tej ustawie określenie „postój pojazdu" oznacza unieruchomienie
+pojazdu niewynikające z warunków lub przepisów ruchu drogowego, trwające dłużej
+niż 1 minutę. Konsekwencją niezastosowania się kierującego pojazdem do tego
+zakazu jest wypełnienie znamion wykroczenia z art. 97 ustawy z dnia 20 maja
+1971 r. — Kodeks wykroczeń?, co jest zagrożone karą grzywny do 3 000 zł albo karą
+nagany.
+Zdaniem Wnioskodawców zmieniane regulacje prawne są nieadekwatne do
+niektórych technicznych aspektów użytkowania m.in. autobusów komunikacji
+miejskiej i stoją w sprzeczności z zaleceniami większości producentów takich
+autobusów. Jak wskazują Wnioskodawcy, producenci autobusów zastrzegają, że
+nie ponoszą odpowiedzialności za uszkodzenia wynikające z przyczyn związanych
+1 Dz. U. z 2024 r. poz. 1251
+2 Dz. U. z 2023 r. poz. 2119 oraz z 2024 r. poz. 1907.
+1
+
+--- page 2 ---
+z nieprzestrzeganiem zaleceń instrukcji obsługi. Nieprzestrzeganie tych zalecéń
+może, zdaniem Wnioskodawców, narazić operatora komunikacji miejskiej na szkodę
+majątkową (uszkodzenie autobusu), której nie obejmuje gwarancja producenta
+pojazdu.
+W opinii Wnioskodawców projektu istotną kwestią są także techniczne aspekty
+funkcjonowania układów pneumatycznych, a także systemów informacji
+pasażerskiej, w tym wyświetlaczy, którym do pelnego uruchomienia i właściwego
+działania często nie wystarcza energia pochodząca z akumulatorów, a uruchomienie
+silnika na jedną minutę przed rozpoczęciem jazdy nie gwarantuje ich pelnej
+funkcjonalności.
+Wnioskodawcy podkreślają również, że standardową procedurą usuwania
+usterek urządzeń i systemów elektronicznych, w które wyposażone są współczesne
+autobusy, jest ich pelen reset. Przywrócenie pelnych parametrów pracy po takim
+resecie (np. uruchomienie właściwej informacji pasażerskiej lub działania systemu
+kasowników z biletomatem) z pewnością przekracza okres 1 minuty i w praktyce
+może zająć ok. 5 minut.
+Z uwagi na powyższe kwestie, Wnioskodawcy projektu stwierdzają, że
+kierujący autobusem, który prawidłowo wykonuje swoje obowiązki związane
+z właściwą, eksploatacją pojazdu i pozostających na wyposażeniu urządzeń
+i systemów elektronicznych, naraża się na odpowiedzialność wykroczeniową za
+nieprzestrzeganie przepisów Prawa o ruchu drogowym. Z drugiej strony,
+przestrzeganie przepisów tej ustawy może, zdaniem Wnioskodawców, spowodować
+poniesienie odpowiedzialności pracowniczej, jak również odszkodowawczej za
+szkodę wyrządzoną w mieniu pracodawcy.
+II. Rozwiązanie rekomendowane przez Wnioskodawców
+Projekt przewiduje zmianę art. 60 ust. 2 pkt 3 Prawa o ruchu drogowym,
+zabraniającego kierującemu pozostawiania pracującego silnika podczas postoju na
+obszarze zabudowanym; zakaz nie dotyczy pojazdu wykonującego czynności na
+drodze. Wnioskodawcy projektu zaproponowali, aby zakaz pozostawiania
+pracującego silnika podczas postoju na obszarze zabudowanym nie dotyczył także
+kierującego autobusem (art. 1 projektu).
+Proponowana ustawa ma wejść w życie po upływie 14 dni od dnia ogloszenia
+(art. 2 projektu).
+Ill. Inne rozwiązania rozważane przez Wnioskodawców
+Wnioskodawcy nie rozważali alternatywnych	rozwiązań. Zgodnie
+z uzasadnieniem projektu i DSR nie ma możliwości osiągnięcia zamierzonego celu
+za pomocą innych środków niż zaproponowana nowelizacja Prawa o ruchu
+drogowym.
+2
+
+--- page 3 ---
+IV. Rozwiązania przyjmowane w innych państwach, w szczególności
+państwach członkowskich OECD/UE
+W opracowaniu przedstawiono informacje na temat obowiązujących
+w wybranych państwach członkowskich OECD i UE przepisów regulujących kwestię
+pracy silnika w czasie postoju pojazdów (w tym autobusów). Przedstawiony dobór
+państw (Kanada, Stany Zjednoczone, Szwecja, Finlandia,	Niemcy) został
+podyktowany zróżnicowanym podejściem do uregulowania omawianej kwestii - od
+szczegółowych regulacji określających dopuszczalne limity czasowe pracy silnika
+pozostającego na biegu jałowym (wraz z licznymi wyłączeniami) po regulacje
+o bardziej ogólnym charakterze, które takich limitów nie przewidują.
+W Kanadzie przepisy przyjmowane na poziomie lokalnym zezwalają - co do
+zasady - na pracę pojazdów na biegu jałowym przez okres od 3 do 10 minut . Dla
+przykładu przepisy ustanowione przez kanadyjskie miasto Vancouver* stanowią, że
+właściciel, zarejestrowany właściciel, leasingobiorca lub kierujący pojazdem
+silnikowym (w tym autobusem lub ciężarówką) nie może powodować, zezwalać lub
+pozwalać, aby pojazd pracował na biegu jałowym: (i) przez więcej niż 3 kolejne
+minuty w ciągu godziny; lub (Ii) gdy jest pozostawiony bez nadzoru i odblokowany.
+Powyższy przepis nie ma zastosowania w odniesieniu do m.in.: autobusu, gdy jego
+pasażerowie są w trakcie wsiadania lub wysiadania; pojazdów pogotowia
+ratunkowego, policyjnych i straży pożarnej, lub innych pojazdów uprzywilejowanych
+w trakcie służby; pojazdu silnikowego w trakcie udzielania pomocy w nagłych
+wypadkach; opancerzonego pojazdu silnikowego, używanego do transportu
+pieniędzy lub przedmiotów wartościowych, w którym ktoś pozostaje w celu
+pilnowania zawartości, w trakcie załadunku lub rozładunku takich pieniędzy lub
+przedmiotów wartościowych. Z kolei przepisy mające zastosowanie na terenie
+Ottawy5 ograniczają czas, w którym pojazd może pracować na biegu jałowym: (i)
+do maksymalnie 3 minut w ciągu godziny, jeśli temperatura na zewnątrz wynosi od
+0°C do 27°C; (ii) maksymalnie przez 10 minut w ciągu godziny, gdy temperatura
+spada poniżej 0°C lub przekracza 27°C. W sytuacji, w której nikogo nie ma
+w pojeździe, praca silnika na biegu jałowym dopuszczona jest przez maksymalnie
+jedną minutę na godzinę. Powyższe ograniczenia nie mają zastosowania m.in. do:
+pojazdów, które nie emitują gazów cieplarnianych; pojazdów, w których praca na
+biegu jałowym jest wymagana w celu naprawy pojazdu lub przygotowania go do
+eksploatacji; pojazdów policji, pogotowia ratunkowego, straży pożarnej lub pojazdów
+funkcjonariuszy prowincji podczas działań operacyjnych lub szkoleniowych
+(z wyjątkiem sytuacji, w których praca na biegu jałowym odbywa się głównie dla
+wygody kierowcy); pojazdów transportu publicznego.
+з A Model Idling Control By-law, https://natural-resources.canada.ca/energy-efficiency/3-model-idling-
+control-law. [wszystkie źródła internetowe cytowane w niniejszej opinii zostały sprawdzone 1 IV 2025
+4 Motor Vehicle Noise and Emission Abatement By-law 9344, tekst w j. angielskim:
+https://bylaws.vancouver.ca/consolidated/9344.PDF.
+5 Reducing idling in Ottawa, https://ottawa.ca/en/living-ottawa/laws-licences-and-permits/reducing-
+idling-ottawa#section-aa99765g-8c51-4617-afa1-c82ef63a799d.
+3
+
+--- page 4 ---
+W Stanach Zjednoczonych regulacje dotyczące pracy silnika na biegu jałowym
+różnią się w zależności od stanu, a w niektórych miastach i hrabstwach obowiązują
+odrębne przepisy, kłóre zastępują regulacje na poziomie stanowym®. Dla przykładu
+w mieście Newark (w stanie Delaware) pojazdy silnikowe (w tym autobusy) moga -
+co do zasady - pracować na biegu jałowym nie dłużej niż 5 kolejnych minut w ciągu
+godziny. Od powyzszej reguty wprowadzono szereg wyjatków (np. autobusy
+pasażerskie mogą pracować na biegu jałowym przez maksymainie 15 minut w ciągu
+godziny w celu utrzymania we wnętrzu pojazdu komfortu pasażerów). Ponadto
+pojazd zapewniający ciepło osobom w nim przebywającym, gdy temperatura wynosi
+od - 10°F (-23°C) do 32°F (0°C), może pracować na biegu jałowym przez nie więcej
+niż 15 kolejnych minut. Gdy temperatura jest niższa niż - 10°F i nie powoduje to
+uciążliwości, czas pracy silnika na biegu jałowym nie podlega ograniczeniom?
+(podobne uregulowania w odniesieniu do sytuacji, w której temperatura spada
+poniżej - 10°F, funkcjonują także w innych stanach lub miastach, np. stanie New
+Hampshire® lub w mieście Ann Arbor® w Michigan).
+W Finlandii zgodnie z § 55 ustawy o ruchu drogowym 1° w pojazdach
+napędzanych silnikiem spalinowym silnik ten nie może pracować dłużej niż 2 minuty,
+jeśli pojazd jest unieruchomiony z jakiegokolwiek innego powodu niż nieuniknione
+utrudnienia w ruchu. Jeśli temperatura otoczenia wynosi poniżej - 15°C, silnik nie
+może być pozostawiony włączony na dłużej niż 4 minuty przed rozpoczęciem jazdy.
+Silnik może pozostawać włączony przed ruszeniem lub rozpoczęciem pracy przy
+pojeździe lub maszynie przez czas niezbędny do przygotowania pojazdu lub
+maszyny do pracy. Zakaz pracy silnika na biegu jałowym nie ma zastosowania do:
+1) pojazdów, których główne zastosowanie lub dodatkowe urządzenie niezbędne do
+tego	zastosowania wymagają utrzymywania silnika	w ruchu; 2) pojazdu
+oczekującego na pomiar emisji spalin w ramach badania zdatności do ruchu
+drogowego.
+W Szwecji na podstawie kodeksu środowiskowego" gminy mogą wydawać
+przepisy w celu ochrony zdrowia ludzkiego i środowiska naturalnego. W większości
+przypadków lokalne uregulowania dopuszczają trwającą nie dłużej niż 1 minutę
+pracę silnika na biegu jałowym 12. Dla przykładu obowiązujące w gminach
+6 Więcej informacji na temat przepisów obowiązujących w tej materii można znaleźć w publikacji
+przygotowanej przez Amerykański Instytut Badań	Transportu dostępnej	pod adresem:
+https://truckingresearch.org/wp-content/uploads/2024/09/2024-ATR/-IdlingCompendium-Sept.pdf.
+7 Newark Code of Ordinances (Article XXIX. - Idling of vehicles), tekst w j. angielskim:
+https://library.municode.com/de/newark/codes/code of ordinances?nodeld=CD ORD CH20MOVE A
+RTXXIXIDVE.
+8 New Hampshire Air Resources Division Admin. Rules Env-A 1102.02, tekst w j. angielskim:
+https://qc.nh.gov/rules/state agencies/env-a1100.html.
+Code of Ordinances,	VI, Ch. 72, tekst w j. angielskim:
+https://library.municode.com/mi/ann_arbor/codes/code of ordinances?nodeld=TITVIFOHE CH72IDR
+Tieliikennelaki,	729/2018,	tekst	i.	fińskim:
+https://www.finlex.fi/fi/lainsaadanto/2018/729?language=fin.
+11 Miljöbalk (1998:808), tekst w j. szwedzkim: https://www.riksdagen.se/sv/dokument-och-
+lagar/dokument/svensk-forfattningssamling/mitiobalk-1998808 sfs-1998-808/.
+12 Tomgångskörning högst en minut, https://www.sodertalie.se/stad-och-trafik/tomgangskorning-hogst-
+en-minut/.
+4
+
+--- page 5 ---
+Halmstad'3 oraz Södertälje'4 przepisy stanowią, że pojazd z silnikiem spalinowym
+może pracować na biegu jałowym przez maksymalnie 1 minutę. Zasada ta nie ma
+zastosowania jeżeli: 1) warunki ruchu drogowego spowodowały konieczność
+zatrzymania się (np. w korku), na przejeździe kolejowym praca silnika na biegu
+jałowym nigdy nie jest dozwolona dłużej niż przez jedną minutę; 2) praca silnika na
+biegu jałowym jest konieczna do obsługi urządzenia w pojeździe, innego niż
+urządzenie grzewcze - urządzenie to musi być jednak niezbędne do użytkowania
+pojazdu zgodnie z jego przeznaczeniem.
+Z kolei w Niemczech ustawodawca nie zdecydował się na określenie
+dopuszczalnych czasowych limitów pracy silników na biegu jałowym - na mocy
+art. 30 ust. 1 ustawy o ruchu drogowym'5 podczas korzystania z pojazdów zabrania
+się zbędnego hałasu i emisji spalin, których można uniknąć - w szczególności
+zabrania się pozostawiania silników pojazdów włączonych bez potrzeby.
+W ankietach przesłanych w ramach konsultacji społecznych dotyczących
+analizowanego projektu ustawy nie odniesiono się do konkretnych rozwiązań
+przyjmowanych w innych państwach, w szczególności państwach członkowskich
+OECD/UE.
+V. Skutki prawne projektowanej ustawy
+Zakaz pozostawiania uruchomionego silnika podczas postoju na obszarze
+zabudowanym, wynikający z art. 60 ust. 2 pkt 3 Prawa o ruchu drogowym, jest
+regulacją mającą na celu ochronę środowiska naturalnego oraz ograniczenie emisji
+hałasu. Przepis ten przyczynia się do zapewnienia spokoju mieszkańcom terenów
+zurbanizowanych poprzez minimalizację negatywnego wpływu hałasu
+komunikacyjnego i zanieczyszczenia powietrza. Z przeprowadzonych konsultacji
+społecznych projektu wynika, że choć są głosy wskazujące na potrzebę
+wprowadzenia przedmiotowej zmiany, to obywatele wyrażają obawy, iż zmiana
+może przyczynić się do zwiększenia uciążliwości transportu autobusowego,
+i zwracają uwagę, że np. regulacja będzie nadużywana przez kierowców autobusów
+wycieczkowych w okresie letnim, którzy dla utrzymania pracy klimatyzacji
+w pojeździe będą przez długi okres utrzymywać pojazd na włączonym silniku16.
+Zakaz z art. 60 ust. 2 pkt 3 Prawa o ruchu drogowym odnosi się do sytuacji
+postoju, który, zgodnie z art. 2 pkt 30 Prawa o ruchu drogowym, definiuje się jako
+unieruchomienie pojazdu na czas dłuższy niż jedna minuta, o ile nie wynika ono
+z warunków lub przepisów ruchu drogowego. Nie można zatem mówić o naruszeniu
+zakazu, jeśli czas zatrzymania nie przekroczył jednej minuty lub gdy
+unieruchomienie pojazdu z pracującym silnikiem wynika z warunków bądź
+13 Lokala föreskrifter för att skydda människors hälsa och miljön, tekst w j. szwedzkim:
+https://www.halmstad.se/download/18.35afc4c81756ed4e2d32b3e/1687847937276/Lokala-
+foreskrifter-for-att-skydda-manniskors-halsa-och-miljo-2023.pdf.
+14 Lokala föreskrifter för att skydda människors hälsa och miljö, tekst w j. szwedzkim:
+https://www.sodertalie.se/globalassets/stvrande-dokument/lokala foreskrifter for halsa och milio.odf.
+15	Straßenverkehrs-Ordnung	(StVO),	tekst w j. niemieckim: https://www.gesetze-im-
+internet.de/stvo 2013/	30 html
+16 ID ankiety: 68261, 68265, 68266, 72095 i 78308.
+5
+
+--- page 6 ---
+przepisów ruchu drogowego, np. w przypadku korków drogowych, zatrzymania na
+sygnalizacji świetlnej czy postoju autobusu na przystanku. Poza tym zakaz
+pozostawiania pracującego silnika podczas postoju nie obejmuje pojazdów
+wykonujących czynności na drodze, takich jak pojazdy pogotowia drogowego czy
+służb komunalnych, w sytuacjach, gdy konieczne jest utrzymanie pracy silnika dla
+wykonania czynności na drodze. Przedmiotowy zakaz obowiązuje niezależnie od
+obecności kierującego w pojeździe. Kierowca ma zreszłą zakaz oddalania się od
+pojazdu, gdy silnik jest w ruchu (art. 60 ust. 2 pkt 1 Prawa o ruchu drogowym).
+W poprzednim stanie prawnym istniało wyrażone w analogicznym przepisie
+ograniczenie czasowe, że silnik nie mógł pozostawać w ruchu podczas postoju
+dłużej niż jedną minutę (art. 50 ust. 2 pkt 3 ustawy z dnia 1 lutego 1983 r. — Prawo
+o ruchu drogowym'?). Obecna regulacja nie precyzuje dopuszczalnego czasu pracy
+silnika podczas postoju na obszarze zabudowanym. Prowadzi to R. A. Stefańskiego
+do wniosku, że naruszeniem tego zakazu jest niewyłączenie silnika w sytuacji, gdy
+jego praca jest niepotrzebna'8, Pogląd ten jest jednak dyskusyjny.
+Zauważyć trzeba, że zakaz z art. 60 ust. 2 pkt 3 Prawa o ruchu drogowym ma
+terytorialnie ograniczony zakres. Po pierwsze, dotyczy on wyłącznie obszarów
+zabudowanych w rozumieniu art. 2 pkt 15 Prawa o ruchu drogowym, tzn. dotyczy
+terenów oznaczonych znakami drogowymi D-42 (wjazd) i D-43 (wyjazd). Obszary
+zabudowane cechują się wysoką intensywnością zabudowy i obowiązują w nich
+szczególne przepisy dotyczące ruchu drogowego w odniesieniu do pieszych,
+kierujących pojazdami,	organów zarządzających ruchem. Maksymalna
+dopuszczalna prędkość w obszarach zabudowanych wynosi 50 km/h, z wyjątkiem
+stref zamieszkania (art. 20 ust. 1-2 Prawa o ruchu drogowym). Po drugie, zakaz ten
+odnosi się do dróg publicznych i do ruchu na drogach w strefach zamieszkania
+i ruchu (art. 1 ust. 1 pkt 1 Prawa o ruchu drogowym). Wynika z tego, że zasady ruchu
+na drogach publicznych mają zastosowanie również na drogach wewnętrznych, jeśli
+są one objęte strefą zamieszkania lub strefą ruchu.
+Zgodnie z ustawą z dnia 21 marca 1985 r. o drogach publicznych19 droga
+publiczna to droga przypisana do jednej z kategorii określonych w tej ustawie,
+dostępna dla wszystkich użytkowników zgodnie z jej przeznaczeniem, przy
+uwzględnieniu ograniczeń i wyjątków określonych w tej ustawie i w innych
+przepisach szczególnych. Drogi publiczne dzielą się na krajowe, wojewódzkie,
+powiatowe i gminne, a ich właścicielem jest Skarb Państwa lub jednostka samorządu
+terytorialnego (art. 2 ust. 1, art. Za ustawy o drogach publicznych). Strefa
+zamieszkania to w myśl art. 2 pkt 16 Prawa o ruchu drogowym obszar obejmujący
+drogi publiczne lub inne drogi, na których obowiązują szczególne zasady ruchu
+drogowego, a wjazdy i wyjazdy oznaczone są odpowiednimi znakami drogowymi.
+Z kolei strefa ruchu stanowi zgodnie z art. 2 pkt 16a Prawa o ruchu drogowym obszar
+obejmujący co najmniej jedną drogę wewnętrzną, na który wjazdy i wyjazdy
+oznaczone są_ odpowiednimi znakami drogowymi. Poza drogami publicznymi
+17 Dz. U. z 1992 r. nr 11, poz. 41, ze zm.
+18 R. A. Stefański, Prawo o ruchu drogowym. Komentarz, Warszawa 2024, komentarz do art. 60,
+pkt 11.
+19 Dz. U. z 2024 r. poz. 320, ze zm.
+6
+
+--- page 7 ---
+i drogami w strefach zamieszkania i w strefach ruchu stosuje się przepisy Prawa
+o ruchu drogowym w zakresie koniecznym l	dla uniknięcia zagrożenia
+bezpieczeństwa osób oraz wynikającym ze znaków i sygnałów drogowych (art. 1
+ust. 2 Prawa o ruchu drogowym). Można w tym miejscu zauważyć, że zakaz
+pozostawiania uruchomionego silnika podczas postoju na obszarze zabudowanym
+z art. 60 ust. 2 pkt 3 Prawa o ruchu drogowym nie jest konieczny dla zapewnienia
+bezpieczeństwa ruchu drogowego, a więc nie musi obowiązywać na drogach
+wewnętrznych.
+Drogi wewnętrzne, zgodnie z art. 8 ustawy o drogach publicznych, obejmują
+drogi, parkingi, place przeznaczone do ruchu pojazdów, które nie zostały zaliczone
+do żadnej kategorii dróg publicznych i nie są zlokalizowane w pasie drogowym drogi
+publicznej. Mogą to być również drogi dojazdowe do obiektów użytkowanych przez
+przedsiębiorców, pętle i zajezdnie autobusowe. Drogi wewnętrzne nie stanowią
+jednolitej kategorii i różnią się dostępnością. Niektóre mogą być dostępne jedynie
+dla określonych podmiotów, lecz drogi wewnętrzne mogą być również tak dostępne
+jak drogi publiczne. W przeciwieństwie do dróg publicznych drogi wewnętrznej nie
+dotyczy warunek powszechnej dostępności?. Zgodnie z art. 10 Prawa o ruchu
+drogowym zarządzanie ruchem na drogach wewnętrznych, w tym w strefie ruchu i
+strefie zamieszkania, należy do zarządcy terenu, na którym zlokalizowana jest dana
+droga, a w przypadku jego braku - do właściciela tego terenu (art. 8 ust. 2 i 3 ustawy
+o drogach publicznych). W ramach ustalania organizacji ruchu na tych drogach
+zarządcy terenu stosują znaki i sygnały drogowe zgodnie z regulacjami
+wynikającymi z ustawy oraz przepisów wykonawczych, ponosząc koszty związane
+z oznakowaniem drogi wewnętrznej (art. 10 ust. 7 i ust. 10a Prawa o ruchu
+drogowym). Uznać należy, że również od zarządcy terenu zależy objęcie drogi
+wewnętrznej strefą zamieszkania albo strefą ruchu w drodze ustawienia
+odpowiednich znaków drogowych. Wprowadzenie takiego oznakowania skutkuje
+pełnym obowiązywaniem przepisów Prawa o ruchu drogowym zgodnie z art. 1 ust. 1
+pkt 1 Prawa o ruchu drogowym, w tym art. 60 ust. 2 pkt 3 tej ustawy. W przypadku,
+gdy droga wewnętrzna zostanie objęta strefą ruchu lub strefą zamieszkania, nadzór
+nad organizacją ruchu sprawuje wojewoda, który w uzasadnionych przypadkach
+noże nakazać zmianę organizacji ruchu, kierując się istotnym interesem
+ogólnospolecznym (art. 4 ust. 2 pkt 5 oraz art. 10 Prawa o ruchu drogowym).
+Wnioskodawcy poworują się na normy techniczne, które uzasadniają
+wyłączenie zakazu z art. 60 ust. 2 pkt 3 Prawa o ruchu drogowym w odniesieniu do
+autobusów. Powolują się również na wyjątkowe sytuacje, gdy trzeba przeprowadzać
+reset urządzeń i systemów elektronicznych w autobusie. Jeśli chodzi o te wyjątkowe
+sytuacje, to ich wystąpienie może wyłączać odpowiedzialność z tytułu popełnienia
+wykroczenia przeciwko bezpieczeństwu i porządkowi w komunikacji z art. 97
+Kodeksu wykroczeń. Odpowiedzialności za wykroczenie podlega ten, kto w sposób
+zawiniony popelnia czyn zabroniony (art. 1 § 2 Kodeksu wykroczeń). Dodać można
+w tym kontekście, że kwota 3 000 zł stanowi maksymalną wysokość grzywien za
+dopuszczenie się wykroczeń wskazanych w art. 97 Kodeksu wykroczeń. Wysokość
+kary za naruszenie omawianego zakazu jest precyzowana w rozporządzeniu
+20 Wyrok WSA w Rzeszowie z 29 VIII 2023 r., sygn. akt II SA/Rz 411/23.
+7
+
+--- page 8 ---
+Prezesa Rady Ministrów z dnia 24 listopada 2003 r. w sprawie wysokości grzywien
+nakladanych w drodze mandatów karnych za wybrane rodzaje wykroczeń 21
+Zgodnie z tym aktem prawnym pozostawienie pracującego silnika podczas postoju
+na obszarze zabudowanym podlega sankcji w postaci grzywny w wysokości 100 zł
+(tabela B, załącznik do rozporządzenia, pkt 206).
+Jesli chodzi o normy techniczne dotyczące autobusów, to trudno
+jednoznacznie oceniać sytuację. Z jednej strony istnienie tego rodzaju norm może
+stanowić uzasadnienie dla wprowadzenia wyjątku od zakazu w odniesieniu do takich
+pojazdów. Z drugiej strony pojawia się pytanie, dlaczego ewentualne odstępstwo
+miałoby dotyczyć tylko autobusów, a nie innych pojazdów z wysokoprężnymi
+silnikami. W toku konsultacji społecznych wyrażono nawet oczekiwanie, że zmiana
+polegająca na umożliwieniu dluższej pracy silników na biegu jałowym będzie
+dotyczyć nie tylko autobusów?2	, a z drugiej strony pojawił się zarzut dyskryminacji
+kierowców pojazdów osobowych 23	. Wprowadzenie wyjątku tylko dla autobusów
+może budzić wątpliwości z punktu widzenia art. 32 ust. 1 Konstytucji, który
+gwarantuje równość wobec prawa i zakazuje różnicowania sytuacji prawnej
+podmiotów znajdujących się w takich samych czy podobnych okolicznościach.
+Konstytucyjna zasada równości nakłada obowiązek równego traktowania wszystkich
+podmiotów charakteryzujących się	wspólna	cechą, bez	stosowania
+nieuzasadnionych mechanizmów dyskryminacyjnych bądź uprzywilejowujących24
+Aby uzasadnić zróżnicowane traktowanie autobusów na gruncie omawianej
+regulacji, należałoby wykazać istotną cechę wyróżniającą autobusy pośród innych
+pojazdów, przy czym należy odwołać się do pojęcia autobusu z art. 2 pkt 41 Prawa
+o ruchu drogowym, zgodnie z którym jest to pojazd samochodowy przeznaczony
+konstrukcyjnie do przewozu więcej niż 9 osób łącznie z kierowcą. Z orzecznictwa
+konstytucyjnego wynika, że aby odpowiedzieć na pytanie, czy dane kryterium może
+stanowić podstawę różnicowania podmiotów prawa, należy rozstrzygnąć: 1) czy
+kryterium to pozostaje w racjonalnym związku z celem i treścią danej regulacji,
+2) czy waga interesu, któremu różnicowanie ma służyć, pozostaje w odpowiedniej
+proporcji do wagi interesów, które zostaną naruszone w wyniku wprowadzonego
+różnicowania, 3) czy kryterium różnicowania pozostaje w związku z innymi
+wartościami, zasadami czy normami konstytucyjnymi, uzasadniającymi odmienne
+traktowanie określonych podmiotów25
+Na pierwszy rzut oka ustalenie podstawy do zróżnicowania sytuacji prawnej
+adresatów normy określonej w art. 60 ust. 2 pkt 3 Prawa o ruchu drogowym
+nastręcza trudności. Jeśli jednak taka podstawa zostanie znaleziona, to konieczne
+będzie dokonanie wyważenia wartości pozostających w kolizji. Z jednej strony są
+normy techniczne, które przemawiają za wprowadzeniem wyjątku dla autobusów.
+Z drugiej strony są istotne względy społeczne, takie jak ochrona przed nadmiernym
+hałasem na drogach, zapewnienie spokoju mieszkańcom terenów zabudowanych
+oraz ograniczenie emisji substancji szkodliwych generowanych przez pojazdy
+21 Dz. U. z 2013 r. poz. 1624, ze zm.
+22 ID ankiety: 74461.
+23 ID ankiety: 81361.
+24 Por. wyroki TK z 12 IV 2011 r., sygn. akt SK 62/08; z 4 VI 2013 r., sygn. akt SK 49/12.
+25 Zob. wyrok TK z 21 || 2001 r., sygn. akt P 12/00.
+8
+
+--- page 9 ---
+spalinowe. W rozstrzyganiu tego rodzaju kolizji wartości kluczową rolę odgrywa
+konstytucyjna zasada proporcjonalności, która wymaga zapewnienia skutecznej
+ochrony jednej wartości przy jednoczesnym maksymalnym ograniczeniu szkody
+wyrządzonej drugiej. W tym kontekście należy mieć na uwadze, że zakaz określony
+w art. 60 ust. 2 pkt 3 Prawa o ruchu drogowym odnosi się do obszarów
+zabudowanych i zasadniczo nie obejmuje dróg wewnętrznych, takich jak parkingi,
+place manewrowe czy drogi prywatne, o ile nie zostały one objęte strefą
+zamieszkania lub strefą ruchu decyzją zarządcy terenu. Ponadto należy uwzględnić,
+że wyłączenie omawianego zakazu w odniesieniu do autobusów będzie miało
+szeroki zakres podmiotowy. Wynika to z definicji zawartej w art. 2 pkt 41 Prawa
+o ruchu drogowym, zgodnie z kłórą, autobusem jest każdy pojazd samochodowy
+przeznaczony konstrukcyjnie do przewozu więcej niż 9 osób, łącznie z kierowcą.
+Wydaje się także, że, decydując się na wprowadzenie wyjątku dla autobusów w art.
+60 ust. 2 pkt 3 Prawa o ruchu drogowym, należałoby zastanowić się nad możliwością
+ustanowienia limitu czasowego postoju autobusów z włączonym silnikiem. W toku
+konsultacji społecznych zwrócono uwagę na potrzebę wprowadzenia takiego
+ograniczenia26
+Na zakończenie można zauważyć, że propozycja zmiany art. 60 ust. 2 pkt 3
+Prawa o ruchu drogowym, uzasadniona względami technicznymi związanymi
+z postojem autobusów przy włączonym silniku, została zgłoszona do Ministra
+Infrastruktury w 2023 r. przez Izbę Gospodarczą Komunikacji Miejskiej. Z publikacji
+prasowej wynika, iż Ministerstwo Infrastruktury nie dostrzegło podstaw do zmiany
+regulacji. Uzasadniono to faktem, że postój autobusów z włączonym silnikiem,
+niebędący wynikiem warunków bądź przepisów ruchu drogowego, w większości
+przypadków odbywa się poza drogami publicznymi?7.
+Termin wejście wiżycie zmiany prawnie nie budzi zastrzeżeń.
+Projekt byt przedmiotem analizy Biura Ekspertyz i Oceny Skutków Regulacji
+(BEOS) Kancelarii Sejmu w zakresie dotyczącym zgodności z prawem Unii
+Europejskiej?8. Stwierdzono, że przedmiot poselskiego projektu ustawy o zmianie
+ustawy - Prawo o ruchu drogowym nie jest objęty prawem Unii Europejskiej. Projekt
+był także przedmiotem opinii BEOS sporządzonej w trybie art. 95a ust. 3 Regulaminu
+Sejmu?, w której stwierdzono, że analizowany projekt nie jest projektem ustawy
+wykonującej prawo Unii Europejskiej w rozumieniu art. 95a regulaminu Sejmu.
+26 ID ankiety: 72092.
+27 Zob. P. Wiewióra, Postój autobusu na włączonym silniku może skończyć się karą. Potrzebna jest
+nowelizacja, portalsamorzadowy.pl, 25 VIII 2023 r., https://www.portalsamorzadowy.pl/zmiany-w-
+prawie/postoj-autobusu-na-wlaczonym-silniku-moze-skonczyc-sie-kara-potrzebna-jest-
+nowelizacia 483882.html?mo=promo.
+28 Opinia w sprawie zgodności z prawem Unii Europejskiej poselskiego projektu ustawy o zmianie
+ustawy - Prawo o ruchu drogowym (przedstawiciel wnioskodawców: poseł Grzegorz Adam Placzek),
+opinia BEOS z 28 || 2025 r., BEOS-WPEIM-334/25.
+2º Opinia w sprawie stwierdzenia, czy poselski projekt ustawy o zmianie ustawy - Prawo o ruchu
+drogowym (przedstawiciel wnioskodawców: poset Grzegorz Adam Placzek) jest projektem ustawy
+wykonującej prawo Unii Europejskiej w rozumieniu art. 95a regulaminu Sejmu, opinia BEOS z 28 II
+2025 r., BEOS-WPEiM-335/25.
+9
+
+--- page 10 ---
+VI. Skutki społeczne projektowanej ustawy
+A) Podmioty na które wpływa projekt
+Proponowana regulacja będzie miała wpływ, w szczególności, na osoby
+kierujące pojazdami zarejestrowanymi jako autobusy, a także pośrednio podmioty
+świadczące usługi drogowego transportu pasażerskiego.
+Wedlug najnowszych dostępnych danych Centralnej Ewidencji Pojazdów
+i Kierowców za 2019 r. dotyczących uprawnień do kierowania pojazdami, liczba
+osób posiadających uprawnienia w kategorii D30 wynosiła 477,2 tys. osób (dla
+porównania 20 640,6 tys. osób miało uprawnienia w kategorii B), ponadto 152,1 tys.
+osób posiadało uprawnienia kategorii D131.
+Liczbę przedsiębiorstw komunikacji miejskiej i podmiejskiej w Polsce w 2025 r.
+można szacować na ok. 3 19932, Statystyka ta jest o tyle nieprecyzyjna, iż przewozy
+pasażerskie mogą świadczyć zarówno duże przedsiębiorstwa, mające nawet
+kilkaset autobusów, jak również małe podmioty, mające kilka pojazdów
+i sporadycznie świadczące przewozy (tzw. przewozy okazjonalne). Jeśli chodzi
+o liczbę autobusów, to według danych Głównego Urzędu Statystycznego na koniec
+2023 r. w Polsce zarejestrowanych było 132,4 tys. autobusów (tj. 3,4% wszystkich
+zarejestrowanych środków transportu drogowego), w tym liczba autobusów
+eksploatowanych przez jednostki transportu samochodowego33 wyniosła 12,6 tys.,
+a liczba autobusów wykorzystywanych w komunikacji miejskiej wyniosła 12,5 tys.34
+B) Wpływ na społeczeństwo
+Ograniczenia w zakresie pozostawiania pracującego silnika spalinowego
+podczas postoju na obszarze zabudowanym w Polsce, jak również w wielu innych
+krajach, zostały wprowadzone w głównej mierze ze względu na ochronę zdrowia
+mieszkańców i ochronę środowiska. Należy podkreślić, że silniki spalinowe generują
+zanieczyszczenie powietrza m.in. tlenkami azotu, tlenkami węgla i pylami
+zawieszonymi. Długotrwałe narażenie na oddziaływanie spalin ma negatywny wpływ
+na zdrowie: zwiększa ryzyko wystapienia chorób układu oddechowego, chorób
+układu krążenia i nowotworów, w szczególności astmy u dzieci i dorosłych oraz
+ostrych infekcji dolnych dróg oddechowych u dzieci, choroby niedokrwiennej serca
+i raka płuc35
+Pracujące silniki generują również hałas, który może być uciążliwy dla
+mieszkańców szczególnie w gęsto zabudowanych obszarach i który również
+generuje ryzyka dla zdrowia. Badania wykazały, że narażenie na hałas prowadzi nie
+30 https://www.gov.p//web/gov/kategorie-prawa-iazdy.
+31 https://www.gov.p//web/cepik/prawa-jazdy-i-uprawnienia-w-2019-roku;
+https://www.gov.pl/attachment/c5d8099b-dc89-4ee7-8d80-1c9f7d745fcf.
+32฿	Baza z aktualnymi danymi aktywnych polskich przedsiębiorstw i instytucji zarejestrowanych
+w rejestrach CEIDG, REGON i KRS, dla których kod przeważającego rodzaju działalności według
+Polskiej Klasyfikacji Działalności 2007 to 49.31.Z (Transport lądowy pasażerski, miejski i podmiejski),
+https://www.bnf.pl/katalog/baza/baza-przedsiebiorstw-komunikacji-mieiskiej-|-podmieiskiei.
+33 Komunikacja w ruchu krajowym i międzynarodowym realizowana przez przedsiębiorstwa o liczbie
+pracujących powyzej 9 osób; bez przedsiebiorstw komunikacii mieskiei.
+34 Transport drogowy w Polsce w latach 2022 i 2023, Główny Urzad Statystyczny, Warszawa 2024.
+35 H. Boogaard et al. Long-term exposure to traffic-related air pollution and selected health outcomes:
+A systematic review and meta-analysis, „Environment international" 164 (2022): 107262.
+10
+
+--- page 11 ---
+tylko do irytacji, zakłóca sen i powoduje senność w ciągu dnia, ale również zwiększa
+ryzyko występowania nadciśnienia i chorób sercowo-naczyniowych oraz upośledza
+zdolności poznawcze u dzieci w wieku szkolnym, a także wpływa na wyniki leczenia
+i wydajność pracy36
+Ponadto „emisja spalin ma jednoznacznie negatywny wpływ na środowisko.
+Głównym zagrożeniem jakie za sobą niesie jest emisja szkodliwych substancji
+w postaci tlenków siarki i azotu, kłóre ulegają procesom utleniania w atmosferze.
+Wskutek tego powstają kwasy siarkowy i azotowy. Kwasy te są kwasami
+nieorganicznymi zakwaszając opad atmosferyczny. Opady takie o niskim pH (tzw.
+kwaśne deszcze) oddziaływają na drodze reakcji chemicznej z budynkami
+nieodpornymi na korozje, co prowadzi do niszczenia betonu, zapraw murarskich
+i elementów konstrukcyjnych. Przede wszystkim wpływa na uszkodzenie cennych
+architektonicznie budynków. Ponadto opad o niskim pH wplywa negatywnie na
+rośliny powodując w konsekwencji chlorozę i nekrozę liści, uszkodzenie aparatów
+asymilacyjnych, uszkodzenie systemu korzeniowego roślin. Kwaśne opady
+wpływają również na zakwaszenie gleby, co w dalszej konsekwencji prowadzi do
+usuwania z niej jonów zasadowych (wapniowych, magnezowych, krzemowych),
+oraz uwalnianie jonów metali ciężkich, które są toksyczne. Pozostałe składniki spalin
+wpływają na zmiany klimatyczne. W regionach dużego ruchu komunikacyjnego,
+gazie stężenie związków szkodliwych, głównie dwutlenku siarki, tlenku azotu, tlenku
+węgla i pyłów przekracza dopuszczalne normy może dochodzić do zjawiska
+smogu" 37	• Warto podkreślić, że smog jest szczególnie często występującym
+problemem w polskich miastach38
+Szczególnie duże zanieczyszczenia generują silniki na olej napędowy,
+zwłaszcza starszych generacji, tj. tzw. diesel 39,40	. Jest to szczególnie istotne
+w kontekście proponowanej regulacji z tego względu, że autobusy na olej napędowy
+stanowią 79% autobusów w Polsce (autobusy z silnikami benzynowymi stanowią
+3,1%), a wiek tych pojazdów jest dość zaawansowany. Zgodnie z danymi GUS
+z 2023 r., autobusy mające powyżej 30 lat stanowiły 31,9% ogółu autobusów
+w Polsce, w wieku 16-30 lat - 40,2%, a autobusy w wieku do 5 lat - 7,9%41. Tym
+samym można przyjąć, że większość autobusów w Polsce nie tylko nie spełnia
+36 M. Basner, et al. Auditory and non-auditory effects of noise on health, „The Lancet", 83.9925 (2014):
+1325-1332,
+https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(13 61613-X/abstract.
+37 A. Judzińska-Kłodawska, Analiza degradacji środowiska w aspekcie toksyczności spalin, „Autobusy:
+technika, eksploatacja, systemy transportowe", 2014, 15(6), 145-148,
+https://yadda.icm.edu.pl/baztech/element/bwmeta1.element.baztech-ba93dc5a-8007-4c7e-abca-
+712f980f41ef.
+38 M. Treder, Smog zagrożeniem bezpieczeństwa zdrowotnego w Polsce, „Rocznik Bezpieczeństwa
+Miedzynarodowego" 11.1 (2019): 190-204.
+39 O. Plesińska, H. Rożyk, Diesel - rosnący problem. Analiza emisji zanieczyszczeń z transportu
+drogowego w kontekście zdrowia publicznego i ochrony powietrza w Polsce, Fundacja Promocji
+Pojazdów Elektrycznych, Warszawa, 2022, https://www.fppe.pl/wp-content/uploads/2022/02/Diesel-
+raport-FPPE-2022.pdf?utm source=chatopt.com.
+40 K. Van Ryswyk, et al. Personal exposures to traffic-related air pollution in three Canadian bus transit
+systems: the Urban Transportation Exposure Study, "Journal of Exposure Science & Environmental
+Epidemiology" vol. 31 (2021), s. 628-640, https://doi.org/10.1038/s41370-020-0242-2.
+41 Transport drogowy w Polsce w latach 2022 i 2023, Glówny Urzad Statystyczny, Warszawa 2024.
+11
+
+--- page 12 ---
+najnowszych norm emisji spalin, ale również może być dość wyeksploatowana, co
+dodatkowo zwiększa ich negatywny wpływ na zdrowie i środowisko.
+Przeprowadzone konsultacje społeczne projektu wskazują, że obowiązujące
+przepisy w zakresie wyłączania silników nie są w pelni stosowane"2. Wynika to
+zapewne z wskazywanych przez Wnioskodawców kwestii technicznych związanych
+z eksploatacją autobusów. Prowadzi to do występowania konfliktów społecznych
+sygnalizowanych w konsultacjach. Niemniej, zgodnie z informacjami uzyskanymi od
+Komendy Głównej Policji (dalej: KGP), do Biura KGP nie napływają informacje
+z jednostek w kraju, które sygnalizowałyby nagminność naruszania tego zakazu,
+zwłaszcza przez kierowców autobusów komunikacji miejskiej 43	. Nie można
+wykluczyć, że pewien wpływ na taką sytuację ma to, że obecnie obowiązujący zakaz
+ma zastosowanie tylko do dróg publicznych. W związku z tym nie musi obowiązywać
+w zajezdniach autobusowych, czy na niektórych pętlach autobusowych lub
+parkingach, które nie mają statusu dróg publicznych.
+Według Wnioskodawców projektowana ustawa przyniesie pozytywne skutki
+społeczne. Przy czym wskazane przez Wnioskodawców skutki odnoszą się głównie
+do kierowców autobusów (zlikwidowanie odpowiedzialności wykroczeniowej za
+naruszenie przepisów) i właścicieli tego typu pojazdów, a także sposobu eksploatacji
+przekładającej się na stan techniczny samych pojazdów. W DSR Wnioskodawcy nie
+odnieśli się do możliwych negatywnych skutków zdrowotnych i środowiskowych,
+które mogą być potencjalnie bardzo znaczące. Projekt dotyczy bowiem wszystkich
+autobusów, a nie tylko autobusów komunikacji miejskiej, które stanowią ok. 10%
+wszystkich autobusów, a ich wiek na tle innych użytkowanych w Polsce autobusów
+jest niski, tym samym w dużej części spełniają najnowsze normy emisji. Według
+danych GUS, w strukturze zarejestrowanych pojazdów według klasy emisji spalin
+wśród autobusów miejskich 73,4% stanowiły pojazdy o najwyższej kategorii Euro 5
+i Euro 6.
+Proponowane zmiany - jak wskazują Wnioskodawcy - wynikają
+Z konieczności zapewnienia kierowcom możliwości przestrzegania technicznych
+aspektów użytkowania autobusów i zaleceń producentów tych pojazdów. Jeżeli
+chodzi o autobusy miejskie, które realizują istotne z perspektywy mieszkańców
+potrzeby związane z transportem i stanowią alternatywę dla indywidualnego
+transportu, regulacje te mogą ograniczać negatywny wpływ transportu
+samochodowego na zdrowie i środowisko. Nie budzą one tym samym większych
+wątpliwości i ich skutki, choć niejednoznaczne, to mogą być pozytywne. Co jednak
+należy podkreślić, propozycja zniesienia jakichkolwiek ograniczeń dla wszystkich
+autobusów może prowadzić do nadużyć i rodzić istotne negatywne skutki społeczne,
+zdrowotne i środowiskowe, w szczególności dia osób zamieszkujących w miastach.
+W tym kontekście nie jest do końca zrozumiałe, dlaczego Wnioskodawcy nie
+proponują żadnych rozwiązań zabezpieczających interes społeczny.
+42 Wyniki konsultacji społecznych,
+https://seim.gov.pl/Sejm10.nsf/agent.xsp?symbo|=KONSULTACJE WYNIKI&NrProjektu=RPW/6630/2
+025-
+43 Pismo RD-I-1120/1051/25/MW z 6 ||I 2025 r.
+12
+
+--- page 13 ---
+Według Wnioskodawców „lepszy stan techniczny autobusów wpłynie
+pozytywnie na jakość wykonywanych przejazdów autobusowych, co spowoduje
+większe zadowolenie z jakości usług u pasażerów, a to może przełożyć się na
+częstsze korzystanie z komunikacji autobusowej". Trudno jest jednak dowieść, że
+proponowana zmiana przepisów wpłynie pozytywnie na jakość wykonywanych
+przejazdów autobusowych i częstsze korzystanie z komunikacji autobusowej.
+• ile w wyniku przyjęcia regulacji można się spodziewać - jak wskazują
+Wnioskodawcy - odciążenia funkcjonariuszy Policji lub straży miejskiej, to nie
+sposób w obliczu informacji KGP zakładać, że odciąży to sędziów i pracowników
+sądów powszechnych.
+C) Konsultacje społeczne
+W konsultacjach społecznych projektu wzięły udział 102 osoby 44	. Wyniki
+konsultacji wskazują na duzą polaryzację opinii. Większość komentujących uważała,
+że przyjęcie ustawy jest potrzebne (37%), ale 35% wyraziła zdanie odmienne. Tak
+samo było w przypadku akceptacji przedstawionych w projekcie rozwiązań (48% VS.
+34%).
+Blisko połowa (46%) osób zgłosiła komentarze do projektu. Podkreślano w nich
+negatywne skutki związane ze zwiększonym zanieczyszczeniem powietrza
+i hałasem, a także dodatkowymi kosztami związanymi ze zwiększonym zużyciem
+paliwa. W konsultacjach wskazywano zrozumienie dla potrzeb związanych
+z obsługą autobusów. Krytykowano jednak brak jakichkolwiek ograniczeń, co może
+prowadzić do nadużyć. Pojawiały się również głosy o nieuzasadnionym
+uprzywilejowaniu autobusów, względem innych pojazdów silnikowych.
+VII Skutki gospodarcze projektowanej ustawy
+Podejmując próbę analizy skutków gospodarczych przedłożonego projektu
+należałoby rozstrzygnąć, czy proponowana zmiana przepisów ruchu drogowego
+stwarza nowe uprawnienie dla kierowców autobusów, czy też jest dostosowaniem
+przepisów prawa do istniejącej praktyki. Z korespondencji otrzymanej przez BEOS
+z Biura Ruchu Drogowego Komendy Głównej Policji45 wynika, że Policja „nie
+gromadzi informacji dotyczących ujawniania wykroczeń polegających
+pozostawianiu pracującego silnika podczas postoju na obszarze zabudowanym".
+Trudno zatem określić, w jakiej skali zjawisko, które jest przedmiotem przedłożonej
+regulacji, jest problemem powszechnie występującym i wymagającym interwencji
+legislacyjnej. W konsekwencji, analizę, skutków gospodarczych można rozpatrywać
+wariantowo.
+W wariancie wyjściowym należy założyć, że kierowcy autobusów co do zasady
+przestrzegają 1-minutowego limitu, zaś przedłożony projekt znosi to ograniczenie
+, na terenie zabudowanym (projekt obejmuje wszystkie autobusy, bez określenia
+44 Wyniki konsultacji społecznych,
+https://seim.gov.p/Sejm10.nsf/agentxsp?symbol=KONSULTACJE WYNIKI&NrProjektu=RPW/6630/2
+025.
+45 Pismo RD-I-1120/1051/25/MW, op. cit.
+13
+
+--- page 14 ---
+jakichkolwiek	ograniczeń	czasowych).	Jak zauważają	Wnioskodawcy
+w uzasadnieniu projektu, zniesienie 1-minutowego ograniczenia jest niezbędne
+z punktu widzenia prawidłowego użytkowania pojazdów i spelnienia wymogów
+producentów autobusów zawartych w instrukcjach obsługi. Informacje i argumenty
+(co do użytkowania autobusu) zawarte w uzasadnieniu projektu potwierdza np.
+instrukcja obsługi autobusów z serii Solaris Urbino: „Rozbudowana elektronika
+pojazdu powoduje duży pobór prądu w trybie podtrzymywania lub czuwania.
+Dłuższy postój pojazdu z włączoną elektroniką może powodować wyczerpanie
+akumulatorów... Po uruchomieniu należy przez kilka minut utrzymywać silnik na
+wolnych obrotach... Przed wyłączeniem silnika po dłuższej jeździe, należy zawsze
+pozostawić go przynajmniej przez 1 min. na wolnych obrotach (zaleca się 5-6
+min.).46"
+Odnosząc się zatem do analizy skutków gospodarczych projektu, zniesienie 1-
+minutowego ograniczenia umożliwi stosowanie prawidłowych procedur użytkowania
+autobusów, co z kolei powinno przyczynić się do obniżenia awaryjności autobusów,
+zmniejszenia kosztów napraw i likwidacji zakłóceń w świadczeniu usług
+przewozowych, a także wzrostu zadowolenia pasażerów z jakości i pewności
+świadczonych usług. Zatem w powyższym zakresie przyjęcie projektowanych
+przepisów	stworzy pozytywne skutki gospodarcze dla przedsiębiorstw
+świadczących usługi drogowych przewozów pasażerskich. Jednak wyrażenie tego
+pozytywnego skutku w wymiarze pieniężnym byłoby bardzo trudne, gdyż
+wymagałoby np. oszacowania prawdopodobieństwa wystąpienia awarii autobusu
+w obecnym stanie prawnym i po zniesieniu ograniczeń, określenia liczby i kosztów
+napraw.
+Z drugiej strony, zarówno w uzasadnieniu ustawy, jak i w DSR, Wnioskodawcy
+nie uwzględnili pewnego istotnego kosztu projektowanych zmian. Dzięki zmianie
+przepisów kierowcy autobusów zyskają możliwość pozostawienia włączonego
+silnika na postoju na okres diuższy niż 1 minuta. Silniki autobusów będą zatem
+zużywały paliwo na biegu jałowym (ustawa nie ustala żadnych ram czasowych) nie
+| wykonując pracy przewozowej - zarówno przed rozpoczęciem jazdy, jak i po jej
+zakończeniu. Stanie się to ewidentnym kosztem dla przedsiębiorstw przewozowych
+(obecnie zużywają „bezproduktywnie" paliwo jedynie przez 1 minutę). Fakt ten
+poruszono także w kilku opiniach w ramach konsultacji społecznych projektu47
+Przyjmując, że:
+• najpopularniejsze paliwo autobusów to olej napędowy (zob. pkt VI),
+a zużycie paliwa przez autobus na biegu jałowym to średnio 1 1/h48,
+• praca miejskiego autobusu (duże miasto) - 18 godzin dziennie,
+• kierowcy stosują się do instrukcji obsługi (max. 5 minut) 49	, czyli
+pozostawią włączony silnik o 4 minuty dłużej niż to ma miejsce obecnie,
+46 Instrukcja obsługi Solaris Urbino, s. 124-125 oraz s.131,
+https://spad.szczecin.p//Instrukcie/Instrukcia%20kierowcv%20nU12-18.pdf.
+47 ID ankiety: 143991, 79096, 144208 і 144036.
+48	Za	„Spalanie	paliwa	na	postojach? Sprawdz,	ile przepalasz nieefektywnie",
+https://www.flotman.pl/blog/spalanie-paliwa-na-postojach-sprawdz-ile-przepalasz-nieefektywnie.
+49 Przyjęto na podstawie instrukcji obsługi autobusów cytowanych w uzasadnieniu projektu.
+14
+
+--- page 15 ---
+• w každej godzinie pracy następuje jeden rozruch i jedno wyłączenie
+silnika - łącznie 8 min./h, czyli 144 minuty dziennie.
+Biorąc pod uwagę powyższe założenia, w ciągu 8 minut pracy na biegu
+jałowym autobus zużyje 0,13 | oleju napędowego, zaś w ciągu calego dnia pracy 2,4
+I oleju napędowego. Przy cenie diesla na poziomie 6,16 z1/|50 skorzystanie ze
+zgodnej z instrukcją możliwości przygotowania autobusu do jazdy oraz jej
+zakończenia kosztowałoby przedsiębiorcę dodatkowo 14,78 zł dziennie na jeden
+autobus. Wydatek ten będzie najprawdopodobniej nieistotny w przypadku
+przedsiębiorstw posiadających kilka pojazdów i świadczących przewozy
+okazjonalne, może być natomiast bardziej odczuwalny dla dużych przewoźników -
+np. w Warszawie w 2024 r. eksploatowanych było 1062 konwencjonalnych
+autobusów z silnikiem diesla s (dzienny koszt dla tego taboru wyniósłby
+teoretycznie 15,7 tys. zł dziennie). Z drugiej strony, koszt ten można by uznać za
+niewygórowany, jeśli uwzględnić fakt, iž warszawskie autobusy przewożą, średnio
+1,2 mln pasażerów dziennie (447,1 mln rocznie) 2
+Oszacowanie skutków gospodarczych dla całej gospodarki może być jednak
+obarczone dużym błędem. Inna jest specyfika pracy autobusów miejskich, a inna
+międzymiastowych - różny jest dzienny czas pracy, liczba cykli uruchamiania
+i wyłączania silnika na postoju, warunki ruchu na drodze/ulicy. Dodatkowo różne są
+stosowane paliwa, wielkość autobusów i pojemność/moc stosowanych silników.
+Stąd też powyższe szacunki należy traktować jako hipotetyczne i poglądowe.
+Oceniając skutki gospodarcze przedłożonego projektu można rozważyć
+również inny wariant, w którym ustawowa reguła dopuszczalnego 1-minutowego
+postoju nie jest powszechnie przestrzegana. Przygotowując niniejszą, ocenę
+skonsultowano problematykę będącą przedmiotem przedłożonego projektu z Izbą
+Gospodarczą Komunikacji Miejskiej oraz z kilkoma przedsiębiorstwami komunikacji
+miejskiej 53	. Zuzyskanych informacji wynika, że wszystkie konsultowane
+przedsiębiorstwa potwierdziły występowanie konfliktu pomiędzy kierowcami
+autobusów uruchamiającymi silniki na przystankach końcowych a mieszkańcami
+pobliskich zabudowań. Mieszkańcy, którym przeszkadzają włączone silniki
+autobusów, wysyłają skargi, wzywają Straż Miejską lub Policję, przy czym
+interwencje służb zazwyczaj kończą się pouczeniem kierowcy, a ukaranie
+mandatem karnym jest sporadyczne. Jednak sygnały o częstym występowaniu tego
+konfliktu mogą prowadzić do tezy, że utrzymywanie włączonych silników autobusów
+na postoju, przez okres dłuższy niż 1 minuta, nie jest zjawiskiem odosobnionym.
+Informacje otrzymane od konsultowanych przedsiębiorstw wskazują, że
+najistotniejszym powodem utrzymywania włączonych silników, przez okres dłuższy
+niż 1 minuta, jest powszechny w miejskich autobusach system informacji
+50 Średnia cena w dniu 20 |||2025 r., https://www.reflex.com.pl/ceny-detaliczne-polska.
+51 Zarząd Transportu Miejskiego w Warszawie, Raport 2024, s. 70, https://www.ztm.waw.pl/wp-
+content/uploads/2025/03/raport ZTM 2024.pdf.
+52 lbidem, s. 16.
+53 Zarząd Transportu Miejskiego w Warszawie, Miejskie Przedsiębiorstwo Komunikacji w Lublinie sp.
+z o.o., Miejskie Przedsiębiorstwo Komunikacji Poznań sp. z 0.0., a także z niektórymi firmami
+obslugującymi autobusowy miejski transport publiczny w Poznaniu: Kórnickie Przedsiębiorstwo
+Autobusowe KOMBUS sp. z o.o., Zakład Komunalny w Kleszczewie Sp. z 0.o., Zakład Uslug
+Komunalnych sp. z o.o. w Rostworowie.
+15
+
+--- page 16 ---
+pasażerskiej. Systemy te pobierają tak dużą ilość prądu, że pozostawienie ich na
+zasilaniu wyłącznie akumulatorowym może skutkować niemożliwością
+uruchomienia silnika autobusu. Co więcej, okres 1 minuty jest zazwyczaj zbyt krótki
+do pelnego uruchomienia systemu i, jak to np. ma miejsce w Warszawie, wyruszenie
+autobusu na trasę z nie w pełni uruchomionym systemem może narazić kierowcę
+na konsekwencje służbowe 54	. Nie bez znaczenia są też standardy jakości
+świadczenia uslug, które muszą, spełniać kierowcy - ogrzania, schłodzenia czy
+oświetlenia wnętrza pojazdu na postoju nie da przeprowadzić się bez włączenia
+silnika. Pozostają również kwestie (poruszone także w uzasadnieniu projektu)
+specyfiki wymagań użytkowania układów napędowych, uzupełnienia ubytków
+ciśnienia w tzw. pneumatyce czy działania urządzeń kontroli trzeźwości kierowcy.
+Reasumując, jeśli przyjmiemy, że pozostawianie włączonego silnika przez
+okres dłuższy niż 1 minuta jest jednak zjawiskiem dość powszechnym, to będzie to
+oznaczać, że koszty tego typu zachowania są już obecnie „wliczone"
+W funkcjonowanie przedsiębiorstw autobusowych. Przyjęcie przedłożonego projektu
+niejako usankcjonuje praktykę, a skutki gospodarcze (koszły i korzyści) będzie
+można odnieść jedynie do grupy przedsiębiorstw, które ściśle "stosują się do
+aktualnie obowiązujących przepisów ustawy o limicie 1-minutowym. W efekcie
+skutki gospodarcze przedłożonego projektu będą najprawdopodobniej mniejsze niż
+by to wynikało z omówionego na początku wariantu wyjściowego.
+VIII. Skutki projektowanej ustawy dla sektora finansów publicznych
+W opinii Wnioskodawców projeki nie pociąga za sobą obciążenia budżetu
+państwa ani jednostek samorządu terytorialnego (dalej: JST). W związku z
+powyższym Wnioskodawcy nie przedstawili żadnych szacunków kosztów wejścia
+wżycie proponowanych	przepisów ani nie wskazali źródeł finansowania
+projektowanych przepisów.
+Wpływ projektu na sektor finansów publicznych (dalej: SFP) może się wiązać
+z dłuższym postojem autobusów w terenie zabudowanym w konsekwencji zniesienia
+ograniczenia pozostawiania pracującego silnika autobusu podczas postoju na
+obszarze zabudowanym powyżej 1 minuty. W efekcie tego może wzrosnąć zużycie
+paliwa, co przełoży się na wyższe koszty eksploatacji autobusów wykorzystywanych
+do realizacji zadań publicznych w transporcie zbiorowym i wzrost kosztów dla SFP.
+Należy zauważyć, że koszty te realnie będą miały miejsce tylko w przypadku, gdyby
+obecnie obowiązujące przepisy odnośnie do długości postoju autobusów były
+respektowane. Brak jest jednak podstaw do przyjęcia, iż przepisy te faktyczne są
+przestrzegane. Taką podstawą mogłyby byé informacje o liczbie i wartości
+mandatów karnych nakładanych przez Policję za łamanie ograniczenia czasu
+postoju autobusów na obszarze zabudowanym. Jednakże zgodnie z informacją
+otrzymaną z KGP dane tego typu nie są gromadzone 55	. Zatem oparcie analizy
+54 Na podstawie rozmowy telefonicznej z Działem Nadzoru nad Przewozami ZTM w Warszawie.
+55 Pismo RD-I-1120/1051/25/MW, op. cit.
+16
+
+--- page 17 ---
+kosztów o wartość mandatów karnych nie jest możliwe, a założenie odnośnie do
+przestrzegania przepisów dotychczas obowiązujących jest hipotetyczne.
+W konsekwencji powyższego jako warunek wyjściowy analizy wpływu projektu
+na SFP należy przyjąć zwiększenie zużycia paliwa przez autobusy podczas postoju
+na obszarze zabudowanym.
+Przeprowadzenie analizy wpływu na SFP w przypadku opiniowanego projektu
+wymaga dostępu do szeregu szczegółowych danych. Jedną z takich danych jest
+informacja o formie własności przedsiębiorstw. Moźna założyć, że w przypadku
+przedsiębiorstw komunikacji autobusowej, będących samorządowymi zakładami
+budżetowymi, koszty wynikające z większego zużycia paliwa w wyniku dłuższego
+okresu pracy silnika w czasie postoju obciążą, bezpośrednio te przedsiębiorstwa,
+a pośrednio JST, w imieniu których działają. W przypadku przedsiębiorstw
+zewnętrznych świadczących usługi przewozu pasażerskiego na podstawie
+stosownych umów z JST sytuacja może wyglądać inaczej w zależności od
+postanowień umów na świadczenie uslug w ramach realizacji transportu
+zbiorowego. Ma to znaczenie ze względu na fakt, iż liczba przedsiębiorstw będących
+zakładami "budżetowymi od wielu lat systematycznie maleje (zob. wykres 1).
+W 2019 r. według danych Izby Gospodarczej Komunikacji Miejskiej stanowiła
+jedynie 5,3% ogółu operatorów komunikacji miejskiej. Stąd należałoby przyjąć
+uproszczone założenie, że przewoźnicy zewnętrzni świadczą usługi na tych samych
+zasadach co przewoźnicy będący zakładami budżetowymi. Tym samym koszty
+wynikające z większego zużycia paliwa także obciążałyby JST.
+Wykres 1. Procentowy udział zakładów budżetowych w ogólnej liczbie operatorów
+w komunikacji miejskiej
+16
+14,28	14,08
+14
+12	11,3
+10
+9,15
+9,15	7,03
+6	7,25
+... 53
+4
+4,6
+2
+0 -
+1-sty-2010	1-sty-2012	1-sty-2014	1-sty-2016	1-sty-2018
+Źródło: Izba Gospodarcza Komunikacji Miejskiej.
+Kolejnym czynnikiem wpływającym na analizę wpływu projektu na SFP jest
+wiek autobusów komunikacji miejskiej znajdujących się w eksploatacji. W 2019 г.
+wiek większości autobusów znajdujących się w eksploatacji przekraczał 6 lat (zob.
+17
+
+--- page 18 ---
+wykres 2). Na potrzeby analizy przyjęto założenie o niezależnym od wieku pojazdu
+poziomie spalania paliwa.
+Wykres 2. Struktura wiekowa autobusów komunikacji miejskiej w Polsce w %
+w 2019 r.
+lata
+10 +	37,6
+6-10	29,76
+3-6	8,63
+0-3	26,16
+5	10	15	20	25	30	35	40
+Żródło: Izba Gospodarcza Komunikacji Miejskiej.
+Innym istotnym elementem jest też charakterystyka taboru autobusowego
+odnośnie do rodzaju napędu, zużycia paliwa itd., przy czym dane te nie zawierają
+kluczowej z punktu widzenia powyższej analizy informacji o zużyciu paliwa podczas
+postoju autobusu. Z braku stosownych danych pominięto ten element w analizie.
+Należy także założyć, iž w wyniku wprowadzenia w życie proponowanych
+przepisów czas postoju autobusu przy pracującym silniku ulegnie wydłużeniu przy
+założeniu, że obecnie obowiązujące ograniczenie, co do czasu postoju autobusów
+jest powszechnie stosowane. Oznacza to większe zużycie paliwa, a w konsekwencji
+wyższe koszty prowadzenia transportu zbiorowego.
+Należy zauważyć, że najważniejszym kosztem, który występuje w każdej firmie
+transportowej, w tym także w pasażerskich przewozach autobusowych, jest koszt
+paliwa. Paliwa, które głównie wykorzystuje się do napędzania autobusów miejskich,
+to olej napędowy (ON), sprężony gaz ziemny (CNG) oraz gaz w postaci ciekłej
+(LNG). Nowoczesne autobusy coraz częściej zasilane są też energią elektryczną.
+Przyjęto uproszczenie, że paliwem stosowanym powszechnie jest ON. Jego cena
+zależna jest głównie od ceny baryłki ropy naftowej na giełdach światowych.
+Kolejnymi czynnikami wpływającymi na cenę jest kurs dolara oraz popyt na paliwo
+w danym okresie. Cena paliwa może różnić się od siebie w zależności od rejonu
+kraju. Stąd dla celów prowadzonej analizy przyjęto kolejne uproszenie przyjmując
+średnią cenę oleju napędowego w kraju wg ceny obowiązującej w dniu 18 marca
+2025 r. - 6,13 zł 56
+Zużycie paliwa przez poszczególne autobusy jest różne ze względu na ich
+wiek, wielkość oraz spełnienie normy emisji spalin, a to wpływa bezpośrednio na
+56 https://www.autocentrum.pl/paliwa/ceny-paliw/.
+18
+
+--- page 19 ---
+koszty. Ze względu na brak szczegółowych danych w tym zakresie przyjęto
+założenie, IZ spalanie oleju napędowego na postoju stanowi górną granicę wartości
+spalania paliwa przez samochód na postoju 57	, czyli 1 litr ON/godzinę.
+Podsumowując, dia zobrazowania wpływu jaki projekt może mieć na SFP
+przyjęto, ze:
+- wszystkie autobusy charakteryzują się takimi samymi parametrami
+eksploatacyjnymi, co w praktyce odnosi się do zasilania olejem napędowym
+oraz tej samej wielkości spalania paliwa w czasie postoju;
+- przyjęto wariantowo czas postoju na obszarze zabudowanym;
+- przyjęto przeciętnie 18 postojów w ciągu doby dla jednego autobusu;
+- liczbę autobusów przeznaczonych do obsługi komunikacji miejskiej według
+stanu inwentarzowego na koniec 2023 r. w Polsce - 12 46658
+Do obliczeń kosztów przyjęto założenie wariantowe długości postoju autobusu
+w obszarze zabudowanym przekraczającej 1 minutę dozwoloną w obowiązujących
+obecnie przepisach stopniowo o kolejną minutę aż do maksymalnie 10 minut. Jako
+wariant najbardziej prawdopodobny długości czasu postoju uznano postój 3-5 minut
+zgodny z wymienionymi w Uzasadnieniu do projektowanej ustawy instrukcjami
+obsługi poszczególnych typów autobusów. Oznacza to postój w granicach 2-4 minut
+ponad dozwoloną obecnie 1 minutę.
+Ponadto przyjęto, że zwiększone zużycie paliwa będzie skutkowało
+dodatkowymi wpływami podatkowymi uwzględniając poziom obciążeń podatkowych
+w cenie ON równy 53,8% 59
+57 https://www.flotman.pl/blog/spalanie-paliwa-na-postojach-sprawdz-ile-przeualasz-nieefektvwnie/
+58 Zob. Bank Danych Lokalnych, Główny Urzad Statystyczny,
+https://bdl.stat.gov.pl/bdl/dane/podgrup/tablica.
+59 https://www.podatki.biz/artykulv/20 G.htm.
+19
+
+--- page 20 ---
+Tabela 1. Koszty i korzyści dla SFP
+czas postoju zużycie	koszt wzt	koszt ogótem	Wziost	wz/ost
+powyżej 1	paliwa (W	(cena ON/) (liczba	wydatków z	dochodów
+minuty w	mililitrach)	*zużycie) autobusów*	tytulu	podatkowych z
+minutach	koszt) wzt	zwiększonego	tytutu
+zużycia paliwa	zwiększonego
+(koszt ogółem * zużycia paliwa
+liczba dni* 18	(obciążenia
+postojów na	podatkowew
+dolę)	cenie ON-
+(wz4)	53,8%)
+(wzl)
+1	0,01666	0,102	1273	8364268	4499 976
+2	0,03332	0,204	2546	16728537	8 999 953
+3	0,04998	0,306	3819	25 092805	13 499 929
+4	0,06664	0,409	5092	33457074	17 999 906
+5	0,08330	0,511	6366	41821342	22499882
+6	0,09996	0,613	7639	50 185 611	26 999 859
+7	0,11662	0,715	8912	58 549 879	31 499 835
+8	0,13328	0,817	10185	66914148	35 999811
+9	0,14994	0,919	11458	75278416	40 499 788
+10	0,16660	1,021	12731	83 642 685	44 999 764
+Zródło: Obliczenia własne
+Przeprowadzona analiza wskazuje, że projekt generalnie może przyczynić się
+do większego obciążenia JST kosztami świadczenia transportu zbiorowego oraz
+przysporzyć dodatkowych wpływów podatkowych budżetowi państwa. Niemniej
+jednak z uwagi na fakt, że analiza została przeprowadzona na podstawie wielu
+założeń upraszczających, to przedstawionych wielkości nie należy traktować jako
+miary rzeczywistych skutków finansowych, a jedynie jako wartości szacunkowe.
+W trakcie konsultacji społecznych do projektowanej ustawy nie odniesiono się
+do problematyki kosztów dla SFP, a publikowane opinie sugerowały niewłaściwe
+zrozumienie tematu 60
+IX. Inne skutki projektowanej ustawy
+Nie zidentyfikowano innych skutków wejścia w życie projektowanej ustawy.
+X. Zmiana obciążeń administracyjnych
+Wejście w życie projektowanej ustawy nie powinno wiązać się z dodatkowymi
+obciążeniami administracyjnymi dla społeczeństwa, podmiotów gospodarczych oraz
+sektora finansów publicznych.
+60 ID ankiety: 144209 i 96251.
+20
+
+--- page 21 ---
+XI. Konkluzje
+1. Skutki prawne: Proponowaną zmianę trudno jednoznacznie ocenić z prawnego
+punktu widzenia. Za jej wprowadzeniem zdają się przemawiać normy techniczne
+dotyczące pracy silników wysokoprężnych i eksploatacji autobusów. Jednocześnie
+przeciwko tej zmianie przemawiają istotne względy społeczne, w tym konieczność
+ochrony przed nadmiernym hałasem drogowym, zapewnienie spokoju mieszkańcom
+obszarów zurbanizowanych oraz redukcja emisji szkodliwych substancji
+generowanych przez pojazdy spalinowe.
+Kluczową kwestią pozostaje ustalenie, czy w świetle celu oraz treści Prawa o
+ruchu drogowym moźliwe jest sformułowanie kryterium uzasadniającego
+zróżnicowane traktowanie adresatów normy określonej w art. 60 ust. 2 pkt 3 tej
+ustawy w odniesieniu do autobusów w rozumieniu art. 2 pkt 41 Prawa o ruchu
+drogowym, czyli wszystkich pojazdów samochodowych skonstruowanych do
+przewozu więcej niż 9 osób, łącznie z kierowcą. W przypadku ustalenia podstawy
+do zróżnicowania sytuacji prawnej adresatów wskazanej normy konieczne będzie
+następnie dokonanie wyważenia wartości pozostających w kolizji z uwzględnieniem
+zasady proporcjonalności. Z jednej strony są normy techniczne, które przemawiają
+za wprowadzeniem wyjątku, którego dotyczy propozycja zmiany prawa. Z drugiej
+strony są istotne względy społeczne, takie jak ochrona przed nadmiernym hałasem
+na drogach, zapewnienie spokoju mieszkańcom terenów zabudowanych oraz
+ograniczenie emisji substancji szkodliwych generowanych przez pojazdy spalinowe.
+Należy zaznaczyć, że zakaz określony w art. 60 ust. 2 pkt 3 Prawa o ruchu
+drogowym odnosi się wyłącznie do dróg publicznych oraz dróg zlokalizowanych
+w strefach zamieszkania i strefach ruchu, wyznaczonych odpowiednimi znakami
+drogowymi. Nie obejmuje on natomiast dróg wewnętrznych, takich jak parkingi,
+place manewrowe czy prywatne drogi należące do przedsiębiorców, o ile nie
+znajdują się one w wyznaczonych strefach zamieszkania lub strefach ruchu.
+2. Skutki społeczne: Należy się spodziewać, że proponowana regulacja będzie
+powodowała negatywne skutki społeczne - zwiększy ryzyko związane z narażeniem
+na zanieczyszczenie powietrza oraz hałas, co w dalszej perspektywie może
+przełożyć się na gorszy stan zdrowia społeczeństwa i stan środowiska.
+3. Skutki gospodarcze: Przedłożony projekt może przynieść przedsiębiorstwom
+autobusowego transportu pasażerskiego zarówno korzyści (mniejsza awaryjność
+taboru i niższe koszty napraw, zadowolenie pasażerów z jakości i pewności usług
+przewozowych), jak również koszty (zwiększone zużycie paliwa na postojach).
+Wynikające z projektu koszty związane ze zużyciem paliwa będą w praktyce
+prawdopodobnie dużo niższe ze względu na fakt, iż nie wszyscy kierowcy
+(przedsiębiorcy) ściśle przestrzegają 1-minutowego ograniczenia pracy silnika na
+postoju i koszty paliwa zużywanego podczas pracy silników na biegu jałowym są już
+uwzględnione w kosztach działalności.
+21
+
+--- page 22 ---
+4. Skutki finansowe: Na podstawie przeprowadzonej analizy moźna stwierdzić, że
+pewnym rezultatem projektu może być określony wzrost wydatków budżetowych
+oraz dochodów podatkowych w obszarze sektora finansów publicznych. Skala tego
+wpływu będzie w dużej mierze uzależniona od tego, w jakim stopniu w konsekwencji
+proponowanych regulacji wzrośnie zużycie paliwa w ramach świadczenia uslug
+transportu zbiorowego.
+5. Rozwiązania zagraniczne: W państwach członkowskich OECD i UE regulacje
+dotyczące pracy silnika w czasie postoju pojazdów są zróżnicowane. W większości
+analizowanych państw (Kanada, Szwecja, Finlandia) określono dopuszczalne
+czasowe limity pracy silnika na biegu jałowym (wahające się zazwyczaj od jednej do
+kilkunastu minut). Ponadto niektóre rozwiązania przyjęte w kilku miastach w USA
+dopuszczają, aby czas pracy silnika na biegu jałowym nie podlegał żadnym
+ograniczeniom, jednak jest to dopuszczone tylko w przypadku zaistnienia
+konkretnych okoliczności - jeśli temperatura otoczenia spada poniżej określonej
+wartości.
+Autorzy:
+Marcin Fryźlewicz, ekspert ds. legislacji (pkt I-III)
+Angelina Tazuszel, specjalistka w Wydziale Oceny Skutków Regulacji (pkt IV, XI.5)
+dr hab. Tomasz Długosz, ekspert ds. legislacji, (pkt V, X, XI.1)
+dr hab. Wojciech Zgliczyński, specjalista ds. społecznych (pkt. VI, X, XI.2)
+Jacek Krzak, specjalista ds. systemu gospodarczego (pkt. VII, X, XI.3)
+Krzysztof Wołowicz, specjalista ds. finansów publicznych (pkt. VIII, X, XI.4)
+Akceptował:
+Wicedyrektor Biura Ekspertyz
+i Oceny Skutków Regulacji
+Ziemowit Cieślik
+podpisano elektronicznie/
+Tłoczono z polecenia Marszałka Sejmu Rzeczypospolitej Polskiej	SEIM
+22
+
