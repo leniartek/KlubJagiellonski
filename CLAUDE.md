@@ -19,10 +19,14 @@ in Polish (README.md); code and code comments in English.
 - `OCR/catalog.json` — one record per document: id, druk, title, date, which
   OCR outputs exist (`ocr.applevision/deepseek/canonical`), pages, chars.
   Filter this first; only then open transcripts.
-- `OCR/corpus.jsonl` — one record per document **section**. BEOS opinions
-  follow a fixed template (I. Problem … X. Zmiana obciążeń administracyjnych),
-  so cross-document questions are usually one grep/jq over this file:
-  `{"id","druk","druk_title","delivery_date","section","section_title","pages","text"}`.
+- `OCR/corpus.jsonl` — one record per document **section** (2726 records,
+  264 docs), so cross-document questions are usually one grep/jq over this
+  file: `{"id","druk","druk_title","delivery_date","section","section_title","pages","text"}`.
+  Section templates VARY: BEOS opinions use I–X, the RCL government OSR form
+  uses I–XIII ("Jaki problem jest rozwiązywany?"), 2208-005 numbers sections
+  in arabic (unparsed, single section "0"); section 0 = preamble. Don't
+  assume section N means the same thing in every document — check
+  `section_title`.
 - `OCR/Canonical/{id}.md` — best-quality full text per document,
   `--- page N ---` markers preserved for citing back to the scan.
 - Prefer Canonical > DeepSeekOCR > AppleVision when several exist.
@@ -35,15 +39,20 @@ in Polish (README.md); code and code comments in English.
 - `OCR/DeepSeekOCR/Results/*.md` — DeepSeek-OCR (local, mlx-vlm). Clean
   markdown, correct glyphs, BUT **silently omits** stamps, "Do druku nr"
   headers and some footnote blocks.
-- `OCR/Canonical/*.md` — DeepSeek text as base + Vision-only fragments
-  re-inserted as `> [Vision]: …` lines (unverified glyph quality, may contain
-  stamp noise; chart garbage filtered out). Built by `OCR/build_dataset.py`.
+- `OCR/Canonical/*.md` — for the 3 dual-OCR docs (1006-003, 1000-001,
+  2359-004): DeepSeek base + Vision-only fragments as `> [Vision]: …` lines.
+  For the remaining 261 docs canonical == Apple Vision text verbatim (glyph
+  caveats apply). Built by `OCR/build_dataset.py`.
 - `OCR/AppleVision/Results/*.pdf` — original scans + invisible text layer,
   for humans; don't parse these when the .txt/.md exists.
-- Only 3 test documents are OCRed so far (1006-003, 1000-001, 2359-004).
-  To OCR more, see pipelines in `OCR/AppleVision/README.md` and
-  `OCR/DeepSeekOCR/README.md`, then re-run `python3 OCR/build_dataset.py`
-  (stdlib-only) to refresh Canonical/catalog/corpus.
+- All 264 documents have Apple Vision OCR (txt + searchable PDF); only the
+  3 test docs also have DeepSeek-OCR. To add DeepSeek coverage, see
+  `OCR/DeepSeekOCR/README.md` (~9 s/page), then re-run
+  `python3 OCR/build_dataset.py` (stdlib-only) to refresh
+  Canonical/catalog/corpus.
+- ID quirk: the attachment to druk 2602 is registered in the Sejm API as
+  number `2601-001` but the file/content is `2602-001` — dataset ids follow
+  the **filename**.
 
 ## Environment notes
 

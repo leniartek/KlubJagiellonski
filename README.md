@@ -280,16 +280,18 @@ Trzy pliki z tekstem to każdorazowo inna historia:
 Katalog [`OCR/`](OCR/) zawiera skrypt i wyniki — szczegóły w
 [`OCR/AppleVision/README.md`](OCR/AppleVision/README.md).
 
-**Wybrane podejście (test):** wbudowany w macOS framework Vision
+**Stan na 2026-07-24: cały korpus (264 dokumenty, ~5,5 tys. stron) jest
+zOCR-owany Apple Vision** — transkrypcje `.txt` i PDF-y z warstwą tekstową
+dla wszystkich plików w [`OCR/AppleVision/Results/`](OCR/AppleVision/Results/),
+zero błędów przetwarzania (przebieg wsadowy ~40 min, 4 procesy równolegle).
+
+**Podejście:** wbudowany w macOS framework Vision
 (`VNRecognizeTextRequest`, język polski, tryb accurate, render 300 DPI) —
 skrypt [`OCR/AppleVision/applevision_ocr.swift`](OCR/AppleVision/applevision_ocr.swift),
-bez zewnętrznych zależności, ~0,5 s/stronę (cały korpus ~5,5 tys. stron ≈ 1 h,
-za darmo). Przetestowane na trzech plikach reprezentujących wszystkie grupy
-skanerów (`1006-003`, `1000-001`, `2359-004`) — wyniki w
-[`OCR/AppleVision/Results/`](OCR/AppleVision/Results/)
-(format: `.txt` ze znacznikami `--- page N ---`).
+bez zewnętrznych zależności (format wyników: `.txt` ze znacznikami
+`--- page N ---`).
 
-Jakość testu: **tekst ciągły i przypisy niemal bezbłędne** (pełne polskie
+Jakość: **tekst ciągły i przypisy niemal bezbłędne** (pełne polskie
 znaki, poprawne sygnatury aktów prawnych); pieczątki wpływu i odręczne
 adnotacje nieczytelne; nagłówki wersalikami czasem gubią znaki diakrytyczne;
 zrzuty wykresów wklejone w dokumenty (np. `1006-003` s. 17) nieczytelne;
@@ -333,18 +335,24 @@ Rozważane alternatywy:
 Skrypt `OCR/build_dataset.py` (czysta biblioteka standardowa) składa z obu
 silników OCR gotowy do badań zbiór danych:
 
-- **`OCR/Canonical/{id}.md`** — kanoniczny tekst dokumentu: baza z DeepSeek
-  (lepsze glify i struktura), a fragmenty pominięte przez DeepSeek — pieczątki,
-  nagłówki "Do druku nr", **całe bloki przypisów** — odzyskane z Apple Vision
+- **`OCR/Canonical/{id}.md`** — kanoniczny tekst dokumentu (264 pliki).
+  Dla 3 dokumentów z podwójnym OCR: baza z DeepSeek (lepsze glify
+  i struktura), a fragmenty pominięte przez DeepSeek — pieczątki, nagłówki
+  "Do druku nr", **całe bloki przypisów** — odzyskane z Apple Vision
   i wstawione jako linie `> [Vision]: …` (diff słowny, filtr odsiewa śmieci
-  z wykresów). Znaczniki `--- page N ---` zachowane.
+  z wykresów). Dla pozostałych 261: tekst Apple Vision. Znaczniki
+  `--- page N ---` zachowane.
 - **`OCR/catalog.json`** — rekord dla każdego z 265 druków OSR: id, druk,
   tytuł, data wpływu, dostępne wersje OCR, liczba stron/znaków. Punkt startowy
-  każdej analizy.
-- **`OCR/corpus.jsonl`** — rekord na **sekcję** dokumentu. Opinie BEOS mają
-  stały szablon (I. Problem … X. Zmiana obciążeń administracyjnych), więc
-  pytania przekrojowe ("porównaj sekcję IV we wszystkich opiniach") to jeden
-  grep/jq zamiast czytania całych plików. Na 3 przetestowanych dokumentach
-  szablon wykrywa się w całości (sekcje 0 + I–X).
+  każdej analizy. Uwaga: id podąża za nazwą pliku, nie numerem z API
+  (załącznik do druku 2602 ma w API numer 2601-001, a plik `2602-001.pdf`).
+- **`OCR/corpus.jsonl`** — rekord na **sekcję** dokumentu: 2726 rekordów
+  z 264 dokumentów, bez duplikatów. Pytania przekrojowe ("porównaj sekcję
+  Konsultacje we wszystkich opiniach") to jeden grep/jq zamiast czytania
+  całych plików. **Szablony sekcji są różne**: opinie BEOS mają I–X, rządowy
+  formularz OSR (RCL, "Jaki problem jest rozwiązywany?") I–XIII, a `2208-005`
+  numeruje sekcje cyframi arabskimi (nierozpoznawane). Parser normalizuje
+  błędy glifów Vision w nagłówkach (`Il`→`II`) i wymaga rosnącej numeracji
+  (ochrona przed cytowanymi nagłówkami w treści).
 
 Wskazówki dla agentów AI pracujących z repozytorium: `CLAUDE.md`.
